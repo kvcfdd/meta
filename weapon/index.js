@@ -1,6 +1,6 @@
 import { Data, Meta } from "#miao"
 import lodash from "lodash"
-import { abbr, aliasCfg } from "./alias.js"
+import { abbr, alias } from "./alias.js"
 
 // MC weapons are organized by type, each type dir has its own data.json
 const types = ["broadblade", "gauntlets", "pistols", "rectifier", "sword"]
@@ -17,7 +17,7 @@ for (let type of types) {
 
 const meta = Meta.create("mc", "weapon")
 meta.addData(data)
-meta.addAlias(aliasCfg)
+meta.addAlias(alias)
 meta.addAbbr(abbr)
 
 const weaponBuffs = {}
