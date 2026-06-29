@@ -19,6 +19,3 @@ const meta = Meta.create("mc", "weapon")
 meta.addData(data)
 meta.addAlias(alias)
 meta.addAbbr(abbr)
-
-const weaponBuffs = {}
-meta.addMeta({ weaponBuffs })
