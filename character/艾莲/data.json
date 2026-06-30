@@ -62,7 +62,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：利齿修剪法",
+          "unit": "利齿修剪法",
           "isSame": false,
           "values": [
             "48.8%",
@@ -85,7 +85,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：利齿修剪法",
+          "unit": "利齿修剪法",
           "isSame": false,
           "values": [
             "111.1%",
@@ -108,7 +108,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：利齿修剪法",
+          "unit": "利齿修剪法",
           "isSame": false,
           "values": [
             "297.3%",
@@ -131,7 +131,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：利齿修剪法",
+          "unit": "利齿修剪法",
           "isSame": false,
           "values": [
             "24.4%",
@@ -154,7 +154,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：利齿修剪法",
+          "unit": "利齿修剪法",
           "isSame": false,
           "values": [
             "86.8%",
@@ -177,7 +177,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：利齿修剪法",
+          "unit": "利齿修剪法",
           "isSame": false,
           "values": [
             "240.4%",
@@ -200,7 +200,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：急冻修剪法",
+          "unit": "急冻修剪法",
           "isSame": false,
           "values": [
             "99.6%",
@@ -223,7 +223,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：急冻修剪法",
+          "unit": "急冻修剪法",
           "isSame": false,
           "values": [
             "184%",
@@ -246,7 +246,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：急冻修剪法",
+          "unit": "急冻修剪法",
           "isSame": false,
           "values": [
             "496.2%",
@@ -269,7 +269,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：急冻修剪法",
+          "unit": "急冻修剪法",
           "isSame": false,
           "values": [
             "48.8%",
@@ -292,7 +292,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：急冻修剪法",
+          "unit": "急冻修剪法",
           "isSame": false,
           "values": [
             "90.2%",
@@ -315,7 +315,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：急冻修剪法",
+          "unit": "急冻修剪法",
           "isSame": false,
           "values": [
             "245.5%",
@@ -338,7 +338,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：冰刃浪",
+          "unit": "冰刃浪",
           "isSame": false,
           "values": [
             "230.2%",
@@ -361,7 +361,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：冰刃浪",
+          "unit": "冰刃浪",
           "isSame": false,
           "values": [
             "146.8%",
@@ -384,7 +384,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：冰刃浪",
+          "unit": "冰刃浪",
           "isSame": false,
           "values": [
             "67%",
@@ -407,7 +407,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：冰刃浪",
+          "unit": "冰刃浪",
           "isSame": false,
           "values": [
             "84.2%",
@@ -430,7 +430,7 @@
         },
         {
           "name": "对小体型敌人伤害倍率",
-          "unit": "普通攻击：霜锋",
+          "unit": "霜锋",
           "isSame": false,
           "values": [
             "181.2%",
@@ -453,7 +453,7 @@
         },
         {
           "name": "对中体型敌人伤害倍率",
-          "unit": "普通攻击：霜锋",
+          "unit": "霜锋",
           "isSame": false,
           "values": [
             "220.2%",
@@ -476,7 +476,7 @@
         },
         {
           "name": "对大体型敌人伤害倍率",
-          "unit": "普通攻击：霜锋",
+          "unit": "霜锋",
           "isSame": false,
           "values": [
             "259.2%",
@@ -499,7 +499,7 @@
         },
         {
           "name": "对小体型敌人失衡倍率",
-          "unit": "普通攻击：霜锋",
+          "unit": "霜锋",
           "isSame": false,
           "values": [
             "77.4%",
@@ -522,7 +522,7 @@
         },
         {
           "name": "对中体型敌人失衡倍率",
-          "unit": "普通攻击：霜锋",
+          "unit": "霜锋",
           "isSame": false,
           "values": [
             "94.2%",
@@ -545,7 +545,7 @@
         },
         {
           "name": "对大体型敌人失衡倍率",
-          "unit": "普通攻击：霜锋",
+          "unit": "霜锋",
           "isSame": false,
           "values": [
             "111%",
@@ -594,7 +594,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：护卫鲛",
+          "unit": "护卫鲛",
           "isSame": false,
           "values": [
             "121.1%",
@@ -617,7 +617,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：护卫鲛",
+          "unit": "护卫鲛",
           "isSame": false,
           "values": [
             "121.1%",
@@ -640,7 +640,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：迎头浪",
+          "unit": "迎头浪",
           "isSame": false,
           "values": [
             "271.3%",
@@ -663,7 +663,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：迎头浪",
+          "unit": "迎头浪",
           "isSame": false,
           "values": [
             "342.8%",
@@ -686,7 +686,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：迎头浪",
+          "unit": "迎头浪",
           "isSame": false,
           "values": [
             "166.8%",
@@ -709,7 +709,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：巡洋鲨",
+          "unit": "巡洋鲨",
           "isSame": false,
           "values": [
             "437.9%",
@@ -732,7 +732,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：巡洋鲨",
+          "unit": "巡洋鲨",
           "isSame": false,
           "values": [
             "384.8%",
@@ -779,7 +779,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：摆尾",
+          "unit": "摆尾",
           "isSame": false,
           "values": [
             "50.5%",
@@ -802,7 +802,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：摆尾",
+          "unit": "摆尾",
           "isSame": false,
           "values": [
             "50.5%",
@@ -825,7 +825,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：横扫",
+          "unit": "横扫",
           "isSame": false,
           "values": [
             "377.2%",
@@ -848,7 +848,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：横扫",
+          "unit": "横扫",
           "isSame": false,
           "values": [
             "405.1%",
@@ -871,7 +871,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：横扫",
+          "unit": "横扫",
           "isSame": true,
           "values": [
             "40点"
@@ -879,7 +879,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：鲨卷风",
+          "unit": "鲨卷风",
           "isSame": false,
           "values": [
             "553.3%",
@@ -902,7 +902,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：鲨卷风",
+          "unit": "鲨卷风",
           "isSame": false,
           "values": [
             "371.7%",
@@ -925,7 +925,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：鲨卷风",
+          "unit": "鲨卷风",
           "isSame": true,
           "values": [
             "40点"
@@ -949,7 +949,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：雪崩",
+          "unit": "雪崩",
           "isSame": false,
           "values": [
             "794.6%",
@@ -972,7 +972,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：雪崩",
+          "unit": "雪崩",
           "isSame": false,
           "values": [
             "355.7%",
@@ -995,7 +995,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：永冬狂宴",
+          "unit": "永冬狂宴",
           "isSame": false,
           "values": [
             "1890.8%",
@@ -1018,7 +1018,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：永冬狂宴",
+          "unit": "永冬狂宴",
           "isSame": false,
           "values": [
             "185.2%",
@@ -1091,7 +1091,7 @@
       "tables": [
         {
           "name": "回旋斩击伤害倍率",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": false,
           "values": [
             "62.3%",
@@ -1114,7 +1114,7 @@
         },
         {
           "name": "快速剪击伤害倍率",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": false,
           "values": [
             "127.6%",
@@ -1137,7 +1137,7 @@
         },
         {
           "name": "蓄力剪击伤害倍率",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": false,
           "values": [
             "158.2%",
@@ -1160,7 +1160,7 @@
         },
         {
           "name": "回旋斩击失衡倍率",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": false,
           "values": [
             "62.3%",
@@ -1183,7 +1183,7 @@
         },
         {
           "name": "快速剪击失衡倍率",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": false,
           "values": [
             "98.2%",
@@ -1206,7 +1206,7 @@
         },
         {
           "name": "蓄力剪击失衡倍率",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": false,
           "values": [
             "121.7%",
@@ -1229,7 +1229,7 @@
         },
         {
           "name": "快速剪击获得急冻充能",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": true,
           "values": [
             "1点"
@@ -1237,7 +1237,7 @@
         },
         {
           "name": "蓄力剪击获得急冻充能",
-          "unit": "冲刺攻击：冰渊潜袭",
+          "unit": "冰渊潜袭",
           "isSame": true,
           "values": [
             "3点"
@@ -1245,7 +1245,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：骇浪",
+          "unit": "骇浪",
           "isSame": false,
           "values": [
             "77%",
@@ -1268,7 +1268,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：骇浪",
+          "unit": "骇浪",
           "isSame": false,
           "values": [
             "38.5%",
@@ -1291,7 +1291,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：寒潮",
+          "unit": "寒潮",
           "isSame": false,
           "values": [
             "145.7%",
@@ -1314,7 +1314,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：寒潮",
+          "unit": "寒潮",
           "isSame": false,
           "values": [
             "78.8%",
@@ -1337,7 +1337,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：暗礁",
+          "unit": "暗礁",
           "isSame": false,
           "values": [
             "152.6%",
@@ -1360,7 +1360,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：暗礁",
+          "unit": "暗礁",
           "isSame": false,
           "values": [
             "227.4%",
@@ -1388,45 +1388,57 @@
     "1": {
       "name": "凛冬前兆",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动快速剪击命中敌人时，获得的<span style=\"color:#FFFFFF;\">[急冻充能]</span>提升至3点；在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击命中敌人时，获得的<span style=\"color:#FFFFFF;\">[急冻充能]</span>提升至6点；每消耗1点<span style=\"color:#FFFFFF;\">[急冻充能]</span>，艾莲的暴击率提升2%，持续15秒，最多叠加6层，每层效果单独结算持续时间。"
+        "在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动快速剪击命中敌人时，获得的<span style=\"color:#FFFFFF;\">[急冻充能]</span>提升至3点；在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击命中敌人时，获得的<span style=\"color:#FFFFFF;\">[急冻充能]</span>提升至6点；每消耗1点<span style=\"color:#FFFFFF;\">[急冻充能]</span>，艾莲的暴击率提升2%，持续15秒，最多叠加6层，每层效果单独结算持续时间。",
+        "<i>寒风是凛冬的前兆，也是艾莲请长假冬眠的信号。</i>",
+        "<i>话说回来，鲨鱼真的需要冬眠吗？</i>"
       ]
     },
     "2": {
       "name": "冰洋掠食者",
       "desc": [
-        "发动第三段<span style=\"color:#FFFFFF;\">[普通攻击：急冻修剪法]</span>后，可以直接衔接发动<span style=\"color:#FFFFFF;\">[强化特殊技：鲨卷风]</span>；发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，每拥有1点<span style=\"color:#FFFFFF;\">[急冻充能]</span>，当前招式造成的暴击伤害提升20%，最多提升60%。"
+        "发动第三段<span style=\"color:#FFFFFF;\">[普通攻击：急冻修剪法]</span>后，可以直接衔接发动<span style=\"color:#FFFFFF;\">[强化特殊技：鲨卷风]</span>；发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，每拥有1点<span style=\"color:#FFFFFF;\">[急冻充能]</span>，当前招式造成的暴击伤害提升20%，最多提升60%。",
+        "<i>虽然沾染鲜红，艾莲所持的巨剪并无半分温热。</i>",
+        "<i>彻骨的寒意来自铁铸的凶器，也来自面对捕食者的恐慌。</i>"
       ]
     },
     "3": {
       "name": "永不加班",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「效率」的意义就是今天可以早点回家睡觉。</i>",
+        "<i>所以要更快地斩击，更用力地出刀。</i>"
       ]
     },
     "4": {
       "name": "无休寒潮",
       "desc": [
-        "队伍中任意角色对敌人施加<span style=\"color:#98EFF0;\">[冻结]</span>效果或使敌人失衡时，自身获得6点<span style=\"color:#FFFFFF;\">[急冻充能]</span>和<span style=\"color:#FFFFFF;\">[快蓄]</span>效果，并回复4点能量，能量回复效果10秒内最多触发一次。"
+        "队伍中任意角色对敌人施加<span style=\"color:#98EFF0;\">[冻结]</span>效果或使敌人失衡时，自身获得6点<span style=\"color:#FFFFFF;\">[急冻充能]</span>和<span style=\"color:#FFFFFF;\">[快蓄]</span>效果，并回复4点能量，能量回复效果10秒内最多触发一次。",
+        "<i>凌冽的攻势不曾止休，</i>",
+        "<i>可怖的造物们得以在艾莲的刀下领受冬的美与残酷。</i>",
+        "<i>不过相比起来，还是作为女仆节假日无休的工作更加残酷…</i>"
       ]
     },
     "5": {
       "name": "睡眠充足",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>除非是最艰难的战斗中，艾莲永远都是一副「如果不是在工作我立刻深度睡眠」的样子。</i>",
+        "<i>因此掉以轻心而完蛋的敌人不在少数。</i>"
       ]
     },
     "6": {
       "name": "盛宴时分",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或获得<span style=\"color:#FFFFFF;\">[快蓄]</span>时，艾莲的穿透率提升20%，持续6秒，同时获得1层<span style=\"color:#FFFFFF;\">[盛宴]</span>，<span style=\"color:#FFFFFF;\">[盛宴]</span>最多叠加3层；拥有3层<span style=\"color:#FFFFFF;\">[盛宴]</span>后，在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击命中敌人时，消耗所有<span style=\"color:#FFFFFF;\">[盛宴]</span>，使当前招式造成的伤害提升250%。"
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或获得<span style=\"color:#FFFFFF;\">[快蓄]</span>时，艾莲的穿透率提升20%，持续6秒，同时获得1层<span style=\"color:#FFFFFF;\">[盛宴]</span>，<span style=\"color:#FFFFFF;\">[盛宴]</span>最多叠加3层；拥有3层<span style=\"color:#FFFFFF;\">[盛宴]</span>后，在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击命中敌人时，消耗所有<span style=\"color:#FFFFFF;\">[盛宴]</span>，使当前招式造成的伤害提升250%。",
+        "<i>一道伤口，一滴鲜血。一次狩猎，一场盛宴。一纸薄命，一刻满足。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：凌牙厉齿 / 额外能力：风暴潮",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：凌牙厉齿</h3>",
-      "艾莲在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击，或消耗<span style=\"color:#FFFFFF;\">[急冻充能]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：急冻修剪法]</span>时，招式的暴击伤害提升50%/58.3%/66.6%/75%/83.3%/91.6%。",
+      "艾莲在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击，或消耗<span style=\"color:#FFFFFF;\">[急冻充能]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：急冻修剪法]</span>时，招式的暴击伤害提升<span style=\"color:#2BAD00;\">(50%/58.3%/66.6%/75%/83.3%/91.6%/100%)</span>。",
       "<h3>额外能力：风暴潮</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "艾莲造成<span style=\"color:#98EFF0;\">冰属性伤害</span>时，后继<span style=\"color:#98EFF0;\">冰属性伤害</span>提升3%，持续10秒，最多叠加10层，重复触发时刷新持续时间。"

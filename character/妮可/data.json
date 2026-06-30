@@ -48,7 +48,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：狡兔连打",
+          "unit": "狡兔连打",
           "isSame": false,
           "values": [
             "66%",
@@ -71,7 +71,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：狡兔连打",
+          "unit": "狡兔连打",
           "isSame": false,
           "values": [
             "71.4%",
@@ -94,7 +94,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：狡兔连打",
+          "unit": "狡兔连打",
           "isSame": false,
           "values": [
             "304.7%",
@@ -117,7 +117,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：狡兔连打",
+          "unit": "狡兔连打",
           "isSame": false,
           "values": [
             "40.4%",
@@ -140,7 +140,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：狡兔连打",
+          "unit": "狡兔连打",
           "isSame": false,
           "values": [
             "56.8%",
@@ -163,7 +163,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：狡兔连打",
+          "unit": "狡兔连打",
           "isSame": false,
           "values": [
             "243.1%",
@@ -186,7 +186,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "88.3%",
@@ -209,7 +209,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "101.1%",
@@ -232,7 +232,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "453.3%",
@@ -255,7 +255,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "40.4%",
@@ -278,7 +278,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "56.8%",
@@ -301,7 +301,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "243.1%",
@@ -345,7 +345,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：救急炮击",
+          "unit": "救急炮击",
           "isSame": false,
           "values": [
             "63.4%",
@@ -368,7 +368,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：救急炮击",
+          "unit": "救急炮击",
           "isSame": false,
           "values": [
             "63.4%",
@@ -391,7 +391,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：狡兔出手！",
+          "unit": "狡兔出手！",
           "isSame": false,
           "values": [
             "246.7%",
@@ -414,7 +414,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：狡兔出手！",
+          "unit": "狡兔出手！",
           "isSame": false,
           "values": [
             "311.7%",
@@ -437,7 +437,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：狡兔出手！",
+          "unit": "狡兔出手！",
           "isSame": false,
           "values": [
             "151.7%",
@@ -460,7 +460,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：趁虚而入",
+          "unit": "趁虚而入",
           "isSame": false,
           "values": [
             "377.1%",
@@ -483,7 +483,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：趁虚而入",
+          "unit": "趁虚而入",
           "isSame": false,
           "values": [
             "330.3%",
@@ -526,7 +526,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：糖衣炮弹",
+          "unit": "糖衣炮弹",
           "isSame": false,
           "values": [
             "52.6%",
@@ -549,7 +549,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：糖衣炮弹",
+          "unit": "糖衣炮弹",
           "isSame": false,
           "values": [
             "50%",
@@ -572,7 +572,7 @@
         },
         {
           "name": "蓄力伤害倍率",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": false,
           "values": [
             "215%",
@@ -595,7 +595,7 @@
         },
         {
           "name": "炮击伤害倍率",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": false,
           "values": [
             "215%",
@@ -618,7 +618,7 @@
         },
         {
           "name": "能量场伤害倍率",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": false,
           "values": [
             "387%",
@@ -641,7 +641,7 @@
         },
         {
           "name": "蓄力失衡倍率",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": false,
           "values": [
             "179.8%",
@@ -664,7 +664,7 @@
         },
         {
           "name": "炮击失衡倍率",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": false,
           "values": [
             "179.8%",
@@ -687,7 +687,7 @@
         },
         {
           "name": "能量场失衡倍率",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": false,
           "values": [
             "323.6%",
@@ -710,7 +710,7 @@
         },
         {
           "name": "蓄力能量消耗",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": true,
           "values": [
             "20点/秒"
@@ -718,7 +718,7 @@
         },
         {
           "name": "炮击能量消耗",
-          "unit": "强化特殊技：夹心糖衣炮弹",
+          "unit": "夹心糖衣炮弹",
           "isSame": true,
           "values": [
             "60点"
@@ -747,7 +747,7 @@
       "tables": [
         {
           "name": "炮击伤害倍率",
-          "unit": "连携技：高价以太爆弹",
+          "unit": "高价以太爆弹",
           "isSame": false,
           "values": [
             "209.6%",
@@ -770,7 +770,7 @@
         },
         {
           "name": "能量场伤害倍率",
-          "unit": "连携技：高价以太爆弹",
+          "unit": "高价以太爆弹",
           "isSame": false,
           "values": [
             "283%",
@@ -793,7 +793,7 @@
         },
         {
           "name": "炮击失衡倍率",
-          "unit": "连携技：高价以太爆弹",
+          "unit": "高价以太爆弹",
           "isSame": false,
           "values": [
             "50%",
@@ -816,7 +816,7 @@
         },
         {
           "name": "能量场失衡倍率",
-          "unit": "连携技：高价以太爆弹",
+          "unit": "高价以太爆弹",
           "isSame": false,
           "values": [
             "67.5%",
@@ -839,7 +839,7 @@
         },
         {
           "name": "炮击伤害倍率",
-          "unit": "终结技：特制以太榴弹",
+          "unit": "特制以太榴弹",
           "isSame": false,
           "values": [
             "646.8%",
@@ -862,7 +862,7 @@
         },
         {
           "name": "能量场伤害倍率",
-          "unit": "终结技：特制以太榴弹",
+          "unit": "特制以太榴弹",
           "isSame": false,
           "values": [
             "873.2%",
@@ -885,7 +885,7 @@
         },
         {
           "name": "炮击失衡倍率",
-          "unit": "终结技：特制以太榴弹",
+          "unit": "特制以太榴弹",
           "isSame": false,
           "values": [
             "36%",
@@ -908,7 +908,7 @@
         },
         {
           "name": "能量场失衡倍率",
-          "unit": "终结技：特制以太榴弹",
+          "unit": "特制以太榴弹",
           "isSame": false,
           "values": [
             "48.6%",
@@ -955,7 +955,7 @@
       "tables": [
         {
           "name": "前闪攻击伤害倍率",
-          "unit": "冲刺攻击：惊喜开箱",
+          "unit": "惊喜开箱",
           "isSame": false,
           "values": [
             "158.5%",
@@ -978,7 +978,7 @@
         },
         {
           "name": "后闪攻击伤害倍率",
-          "unit": "冲刺攻击：惊喜开箱",
+          "unit": "惊喜开箱",
           "isSame": false,
           "values": [
             "60%",
@@ -1001,7 +1001,7 @@
         },
         {
           "name": "前闪攻击失衡倍率",
-          "unit": "冲刺攻击：惊喜开箱",
+          "unit": "惊喜开箱",
           "isSame": false,
           "values": [
             "74.1%",
@@ -1024,7 +1024,7 @@
         },
         {
           "name": "后闪攻击失衡倍率",
-          "unit": "冲刺攻击：惊喜开箱",
+          "unit": "惊喜开箱",
           "isSame": false,
           "values": [
             "60%",
@@ -1047,7 +1047,7 @@
         },
         {
           "name": "前闪攻击伤害倍率",
-          "unit": "冲刺攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "158.5%",
@@ -1070,7 +1070,7 @@
         },
         {
           "name": "前闪攻击失衡倍率",
-          "unit": "冲刺攻击：为所欲为",
+          "unit": "为所欲为",
           "isSame": false,
           "values": [
             "74.1%",
@@ -1093,7 +1093,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：牵制炮击",
+          "unit": "牵制炮击",
           "isSame": false,
           "values": [
             "182.4%",
@@ -1116,7 +1116,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：牵制炮击",
+          "unit": "牵制炮击",
           "isSame": false,
           "values": [
             "163.4%",
@@ -1144,45 +1144,56 @@
     "1": {
       "name": "增压强化弹",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>造成的伤害和累积的属性异常积蓄值提升16%；发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，每多蓄力0.1秒，在目标处生成的能量场持续时间提升0.15秒。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>造成的伤害和累积的属性异常积蓄值提升16%；发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，每多蓄力0.1秒，在目标处生成的能量场持续时间提升0.15秒。",
+        "<i>「你们都被我强化了，赶紧上！」</i>",
+        "<i>「什么，我、我才没有想趁机逃跑，只是需要休息下而已！」</i>"
       ]
     },
     "2": {
       "name": "聚能装置",
       "desc": [
-        "触发<span style=\"color:#FFFFFF;\">[核心被动：机关箱]</span>的减益效果时，妮可回复5点能量，15秒内最多触发一次。"
+        "触发<span style=\"color:#FFFFFF;\">[核心被动：机关箱]</span>的减益效果时，妮可回复5点能量，15秒内最多触发一次。",
+        "<i>「不要小看增加的这一秒钟！」</i>",
+        "<i>「你知道这一秒内，我能产生多少价值吗？那可是数都数不清！」</i>",
+        "<i>「所以，我再多要10％的补贴，不过分吧？」</i>"
       ]
     },
     "3": {
       "name": "狡兔智慧",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>既没有卓绝的武力，也没有丰厚的资源，妮可能把狡兔屋运营至今靠的是灵活的头脑。</i>"
       ]
     },
     "4": {
       "name": "领域扩增",
       "desc": [
-        "妮可发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>时，在目标处生成的能量场攻击范围提升，直径增加3米。"
+        "妮可发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>时，在目标处生成的能量场攻击范围提升，直径增加3米。",
+        "<i>「这里，还有这里，以后都会成为狡兔屋的领域，你听明白了吗！」</i>",
+        "<i>「什么，你问多久之后？」</i>",
+        "<i>「呃…按照我们现在的营收状况，也就10000年左右吧！」</i>"
       ]
     },
     "5": {
       "name": "业界红人",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>虽然在业界仇人众多，但妮可还是屡次率领部下们从九死一生的险境里生还，狡兔屋的名气和经验也因此稳步提升。</i>"
       ]
     },
     "6": {
       "name": "侵蚀能量场",
       "desc": [
-        "能量场对敌人造成伤害时，所有单位对该目标的暴击率提升1.5%，最多叠加10层，持续12秒，每层效果单独结算持续时间。"
+        "能量场对敌人造成伤害时，所有单位对该目标的暴击率提升1.5%，最多叠加10层，持续12秒，每层效果单独结算持续时间。",
+        "<i>选用更高级的机关弹药，装药量和浓缩以太物质含量均有所提高，更强的伤害、更长的持续时间…更贵的价格。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：机关箱 / 额外能力：狡兔三窟",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：机关箱</h3>",
-      "妮可在<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>等招式中，上弹并强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>与<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>；强化子弹或能量场命中敌人时，目标的防御力降低20%/25%/30%/34%/36%/38%，持续3.5秒。",
+      "妮可在<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>等招式中，上弹并强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>与<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>；强化子弹或能量场命中敌人时，目标的防御力降低<span style=\"color:#2BAD00;\">(20%/25%/30%/34%/36%/38%/40%)</span>，持续3.5秒。",
       "<h3>额外能力：狡兔三窟</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "妮可通过<span style=\"color:#FFFFFF;\">[核心被动：机关箱]</span>对敌人施加减益效果时，所有单位对目标造成的<span style=\"color:#FE437E;\">以太伤害</span>额外提升25%，持续3.5秒。"

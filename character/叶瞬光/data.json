@@ -81,7 +81,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "79.4%",
@@ -104,7 +104,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "244.1%",
@@ -127,7 +127,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "124.6%",
@@ -150,7 +150,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "368%",
@@ -173,7 +173,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "26.5%",
@@ -196,7 +196,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "77.5%",
@@ -219,7 +219,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "35.4%",
@@ -242,7 +242,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：快剑",
+          "unit": "快剑",
           "isSame": false,
           "values": [
             "107.3%",
@@ -265,7 +265,7 @@
         },
         {
           "name": "每道剑气伤害倍率",
-          "unit": "普通攻击：流云剑意",
+          "unit": "流云剑意",
           "isSame": false,
           "values": [
             "16.6714%",
@@ -288,7 +288,7 @@
         },
         {
           "name": "每道剑气失衡倍率",
-          "unit": "普通攻击：流云剑意",
+          "unit": "流云剑意",
           "isSame": false,
           "values": [
             "5.24286%",
@@ -311,7 +311,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：明心境·分水行",
+          "unit": "明心境·分水行",
           "isSame": false,
           "values": [
             "112.6%",
@@ -334,7 +334,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：明心境·分水行",
+          "unit": "明心境·分水行",
           "isSame": false,
           "values": [
             "155.9%",
@@ -357,7 +357,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：明心境·分水行",
+          "unit": "明心境·分水行",
           "isSame": false,
           "values": [
             "216.6%",
@@ -380,7 +380,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：明心境·分水行",
+          "unit": "明心境·分水行",
           "isSame": false,
           "values": [
             "35.8%",
@@ -403,7 +403,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：明心境·分水行",
+          "unit": "明心境·分水行",
           "isSame": false,
           "values": [
             "49.5%",
@@ -426,7 +426,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：明心境·分水行",
+          "unit": "明心境·分水行",
           "isSame": false,
           "values": [
             "68.8%",
@@ -449,7 +449,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：明心境·扶摇势",
+          "unit": "明心境·扶摇势",
           "isSame": false,
           "values": [
             "91%",
@@ -472,7 +472,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：明心境·扶摇势",
+          "unit": "明心境·扶摇势",
           "isSame": false,
           "values": [
             "35.8%",
@@ -495,7 +495,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：明心境·斩流光 极",
+          "unit": "明心境·斩流光 极",
           "isSame": false,
           "values": [
             "604.8%",
@@ -518,7 +518,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：明心境·斩流光 极",
+          "unit": "明心境·斩流光 极",
           "isSame": false,
           "values": [
             "77%",
@@ -541,7 +541,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：明心境·斩流光",
+          "unit": "明心境·斩流光",
           "isSame": false,
           "values": [
             "120.7%",
@@ -564,7 +564,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：明心境·斩流光",
+          "unit": "明心境·斩流光",
           "isSame": false,
           "values": [
             "156.5%",
@@ -587,7 +587,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：明心境·斩流光",
+          "unit": "明心境·斩流光",
           "isSame": false,
           "values": [
             "34%",
@@ -610,7 +610,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：明心境·斩流光",
+          "unit": "明心境·斩流光",
           "isSame": false,
           "values": [
             "44%",
@@ -633,7 +633,7 @@
         },
         {
           "name": "有青溟剑势时伤害倍率",
-          "unit": "普通攻击：明心境·斩流光 灭",
+          "unit": "明心境·斩流光 灭",
           "isSame": false,
           "values": [
             "891.2%",
@@ -656,7 +656,7 @@
         },
         {
           "name": "有青溟剑势时失衡倍率",
-          "unit": "普通攻击：明心境·斩流光 灭",
+          "unit": "明心境·斩流光 灭",
           "isSame": false,
           "values": [
             "57.8%",
@@ -679,7 +679,7 @@
         },
         {
           "name": "无青溟剑势时伤害倍率",
-          "unit": "普通攻击：明心境·斩流光 灭",
+          "unit": "明心境·斩流光 灭",
           "isSame": false,
           "values": [
             "159.9%",
@@ -702,7 +702,7 @@
         },
         {
           "name": "无青溟剑势时失衡倍率",
-          "unit": "普通攻击：明心境·斩流光 灭",
+          "unit": "明心境·斩流光 灭",
           "isSame": false,
           "values": [
             "45%",
@@ -760,7 +760,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "登场技：照影",
+          "unit": "照影",
           "isSame": false,
           "values": [
             "400.4%",
@@ -783,7 +783,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "登场技：照影",
+          "unit": "照影",
           "isSame": false,
           "values": [
             "121%",
@@ -806,7 +806,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "快速支援：援守",
+          "unit": "援守",
           "isSame": false,
           "values": [
             "80.5%",
@@ -829,7 +829,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：援守",
+          "unit": "援守",
           "isSame": false,
           "values": [
             "31.7%",
@@ -852,7 +852,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：止戈",
+          "unit": "止戈",
           "isSame": false,
           "values": [
             "413.7%",
@@ -875,7 +875,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：止戈",
+          "unit": "止戈",
           "isSame": false,
           "values": [
             "140%",
@@ -898,7 +898,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：归去时",
+          "unit": "归去时",
           "isSame": false,
           "values": [
             "195.3%",
@@ -921,7 +921,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：归去时",
+          "unit": "归去时",
           "isSame": false,
           "values": [
             "207.2%",
@@ -944,7 +944,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：归去时",
+          "unit": "归去时",
           "isSame": false,
           "values": [
             "119.2%",
@@ -967,7 +967,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "快速支援：明心境·策应",
+          "unit": "明心境·策应",
           "isSame": false,
           "values": [
             "67.3%",
@@ -990,7 +990,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：明心境·策应",
+          "unit": "明心境·策应",
           "isSame": false,
           "values": [
             "33.1%",
@@ -1013,7 +1013,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：明心境·抱一",
+          "unit": "明心境·抱一",
           "isSame": false,
           "values": [
             "430%",
@@ -1036,7 +1036,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：明心境·抱一",
+          "unit": "明心境·抱一",
           "isSame": false,
           "values": [
             "146%",
@@ -1098,7 +1098,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：引沧澜",
+          "unit": "引沧澜",
           "isSame": false,
           "values": [
             "98.9%",
@@ -1121,7 +1121,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：引沧澜",
+          "unit": "引沧澜",
           "isSame": false,
           "values": [
             "24.3%",
@@ -1144,7 +1144,7 @@
         },
         {
           "name": "触发极限闪避伤害倍率",
-          "unit": "特殊技：引沧澜",
+          "unit": "引沧澜",
           "isSame": false,
           "values": [
             "315.9%",
@@ -1167,7 +1167,7 @@
         },
         {
           "name": "触发极限闪避失衡倍率",
-          "unit": "特殊技：引沧澜",
+          "unit": "引沧澜",
           "isSame": false,
           "values": [
             "132.1%",
@@ -1190,7 +1190,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：定风波",
+          "unit": "定风波",
           "isSame": false,
           "values": [
             "1178.4%",
@@ -1213,7 +1213,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：定风波",
+          "unit": "定风波",
           "isSame": false,
           "values": [
             "340.1%",
@@ -1236,7 +1236,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：定风波",
+          "unit": "定风波",
           "isSame": true,
           "values": [
             "60"
@@ -1244,7 +1244,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：明心境·拂衣去",
+          "unit": "明心境·拂衣去",
           "isSame": false,
           "values": [
             "71%",
@@ -1267,7 +1267,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：明心境·拂衣去",
+          "unit": "明心境·拂衣去",
           "isSame": false,
           "values": [
             "17.5%",
@@ -1290,7 +1290,7 @@
         },
         {
           "name": "消耗1点青溟剑势伤害倍率",
-          "unit": "强化特殊技：明心境·飞光",
+          "unit": "明心境·飞光",
           "isSame": false,
           "values": [
             "176.333%",
@@ -1313,7 +1313,7 @@
         },
         {
           "name": "消耗1点青溟剑势失衡倍率",
-          "unit": "强化特殊技：明心境·飞光",
+          "unit": "明心境·飞光",
           "isSame": false,
           "values": [
             "18.0333%",
@@ -1336,7 +1336,7 @@
         },
         {
           "name": "消耗6点青溟剑势伤害倍率",
-          "unit": "强化特殊技：明心境·飞光",
+          "unit": "明心境·飞光",
           "isSame": false,
           "values": [
             "1058%",
@@ -1359,7 +1359,7 @@
         },
         {
           "name": "消耗6点青溟剑势失衡倍率",
-          "unit": "强化特殊技：明心境·飞光",
+          "unit": "明心境·飞光",
           "isSame": false,
           "values": [
             "108.2%",
@@ -1382,7 +1382,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：明心境·归尘",
+          "unit": "明心境·归尘",
           "isSame": false,
           "values": [
             "1161.1%",
@@ -1405,7 +1405,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：明心境·归尘",
+          "unit": "明心境·归尘",
           "isSame": false,
           "values": [
             "139.4%",
@@ -1459,7 +1459,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：斩邪祟",
+          "unit": "斩邪祟",
           "isSame": false,
           "values": [
             "871.6%",
@@ -1482,7 +1482,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：斩邪祟",
+          "unit": "斩邪祟",
           "isSame": false,
           "values": [
             "181.5%",
@@ -1505,7 +1505,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：逐云惊霆",
+          "unit": "逐云惊霆",
           "isSame": false,
           "values": [
             "1925%",
@@ -1528,7 +1528,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：逐云惊霆",
+          "unit": "逐云惊霆",
           "isSame": false,
           "values": [
             "55%",
@@ -1551,7 +1551,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "连携技：明心境·掣惊雷",
+          "unit": "明心境·掣惊雷",
           "isSame": false,
           "values": [
             "908.6%",
@@ -1574,7 +1574,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：明心境·掣惊雷",
+          "unit": "明心境·掣惊雷",
           "isSame": false,
           "values": [
             "137.5%",
@@ -1597,7 +1597,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：斩妄开天",
+          "unit": "斩妄开天",
           "isSame": false,
           "values": [
             "3084.3%",
@@ -1620,7 +1620,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：斩妄开天",
+          "unit": "斩妄开天",
           "isSame": false,
           "values": [
             "151.3%",
@@ -1666,7 +1666,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：如影疾行",
+          "unit": "如影疾行",
           "isSame": false,
           "values": [
             "105%",
@@ -1689,7 +1689,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：如影疾行",
+          "unit": "如影疾行",
           "isSame": false,
           "values": [
             "20.7%",
@@ -1712,7 +1712,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：燕袭",
+          "unit": "燕袭",
           "isSame": false,
           "values": [
             "346.3%",
@@ -1735,7 +1735,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：燕袭",
+          "unit": "燕袭",
           "isSame": false,
           "values": [
             "117.4%",
@@ -1764,46 +1764,78 @@
       "name": "梦中身",
       "desc": [
         "进入战场时，获得6点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，在勘域模式中此效果180秒内最多触发一次；",
-        "<span style=\"color:#FFFFFF;\">[核心被动：照破无明]</span>中<span style=\"color:#FFFFFF;\">[合道]</span>效果额外使造成的伤害提升10%，无视目标20%防御力。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：照破无明]</span>中<span style=\"color:#FFFFFF;\">[合道]</span>效果额外使造成的伤害提升10%，无视目标20%防御力。",
+        "<i>无数次午夜梦回，她都会回想起那一天——</i>",
+        "<i>剑刃嗡鸣，长剑认主，契约就此缔结。</i>",
+        "<i>那究竟是幸运，亦或是诅咒？</i>",
+        "<i>…无人知晓这个问题的答案，然而从那一日开始，她的命运便牵系于此剑之上。</i>"
       ]
     },
     "2": {
       "name": "光与影",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[载物]</span>可叠加层数提升至6层，<span style=\"color:#FFFFFF;\">[观止]</span>可叠加至9层；<span style=\"color:#FFFFFF;\">[明心境]</span>状态下，每消耗1点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，则获得1层<span style=\"color:#FFFFFF;\">[观止]</span>效果；<span style=\"color:#FFFFFF;\">[强化特殊技：明心境·飞光]</span>和<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>造成的伤害无视目标40%防御力。"
+        "<span style=\"color:#FFFFFF;\">[载物]</span>可叠加层数提升至6层，<span style=\"color:#FFFFFF;\">[观止]</span>可叠加至9层；<span style=\"color:#FFFFFF;\">[明心境]</span>状态下，每消耗1点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，则获得1层<span style=\"color:#FFFFFF;\">[观止]</span>效果；<span style=\"color:#FFFFFF;\">[强化特殊技：明心境·飞光]</span>和<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>造成的伤害无视目标40%防御力。",
+        "<i>岁月流淌，寒来暑往。</i>",
+        "<i>她所拥有的天地，不过云岿山上这小小一隅，山间四时便是能看到的所有景象。</i>",
+        "<i>在漫长无尽的寂寥与如影随形的恐惧中，「另一个自己」悄然诞生。</i>",
+        "<i>「…我是她的一部分，从始至终，未曾分离。」</i>",
+        "<i>「若她是光，那我就是影子。若她是高悬的圣像，那我就是匍匐的凡人。」</i>",
+        "<i>「与她不同，我不愿成为什么『英雄』…」</i>",
+        "<i>「…我只想活下去。」</i>"
       ]
     },
     "3": {
       "name": "剑客行",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>绝世的名剑藏于深山，敛尽锋芒。</i>",
+        "<i>而它出鞘之时，长剑所及寒芒千丈，风雪过处仍余孤光耀目。</i>",
+        "<i>「剑客是什么？」</i>",
+        "<i>「不过是…一往无前的勇气，与斩开一切的决心。」</i>"
       ]
     },
     "4": {
       "name": "共黯尘",
       "desc": [
-        "进入战场时，获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次；<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>提供的帷幕易伤加成上限提升至200%。"
+        "进入战场时，获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次；<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>提供的帷幕易伤加成上限提升至200%。",
+        "<i>宏大的愿景下潜藏着谎言，所谓的拯救却需得燃尽自身。</i>",
+        "<i>命运于她从无怜悯，而她欣然奔赴最后的结局。</i>",
+        "<i>「我知道的。」</i>",
+        "<i>「我的一生都会与『失去』共存。」</i>",
+        "<i>「我自愿接受这一切…」</i>",
+        "<i>「…我选择去成为这样的人。」</i>"
       ]
     },
     "5": {
       "name": "微光引",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「…我想，我终究还是那个『幸运』的孩子。」</i>",
+        "<i>「秽息不会淹没我，灾难不会吞噬我。」</i>",
+        "<i>「即便是青溟剑，也无法将我拽进漆黑不见底的深渊…」</i>",
+        "<i>「哥哥、师父、随便观的大家…还有你。」</i>",
+        "<i>「…我知道，你们会一直等着我。」</i>",
+        "<i>如此，纵使前路棘刺满地，亦存微光照亮旅途。</i>"
       ]
     },
     "6": {
       "name": "明灯愿",
       "desc": [
-        "进入战场时，获得2层<span style=\"color:#FFFFFF;\">[明灯愿]</span>；每次进入<span style=\"color:#FFFFFF;\">[明心境]</span>状态会获得1层<span style=\"color:#FFFFFF;\">[明灯愿]</span>，至多叠加4层；拥有3层<span style=\"color:#FFFFFF;\">[明灯愿]</span>时，将<span style=\"color:#FFFFFF;\">[强化特殊技：明心境·归尘]</span>替换为<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>，发动此<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>时，消耗3层<span style=\"color:#FFFFFF;\">[明灯愿]</span>；<span style=\"color:#FFFFFF;\">[强化特殊技：明心境·归尘]</span>和<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>最后一击额外造成1500%攻击力的<span style=\"color:#F0D12B;\">物理伤害</span>。"
+        "进入战场时，获得2层<span style=\"color:#FFFFFF;\">[明灯愿]</span>；每次进入<span style=\"color:#FFFFFF;\">[明心境]</span>状态会获得1层<span style=\"color:#FFFFFF;\">[明灯愿]</span>，至多叠加4层；拥有3层<span style=\"color:#FFFFFF;\">[明灯愿]</span>时，将<span style=\"color:#FFFFFF;\">[强化特殊技：明心境·归尘]</span>替换为<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>，发动此<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>时，消耗3层<span style=\"color:#FFFFFF;\">[明灯愿]</span>；<span style=\"color:#FFFFFF;\">[强化特殊技：明心境·归尘]</span>和<span style=\"color:#FFFFFF;\">[终结技：斩妄开天]</span>最后一击额外造成1500%攻击力的<span style=\"color:#F0D12B;\">物理伤害</span>。",
+        "<i>她曾孑然一身，独行于黑暗；</i>",
+        "<i>又执剑奔赴灾厄，青溟出鞘之时，一瞬的虹光划破长空，照彻静寂黑暗之地。</i>",
+        "<i>「…我想成为万千萤火中的一盏。」</i>",
+        "<i>「天总会亮的。无论黑夜多么漫长，白昼终将到来。」</i>",
+        "<i>「在遥远的过去，和遥远的未来，一定也有无数人做出了和我一样的选择。我们…从不孤单。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：照破无明 / 额外能力：溯影惊鸿",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：照破无明</h3>",
       "非<span style=\"color:#FFFFFF;\">[明心境]</span>状态且未拥有6点[青溟剑势]时，部分攻击会缓慢积攒<span style=\"color:#FFFFFF;\">[青溟剑势]</span>；任意方式获得<span style=\"color:#FFFFFF;\">[青溟剑势]</span>时，每溢出1点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，将转化为1层<span style=\"color:#FFFFFF;\">[载物]</span>效果，至多叠加3层，在退出<span style=\"color:#FFFFFF;\">[明心境]</span>状态时，会消耗所有<span style=\"color:#FFFFFF;\">[载物]</span>获得对应层数的<span style=\"color:#FFFFFF;\">[青溟剑势]</span>。",
-      "进入战场时，获得<span style=\"color:#FFFFFF;\">[合道]</span>效果，暴击率提升15%/17.5%/20%/22.5%/25%/27.5%，造成的伤害提升10%/12.5%/15%/17.5%/20%/22.5%。",
+      "进入战场时，获得<span style=\"color:#FFFFFF;\">[合道]</span>效果，暴击率提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，造成的伤害提升<span style=\"color:#2BAD00;\">(10%/12.5%/15%/17.5%/20%/22.5%/25%)</span>。",
       "释放<span style=\"color:#FFFFFF;\">[终结技：逐云惊霆]</span>或<span style=\"color:#FFFFFF;\">[登场技：照影]</span>后，叶瞬光将进入<span style=\"color:#FFFFFF;\">[明心境]</span>状态，并开启<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>；<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>与<span style=\"color:#FFFFFF;\">[明心境]</span>持续时间相同，持续16秒，处于后场时，持续时间不再减少；处于<span style=\"color:#FFFFFF;\">[明心境]</span>状态下，叶瞬光将使用更加强力的招式，造成的<span style=\"color:#F0D12B;\">物理伤害</span>均为<span style=\"color:#F0D12B;\">凛刃伤害</span>。",
       "<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>持续期间，敌人进入<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>时，将基于其此时的失衡易伤倍率为其附加帷幕易伤效果，期间叶瞬光发动的招式对敌人造成伤害时都将不计算敌人的失衡易伤加成，转而计算帷幕易伤加成；帷幕易伤加成上限为110%，<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>结束时移除帷幕易伤效果。",
       "<h3>额外能力：溯影惊鸿</h3>",

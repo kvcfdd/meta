@@ -17,7 +17,7 @@
     "def": 600.5916
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -53,7 +53,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "55.1%",
@@ -76,7 +76,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "59.7%",
@@ -99,7 +99,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "124.8%",
@@ -122,7 +122,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "186.3%",
@@ -145,7 +145,7 @@
         },
         {
           "name": "垫步射击伤害倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "40.3%",
@@ -168,7 +168,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "18%",
@@ -191,7 +191,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "34.7%",
@@ -214,7 +214,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "71.6%",
@@ -237,7 +237,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "107.2%",
@@ -260,7 +260,7 @@
         },
         {
           "name": "垫步射击失衡倍率",
-          "unit": "普通攻击：高压射钉",
+          "unit": "高压射钉",
           "isSame": false,
           "values": [
             "40.3%",
@@ -303,7 +303,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：事故解决方案",
+          "unit": "事故解决方案",
           "isSame": false,
           "values": [
             "45.5%",
@@ -326,7 +326,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：事故解决方案",
+          "unit": "事故解决方案",
           "isSame": false,
           "values": [
             "45.5%",
@@ -349,7 +349,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：反击电针",
+          "unit": "反击电针",
           "isSame": false,
           "values": [
             "359.3%",
@@ -372,7 +372,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：反击电针",
+          "unit": "反击电针",
           "isSame": false,
           "values": [
             "312.8%",
@@ -434,7 +434,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：工程清障",
+          "unit": "工程清障",
           "isSame": false,
           "values": [
             "42.1%",
@@ -457,7 +457,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：工程清障",
+          "unit": "工程清障",
           "isSame": false,
           "values": [
             "42.1%",
@@ -480,7 +480,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：超规工程清障",
+          "unit": "超规工程清障",
           "isSame": false,
           "values": [
             "333.8%",
@@ -503,7 +503,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：超规工程清障",
+          "unit": "超规工程清障",
           "isSame": false,
           "values": [
             "268.4%",
@@ -526,7 +526,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：超规工程清障",
+          "unit": "超规工程清障",
           "isSame": true,
           "values": [
             "40点"
@@ -557,7 +557,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：工程清障·循环",
+          "unit": "工程清障·循环",
           "isSame": false,
           "values": [
             "19.4276%",
@@ -580,7 +580,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：工程清障·循环",
+          "unit": "工程清障·循环",
           "isSame": false,
           "values": [
             "17.6828%",
@@ -647,7 +647,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：协作施工",
+          "unit": "协作施工",
           "isSame": false,
           "values": [
             "571.3%",
@@ -670,7 +670,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：协作施工",
+          "unit": "协作施工",
           "isSame": false,
           "values": [
             "152.3%",
@@ -693,7 +693,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：工程爆破请勿接近",
+          "unit": "工程爆破请勿接近",
           "isSame": false,
           "values": [
             "1478.8%",
@@ -716,7 +716,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：工程爆破请勿接近",
+          "unit": "工程爆破请勿接近",
           "isSame": false,
           "values": [
             "133.1%",
@@ -762,7 +762,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：突击检查",
+          "unit": "突击检查",
           "isSame": false,
           "values": [
             "33.3%",
@@ -785,7 +785,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：突击检查",
+          "unit": "突击检查",
           "isSame": false,
           "values": [
             "16.7%",
@@ -808,7 +808,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：违章处罚",
+          "unit": "违章处罚",
           "isSame": false,
           "values": [
             "164.2%",
@@ -831,7 +831,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：违章处罚",
+          "unit": "违章处罚",
           "isSame": false,
           "values": [
             "150.5%",
@@ -860,45 +860,55 @@
       "name": "再充能弹膛",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段每次命中敌人时，全队角色回复0.25点能量；",
-        "同一招式内，该效果最多为全队回复2点能量。"
+        "同一招式内，该效果最多为全队回复2点能量。",
+        "<i>效率是工程学的生命。在格莉丝的枪膛里，回响着工程学的心跳声。</i>"
       ]
     },
     "2": {
       "name": "电致击穿",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>等招式中投掷手雷命中敌人时，目标的<span style=\"color:#2EB6FF;\">电属性伤害抗性</span>降低8.5%，<span style=\"color:#2EB6FF;\">电属性异常积蓄抗性</span>降低8.5%，持续8秒。"
+        "在<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>等招式中投掷手雷命中敌人时，目标的<span style=\"color:#2EB6FF;\">电属性伤害抗性</span>降低8.5%，<span style=\"color:#2EB6FF;\">电属性异常积蓄抗性</span>降低8.5%，持续8秒。",
+        "<i>「解剖」复杂的机械结构是格莉丝最大的爱好，即使是在战斗之中。</i>",
+        "<i>被解剖者会作何感想呢？当它们每一方寸的破绽都如此赤裸。</i>"
       ]
     },
     "3": {
       "name": "首席机械师",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>格莉丝亲自参与编写了《白祇重工安全施工指南》，</i>",
+        "<i>并且成为了违反「禁止在施工场地携带危险爆炸物」条例次数最多的员工。</i>"
       ]
     },
     "4": {
       "name": "爆破电容",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，格莉丝获得6层充能（上限6层）；<span style=\"color:#FFFFFF;\">[普通攻击：高压射钉]</span>或<span style=\"color:#FFFFFF;\">[冲刺攻击：突击检查]</span>命中敌人时，消耗1层充能，使当前招式的能量获得效率提升20%。"
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，格莉丝获得6层充能（上限6层）；<span style=\"color:#FFFFFF;\">[普通攻击：高压射钉]</span>或<span style=\"color:#FFFFFF;\">[冲刺攻击：突击检查]</span>命中敌人时，消耗1层充能，使当前招式的能量获得效率提升20%。",
+        "<i>安东怀疑，在被格莉丝称为「电脉冲回收模块」的元件里，其实有一只以太仓鼠在不分昼夜地鼠力发电。</i>",
+        "<i>「能在我兄弟上也整一个吗？」</i>"
       ]
     },
     "5": {
       "name": "「冰冷铁魔女」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「冰冷铁魔女」能够驯服任何机械造物，至少起这个名字的匿名粉丝是这么认为的。</i>"
       ]
     },
     "6": {
       "name": "起爆扳机",
       "desc": [
-        "消耗所有<span style=\"color:#FFFFFF;\">[电能]</span>发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，能够强化招式效果，额外投掷一颗手雷，并使每颗手雷造成的伤害提升至原本的200%。"
+        "消耗所有<span style=\"color:#FFFFFF;\">[电能]</span>发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，能够强化招式效果，额外投掷一颗手雷，并使每颗手雷造成的伤害提升至原本的200%。",
+        "<i>白祇重工旗下员工的平均血液温度是九十八摄氏度，格莉丝总是被当作沸腾前的降温阀。</i>",
+        "<i>当格莉丝放弃了克制，大家就知道，是时候把耳朵捂上了。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：预驱动撞针 / 额外能力：技术支持班组",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：预驱动撞针</h3>",
-      "格莉丝<span style=\"color:#FFFFFF;\">[普通攻击]</span>或<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>命中敌人并造成<span style=\"color:#F0D12B;\">物理伤害</span>时，获得一层<span style=\"color:#FFFFFF;\">[电能]</span>（上限8层）；<span style=\"color:#FFFFFF;\">[电能]</span>层数到达上限后，发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，会消耗所有<span style=\"color:#FFFFFF;\">[电能]</span>，使招式累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升65%/75.8%/86.6%/97.5%/108.3%/119.1%。",
+      "格莉丝<span style=\"color:#FFFFFF;\">[普通攻击]</span>或<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>命中敌人并造成<span style=\"color:#F0D12B;\">物理伤害</span>时，获得一层<span style=\"color:#FFFFFF;\">[电能]</span>（上限8层）；<span style=\"color:#FFFFFF;\">[电能]</span>层数到达上限后，发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，会消耗所有<span style=\"color:#FFFFFF;\">[电能]</span>，使招式累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升<span style=\"color:#2BAD00;\">(65%/75.8%/86.6%/97.5%/108.3%/119.1%/130%)</span>。",
       "<h3>额外能力：技术支持班组</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "格莉丝<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，目标下次被施加<span style=\"color:#2EB6FF;\">[感电]</span>效果时，受到的<span style=\"color:#2EB6FF;\">[感电]</span>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<span style=\"color:#2EB6FF;\">[感电]</span>状态结束时效果重置。"

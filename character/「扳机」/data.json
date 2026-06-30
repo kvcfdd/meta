@@ -17,7 +17,7 @@
     "def": 600.5916
   },
   "growAttr": {
-    "冲击力": 0.18,
+    "冲击力": 18,
     "基础攻击力": 75
   },
   "talentId": {
@@ -71,7 +71,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "34.5%",
@@ -94,7 +94,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "56.9%",
@@ -117,7 +117,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "110.9%",
@@ -140,7 +140,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "243%",
@@ -163,7 +163,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "17.3%",
@@ -186,7 +186,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "28.5%",
@@ -209,7 +209,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "60.8%",
@@ -232,7 +232,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：冷膛射击",
+          "unit": "冷膛射击",
           "isSame": false,
           "values": [
             "176.9%",
@@ -255,7 +255,7 @@
         },
         {
           "name": "射击伤害倍率",
-          "unit": "普通攻击：无音狙杀",
+          "unit": "无音狙杀",
           "isSame": false,
           "values": [
             "47.6%",
@@ -278,7 +278,7 @@
         },
         {
           "name": "反击伤害倍率",
-          "unit": "普通攻击：无音狙杀",
+          "unit": "无音狙杀",
           "isSame": false,
           "values": [
             "233.9%",
@@ -301,7 +301,7 @@
         },
         {
           "name": "终结伤害倍率",
-          "unit": "普通攻击：无音狙杀",
+          "unit": "无音狙杀",
           "isSame": false,
           "values": [
             "131.2%",
@@ -324,7 +324,7 @@
         },
         {
           "name": "射击失衡倍率",
-          "unit": "普通攻击：无音狙杀",
+          "unit": "无音狙杀",
           "isSame": false,
           "values": [
             "23.8%",
@@ -347,7 +347,7 @@
         },
         {
           "name": "反击失衡倍率",
-          "unit": "普通攻击：无音狙杀",
+          "unit": "无音狙杀",
           "isSame": false,
           "values": [
             "148.8%",
@@ -370,7 +370,7 @@
         },
         {
           "name": "终结失衡倍率",
-          "unit": "普通攻击：无音狙杀",
+          "unit": "无音狙杀",
           "isSame": false,
           "values": [
             "65.6%",
@@ -393,7 +393,7 @@
         },
         {
           "name": "连射伤害倍率",
-          "unit": "普通攻击：协奏狙杀",
+          "unit": "协奏狙杀",
           "isSame": false,
           "values": [
             "95.8%",
@@ -416,7 +416,7 @@
         },
         {
           "name": "连射失衡倍率",
-          "unit": "普通攻击：协奏狙杀",
+          "unit": "协奏狙杀",
           "isSame": false,
           "values": [
             "71.8%",
@@ -439,7 +439,7 @@
         },
         {
           "name": "连射伤害倍率",
-          "unit": "普通攻击：协奏狙杀·冥狱",
+          "unit": "协奏狙杀·冥狱",
           "isSame": false,
           "values": [
             "67.8%",
@@ -462,7 +462,7 @@
         },
         {
           "name": "终结伤害倍率",
-          "unit": "普通攻击：协奏狙杀·冥狱",
+          "unit": "协奏狙杀·冥狱",
           "isSame": false,
           "values": [
             "45.2%",
@@ -485,7 +485,7 @@
         },
         {
           "name": "连射失衡倍率",
-          "unit": "普通攻击：协奏狙杀·冥狱",
+          "unit": "协奏狙杀·冥狱",
           "isSame": false,
           "values": [
             "51%",
@@ -508,7 +508,7 @@
         },
         {
           "name": "终结失衡倍率",
-          "unit": "普通攻击：协奏狙杀·冥狱",
+          "unit": "协奏狙杀·冥狱",
           "isSame": false,
           "values": [
             "34%",
@@ -551,7 +551,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：冷枪援护",
+          "unit": "冷枪援护",
           "isSame": false,
           "values": [
             "84.4%",
@@ -574,7 +574,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：冷枪援护",
+          "unit": "冷枪援护",
           "isSame": false,
           "values": [
             "84.4%",
@@ -597,7 +597,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：死线偏移",
+          "unit": "死线偏移",
           "isSame": false,
           "values": [
             "271.3%",
@@ -620,7 +620,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：死线偏移",
+          "unit": "死线偏移",
           "isSame": false,
           "values": [
             "342.8%",
@@ -643,7 +643,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：死线偏移",
+          "unit": "死线偏移",
           "isSame": false,
           "values": [
             "166.8%",
@@ -666,7 +666,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：殛雷穿心",
+          "unit": "殛雷穿心",
           "isSame": false,
           "values": [
             "432.9%",
@@ -689,7 +689,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：殛雷穿心",
+          "unit": "殛雷穿心",
           "isSame": false,
           "values": [
             "327.4%",
@@ -730,7 +730,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：幽闪",
+          "unit": "幽闪",
           "isSame": false,
           "values": [
             "71.5%",
@@ -753,7 +753,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：幽闪",
+          "unit": "幽闪",
           "isSame": false,
           "values": [
             "71.5%",
@@ -776,7 +776,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：幽闪花葬",
+          "unit": "幽闪花葬",
           "isSame": false,
           "values": [
             "634.4%",
@@ -799,7 +799,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：幽闪花葬",
+          "unit": "幽闪花葬",
           "isSame": false,
           "values": [
             "432.7%",
@@ -822,7 +822,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：幽闪花葬",
+          "unit": "幽闪花葬",
           "isSame": true,
           "values": [
             "60点"
@@ -848,7 +848,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：冥河之引",
+          "unit": "冥河之引",
           "isSame": false,
           "values": [
             "574.7%",
@@ -871,7 +871,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：冥河之引",
+          "unit": "冥河之引",
           "isSame": false,
           "values": [
             "135.8%",
@@ -894,7 +894,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：冥府挽歌",
+          "unit": "冥府挽歌",
           "isSame": false,
           "values": [
             "1480.5%",
@@ -917,7 +917,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：冥府挽歌",
+          "unit": "冥府挽歌",
           "isSame": false,
           "values": [
             "922%",
@@ -959,7 +959,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：怨魂返",
+          "unit": "怨魂返",
           "isSame": false,
           "values": [
             "51.4%",
@@ -982,7 +982,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：怨魂返",
+          "unit": "怨魂返",
           "isSame": false,
           "values": [
             "25.7%",
@@ -1005,7 +1005,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：极魂罚",
+          "unit": "极魂罚",
           "isSame": false,
           "values": [
             "219.7%",
@@ -1028,7 +1028,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：极魂罚",
+          "unit": "极魂罚",
           "isSame": false,
           "values": [
             "194.4%",
@@ -1056,45 +1056,60 @@
     "1": {
       "name": "精准感知",
       "desc": [
-        "通过<span style=\"color:#FFFFFF;\">[核心被动：破隙幽瞳]</span>施加的失衡易伤倍率额外提升20%；发动<span style=\"color:#FFFFFF;\">[普通攻击：协奏狙杀]</span>时，触发的冷却时间降低至2秒；在<span style=\"color:#FFFFFF;\">[狙击姿态]</span>下发动连续射击或蓄力反击命中敌人时，获得的<span style=\"color:#FFFFFF;\">[绝意]</span>值提升25%，<span style=\"color:#FFFFFF;\">[绝意]</span>值上限提升至125点。"
+        "通过<span style=\"color:#FFFFFF;\">[核心被动：破隙幽瞳]</span>施加的失衡易伤倍率额外提升20%；发动<span style=\"color:#FFFFFF;\">[普通攻击：协奏狙杀]</span>时，触发的冷却时间降低至2秒；在<span style=\"color:#FFFFFF;\">[狙击姿态]</span>下发动连续射击或蓄力反击命中敌人时，获得的<span style=\"color:#FFFFFF;\">[绝意]</span>值提升25%，<span style=\"color:#FFFFFF;\">[绝意]</span>值上限提升至125点。",
+        "<i>能分辨微风的每一丝变化的听觉，能感知地面的每一次震动的触觉。为了弥补视觉上的缺憾，少女将其余的五感磨练到了极致。</i>",
+        "<i>「除了狙击，我别无所长…至少在狙击上，我不想败给任何人。」</i>"
       ]
     },
     "2": {
       "name": "「以太视域」",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>时，「扳机」将获得1层<span style=\"color:#FFFFFF;\">[猎眸]</span>；在<span style=\"color:#FFFFFF;\">[狙击姿态]</span>下发动终结一击时，「扳机」将获得2层<span style=\"color:#FFFFFF;\">[猎眸]</span>；每拥有1层<span style=\"color:#FFFFFF;\">[猎眸]</span>，全队角色暴击伤害提升6%，最多叠加4层，持续10秒，重复触发时刷新持续时间。"
+        "发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>时，「扳机」将获得1层<span style=\"color:#FFFFFF;\">[猎眸]</span>；在<span style=\"color:#FFFFFF;\">[狙击姿态]</span>下发动终结一击时，「扳机」将获得2层<span style=\"color:#FFFFFF;\">[猎眸]</span>；每拥有1层<span style=\"color:#FFFFFF;\">[猎眸]</span>，全队角色暴击伤害提升6%，最多叠加4层，持续10秒，重复触发时刷新持续时间。",
+        "<i>置身于空洞内时，周围的一切以太波动都将成为她观测空间的助力。</i>",
+        "<i>「曾经的我一直觉得这是双充满痛苦的、被诅咒的眼睛。」</i>",
+        "<i>「但现在…它们是我达成目标的通行证，更是我不曾忘却往日的证明。」</i>"
       ]
     },
     "3": {
       "name": "《归乡》",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>能够归去的家，已经尘封于昨日。</i>",
+        "<i>她有些冰凉的双唇抵住口琴，孤寂的旋律是记忆铭刻下的唯一证明。</i>"
       ]
     },
     "4": {
       "name": "匿息隐踪",
       "desc": [
-        "「扳机」进入或延长<span style=\"color:#FFFFFF;\">[协战状态]</span>后，状态持续期间，队伍中其他角色下一次触发<span style=\"color:#FFFFFF;\">[普通攻击：协奏狙杀]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：协奏狙杀·冥狱]</span>时，将会在招式命中敌人时触发<span style=\"color:#FFFFFF;\">[断离]</span>效果，额外造成「扳机」200%攻击力的伤害，并累积「扳机」120%冲击力的失衡值；招式具有较高的打断等级。"
+        "「扳机」进入或延长<span style=\"color:#FFFFFF;\">[协战状态]</span>后，状态持续期间，队伍中其他角色下一次触发<span style=\"color:#FFFFFF;\">[普通攻击：协奏狙杀]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：协奏狙杀·冥狱]</span>时，将会在招式命中敌人时触发<span style=\"color:#FFFFFF;\">[断离]</span>效果，额外造成「扳机」200%攻击力的伤害，并累积「扳机」120%冲击力的失衡值；招式具有较高的打断等级。",
+        "<i>脚步，呼吸，心跳。扼杀自己的一切气息，直至整个身形完全与环境融为一体。她如神出鬼没的死神一般游走于战场。</i>",
+        "<i>而在战场外，由于这种悄无声息的行动方式已经给队友造成了数次惊吓，因此被禁止使用。</i>",
+        "<i>当然，找不到见面机会而频繁使用此行动方式在录像店周边观察店内这种事，或许应该大概也是没做过的…吧？</i>"
       ]
     },
     "5": {
       "name": "锁定的意志",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>一旦锁定目标，哪怕躯体破损腐朽、刺痛力竭，也绝不会将准心挪开。从复仇对象到保护对象，从敌军到同伴均是如此——此为狙击手的意志。</i>",
+        "<i>唯有那对在至暗之刻为自己洒下阳光的绳匠。与其说是锁定，不如说是被吸引，哪怕找不到继续注视的理由，也绝不想将准心挪开——此为少女的意志。</i>"
       ]
     },
     "6": {
       "name": "冥河彼岸",
       "desc": [
-        "进入战场时，「扳机」可获得5枚<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>，每消耗25点<span style=\"color:#FFFFFF;\">[绝意]</span>值，「扳机」可额外获得1枚<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>，上限5枚；拥有<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>时，「扳机」在<span style=\"color:#FFFFFF;\">[狙击姿态]</span>中命中目标时，将消耗1枚<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>，额外对目标造成「扳机」1200%攻击力的<span style=\"color:#2EB6FF;\">电属性伤害</span>，且<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>造成的伤害额外提升50%，0.2秒内最多触发一次。"
+        "进入战场时，「扳机」可获得5枚<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>，每消耗25点<span style=\"color:#FFFFFF;\">[绝意]</span>值，「扳机」可额外获得1枚<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>，上限5枚；拥有<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>时，「扳机」在<span style=\"color:#FFFFFF;\">[狙击姿态]</span>中命中目标时，将消耗1枚<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>，额外对目标造成「扳机」1200%攻击力的<span style=\"color:#2EB6FF;\">电属性伤害</span>，且<span style=\"color:#FFFFFF;\">[破甲凶弹]</span>造成的伤害额外提升50%，0.2秒内最多触发一次。",
+        "<i>「你知道吗？在战斗中沾染血腥之人，死后能去往的地方只有冥界。」</i>",
+        "<i>「渡过冥河的彼岸，一定能见到无比美丽的景色。绽放的曼珠沙华簇拥着我，熟悉的故人们陪伴我迎接最后的安宁与归宿。」</i>",
+        "<i>「但…因为有你，因为有想守护的事物，或许我还不希望那一天那么早到来。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：破隙幽瞳 / 额外能力：灵目银灯",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：破隙幽瞳</h3>",
-      "「扳机」发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>命中敌人时，目标的失衡易伤倍率提升20%/22.5%/25%/27.5%/30%/32.5%，持续5秒，通过这种途径施加的失衡易伤倍率提升效果，在目标未进入失衡状态时亦可生效。",
+      "「扳机」发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>命中敌人时，目标的失衡易伤倍率提升<span style=\"color:#2BAD00;\">(20%/22.5%/25%/27.5%/30%/32.5%/35%)</span>，持续5秒，通过这种途径施加的失衡易伤倍率提升效果，在目标未进入失衡状态时亦可生效。",
       "<h3>额外能力：灵目银灯</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或与自身属性相同的角色时触发：",
       "「扳机」的暴击率高于40%时，每超过1%暴击率会使自身发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>造成的失衡值提升1.5%，最多提升75%。"

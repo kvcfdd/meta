@@ -54,7 +54,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "73.4%",
@@ -77,7 +77,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "66%",
@@ -100,7 +100,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "115.8%",
@@ -123,7 +123,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "185.6%",
@@ -146,7 +146,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "386.4%",
@@ -169,7 +169,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "55.1%",
@@ -192,7 +192,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "49.2%",
@@ -215,7 +215,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "84.4%",
@@ -238,7 +238,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "154.6%",
@@ -261,7 +261,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：凛冽裁决",
+          "unit": "凛冽裁决",
           "isSame": false,
           "values": [
             "293.1%",
@@ -284,7 +284,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：最终裁决",
+          "unit": "最终裁决",
           "isSame": false,
           "values": [
             "69.7%",
@@ -307,7 +307,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：最终裁决",
+          "unit": "最终裁决",
           "isSame": false,
           "values": [
             "52.3%",
@@ -330,7 +330,7 @@
         },
         {
           "name": "蓄力最大生命额外倍率",
-          "unit": "普通攻击：最终裁决",
+          "unit": "最终裁决",
           "isSame": true,
           "values": [
             "{CAL:0.12+AvatarSkillLevel(0)*0.01,100,2}%"
@@ -368,7 +368,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "登场技：霜迸",
+          "unit": "霜迸",
           "isSame": false,
           "values": [
             "680.3%",
@@ -391,7 +391,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "登场技：霜迸",
+          "unit": "霜迸",
           "isSame": false,
           "values": [
             "230.2%",
@@ -414,7 +414,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "快速支援：查漏补缺",
+          "unit": "查漏补缺",
           "isSame": false,
           "values": [
             "176%",
@@ -437,7 +437,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：查漏补缺",
+          "unit": "查漏补缺",
           "isSame": false,
           "values": [
             "88%",
@@ -460,7 +460,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：霜婵镇场",
+          "unit": "霜婵镇场",
           "isSame": false,
           "values": [
             "342.8%",
@@ -483,7 +483,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：霜婵镇场",
+          "unit": "霜婵镇场",
           "isSame": false,
           "values": [
             "342.8%",
@@ -506,7 +506,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：霜婵镇场",
+          "unit": "霜婵镇场",
           "isSame": false,
           "values": [
             "166.8%",
@@ -529,7 +529,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：凛光返照",
+          "unit": "凛光返照",
           "isSame": false,
           "values": [
             "366.1%",
@@ -552,7 +552,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：凛光返照",
+          "unit": "凛光返照",
           "isSame": false,
           "values": [
             "318.1%",
@@ -594,7 +594,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：碎冰溢寒",
+          "unit": "碎冰溢寒",
           "isSame": false,
           "values": [
             "56.9%",
@@ -617,7 +617,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：碎冰溢寒",
+          "unit": "碎冰溢寒",
           "isSame": false,
           "values": [
             "56.9%",
@@ -640,7 +640,7 @@
         },
         {
           "name": "回复生命百分比",
-          "unit": "特殊技：碎冰溢寒",
+          "unit": "碎冰溢寒",
           "isSame": true,
           "values": [
             "{CAL:1+AvatarSkillLevel(1)*0.06,1,2}%"
@@ -648,7 +648,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：流霜冻土",
+          "unit": "流霜冻土",
           "isSame": false,
           "values": [
             "1210.8%",
@@ -671,7 +671,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：流霜冻土",
+          "unit": "流霜冻土",
           "isSame": false,
           "values": [
             "810%",
@@ -694,7 +694,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：流霜冻土",
+          "unit": "流霜冻土",
           "isSame": true,
           "values": [
             "80点"
@@ -702,7 +702,7 @@
         },
         {
           "name": "回复生命百分比",
-          "unit": "强化特殊技：流霜冻土",
+          "unit": "流霜冻土",
           "isSame": true,
           "values": [
             "{CAL:1+AvatarSkillLevel(1)*0.06,1,2}%"
@@ -730,7 +730,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：临时合作",
+          "unit": "临时合作",
           "isSame": false,
           "values": [
             "770.8%",
@@ -753,7 +753,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：临时合作",
+          "unit": "临时合作",
           "isSame": false,
           "values": [
             "331.9%",
@@ -776,7 +776,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：兔兔连斩",
+          "unit": "兔兔连斩",
           "isSame": false,
           "values": [
             "2187.3%",
@@ -799,7 +799,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：兔兔连斩",
+          "unit": "兔兔连斩",
           "isSame": false,
           "values": [
             "201.7%",
@@ -841,7 +841,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：弹跳冲刺",
+          "unit": "弹跳冲刺",
           "isSame": false,
           "values": [
             "86.3%",
@@ -864,7 +864,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：弹跳冲刺",
+          "unit": "弹跳冲刺",
           "isSame": false,
           "values": [
             "43.2%",
@@ -887,7 +887,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：倏忽闪",
+          "unit": "倏忽闪",
           "isSame": false,
           "values": [
             "338.8%",
@@ -910,7 +910,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：倏忽闪",
+          "unit": "倏忽闪",
           "isSame": false,
           "values": [
             "286%",
@@ -938,51 +938,59 @@
     "1": {
       "name": "凛然裁决",
       "desc": [
-        "照被切换为非当前操作角色时，使全队角色造成的伤害无视目标15%全属性伤害抗性，持续50秒，重复触发时刷新持续时间。"
+        "照被切换为非当前操作角色时，使全队角色造成的伤害无视目标15%全属性伤害抗性，持续50秒，重复触发时刷新持续时间。",
+        "<i>「别被那可爱的外表迷惑了！我永远记得那场大会上，她当着几十号人的面挥着手指，用最可爱的样子说出最冷酷的裁决：『以上整改条目如有任何一条不接受，那贵司必将被剔除出TOPS，这不是威胁，是绝对正确的评估。』这个画面我一辈子都忘不掉！…唉，但还是感谢照小姐。」</i>",
+        "<i>——接受毁灭式整改后起死回生的某位企业管理者扶着额头，表情复杂地说道。</i>"
       ]
     },
     "2": {
       "name": "黑枝前辈",
       "desc": [
-        "照的生命值回复时，提升20%攻击力，并使队伍中其他角色提升15%攻击力，持续50秒，重复触发时刷新持续时间。"
+        "照的生命值回复时，提升20%攻击力，并使队伍中其他角色提升15%攻击力，持续50秒，重复触发时刷新持续时间。",
+        "<i>小照在早期就加入了黑枝，哪怕在精锐中的精锐——坎卜斯黑枝中也要被尊称一声「大前辈」，事情本应如此…怎奈后续加入的后辈同事们，都是一些遵循个性远大于遵守规矩的人。</i>"
       ]
     },
     "3": {
       "name": "霜婵冰刃",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>小照的武器名为「霜婵」，是TOPS秘密研发项目所提供的实验资产。使用这把武器时，并非单纯地释放冰属性以太造成打击，而是将以太转化为武器本身的一部分。通常状态下，「霜婵」只有同规格武器一半的重量，但在进入战斗状态时，快速凝结的前端冰刃能获得更强的破坏力，这个特性简直是为小照量身定做的。</i>"
       ]
     },
     "4": {
       "name": "轻盈踏痕",
       "desc": [
-        "照开启<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，获得250点喧响值；<span style=\"color:#FFFFFF;\">[终结技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：最终裁决]</span>的暴击伤害提升40%。"
+        "照开启<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，获得250点喧响值；<span style=\"color:#FFFFFF;\">[终结技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：最终裁决]</span>的暴击伤害提升40%。",
+        "<i>灵活、轻盈、难以捕捉。这些本是描述小兔子的词汇，正被用来描述一位手持巨刃，无坚不摧的可怕战士…</i>"
       ]
     },
     "5": {
       "name": "毛茸茸聆听者",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>如果小照的耳朵不自觉地抖了一下并且微微竖起，说明她听到了最在意的话语。可能是情报、任务、交易…或者夸奖。</i>"
       ]
     },
     "6": {
       "name": "无价亦是价值",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[核心被动：最佳同事]</span>提高暴击率的效果提升至原本的125%；<span style=\"color:#FFFFFF;\">[普通攻击：最终裁决]</span>累积蓄力时长的额外伤害提升至原本的140%，并使累积的蓄力时长不会在攻击中被消耗。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：最佳同事]</span>提高暴击率的效果提升至原本的125%；<span style=\"color:#FFFFFF;\">[普通攻击：最终裁决]</span>累积蓄力时长的额外伤害提升至原本的140%，并使累积的蓄力时长不会在攻击中被消耗。",
+        "<i>自儿时起受无数人影响所筑成的观念壁垒，正因与一个人的相遇产生裂隙。</i>",
+        "<i>小照对于「价值」的想法有了改变：有些东西没有标价，并非是它无用，而是珍贵到不存在对等的东西能与之交换。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：最佳同事 / 额外能力：凝聚力",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：最佳同事</h3>",
-      "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高0.8%/0.9%/1%/1.1%/1.2%/1.3%暴击率；",
+      "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<span style=\"color:#2BAD00;\">(0.8%/0.9%/1%/1.1%/1.2%/1.3%/1.4%)</span>暴击率；",
       "进入战场时，照获得100点<span style=\"color:#FFFFFF;\">[霜寒值]</span>，在勘域模式中此效果180秒内最多触发一次，<span style=\"color:#FFFFFF;\">[霜寒值]</span>的上限为100点；",
       "当前操作中角色攻击命中敌人时，照积攒6点<span style=\"color:#FFFFFF;\">[霜寒值]</span>，每3秒最多触发一次；",
       "<span style=\"color:#FFFFFF;\">[霜寒值]</span>满时，如果处于接战状态下，将照换入前场可以发动<span style=\"color:#FFFFFF;\">[登场技]</span>；",
       "照发动<span style=\"color:#FFFFFF;\">[登场技]</span>时，消耗所有<span style=\"color:#FFFFFF;\">[霜寒值]</span>，开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>；",
       "<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>前，将关闭已有的<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>；",
-      "照开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>时，使全队角色的攻击力提升100/250/400/550/700/850点，持续50秒，重复触发时刷新持续时间。",
+      "照开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>时，使全队角色的攻击力提升<span style=\"color:#2BAD00;\">(100/250/400/550/700/850/1000)</span>点，持续50秒，重复触发时刷新持续时间。",
       "<h3>额外能力：凝聚力</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[异常]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
       "照处于任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"

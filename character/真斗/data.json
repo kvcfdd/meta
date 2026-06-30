@@ -51,7 +51,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "28.7%",
@@ -74,7 +74,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "82.7%",
@@ -97,7 +97,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "134.6%",
@@ -120,7 +120,7 @@
         },
         {
           "name": "一段伤害倍率（触发烬风）",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "63.1%",
@@ -143,7 +143,7 @@
         },
         {
           "name": "二段伤害倍率（触发烬风）",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "95.5%",
@@ -166,7 +166,7 @@
         },
         {
           "name": "三段伤害倍率（触发烬风）",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "143.3%",
@@ -189,7 +189,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "26.9%",
@@ -212,7 +212,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "79.3%",
@@ -235,7 +235,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "133.3%",
@@ -258,7 +258,7 @@
         },
         {
           "name": "一段失衡倍率（触发烬风）",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "57.4%",
@@ -281,7 +281,7 @@
         },
         {
           "name": "二段失衡倍率（触发烬风）",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "91.3%",
@@ -304,7 +304,7 @@
         },
         {
           "name": "三段失衡倍率（触发烬风）",
-          "unit": "普通攻击：炽风斩",
+          "unit": "炽风斩",
           "isSame": false,
           "values": [
             "141.6%",
@@ -327,7 +327,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "53.1%",
@@ -350,7 +350,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "111.2%",
@@ -373,7 +373,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "154.5%",
@@ -396,7 +396,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "237.8%",
@@ -419,7 +419,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "38.8%",
@@ -442,7 +442,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "87.4%",
@@ -465,7 +465,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "141.6%",
@@ -488,7 +488,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：炽风·胧切",
+          "unit": "炽风·胧切",
           "isSame": false,
           "values": [
             "217.5%",
@@ -534,7 +534,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：孤影·归阵",
+          "unit": "孤影·归阵",
           "isSame": false,
           "values": [
             "90.7%",
@@ -557,7 +557,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：孤影·归阵",
+          "unit": "孤影·归阵",
           "isSame": false,
           "values": [
             "56.7%",
@@ -580,7 +580,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "招架支援：孤影·岳峙",
+          "unit": "孤影·岳峙",
           "isSame": false,
           "values": [
             "40%",
@@ -603,7 +603,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：孤影·岳峙",
+          "unit": "孤影·岳峙",
           "isSame": false,
           "values": [
             "246.7%",
@@ -626,7 +626,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：孤影·岳峙",
+          "unit": "孤影·岳峙",
           "isSame": false,
           "values": [
             "311.7%",
@@ -649,7 +649,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：孤影·岳峙",
+          "unit": "孤影·岳峙",
           "isSame": false,
           "values": [
             "151.7%",
@@ -672,7 +672,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：孤影·断獠",
+          "unit": "孤影·断獠",
           "isSame": false,
           "values": [
             "166.7%",
@@ -695,7 +695,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：孤影·断獠",
+          "unit": "孤影·断獠",
           "isSame": false,
           "values": [
             "270.9%",
@@ -718,7 +718,7 @@
         },
         {
           "name": "连打最大伤害倍率",
-          "unit": "支援突击：孤影·断獠",
+          "unit": "孤影·断獠",
           "isSame": false,
           "values": [
             "570.1%",
@@ -741,7 +741,7 @@
         },
         {
           "name": "连打最大失衡倍率",
-          "unit": "支援突击：孤影·断獠",
+          "unit": "孤影·断獠",
           "isSame": false,
           "values": [
             "480.9%",
@@ -791,7 +791,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：归烬",
+          "unit": "归烬",
           "isSame": false,
           "values": [
             "50.7%",
@@ -814,7 +814,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：归烬",
+          "unit": "归烬",
           "isSame": false,
           "values": [
             "47.6%",
@@ -837,7 +837,7 @@
         },
         {
           "name": "伤害倍率（蓄力或格挡成功）",
-          "unit": "特殊技：归烬",
+          "unit": "归烬",
           "isSame": false,
           "values": [
             "130.7%",
@@ -860,7 +860,7 @@
         },
         {
           "name": "失衡倍率（蓄力或格挡成功）",
-          "unit": "特殊技：归烬",
+          "unit": "归烬",
           "isSame": false,
           "values": [
             "122.6%",
@@ -883,7 +883,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：归烬·天坠",
+          "unit": "归烬·天坠",
           "isSame": false,
           "values": [
             "652.6%",
@@ -906,7 +906,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：归烬·天坠",
+          "unit": "归烬·天坠",
           "isSame": false,
           "values": [
             "662.2%",
@@ -929,7 +929,7 @@
         },
         {
           "name": "闪能消耗",
-          "unit": "强化特殊技：归烬·天坠",
+          "unit": "归烬·天坠",
           "isSame": true,
           "values": [
             "80点"
@@ -953,7 +953,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：极炽炎爆",
+          "unit": "极炽炎爆",
           "isSame": false,
           "values": [
             "483.3%",
@@ -976,7 +976,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：极炽炎爆",
+          "unit": "极炽炎爆",
           "isSame": false,
           "values": [
             "205.1%",
@@ -999,7 +999,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：无想荒魂",
+          "unit": "无想荒魂",
           "isSame": false,
           "values": [
             "1562.3%",
@@ -1022,7 +1022,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：无想荒魂",
+          "unit": "无想荒魂",
           "isSame": false,
           "values": [
             "348.4%",
@@ -1064,7 +1064,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：曜刃·残心",
+          "unit": "曜刃·残心",
           "isSame": false,
           "values": [
             "58.7%",
@@ -1087,7 +1087,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：曜刃·残心",
+          "unit": "曜刃·残心",
           "isSame": false,
           "values": [
             "36.7%",
@@ -1110,7 +1110,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：曜刃·掠阵",
+          "unit": "曜刃·掠阵",
           "isSame": false,
           "values": [
             "198%",
@@ -1133,7 +1133,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：曜刃·掠阵",
+          "unit": "曜刃·掠阵",
           "isSame": false,
           "values": [
             "213.4%",
@@ -1161,50 +1161,74 @@
     "1": {
       "name": "流浪生存法则",
       "desc": [
-        "真斗的生命值降低时，累积已损失生命值，每有相当于最大生命值1%的已损失生命值使<span style=\"color:#FFFFFF;\">[支援突击]</span>和<span style=\"color:#FFFFFF;\">[普通攻击]</span>造成的<span style=\"color:#FF5521;\">火属性伤害</span>提升0.4%，最多提升20%。"
+        "真斗的生命值降低时，累积已损失生命值，每有相当于最大生命值1%的已损失生命值使<span style=\"color:#FFFFFF;\">[支援突击]</span>和<span style=\"color:#FFFFFF;\">[普通攻击]</span>造成的<span style=\"color:#FF5521;\">火属性伤害</span>提升0.4%，最多提升20%。",
+        "<i>不幸的孩子都是相似的。</i>",
+        "<i>曾经亲切的呼唤、温暖的灯光、欢快的约定…未经告别就猝然沉没；因为无形无状，所以再尖锐的獠牙也无法咬紧、再锋利的指甲也无法攥住。</i>",
+        "<i>「我什么都能吃，又不太怕冷——如果说有什么『活下来的秘诀』，也许就是这些。」</i>"
       ]
     },
     "2": {
       "name": "昼夜、厨房与爱",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗无视目标8%<span style=\"color:#FF5521;\">火属性伤害抗性</span>；<span style=\"color:#FFFFFF;\">[特殊技：归烬]</span>或<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>发动期间受到敌人攻击后，点按「普通攻击」可以发动<span style=\"color:#FFFFFF;\">[支援突击]</span>。"
+        "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗无视目标8%<span style=\"color:#FF5521;\">火属性伤害抗性</span>；<span style=\"color:#FFFFFF;\">[特殊技：归烬]</span>或<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>发动期间受到敌人攻击后，点按「普通攻击」可以发动<span style=\"color:#FFFFFF;\">[支援突击]</span>。",
+        "<i>和谐的家庭关系也许就是这样——真斗、阿青和阿月，每个人都觉得自己是「被捡回家」的幸运儿。</i>",
+        "<i>如果说还有什么值得争吵的事情，也许只剩下「最后一筷子青菜到底该谁吃」。</i>",
+        "<i>「真的不好吃吗？那我下次再去饮茶仙问问，是不是有哪一步搞错了…」</i>",
+        "<i>「…商业机密？！可是上次…我只是站着，那个厨师就全告诉我了。」</i>"
       ]
     },
     "3": {
       "name": "踏入怪谈世界",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>在论坛站稳脚跟的第一步，是起一个朗朗上口的昵称——所有人都觉得自己并不擅长此道，但对于偶尔要留校补考文学课的犬希人来说，这尤其困难。</i>",
+        "<i>「…你不是已经知道了吗。就是那个、那个…咳，『泅珑de孤鬼』。」</i>",
+        "<i>「——你明明就听清楚了！」</i>",
+        "<i>「可恶。总有一天，我要改成『再提曾用名就空洞见』。」</i>"
       ]
     },
     "4": {
       "name": "幼年的誓言",
       "desc": [
-        "最大生命值提升8%；<span style=\"color:#FFFFFF;\">[特殊技：归烬]</span>和<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>发动期间，真斗受到致命伤害时不会在招式发动期间战败退场，生命值最多降低至1，10秒内最多触发一次。"
+        "最大生命值提升8%；<span style=\"color:#FFFFFF;\">[特殊技：归烬]</span>和<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>发动期间，真斗受到致命伤害时不会在招式发动期间战败退场，生命值最多降低至1，10秒内最多触发一次。",
+        "<i>把自己想象成一头目光冷冽的孤狼，也许是每位青少年都会做的事…更何况，真斗在这件事上更具优势。</i>",
+        "<i>如果不是溺想者的出现，他本可以和别人一样假装无事发生。</i>",
+        "<i>「都说了，那只是我八岁时候的想法——」</i>",
+        "<i>「『朋友』就是这样吗…你们确实没把我当作脆弱的人，但也没把我当作人。」</i>"
       ]
     },
     "5": {
       "name": "孤影归群",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>事实上，即使有外形上的天然隔阂，真斗依然很受大家的欢迎。</i>",
+        "<i>有人与他结成了友谊、有人想要寻求他的庇护，还有人…想找他帮忙打广告。</i>",
+        "<i>「抱歉，我可能不是很适合为你的店铺做宣传。」</i>",
+        "<i>「可我没有做什么『卧推』。除非你指的是…被以骸按在地上的时候，用胳膊推起重剑、抵挡它们乱挠的爪子？」</i>"
       ]
     },
     "6": {
       "name": "越过昔年梦",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[特殊技：归烬]</span>命中处于失衡状态下的敌人时，真斗回复75点[炽心]，获得4层[残焰]，点按「普通攻击」可以发动<span style=\"color:#FFFFFF;\">[支援突击]</span>，获得[残焰]的效果在20秒内最多触发一次；<span style=\"color:#FFFFFF;\">[支援突击]</span>命中敌人时，造成的<span style=\"color:#FF5521;\">火属性伤害</span>提升3%，持续8秒，最多叠加5层，重复触发刷新持续时间。"
+        "<span style=\"color:#FFFFFF;\">[特殊技：归烬]</span>命中处于失衡状态下的敌人时，真斗回复75点[炽心]，获得4层[残焰]，点按「普通攻击」可以发动<span style=\"color:#FFFFFF;\">[支援突击]</span>，获得[残焰]的效果在20秒内最多触发一次；<span style=\"color:#FFFFFF;\">[支援突击]</span>命中敌人时，造成的<span style=\"color:#FF5521;\">火属性伤害</span>提升3%，持续8秒，最多叠加5层，重复触发刷新持续时间。",
+        "<i>越过昔年的孤勇之梦，真斗拥抱了珍视的朋友们。</i>",
+        "<i>但他偶尔还是会因为「朋友」而受挫，比如…在卫非地特色老火靓汤店。</i>",
+        "<i>「我说要为你们『殿后』，不是这种——在喝椰子鸡汤的时候殿后。」</i>",
+        "<i>「可是，喝蝎子汤的时候，怎么又轮到我冲锋了？」</i>",
+        "<i>…最后还是冲锋了。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：熔锋之势 / 额外能力：复燃之心",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：熔锋之势</h3>",
       "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；",
       "真斗发动招式造成的<span style=\"color:#FF5521;\">火属性伤害</span>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；",
       "真斗发动<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>或<span style=\"color:#FFFFFF;\">[招架支援]</span>时，会累积<span style=\"color:#FFFFFF;\">[炽心]</span>，最多累积100点；当<span style=\"color:#FFFFFF;\">[炽心]</span>累积至75点时，真斗将进入<span style=\"color:#FFFFFF;\">[熔锋]</span>状态，<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗每秒消耗3.3点<span style=\"color:#FFFFFF;\">[炽心]</span>，<span style=\"color:#FFFFFF;\">[炽心]</span>耗尽时，退出<span style=\"color:#FFFFFF;\">[熔锋]</span>状态；",
       "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的<span style=\"color:#FFFFFF;\">[普通攻击]</span>获得强化，并可以发动<span style=\"color:#FFFFFF;\">[强化特殊技：归烬·天坠]</span>；",
-      "真斗在<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升25%/29.2%/33.3%/37.5%/41.7%/45.8%，闪能回复效率提升100%；",
-      "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的暴击率提升10%，<span style=\"color:#FF5521;\">火属性伤害</span>提升10%/11.7%/13.3%/15%/16.7%/18.3%。",
+      "真斗在<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<span style=\"color:#2BAD00;\">(25%/29.2%/33.3%/37.5%/41.7%/45.8%/50%)</span>，闪能回复效率提升100%；",
+      "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的暴击率提升10%，<span style=\"color:#FF5521;\">火属性伤害</span>提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>。",
       "<h3>额外能力：复燃之心</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
       "真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"

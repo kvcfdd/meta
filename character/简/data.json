@@ -17,7 +17,7 @@
     "def": 606.5977
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -69,7 +69,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "36.1%",
@@ -92,7 +92,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "62.3%",
@@ -115,7 +115,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "83.5%",
@@ -138,7 +138,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "163.4%",
@@ -161,7 +161,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "98.8%",
@@ -184,7 +184,7 @@
         },
         {
           "name": "六段伤害倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "291.3%",
@@ -207,7 +207,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "15.3%",
@@ -230,7 +230,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "44.3%",
@@ -253,7 +253,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "59.5%",
@@ -276,7 +276,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "109.7%",
@@ -299,7 +299,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "68.7%",
@@ -322,7 +322,7 @@
         },
         {
           "name": "六段失衡倍率",
-          "unit": "普通攻击：跳步刃舞",
+          "unit": "跳步刃舞",
           "isSame": false,
           "values": [
             "200%",
@@ -345,7 +345,7 @@
         },
         {
           "name": "连续攻击伤害倍率",
-          "unit": "普通攻击：萨霍夫跳",
+          "unit": "萨霍夫跳",
           "isSame": false,
           "values": [
             "300.8%",
@@ -368,7 +368,7 @@
         },
         {
           "name": "连续攻击伤害倍率",
-          "unit": "普通攻击：萨霍夫跳",
+          "unit": "萨霍夫跳",
           "isSame": false,
           "values": [
             "482.1%",
@@ -391,7 +391,7 @@
         },
         {
           "name": "终结一击伤害倍率",
-          "unit": "普通攻击：萨霍夫跳",
+          "unit": "萨霍夫跳",
           "isSame": false,
           "values": [
             "161.3%",
@@ -414,7 +414,7 @@
         },
         {
           "name": "连续攻击失衡倍率",
-          "unit": "普通攻击：萨霍夫跳",
+          "unit": "萨霍夫跳",
           "isSame": false,
           "values": [
             "229.2%",
@@ -437,7 +437,7 @@
         },
         {
           "name": "连续攻击失衡倍率",
-          "unit": "普通攻击：萨霍夫跳",
+          "unit": "萨霍夫跳",
           "isSame": false,
           "values": [
             "322.7%",
@@ -460,7 +460,7 @@
         },
         {
           "name": "终结一击失衡倍率",
-          "unit": "普通攻击：萨霍夫跳",
+          "unit": "萨霍夫跳",
           "isSame": false,
           "values": [
             "122.9%",
@@ -507,7 +507,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：乌刺",
+          "unit": "乌刺",
           "isSame": false,
           "values": [
             "119.2%",
@@ -530,7 +530,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：乌刺",
+          "unit": "乌刺",
           "isSame": false,
           "values": [
             "119.2%",
@@ -553,7 +553,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "快速支援：勾手跳",
+          "unit": "勾手跳",
           "isSame": false,
           "values": [
             "137.5%",
@@ -576,7 +576,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：勾手跳",
+          "unit": "勾手跳",
           "isSame": false,
           "values": [
             "137.5%",
@@ -599,7 +599,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：最后防线",
+          "unit": "最后防线",
           "isSame": false,
           "values": [
             "271.3%",
@@ -622,7 +622,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：最后防线",
+          "unit": "最后防线",
           "isSame": false,
           "values": [
             "342.8%",
@@ -645,7 +645,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：最后防线",
+          "unit": "最后防线",
           "isSame": false,
           "values": [
             "166.8%",
@@ -668,7 +668,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：疾风扫",
+          "unit": "疾风扫",
           "isSame": false,
           "values": [
             "345.5%",
@@ -691,7 +691,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：疾风扫",
+          "unit": "疾风扫",
           "isSame": false,
           "values": [
             "299%",
@@ -738,7 +738,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：掠空",
+          "unit": "掠空",
           "isSame": false,
           "values": [
             "57.8%",
@@ -761,7 +761,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：掠空",
+          "unit": "掠空",
           "isSame": false,
           "values": [
             "57.8%",
@@ -784,7 +784,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：掠空-横扫",
+          "unit": "掠空-横扫",
           "isSame": false,
           "values": [
             "574.7%",
@@ -807,7 +807,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：掠空-横扫",
+          "unit": "掠空-横扫",
           "isSame": false,
           "values": [
             "468.1%",
@@ -830,7 +830,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：掠空-横扫",
+          "unit": "掠空-横扫",
           "isSame": true,
           "values": [
             "60点"
@@ -838,7 +838,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：掠空-强袭",
+          "unit": "掠空-强袭",
           "isSame": false,
           "values": [
             "595.1%",
@@ -861,7 +861,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：掠空-强袭",
+          "unit": "掠空-强袭",
           "isSame": false,
           "values": [
             "487.2%",
@@ -884,7 +884,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：掠空-强袭",
+          "unit": "掠空-强袭",
           "isSame": true,
           "values": [
             "60点"
@@ -910,7 +910,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：罪孽生花",
+          "unit": "罪孽生花",
           "isSame": false,
           "values": [
             "632.6%",
@@ -933,7 +933,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：罪孽生花",
+          "unit": "罪孽生花",
           "isSame": false,
           "values": [
             "237.6%",
@@ -956,7 +956,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：终幕演出",
+          "unit": "终幕演出",
           "isSame": false,
           "values": [
             "1470.6%",
@@ -979,7 +979,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：终幕演出",
+          "unit": "终幕演出",
           "isSame": false,
           "values": [
             "186.5%",
@@ -1031,7 +1031,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "冲刺攻击：刀刃跳",
+          "unit": "刀刃跳",
           "isSame": false,
           "values": [
             "71.5%",
@@ -1054,7 +1054,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "冲刺攻击：刀刃跳",
+          "unit": "刀刃跳",
           "isSame": false,
           "values": [
             "35.8%",
@@ -1077,7 +1077,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "冲刺攻击：刀刃跳",
+          "unit": "刀刃跳",
           "isSame": false,
           "values": [
             "71.5%",
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "冲刺攻击：刀刃跳",
+          "unit": "刀刃跳",
           "isSame": false,
           "values": [
             "35.8%",
@@ -1123,7 +1123,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：虚像突刺",
+          "unit": "虚像突刺",
           "isSame": false,
           "values": [
             "104.5%",
@@ -1146,7 +1146,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：虚像突刺",
+          "unit": "虚像突刺",
           "isSame": false,
           "values": [
             "52.3%",
@@ -1169,7 +1169,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "闪避反击：疾影",
+          "unit": "疾影",
           "isSame": false,
           "values": [
             "341.2%",
@@ -1192,7 +1192,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "闪避反击：疾影",
+          "unit": "疾影",
           "isSame": false,
           "values": [
             "229.2%",
@@ -1215,7 +1215,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "闪避反击：疾影",
+          "unit": "疾影",
           "isSame": false,
           "values": [
             "341.2%",
@@ -1238,7 +1238,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "闪避反击：疾影",
+          "unit": "疾影",
           "isSame": false,
           "values": [
             "229.2%",
@@ -1261,7 +1261,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：疾影连舞",
+          "unit": "疾影连舞",
           "isSame": false,
           "values": [
             "387%",
@@ -1284,7 +1284,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：疾影连舞",
+          "unit": "疾影连舞",
           "isSame": false,
           "values": [
             "247.5%",
@@ -1312,45 +1312,59 @@
     "1": {
       "name": "犯罪顾问",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击：萨霍夫跳]</span>的可使用次数上限增加一次；在<span style=\"color:#FFFFFF;\">[狂热]</span>状态下，简的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>额外提升15%，同时每点异常精通将会使自身造成的伤害提升0.1%，最多提升30%。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击：萨霍夫跳]</span>的可使用次数上限增加一次；在<span style=\"color:#FFFFFF;\">[狂热]</span>状态下，简的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>额外提升15%，同时每点异常精通将会使自身造成的伤害提升0.1%，最多提升30%。",
+        "<i>「犯罪顾问，是指研究犯罪行为学的顾问，不是精通如何犯罪的顾问。」</i>",
+        "<i>简忽然凑近，眨了眨眼睛。</i>",
+        "<i>「当然，你要理解成后者的话…我也不反对哦。」</i>"
       ]
     },
     "2": {
       "name": "近朱者赤",
       "desc": [
-        "简攻击命中处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人，或队伍中任意角色对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人触发<span style=\"color:#F0D12B;\">[强击]</span>时，将会无视其15%防御力，当<span style=\"color:#F0D12B;\">[强击]</span>伤害触发暴击时，其暴击伤害额外提升50%。"
+        "简攻击命中处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人，或队伍中任意角色对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人触发<span style=\"color:#F0D12B;\">[强击]</span>时，将会无视其15%防御力，当<span style=\"color:#F0D12B;\">[强击]</span>伤害触发暴击时，其暴击伤害额外提升50%。",
+        "<i>凝视深渊时会被深渊回以凝视，这只是第一步。</i>",
+        "<i>「然后要靠近它、进入它、理解它，这是第二步。」</i>",
+        "<i>「最后一步…不要成为它。」</i>"
       ]
     },
     "3": {
       "name": "无名氏",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「无名氏，意味着我可以成为任何人。比如你最喜欢的人~」</i>",
+        "<i>「或者，你最恐惧的人？」</i>"
       ]
     },
     "4": {
       "name": "因势利导",
       "desc": [
-        "队伍中任意角色触发<span style=\"color:#F0D12B;\">[强击]</span>或<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，全队角色造成的属性异常伤害提升18%，持续15秒。"
+        "队伍中任意角色触发<span style=\"color:#F0D12B;\">[强击]</span>或<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，全队角色造成的属性异常伤害提升18%，持续15秒。",
+        "<i>「是猎人还是猎物，往往取决于你选择的视角。不过，我更喜欢另一个简单的判断方式——」</i>",
+        "<i>「输的人，就是猎物。」</i>"
       ]
     },
     "5": {
       "name": "囤积癖好",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>简的房间里永远塞满了各式各样的东西，其中最多的是速食食品。</i>",
+        "<i>「这里很不错吧？到处都是触手可及的食物哦~」</i>"
       ]
     },
     "6": {
       "name": "「肮脏」技巧",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[狂热]</span>状态下，简的暴击率提升20%，暴击伤害提升40%；队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">[强击]</span>效果时，简将直接进入<span style=\"color:#FFFFFF;\">[狂热]</span>状态，并使<span style=\"color:#FFFFFF;\">[狂热心流]</span>回复至上限，此次<span style=\"color:#F0D12B;\">[强击]</span>伤害触发暴击时，将会对目标发动一次额外攻击，造成等同于简1600%异常精通的<span style=\"color:#F0D12B;\">物理伤害</span>。"
+        "<span style=\"color:#FFFFFF;\">[狂热]</span>状态下，简的暴击率提升20%，暴击伤害提升40%；队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">[强击]</span>效果时，简将直接进入<span style=\"color:#FFFFFF;\">[狂热]</span>状态，并使<span style=\"color:#FFFFFF;\">[狂热心流]</span>回复至上限，此次<span style=\"color:#F0D12B;\">[强击]</span>伤害触发暴击时，将会对目标发动一次额外攻击，造成等同于简1600%异常精通的<span style=\"color:#F0D12B;\">物理伤害</span>。",
+        "<i>街头可不在乎手段脏不脏，只在乎结果赢没赢。</i>",
+        "<i>「看清最黑暗的欲望，才能推演出最痛切的弱点。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：洞察 / 额外能力：痛点",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：洞察</h3>",
-      "简攻击命中敌人时，会使其陷入<span style=\"color:#FFFFFF;\">[啮咬]</span>状态，持续10秒；队伍中任意角色对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人触发<span style=\"color:#F0D12B;\">[强击]</span>并施加<span style=\"color:#F0D12B;\">[畏缩]</span>效果时，<span style=\"color:#F0D12B;\">[畏缩]</span>效果的持续时间提升5秒；对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人造成的<span style=\"color:#F0D12B;\">[强击]</span>伤害有概率触发暴击，基础暴击率为20%/25%/28%/31%/34%/37%，暴击伤害为50%，简的每点异常精通会使该效果的暴击率额外提升0.1%/0.11%/0.12%/0.13%/0.14%/0.15%。",
+      "简攻击命中敌人时，会使其陷入<span style=\"color:#FFFFFF;\">[啮咬]</span>状态，持续10秒；队伍中任意角色对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人触发<span style=\"color:#F0D12B;\">[强击]</span>并施加<span style=\"color:#F0D12B;\">[畏缩]</span>效果时，<span style=\"color:#F0D12B;\">[畏缩]</span>效果的持续时间提升5秒；对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人造成的<span style=\"color:#F0D12B;\">[强击]</span>伤害有概率触发暴击，基础暴击率为<span style=\"color:#2BAD00;\">(20%/25%/28%/31%/34%/37%/40%)</span>，暴击伤害为50%，简的每点异常精通会使该效果的暴击率额外提升<span style=\"color:#2BAD00;\">(0.1%/0.11%/0.12%/0.13%/0.14%/0.15%/0.16%)</span>。",
       "<h3>额外能力：痛点</h3>",
       "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
       "简的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升20%，当敌人已经处于属性异常状态下时，简对其累积的<span style=\"color:#F0D12B;\">物理异常积蓄值</span>额外提升15%。"

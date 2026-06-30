@@ -46,7 +46,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "49.7%",
@@ -69,7 +69,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "49.8%",
@@ -92,7 +92,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "109.4%",
@@ -115,7 +115,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "211.3%",
@@ -138,7 +138,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "24.9%",
@@ -161,7 +161,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "47.5%",
@@ -184,7 +184,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "84.3%",
@@ -207,7 +207,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：极意连打",
+          "unit": "极意连打",
           "isSame": false,
           "values": [
             "166.5%",
@@ -251,7 +251,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：抬头见喜",
+          "unit": "抬头见喜",
           "isSame": false,
           "values": [
             "91.7%",
@@ -274,7 +274,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：抬头见喜",
+          "unit": "抬头见喜",
           "isSame": false,
           "values": [
             "45.9%",
@@ -297,7 +297,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：见敌卸甲",
+          "unit": "见敌卸甲",
           "isSame": false,
           "values": [
             "225.1%",
@@ -320,7 +320,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：见敌卸甲",
+          "unit": "见敌卸甲",
           "isSame": false,
           "values": [
             "268.4%",
@@ -343,7 +343,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：见敌卸甲",
+          "unit": "见敌卸甲",
           "isSame": false,
           "values": [
             "108.4%",
@@ -366,7 +366,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：借势打势",
+          "unit": "借势打势",
           "isSame": false,
           "values": [
             "337.4%",
@@ -389,7 +389,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：借势打势",
+          "unit": "借势打势",
           "isSame": false,
           "values": [
             "293.5%",
@@ -435,7 +435,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：爆音点穴指",
+          "unit": "爆音点穴指",
           "isSame": false,
           "values": [
             "62.5%",
@@ -458,7 +458,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：爆音点穴指",
+          "unit": "爆音点穴指",
           "isSame": false,
           "values": [
             "62.5%",
@@ -481,7 +481,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "特殊技：断脉破穴手",
+          "unit": "断脉破穴手",
           "isSame": false,
           "values": [
             "97.3%",
@@ -504,7 +504,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "特殊技：断脉破穴手",
+          "unit": "断脉破穴手",
           "isSame": false,
           "values": [
             "41.7%",
@@ -527,7 +527,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "特殊技：断脉破穴手",
+          "unit": "断脉破穴手",
           "isSame": false,
           "values": [
             "97.3%",
@@ -550,7 +550,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "特殊技：断脉破穴手",
+          "unit": "断脉破穴手",
           "isSame": false,
           "values": [
             "41.7%",
@@ -573,7 +573,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "特殊技：断脉破穴手",
+          "unit": "断脉破穴手",
           "isSame": false,
           "values": [
             "97.3%",
@@ -596,7 +596,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "特殊技：断脉破穴手",
+          "unit": "断脉破穴手",
           "isSame": false,
           "values": [
             "41.7%",
@@ -619,7 +619,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：贴山震脉靠",
+          "unit": "贴山震脉靠",
           "isSame": false,
           "values": [
             "384.1%",
@@ -642,7 +642,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：贴山震脉靠",
+          "unit": "贴山震脉靠",
           "isSame": false,
           "values": [
             "257.3%",
@@ -665,7 +665,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：贴山震脉靠",
+          "unit": "贴山震脉靠",
           "isSame": true,
           "values": [
             "60点"
@@ -689,7 +689,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：锅气灌顶",
+          "unit": "锅气灌顶",
           "isSame": false,
           "values": [
             "632.3%",
@@ -712,7 +712,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：锅气灌顶",
+          "unit": "锅气灌顶",
           "isSame": false,
           "values": [
             "233.3%",
@@ -735,7 +735,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：满汉全席！",
+          "unit": "满汉全席！",
           "isSame": false,
           "values": [
             "1627.9%",
@@ -758,7 +758,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：满汉全席！",
+          "unit": "满汉全席！",
           "isSame": false,
           "values": [
             "98.4%",
@@ -781,7 +781,7 @@
         },
         {
           "name": "生命值回复",
-          "unit": "终结技：满汉全席！",
+          "unit": "满汉全席！",
           "isSame": true,
           "values": [
             "{CAL:100+AvatarSkillLevel(3)*60,1,2}点"
@@ -789,7 +789,7 @@
         },
         {
           "name": "每秒回复生命百分比",
-          "unit": "终结技：满汉全席！",
+          "unit": "满汉全席！",
           "isSame": true,
           "values": [
             "{CAL:0.8+AvatarSkillLevel(3)*0.05,1,2}%"
@@ -816,7 +816,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：热油鼎盛",
+          "unit": "热油鼎盛",
           "isSame": false,
           "values": [
             "83.4%",
@@ -839,7 +839,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：热油鼎盛",
+          "unit": "热油鼎盛",
           "isSame": false,
           "values": [
             "41.7%",
@@ -862,7 +862,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：移峰倒海",
+          "unit": "移峰倒海",
           "isSame": false,
           "values": [
             "219.2%",
@@ -885,7 +885,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：移峰倒海",
+          "unit": "移峰倒海",
           "isSame": false,
           "values": [
             "191.7%",
@@ -913,45 +913,64 @@
     "1": {
       "name": "气劲护体",
       "desc": [
-        "所有单位对被施加<span style=\"color:#FFFFFF;\">[气绝]</span>效果的敌人造成伤害时，造成的伤害额外提升10%。"
+        "所有单位对被施加<span style=\"color:#FFFFFF;\">[气绝]</span>效果的敌人造成伤害时，造成的伤害额外提升10%。",
+        "<i>云岿术法外可御以太流动，内可护经络筋骨。气劲如盾，刀枪不入，这便是潘引壶硬扛攻击的奥妙所在。</i>",
+        "<i>另，这招在和大叔大妈们比拼抢购超市促销商品时尤其管用。</i>"
       ]
     },
     "2": {
       "name": "云岿点穴手",
       "desc": [
-        "每消耗6点<span style=\"color:#FFFFFF;\">[破劲]</span>，潘引壶将回复4点能量，<span style=\"color:#FFFFFF;\">[特殊技：断脉破穴手]</span>命中敌人时对敌人造成的<span style=\"color:#FFFFFF;\">[气绝]</span>效果将提升至12秒。"
+        "每消耗6点<span style=\"color:#FFFFFF;\">[破劲]</span>，潘引壶将回复4点能量，<span style=\"color:#FFFFFF;\">[特殊技：断脉破穴手]</span>命中敌人时对敌人造成的<span style=\"color:#FFFFFF;\">[气绝]</span>效果将提升至12秒。",
+        "<i>「嘿嘿，贼人，动弹不得了吧！」</i>",
+        "<i>「这招唤作云岿点穴手，既可痹体定身，也可打通经脉，乃我门派惩恶扬善之绝学也！」</i>",
+        "<i>「…诶，你说只是因为我手劲太大，把你身子给打麻了？…你就说能不能动吧！」</i>"
       ]
     },
     "3": {
       "name": "经外奇穴",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「这些个穴位，跟我们熊猫希人性质差不多。」</i>",
+        "<i>「又少又分散，归不进哪个具体的系统里，也没几个人真正研究过，凄凉哟。」</i>",
+        "<i>「但啥时候真当了那么一回奇兵，感觉又挺不错的，不是吗？」</i>"
       ]
     },
     "4": {
       "name": "特等上厨",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[终结技：满汉全席！]</span>为全队角色回复生命时，生命回复效果提升25%，持续回复效果的生命回复效果提升25%；发动<span style=\"color:#FFFFFF;\">[终结技：满汉全席！]</span>时获得<span style=\"color:#FFFFFF;\">[储粮]</span>效果，当队伍内任意角色损失生命值时，消耗<span style=\"color:#FFFFFF;\">[储粮]</span>效果为其回复<span style=\"color:#FFFFFF;\">[终结技：满汉全席！]</span>即时回复生命值50%的生命值，该效果不可叠加。"
+        "<span style=\"color:#FFFFFF;\">[终结技：满汉全席！]</span>为全队角色回复生命时，生命回复效果提升25%，持续回复效果的生命回复效果提升25%；发动<span style=\"color:#FFFFFF;\">[终结技：满汉全席！]</span>时获得<span style=\"color:#FFFFFF;\">[储粮]</span>效果，当队伍内任意角色损失生命值时，消耗<span style=\"color:#FFFFFF;\">[储粮]</span>效果为其回复<span style=\"color:#FFFFFF;\">[终结技：满汉全席！]</span>即时回复生命值50%的生命值，该效果不可叠加。",
+        "<i>初次下厨时，他差点把灶台点着。赶来救火的人里有个厨子，看着那堆烧糊了的食物，把还没用的鸡蛋下锅给他做了盘蛋炒饭。</i>",
+        "<i>他狼吞虎咽，热泪盈眶。抬起头来，只见厨子向他亮出一张纸，上面写着「100」。</i>",
+        "<i>「大师，我悟了！您是想告诉我烹饪要百折不挠是吧！」「不是，我是想说吃一口100丁尼，你吃了一百多口，该付钱了。」</i>",
+        "<i>从那以后，潘引壶坚持自己亲自下厨，且再也没搞砸过。这便是特级厨师的诞生过程。</i>"
       ]
     },
     "5": {
       "name": "「稀人」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>在这诺大的新艾利都，熊猫希人的存在实属罕有。他抗拒被人以稀奇的眼神打量，也早已习惯了无人帮衬的孤独生活。</i>",
+        "<i>直到拜入云岿山门下，他变得不再孤单。</i>",
+        "<i>同时，直到发现不少市民愿意为了和熊猫希人合影而付费…他也变得不再抗拒被人打量。</i>"
       ]
     },
     "6": {
       "name": "气穴论",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[核心被动：脉中乾坤]</span>提供的<span style=\"color:#FFFFFF;\">[通窍]</span>将额外获得潘引壶初始攻击力6%的提升，该效果提供的贯穿力最多提升至720点。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：脉中乾坤]</span>提供的<span style=\"color:#FFFFFF;\">[通窍]</span>将额外获得潘引壶初始攻击力6%的提升，该效果提供的贯穿力最多提升至720点。",
+        "<i>「古人有云，气穴足有三百六十五处。其实人的活法亦是如此。」</i>",
+        "<i>「喏，从这张穴位图上选一个喜欢的。」</i>",
+        "<i>「它就代表了你现在的活法——在哪里，有啥用，都不重要。只要你喜欢，就够了。」</i>",
+        "<i>「至于选它出来有啥用，我想想…有了。下回师兄教训贼人时，就专攻这个穴位吧。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：脉中乾坤 / 额外能力：食铁纳金",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：脉中乾坤</h3>",
-      "潘引壶发动<span style=\"color:#FFFFFF;\">[强化特殊技：贴山震脉靠]</span>命中敌人触发[快速支援]的一段时间内，通过[快速支援]或[连携技]入场的下一位代理人将会获得<span style=\"color:#FFFFFF;\">[通窍]</span>效果。该效果提供潘引壶初始攻击力9%/10.5%/12%/13.5%/15%/16.5%的贯穿力提升，持续25秒。该效果提供的贯穿力最多不超过540点。",
+      "潘引壶发动<span style=\"color:#FFFFFF;\">[强化特殊技：贴山震脉靠]</span>命中敌人触发[快速支援]的一段时间内，通过[快速支援]或[连携技]入场的下一位代理人将会获得<span style=\"color:#FFFFFF;\">[通窍]</span>效果。该效果提供潘引壶初始攻击力<span style=\"color:#2BAD00;\">(9%/10.5%/12%/13.5%/15%/16.5%/18%)</span>的贯穿力提升，持续25秒。该效果提供的贯穿力最多不超过540点。",
       "<h3>额外能力：食铁纳金</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[命破]</span>角色或与自身阵营相同的角色时触发：",
       "潘引壶发动<span style=\"color:#FFFFFF;\">[特殊技：断脉破穴手]</span>命中敌人时对敌人施加<span style=\"color:#FFFFFF;\">[气绝]</span>效果，使所有单位对其造成的伤害提升20%，<span style=\"color:#FFFFFF;\">[特殊技：断脉破穴手]</span>命中敌人时将分别对敌人造成10秒<span style=\"color:#FFFFFF;\">[气绝]</span>效果。该效果不可叠加，招式重复命中相同敌人时，该效果时长可延长。"

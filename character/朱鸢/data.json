@@ -56,7 +56,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "43.1%",
@@ -79,7 +79,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "126.4%",
@@ -102,7 +102,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "137.3%",
@@ -125,7 +125,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "151%",
@@ -148,7 +148,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "162.2%",
@@ -171,7 +171,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "21.6%",
@@ -194,7 +194,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "97.3%",
@@ -217,7 +217,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "94.7%",
@@ -240,7 +240,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "124.3%",
@@ -263,7 +263,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：不许动！",
+          "unit": "不许动！",
           "isSame": false,
           "values": [
             "139.2%",
@@ -286,7 +286,7 @@
         },
         {
           "name": "一段伤害倍率（物理）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "53.7%",
@@ -309,7 +309,7 @@
         },
         {
           "name": "二段伤害倍率（物理）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "53.7%",
@@ -332,7 +332,7 @@
         },
         {
           "name": "三段伤害倍率（物理）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "160.9%",
@@ -355,7 +355,7 @@
         },
         {
           "name": "一段失衡倍率（物理）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "59.6%",
@@ -378,7 +378,7 @@
         },
         {
           "name": "二段失衡倍率（物理）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "59.6%",
@@ -401,7 +401,7 @@
         },
         {
           "name": "三段失衡倍率（物理）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "178.7%",
@@ -424,7 +424,7 @@
         },
         {
           "name": "一段伤害倍率（以太）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "135.9%",
@@ -447,7 +447,7 @@
         },
         {
           "name": "二段伤害倍率（以太）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "135.9%",
@@ -470,7 +470,7 @@
         },
         {
           "name": "三段伤害倍率（以太）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "407.7%",
@@ -493,7 +493,7 @@
         },
         {
           "name": "一段失衡倍率（以太）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "59.6%",
@@ -516,7 +516,7 @@
         },
         {
           "name": "二段失衡倍率（以太）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "59.6%",
@@ -539,7 +539,7 @@
         },
         {
           "name": "三段失衡倍率（以太）",
-          "unit": "普通攻击：请勿抵抗",
+          "unit": "请勿抵抗",
           "isSame": false,
           "values": [
             "178.7%",
@@ -584,7 +584,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：掩护射击",
+          "unit": "掩护射击",
           "isSame": false,
           "values": [
             "51.4%",
@@ -607,7 +607,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：掩护射击",
+          "unit": "掩护射击",
           "isSame": false,
           "values": [
             "51.4%",
@@ -630,7 +630,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：自卫还击",
+          "unit": "自卫还击",
           "isSame": false,
           "values": [
             "355.8%",
@@ -653,7 +653,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：自卫还击",
+          "unit": "自卫还击",
           "isSame": false,
           "values": [
             "308.6%",
@@ -693,7 +693,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：鹿弹射击",
+          "unit": "鹿弹射击",
           "isSame": false,
           "values": [
             "18.4%",
@@ -716,7 +716,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：鹿弹射击",
+          "unit": "鹿弹射击",
           "isSame": false,
           "values": [
             "18.4%",
@@ -739,7 +739,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：全弹连射",
+          "unit": "全弹连射",
           "isSame": false,
           "values": [
             "587.4%",
@@ -762,7 +762,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：全弹连射",
+          "unit": "全弹连射",
           "isSame": false,
           "values": [
             "480%",
@@ -785,7 +785,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：全弹连射",
+          "unit": "全弹连射",
           "isSame": true,
           "values": [
             "60点"
@@ -811,7 +811,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：歼灭模式",
+          "unit": "歼灭模式",
           "isSame": false,
           "values": [
             "587.5%",
@@ -834,7 +834,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：歼灭模式",
+          "unit": "歼灭模式",
           "isSame": false,
           "values": [
             "148.6%",
@@ -857,7 +857,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：歼灭模式MAX",
+          "unit": "歼灭模式MAX",
           "isSame": false,
           "values": [
             "1977.6%",
@@ -880,7 +880,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：歼灭模式MAX",
+          "unit": "歼灭模式MAX",
           "isSame": false,
           "values": [
             "125.1%",
@@ -928,7 +928,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：火力奇袭",
+          "unit": "火力奇袭",
           "isSame": false,
           "values": [
             "55.1%",
@@ -951,7 +951,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：火力奇袭",
+          "unit": "火力奇袭",
           "isSame": false,
           "values": [
             "27.6%",
@@ -974,7 +974,7 @@
         },
         {
           "name": "伤害倍率（物理）",
-          "unit": "冲刺攻击：火力压制",
+          "unit": "火力压制",
           "isSame": false,
           "values": [
             "53.7%",
@@ -997,7 +997,7 @@
         },
         {
           "name": "失衡倍率（物理）",
-          "unit": "冲刺攻击：火力压制",
+          "unit": "火力压制",
           "isSame": false,
           "values": [
             "59.6%",
@@ -1020,7 +1020,7 @@
         },
         {
           "name": "伤害倍率（以太）",
-          "unit": "冲刺攻击：火力压制",
+          "unit": "火力压制",
           "isSame": false,
           "values": [
             "135.9%",
@@ -1043,7 +1043,7 @@
         },
         {
           "name": "失衡倍率（以太）",
-          "unit": "冲刺攻击：火力压制",
+          "unit": "火力压制",
           "isSame": false,
           "values": [
             "59.6%",
@@ -1066,7 +1066,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：火力震爆",
+          "unit": "火力震爆",
           "isSame": false,
           "values": [
             "176.8%",
@@ -1089,7 +1089,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：火力震爆",
+          "unit": "火力震爆",
           "isSame": false,
           "values": [
             "161.4%",
@@ -1117,45 +1117,56 @@
     "1": {
       "name": "快速装填",
       "desc": [
-        "朱鸢发动<span style=\"color:#FFFFFF;\">[连携技]</span>/<span style=\"color:#FFFFFF;\">[终结技]</span>时，将获得<span style=\"color:#FFFFFF;\">[快速装填]</span>效果；当朱鸢拥有<span style=\"color:#FFFFFF;\">[快速装填]</span>效果时，耗尽所有<span style=\"color:#FFFFFF;\">[强化霰弹]</span>后，将消耗<span style=\"color:#FFFFFF;\">[快速装填]</span>效果，立刻获得6/9枚<span style=\"color:#FFFFFF;\">[强化霰弹]</span>。"
+        "朱鸢发动<span style=\"color:#FFFFFF;\">[连携技]</span>/<span style=\"color:#FFFFFF;\">[终结技]</span>时，将获得<span style=\"color:#FFFFFF;\">[快速装填]</span>效果；当朱鸢拥有<span style=\"color:#FFFFFF;\">[快速装填]</span>效果时，耗尽所有<span style=\"color:#FFFFFF;\">[强化霰弹]</span>后，将消耗<span style=\"color:#FFFFFF;\">[快速装填]</span>效果，立刻获得6/9枚<span style=\"color:#FFFFFF;\">[强化霰弹]</span>。",
+        "<i>朱鸢曾经参加过雅努斯区治安官能力比拼大赛，并凭借着魔术般的装填技巧拔得头筹。</i>",
+        "<i>同事对此评价道：无他，惟手熟尔。</i>"
       ]
     },
     "2": {
       "name": "以太余烬",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[压制模式]</span>下，朱鸢的抗打断等级提升，受到伤害降低10%；消耗<span style=\"color:#FFFFFF;\">[强化霰弹]</span>攻击命中敌人时，<span style=\"color:#FFFFFF;\">[普通攻击：请勿抵抗]</span>与<span style=\"color:#FFFFFF;\">[冲刺攻击：火力压制]</span>造成的<span style=\"color:#FE437E;\">以太伤害</span>提升10%，最多叠加5层，持续5秒，每次开火最多获得一层效果，重复触发时刷新持续时间。"
+        "<span style=\"color:#FFFFFF;\">[压制模式]</span>下，朱鸢的抗打断等级提升，受到伤害降低10%；消耗<span style=\"color:#FFFFFF;\">[强化霰弹]</span>攻击命中敌人时，<span style=\"color:#FFFFFF;\">[普通攻击：请勿抵抗]</span>与<span style=\"color:#FFFFFF;\">[冲刺攻击：火力压制]</span>造成的<span style=\"color:#FE437E;\">以太伤害</span>提升10%，最多叠加5层，持续5秒，每次开火最多获得一层效果，重复触发时刷新持续时间。",
+        "<i>朱鸢装配有治安局特制的以太子弹，一旦击中敌人，则会对其造成不可逆的侵蚀伤害。</i>",
+        "<i>所以，朱鸢在开枪前会喊话让敌方乖乖投降、放弃抵抗，真的是为了对方的安全着想…</i>"
       ]
     },
     "3": {
       "name": "治安官特训",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>作为精英治安官，朱鸢接受的训练只有一个目的：全面提升空洞内各项作战能力，碾压一切不法之徒。</i>"
       ]
     },
     "4": {
       "name": "以太侵彻",
       "desc": [
-        "朱鸢消耗<span style=\"color:#FFFFFF;\">[强化霰弹]</span>攻击命中敌人时，<span style=\"color:#FFFFFF;\">[普通攻击：请勿抵抗]</span>与<span style=\"color:#FFFFFF;\">[冲刺攻击：火力压制]</span>无视目标25%<span style=\"color:#FE437E;\">以太伤害抗性</span>。"
+        "朱鸢消耗<span style=\"color:#FFFFFF;\">[强化霰弹]</span>攻击命中敌人时，<span style=\"color:#FFFFFF;\">[普通攻击：请勿抵抗]</span>与<span style=\"color:#FFFFFF;\">[冲刺攻击：火力压制]</span>无视目标25%<span style=\"color:#FE437E;\">以太伤害抗性</span>。",
+        "<i>在交战的时候，空洞的匪帮们喜欢暗中计算对方还剩多少子弹；</i>",
+        "<i>但他们绝对想不到，朱鸢配备的特制弹匣，能够利用周围的以太为自己持续供电…</i>"
       ]
     },
     "5": {
       "name": "特勤经验",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>老练的特勤组治安官，更能懂得审时度势，高效发挥作战能力。</i>",
+        "<i>有时候甚至只需要一个充满震慑力的眼神，就能让敌人打消抵抗的念头。</i>"
       ]
     },
     "6": {
       "name": "扩容能源包-叁型",
       "desc": [
-        "朱鸢累计消耗12枚<span style=\"color:#FFFFFF;\">[强化霰弹]</span>时，将获得<span style=\"color:#FFFFFF;\">[以太余温]</span>效果，并使下次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>能量消耗降低30点；发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，将消耗<span style=\"color:#FFFFFF;\">[以太余温]</span>效果，额外发射总计4枚以太鹿弹，每枚额外发射的以太鹿弹将造成朱鸢220%攻击力的伤害。"
+        "朱鸢累计消耗12枚<span style=\"color:#FFFFFF;\">[强化霰弹]</span>时，将获得<span style=\"color:#FFFFFF;\">[以太余温]</span>效果，并使下次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>能量消耗降低30点；发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，将消耗<span style=\"color:#FFFFFF;\">[以太余温]</span>效果，额外发射总计4枚以太鹿弹，每枚额外发射的以太鹿弹将造成朱鸢220%攻击力的伤害。",
+        "<i>朱鸢会经常在意自身装备的剩余电量，在电量下降至红色区域时感到紧张，并刻意节省电量。</i>",
+        "<i>直到治安局为其配备了超大容量持续续航的能源包，才彻底解决了这个烦恼。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：特种弹药 / 额外能力：武装协同",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：特种弹药</h3>",
-      "朱鸢在<span style=\"color:#FFFFFF;\">[压制模式]</span>下，消耗<span style=\"color:#FFFFFF;\">[强化霰弹]</span>进行攻击时，招式造成的伤害提升20%/23.3%/26.6%/30%/33.3%/36.6%，攻击处于失衡状态下的敌人时，该增益效果额外提升20%/23.3%/26.6%/30%/33.3%/36.6%；进入战场时，朱鸢立刻获得6枚<span style=\"color:#FFFFFF;\">[强化霰弹]</span>。",
+      "朱鸢在<span style=\"color:#FFFFFF;\">[压制模式]</span>下，消耗<span style=\"color:#FFFFFF;\">[强化霰弹]</span>进行攻击时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(20%/23.3%/26.6%/30%/33.3%/36.6%/40%)</span>，攻击处于失衡状态下的敌人时，该增益效果额外提升<span style=\"color:#2BAD00;\">(20%/23.3%/26.6%/30%/33.3%/36.6%/40%)</span>；进入战场时，朱鸢立刻获得6枚<span style=\"color:#FFFFFF;\">[强化霰弹]</span>。",
       "<h3>额外能力：武装协同</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>角色或与自身阵营相同的角色时触发：",
       "朱鸢发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，自身暴击率提升30%，持续10秒。"

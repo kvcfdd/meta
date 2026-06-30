@@ -59,7 +59,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "55.2%",
@@ -82,7 +82,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "62.6%",
@@ -105,7 +105,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "72.7%",
@@ -128,7 +128,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "170.2%",
@@ -151,7 +151,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "123.6%",
@@ -174,7 +174,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "18%",
@@ -197,7 +197,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "37.1%",
@@ -220,7 +220,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "46.7%",
@@ -243,7 +243,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "103.7%",
@@ -266,7 +266,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：猫猫爪刺",
+          "unit": "猫猫爪刺",
           "isSame": false,
           "values": [
             "58.9%",
@@ -289,7 +289,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：赤色之刃",
+          "unit": "赤色之刃",
           "isSame": false,
           "values": [
             "71.8%",
@@ -312,7 +312,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：赤色之刃",
+          "unit": "赤色之刃",
           "isSame": false,
           "values": [
             "58.9%",
@@ -355,7 +355,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：借用猫爪",
+          "unit": "借用猫爪",
           "isSame": false,
           "values": [
             "94.5%",
@@ -378,7 +378,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：借用猫爪",
+          "unit": "借用猫爪",
           "isSame": false,
           "values": [
             "94.5%",
@@ -401,7 +401,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：应激防御",
+          "unit": "应激防御",
           "isSame": false,
           "values": [
             "259%",
@@ -424,7 +424,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：应激防御",
+          "unit": "应激防御",
           "isSame": false,
           "values": [
             "327.3%",
@@ -447,7 +447,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：应激防御",
+          "unit": "应激防御",
           "isSame": false,
           "values": [
             "159.3%",
@@ -470,7 +470,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：迅影",
+          "unit": "迅影",
           "isSame": false,
           "values": [
             "300.4%",
@@ -493,7 +493,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：迅影",
+          "unit": "迅影",
           "isSame": false,
           "values": [
             "258.1%",
@@ -542,7 +542,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：奇袭",
+          "unit": "奇袭",
           "isSame": false,
           "values": [
             "47.3%",
@@ -565,7 +565,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：奇袭",
+          "unit": "奇袭",
           "isSame": false,
           "values": [
             "47.3%",
@@ -588,7 +588,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：超~凶奇袭！",
+          "unit": "超~凶奇袭！",
           "isSame": false,
           "values": [
             "539.7%",
@@ -611,7 +611,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：超~凶奇袭！",
+          "unit": "超~凶奇袭！",
           "isSame": false,
           "values": [
             "455.4%",
@@ -634,7 +634,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：超~凶奇袭！",
+          "unit": "超~凶奇袭！",
           "isSame": true,
           "values": [
             "40点"
@@ -658,7 +658,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：刃爪挥击",
+          "unit": "刃爪挥击",
           "isSame": false,
           "values": [
             "536.2%",
@@ -681,7 +681,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：刃爪挥击",
+          "unit": "刃爪挥击",
           "isSame": false,
           "values": [
             "159.2%",
@@ -704,7 +704,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：刃爪强袭",
+          "unit": "刃爪强袭",
           "isSame": false,
           "values": [
             "1571.1%",
@@ -727,7 +727,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：刃爪强袭",
+          "unit": "刃爪强袭",
           "isSame": false,
           "values": [
             "118.1%",
@@ -777,7 +777,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：你在看哪边？",
+          "unit": "你在看哪边？",
           "isSame": false,
           "values": [
             "35.1%",
@@ -800,7 +800,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：你在看哪边？",
+          "unit": "你在看哪边？",
           "isSame": false,
           "values": [
             "17.6%",
@@ -823,7 +823,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：虚影双刺",
+          "unit": "虚影双刺",
           "isSame": false,
           "values": [
             "227.9%",
@@ -846,7 +846,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：虚影双刺",
+          "unit": "虚影双刺",
           "isSame": false,
           "values": [
             "199.5%",
@@ -869,7 +869,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：绒爪穿刺",
+          "unit": "绒爪穿刺",
           "isSame": false,
           "values": [
             "1279.9%",
@@ -892,7 +892,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：绒爪穿刺",
+          "unit": "绒爪穿刺",
           "isSame": false,
           "values": [
             "176.8%",
@@ -915,7 +915,7 @@
         },
         {
           "name": "[呼噜能量]消耗",
-          "unit": "闪避反击：绒爪穿刺",
+          "unit": "绒爪穿刺",
           "isSame": true,
           "values": [
             "40点"
@@ -928,45 +928,58 @@
     "1": {
       "name": "猎鸟技巧",
       "desc": [
-        "从背后攻击命中敌人时，猫又无视目标16%<span style=\"color:#F0D12B;\">物理伤害抗性</span>；敌方处于失衡状态时，猫又对其的所有攻击均被视为背后攻击。"
+        "从背后攻击命中敌人时，猫又无视目标16%<span style=\"color:#F0D12B;\">物理伤害抗性</span>；敌方处于失衡状态时，猫又对其的所有攻击均被视为背后攻击。",
+        "<i>娇小的猫又并没有强大的膂力，取而代之的是捕捉对手弱点的眼光，和准确攻击弱点的迅敏。</i>"
       ]
     },
     "2": {
       "name": "猫鼠游戏",
       "desc": [
-        "当场上只有一名敌人且自身位于前场时，猫又的能量获得效率提升25%。"
+        "当场上只有一名敌人且自身位于前场时，猫又的能量获得效率提升25%。",
+        "<i>猫咪们总是更喜欢玩弄猎物。</i>",
+        "<i>当场上的「老鼠」只剩一只时，就是独属于她的玩乐时光了。</i>"
       ]
     },
     "3": {
       "name": "好奇的左尾",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>在旧文明的传说里，一根尾巴代表猫的一条命，里面寄宿着多年的生存智慧…</i>",
+        "<i>这话是假的，但猫又积累的街头生存经验确实是真的。</i>"
       ]
     },
     "4": {
       "name": "磨爪",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，猫又的暴击率提升7%，最多叠加2层，持续15秒，每层效果单独结算持续时间。"
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，猫又的暴击率提升7%，最多叠加2层，持续15秒，每层效果单独结算持续时间。",
+        "<i>「多来点多来点！我全~部都能消化掉哟！」</i>",
+        "<i>猫希人舔了舔爪子，眼睛亮晶晶的。</i>"
       ]
     },
     "5": {
       "name": "幸运的右尾",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>在旧文明的传说里，一根尾巴代表猫的一条命，里面寄宿着多年的生存智慧…</i>",
+        "<i>有时候猫又也会好奇，如果自己能继续幸运地活下去，是不是还会长出新尾巴？</i>"
       ]
     },
     "6": {
       "name": "捕食者血统",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，猫又的暴击伤害提升18%，最多叠加3层，退出接战状态时增益效果结束；猫又击败敌人时，该增益效果直接叠加至层数上限。"
+        "发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，猫又的暴击伤害提升18%，最多叠加3层，退出接战状态时增益效果结束；猫又击败敌人时，该增益效果直接叠加至层数上限。",
+        "<i>「对猫希人来说，因攻击行为而获得的正向反馈，</i>",
+        "<i>极有可能触发他们性格中所潜藏的暴力倾向。</i>",
+        "<i>幸运的是，这种倾向似乎并不具有永久性效果…」</i>",
+        "<i>——摘自一本破旧的《猫希人不完全研究手册》</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：猫步诡影 / 额外能力：猫步秀",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：猫步诡影</h3>",
-      "猫又<span style=\"color:#FFFFFF;\">[闪避反击]</span>或<span style=\"color:#FFFFFF;\">[快速支援]</span>命中敌人时，自身造成的伤害提升30%/35%/40%/45%/50%/55%，持续6秒。",
+      "猫又<span style=\"color:#FFFFFF;\">[闪避反击]</span>或<span style=\"color:#FFFFFF;\">[快速支援]</span>命中敌人时，自身造成的伤害提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>，持续6秒。",
       "<h3>额外能力：猫步秀</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">[强击]</span>效果后，猫又下一次发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的伤害提升35%，最多叠加2层。"

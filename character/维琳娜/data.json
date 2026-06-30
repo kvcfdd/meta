@@ -47,7 +47,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "51.7%",
@@ -70,7 +70,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "48.9%",
@@ -93,7 +93,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "169.1%",
@@ -116,7 +116,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "125.6%",
@@ -139,7 +139,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "229.6%",
@@ -162,7 +162,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "23.6%",
@@ -185,7 +185,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "23.5%",
@@ -208,7 +208,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "80.5%",
@@ -231,7 +231,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "62.9%",
@@ -254,7 +254,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：扇舞",
+          "unit": "扇舞",
           "isSame": false,
           "values": [
             "112.7%",
@@ -297,7 +297,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：紧急预案",
+          "unit": "紧急预案",
           "isSame": false,
           "values": [
             "203.8%",
@@ -320,7 +320,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：紧急预案",
+          "unit": "紧急预案",
           "isSame": false,
           "values": [
             "86.2%",
@@ -343,7 +343,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：裁量干预",
+          "unit": "裁量干预",
           "isSame": false,
           "values": [
             "271.3%",
@@ -366,7 +366,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：裁量干预",
+          "unit": "裁量干预",
           "isSame": false,
           "values": [
             "342.8%",
@@ -389,7 +389,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：裁量干预",
+          "unit": "裁量干预",
           "isSame": false,
           "values": [
             "166.8%",
@@ -412,7 +412,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：谈判技巧",
+          "unit": "谈判技巧",
           "isSame": false,
           "values": [
             "532.7%",
@@ -435,7 +435,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：谈判技巧",
+          "unit": "谈判技巧",
           "isSame": false,
           "values": [
             "396.7%",
@@ -484,7 +484,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：风切变·激浊",
+          "unit": "风切变·激浊",
           "isSame": false,
           "values": [
             "58.6%",
@@ -507,7 +507,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：风切变·激浊",
+          "unit": "风切变·激浊",
           "isSame": false,
           "values": [
             "49.6%",
@@ -530,7 +530,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：风切变·扬清",
+          "unit": "风切变·扬清",
           "isSame": false,
           "values": [
             "440.5%",
@@ -553,7 +553,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：风切变·扬清",
+          "unit": "风切变·扬清",
           "isSame": false,
           "values": [
             "302.5%",
@@ -576,7 +576,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：风切变·扬清",
+          "unit": "风切变·扬清",
           "isSame": true,
           "values": [
             "45点"
@@ -584,7 +584,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：风切变·三重绝息",
+          "unit": "风切变·三重绝息",
           "isSame": false,
           "values": [
             "725.2%",
@@ -607,7 +607,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：风切变·三重绝息",
+          "unit": "风切变·三重绝息",
           "isSame": false,
           "values": [
             "515.2%",
@@ -630,7 +630,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：风切变·三重绝息",
+          "unit": "风切变·三重绝息",
           "isSame": true,
           "values": [
             "45点"
@@ -638,7 +638,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：风切变·风暴眼",
+          "unit": "风切变·风暴眼",
           "isSame": false,
           "values": [
             "216.7%",
@@ -661,7 +661,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：风切变·风暴眼",
+          "unit": "风切变·风暴眼",
           "isSame": false,
           "values": [
             "183.4%",
@@ -684,7 +684,7 @@
         },
         {
           "name": "[风华]消耗",
-          "unit": "强化特殊技：风切变·风暴眼",
+          "unit": "风切变·风暴眼",
           "isSame": true,
           "values": [
             "90点"
@@ -824,7 +824,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：旋舞华章",
+          "unit": "旋舞华章",
           "isSame": false,
           "values": [
             "800.4%",
@@ -847,7 +847,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：旋舞华章",
+          "unit": "旋舞华章",
           "isSame": false,
           "values": [
             "238.4%",
@@ -870,7 +870,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：聆听呼啸",
+          "unit": "聆听呼啸",
           "isSame": false,
           "values": [
             "2188.3%",
@@ -893,7 +893,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：聆听呼啸",
+          "unit": "聆听呼啸",
           "isSame": false,
           "values": [
             "381.3%",
@@ -935,7 +935,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：踏风",
+          "unit": "踏风",
           "isSame": false,
           "values": [
             "99.7%",
@@ -958,7 +958,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：踏风",
+          "unit": "踏风",
           "isSame": false,
           "values": [
             "42.2%",
@@ -981,7 +981,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：折云",
+          "unit": "折云",
           "isSame": false,
           "values": [
             "394.9%",
@@ -1004,7 +1004,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：折云",
+          "unit": "折云",
           "isSame": false,
           "values": [
             "282.4%",
@@ -1032,50 +1032,69 @@
     "1": {
       "name": "秩序化优雅",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[额外能力：茶会礼仪]</span>中，<span style=\"color:#FFFFFF;\">[广域气旋]</span>造成的失衡值额外提升20%；维琳娜触发<span style=\"color:#FFFFFF;\">[乱流]</span>时无视目标20%<span style=\"color:#FFFFFF;\">全属性伤害抗性</span>、全队造成<span style=\"color:#A6C5FD;\">[风化]</span>伤害时，无视目标20%<span style=\"color:#A6C5FD;\">风属性伤害抗性</span>。"
+        "<span style=\"color:#FFFFFF;\">[额外能力：茶会礼仪]</span>中，<span style=\"color:#FFFFFF;\">[广域气旋]</span>造成的失衡值额外提升20%；维琳娜触发<span style=\"color:#FFFFFF;\">[乱流]</span>时无视目标20%<span style=\"color:#FFFFFF;\">全属性伤害抗性</span>、全队造成<span style=\"color:#A6C5FD;\">[风化]</span>伤害时，无视目标20%<span style=\"color:#A6C5FD;\">风属性伤害抗性</span>。",
+        "<i>一切言辞与举止，皆被精确安排在应有的位置之上。</i>",
+        "<i>对方往往尚未察觉，便欣然接受了她所设定的边界、节奏与结果——</i>",
+        "<i>「所谓优雅，不过是秩序运转时最自然的呈现。」</i>"
       ]
     },
     "2": {
       "name": "饱和式计划",
       "desc": [
-        "维琳娜触发<span style=\"color:#A6C5FD;\">[风化]</span>时，也可以获取1点<span style=\"color:#FFFFFF;\">[风蚀]</span>，该效果每5秒最多触发一次；<span style=\"color:#FFFFFF;\">[广域气旋]</span>触发<span style=\"color:#FFFFFF;\">[赋彩]</span>效果后，可以积蓄相应属性的异常积蓄值，且该攻击累积的属性异常积蓄值不参与异常伤害结算；<span style=\"color:#FFFFFF;\">[额外能力：茶会礼仪]</span>中，维琳娜造成的<span style=\"color:#A6C5FD;\">[风化]</span>和<span style=\"color:#FFFFFF;\">[乱流]</span>伤害提升效果额外提升15%。"
+        "维琳娜触发<span style=\"color:#A6C5FD;\">[风化]</span>时，也可以获取1点<span style=\"color:#FFFFFF;\">[风蚀]</span>，该效果每5秒最多触发一次；<span style=\"color:#FFFFFF;\">[广域气旋]</span>触发<span style=\"color:#FFFFFF;\">[赋彩]</span>效果后，可以积蓄相应属性的异常积蓄值，且该攻击累积的属性异常积蓄值不参与异常伤害结算；<span style=\"color:#FFFFFF;\">[额外能力：茶会礼仪]</span>中，维琳娜造成的<span style=\"color:#A6C5FD;\">[风化]</span>和<span style=\"color:#FFFFFF;\">[乱流]</span>伤害提升效果额外提升15%。",
+        "<i>预设一切可能，覆盖所有变数，甚至为失控献上余地。</i>",
+        "<i>她从不寄望侥幸，每一种结局各得归处。</i>",
+        "<i>纵使局势片刻偏离，也不过是被引入另一条早已准备好的路径。</i>",
+        "<i>「唉，果然如此吗…所幸我并非全无准备。」</i>"
       ]
     },
     "3": {
       "name": "礼仪性征服",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>无需以力量压制，无需依赖情绪与恫吓。</i>",
+        "<i>只需一个得体的回应，一次恰到好处的让步…</i>",
+        "<i>局势便已在无形中收束，直至归于既定的征服。</i>",
+        "<i>「礼仪是掩盖暴力的手段？」</i>",
+        "<i>「抑或，礼仪是更高的暴力？」</i>"
       ]
     },
     "4": {
       "name": "茶话即审判",
       "desc": [
-        "维琳娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>会使自身攻击力提升15%，持续40秒，重复触发时刷新持续时间。"
+        "维琳娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>会使自身攻击力提升15%，持续40秒，重复触发时刷新持续时间。",
+        "<i>言笑之间，轻重既分。</i>",
+        "<i>红茶未凉，定论已成。</i>",
+        "<i>「若某件事让我苦恼，尽快处理妥当就好。若某个人让我苦恼，呵…」</i>"
       ]
     },
     "5": {
       "name": "告死魔女",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「听见她的脚步，便是听见判决！」</i>",
+        "<i>「接过她的请柬，便是步入葬仪！」</i>",
+        "<i>银发的魔女端坐于邦布王国的剧场之下，聆听着小小演员对自己深信不疑的诋毁，轻摇华扇，微笑不语。</i>"
       ]
     },
     "6": {
       "name": "首席天使",
       "desc": [
-        "当维琳娜消耗2点<span style=\"color:#FFFFFF;\">[风蚀]</span>提升<span style=\"color:#FFFFFF;\">[乱流]</span>伤害倍率时，会获得1点<span style=\"color:#FFFFFF;\">[风蚀]</span>，该效果每6秒最多触发一次；维琳娜攻击命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，造成的<span style=\"color:#A6C5FD;\">风属性异常积蓄值</span>提升20%；当维琳娜对处于<span style=\"color:#A6C5FD;\">[风化]</span>状态的敌人再次施加<span style=\"color:#A6C5FD;\">[风化]</span>时，会根据上一次<span style=\"color:#A6C5FD;\">[风化]</span>的剩余持续时间提升此次<span style=\"color:#A6C5FD;\">[风化]</span>的伤害，每1秒剩余持续时间会使伤害提升2.5%，最多提升40%。"
+        "当维琳娜消耗2点<span style=\"color:#FFFFFF;\">[风蚀]</span>提升<span style=\"color:#FFFFFF;\">[乱流]</span>伤害倍率时，会获得1点<span style=\"color:#FFFFFF;\">[风蚀]</span>，该效果每6秒最多触发一次；维琳娜攻击命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，造成的<span style=\"color:#A6C5FD;\">风属性异常积蓄值</span>提升20%；当维琳娜对处于<span style=\"color:#A6C5FD;\">[风化]</span>状态的敌人再次施加<span style=\"color:#A6C5FD;\">[风化]</span>时，会根据上一次<span style=\"color:#A6C5FD;\">[风化]</span>的剩余持续时间提升此次<span style=\"color:#A6C5FD;\">[风化]</span>的伤害，每1秒剩余持续时间会使伤害提升2.5%，最多提升40%。",
+        "<i>「不必问询天使的名姓。她藏在谣言里，藏在训诫后，藏在你战战兢兢递来的求助信里。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：风华盈袖 / 额外能力：茶会礼仪",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：风华盈袖</h3>",
       "维琳娜初始能量自动回复大于1.2时，超过部分每超过0.01，造成的伤害提升0.21%，最多提升35%，异常掌控提升0.5点，最多提升84点；",
       "维琳娜进入战场时，获得45点<Term:1000008>，在勘域模式中此效果180秒内最多触发一次，维琳娜发动<span style=\"color:#FFFFFF;\">[强化特殊技：风切变·扬清]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：风切变·三重绝息]</span>都会获得45点<span style=\"color:#FFFFFF;\">[风华]</span>，<span style=\"color:#FFFFFF;\">[风华]</span>上限为135点；",
-      "维琳娜触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会获得1点<Term:1000014>并召唤<Term:1000015>，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>，该效果每3秒最多触发一次，当维琳娜拥有2点<span style=\"color:#FFFFFF;\">[风蚀]</span>时，维琳娜下一次触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会消耗2点<span style=\"color:#FFFFFF;\">[风蚀]</span>使此时<span style=\"color:#FFFFFF;\">[乱流]</span>的伤害倍率提升90%/100%/110%/120%/130%/140%，并且不再召唤<span style=\"color:#FFFFFF;\">[微域气旋]</span>转而召唤<Term:1000016>，此时不会获得<span style=\"color:#FFFFFF;\">[风蚀]</span>；",
+      "维琳娜触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会获得1点<Term:1000014>并召唤<Term:1000015>，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>，该效果每3秒最多触发一次，当维琳娜拥有2点<span style=\"color:#FFFFFF;\">[风蚀]</span>时，维琳娜下一次触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会消耗2点<span style=\"color:#FFFFFF;\">[风蚀]</span>使此时<span style=\"color:#FFFFFF;\">[乱流]</span>的伤害倍率提升<span style=\"color:#2BAD00;\">(90%/100%/110%/120%/130%/140%/150%)</span>，并且不再召唤<span style=\"color:#FFFFFF;\">[微域气旋]</span>转而召唤<Term:1000016>，此时不会获得<span style=\"color:#FFFFFF;\">[风蚀]</span>；",
       "当维琳娜召唤的<span style=\"color:#FFFFFF;\">[广域气旋]</span>首次命中处于<span style=\"color:#FFFFFF;\">[浸染]</span>状态下的敌人，会触发<Term:1000017>效果，转化为相应属性的<span style=\"color:#FFFFFF;\">[广域气旋]</span>，并会造成相应属性的伤害，<span style=\"color:#FFFFFF;\">[广域气旋]</span>攻击命中敌人时，会使敌人的<span style=\"color:#A6C5FD;\">风属性异常积蓄抗性</span>降低7%，持续35秒，重复触发时刷新持续时间，若<span style=\"color:#FFFFFF;\">[赋彩]</span>后的<span style=\"color:#FFFFFF;\">[广域气旋]</span>攻击命中敌人，则敌人的<span style=\"color:#FFFFFF;\">相应属性异常积蓄抗性</span>也会降低7%，持续35秒，重复触发时刷新持续时间；",
       "受到<span style=\"color:#FFFFFF;\">[广域气旋]</span>影响的敌人被击败时，会使该<span style=\"color:#FFFFFF;\">[广域气旋]</span>的持续时间延长5秒，该效果对同一<span style=\"color:#FFFFFF;\">[广域气旋]</span>仅能触发一次，同一时间只能存在一个<span style=\"color:#FFFFFF;\">[广域气旋]</span>；",
-      "<span style=\"color:#FFFFFF;\">[微域气旋]</span>和<span style=\"color:#FFFFFF;\">[广域气旋]</span>会在消散时触发一次爆炸，该次爆炸命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，都会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，固定结算85%/95%/105%/115%/125%/135%和135%/155%/175%/195%/215%/235%倍率的<span style=\"color:#A6C5FD;\">风属性异常伤害</span>。",
+      "<span style=\"color:#FFFFFF;\">[微域气旋]</span>和<span style=\"color:#FFFFFF;\">[广域气旋]</span>会在消散时触发一次爆炸，该次爆炸命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，都会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，固定结算<span style=\"color:#2BAD00;\">(85%/95%/105%/115%/125%/135%/145%)</span>和<span style=\"color:#2BAD00;\">(135%/155%/175%/195%/215%/235%/255%)</span>倍率的<span style=\"color:#A6C5FD;\">风属性异常伤害</span>。",
       "<h3>额外能力：茶会礼仪</h3>",
       "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身属性相同的角色时触发：",
       "维琳娜造成的<span style=\"color:#A6C5FD;\">[风化]</span>和<span style=\"color:#FFFFFF;\">[乱流]</span>伤害提升10%，<span style=\"color:#FFFFFF;\">[终结技]</span>重击命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，固定结算<span style=\"color:#A6C5FD;\">680%</span>倍率的<span style=\"color:#A6C5FD;\">风属性异常伤害</span>；",

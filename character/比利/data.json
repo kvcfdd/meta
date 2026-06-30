@@ -49,7 +49,7 @@
       "tables": [
         {
           "name": "站姿开火伤害倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "68%",
@@ -72,7 +72,7 @@
         },
         {
           "name": "站姿子弹伤害倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "7.6%",
@@ -95,7 +95,7 @@
         },
         {
           "name": "蹲姿开火伤害倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "61.8%",
@@ -118,7 +118,7 @@
         },
         {
           "name": "蹲姿子弹伤害倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "12.7%",
@@ -141,7 +141,7 @@
         },
         {
           "name": "翻滚射击伤害倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "61.8%",
@@ -164,7 +164,7 @@
         },
         {
           "name": "终结射击伤害倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "49.5%",
@@ -187,7 +187,7 @@
         },
         {
           "name": "站姿开火失衡倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "54.4%",
@@ -210,7 +210,7 @@
         },
         {
           "name": "站姿子弹失衡倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "6.1%",
@@ -233,7 +233,7 @@
         },
         {
           "name": "蹲姿开火失衡倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "54.7%",
@@ -256,7 +256,7 @@
         },
         {
           "name": "蹲姿子弹失衡倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "8.9%",
@@ -279,7 +279,7 @@
         },
         {
           "name": "翻滚射击失衡倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "54.7%",
@@ -302,7 +302,7 @@
         },
         {
           "name": "终结射击失衡倍率",
-          "unit": "普通攻击：火力全开",
+          "unit": "火力全开",
           "isSame": false,
           "values": [
             "55.2%",
@@ -345,7 +345,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：星徽-同伴之力",
+          "unit": "星徽-同伴之力",
           "isSame": false,
           "values": [
             "93.4%",
@@ -368,7 +368,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：星徽-同伴之力",
+          "unit": "星徽-同伴之力",
           "isSame": false,
           "values": [
             "93.4%",
@@ -391,7 +391,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：要害射击",
+          "unit": "要害射击",
           "isSame": false,
           "values": [
             "388.8%",
@@ -414,7 +414,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：要害射击",
+          "unit": "要害射击",
           "isSame": false,
           "values": [
             "341.2%",
@@ -453,7 +453,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "特殊技：乖乖站好",
+          "unit": "乖乖站好",
           "isSame": false,
           "values": [
             "24.2%",
@@ -476,7 +476,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "特殊技：乖乖站好",
+          "unit": "乖乖站好",
           "isSame": false,
           "values": [
             "51.7%",
@@ -499,7 +499,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "特殊技：乖乖站好",
+          "unit": "乖乖站好",
           "isSame": false,
           "values": [
             "50.1%",
@@ -522,7 +522,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "特殊技：乖乖站好",
+          "unit": "乖乖站好",
           "isSame": false,
           "values": [
             "24.2%",
@@ -545,7 +545,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "特殊技：乖乖站好",
+          "unit": "乖乖站好",
           "isSame": false,
           "values": [
             "51.7%",
@@ -568,7 +568,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "特殊技：乖乖站好",
+          "unit": "乖乖站好",
           "isSame": false,
           "values": [
             "50.1%",
@@ -591,7 +591,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：清场时间",
+          "unit": "清场时间",
           "isSame": false,
           "values": [
             "543.8%",
@@ -614,7 +614,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：清场时间",
+          "unit": "清场时间",
           "isSame": false,
           "values": [
             "439.5%",
@@ -637,7 +637,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：清场时间",
+          "unit": "清场时间",
           "isSame": true,
           "values": [
             "60点"
@@ -661,7 +661,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：星徽荣耀幻影",
+          "unit": "星徽荣耀幻影",
           "isSame": false,
           "values": [
             "735.2%",
@@ -684,7 +684,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：星徽荣耀幻影",
+          "unit": "星徽荣耀幻影",
           "isSame": false,
           "values": [
             "196.6%",
@@ -707,7 +707,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：星徽在此闪耀",
+          "unit": "星徽在此闪耀",
           "isSame": false,
           "values": [
             "1597.7%",
@@ -730,7 +730,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：星徽在此闪耀",
+          "unit": "星徽在此闪耀",
           "isSame": false,
           "values": [
             "190.6%",
@@ -774,7 +774,7 @@
       "tables": [
         {
           "name": "周身射击伤害倍率",
-          "unit": "冲刺攻击：星-徽-制-裁",
+          "unit": "星-徽-制-裁",
           "isSame": false,
           "values": [
             "63%",
@@ -797,7 +797,7 @@
         },
         {
           "name": "直线射击伤害倍率",
-          "unit": "冲刺攻击：星-徽-制-裁",
+          "unit": "星-徽-制-裁",
           "isSame": false,
           "values": [
             "39%",
@@ -820,7 +820,7 @@
         },
         {
           "name": "周身射击失衡倍率",
-          "unit": "冲刺攻击：星-徽-制-裁",
+          "unit": "星-徽-制-裁",
           "isSame": false,
           "values": [
             "63%",
@@ -843,7 +843,7 @@
         },
         {
           "name": "直线射击失衡倍率",
-          "unit": "冲刺攻击：星-徽-制-裁",
+          "unit": "星-徽-制-裁",
           "isSame": false,
           "values": [
             "19.5%",
@@ -866,7 +866,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：公平决斗",
+          "unit": "公平决斗",
           "isSame": false,
           "values": [
             "221.4%",
@@ -889,7 +889,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：公平决斗",
+          "unit": "公平决斗",
           "isSame": false,
           "values": [
             "193.4%",
@@ -917,45 +917,57 @@
     "1": {
       "name": "闪亮登场",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>或<span style=\"color:#FFFFFF;\">[闪避反击]</span>命中敌人时，比利额外回复2.7点能量，5秒内最多触发一次。"
+        "<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>或<span style=\"color:#FFFFFF;\">[闪避反击]</span>命中敌人时，比利额外回复2.7点能量，5秒内最多触发一次。",
+        "<i>「作为反派，你们也太老实了！」</i>",
+        "<i>「就像为了配合主角登场，故意设置的固定靶一样！」</i>"
       ]
     },
     "2": {
       "name": "游斗射术",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[闪避反击]</span>造成的伤害提升25%；<span style=\"color:#FFFFFF;\">[普通攻击]</span>中的翻滚射击将被视为闪避动作，在招式发动期间获得无敌效果，并且能够触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>，翻滚射击触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，将自动衔接<span style=\"color:#FFFFFF;\">[闪避反击]</span>。"
+        "<span style=\"color:#FFFFFF;\">[闪避反击]</span>造成的伤害提升25%；<span style=\"color:#FFFFFF;\">[普通攻击]</span>中的翻滚射击将被视为闪避动作，在招式发动期间获得无敌效果，并且能够触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>，翻滚射击触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，将自动衔接<span style=\"color:#FFFFFF;\">[闪避反击]</span>。",
+        "<i>「星徽骑士从来不会逃避危险，那叫做战术游走射击！」</i>",
+        "<i>——星徽闪耀-交流区，会员「哦梦中的莫妮卡」留言。</i>"
       ]
     },
     "3": {
       "name": "星徽骑士的教导",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>绝不懈怠训练，绝不停止进步！这是星徽骑士倡导的精神。比利真的相信，而且真的在遵守。</i>"
       ]
     },
     "4": {
       "name": "星徽-惩戒弹药",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，招式的暴击率随自身与目标之间的距离而提升；比利与目标距离越近，提升效果越显著，最高提升32%。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，招式的暴击率随自身与目标之间的距离而提升；比利与目标距离越近，提升效果越显著，最高提升32%。",
+        "<i>比利独创的爆破型子弹，</i>",
+        "<i>在近身战时有着惊人的威力。</i>",
+        "<i>不过比利改造子弹的本意，是让开枪时的演出效果更加帅气。</i>"
       ]
     },
     "5": {
       "name": "失落技术构造体",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>未知的精密元件和独特的构造设计带给了比利远超同侪的性能…和维修养护费用。</i>"
       ]
     },
     "6": {
       "name": "星徽-英雄时刻",
       "desc": [
-        "累计命中敌人10次或触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，比利造成的伤害提升6%，最多叠加5层，被敌方击退或击飞后增益效果重置。"
+        "累计命中敌人10次或触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，比利造成的伤害提升6%，最多叠加5层，被敌方击退或击飞后增益效果重置。",
+        "<i>「呼~感觉来了！安比你让开，现在是我的主场！」</i>",
+        "<i>「呃，安比，能帮忙放一下星徽骑士片头曲吗？」</i>",
+        "<i>——狡兔屋内部「十大禁句」评选，安比的提案。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：稳定据枪 / 额外能力：骑士战队",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：稳定据枪</h3>",
-      "比利在<span style=\"color:#FFFFFF;\">[普通攻击]</span>中进入蹲姿射击后，自身造成的伤害提升25%/29.1%/33.3%/37.5%/41.6%/45.8%，进行移动、回到待机、被击退或被击飞时增益效果结束。",
+      "比利在<span style=\"color:#FFFFFF;\">[普通攻击]</span>中进入蹲姿射击后，自身造成的伤害提升<span style=\"color:#2BAD00;\">(25%/29.1%/33.3%/37.5%/41.6%/45.8%/50%)</span>，进行移动、回到待机、被击退或被击飞时增益效果结束。",
       "<h3>额外能力：骑士战队</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "比利发动<span style=\"color:#FFFFFF;\">[连携技]</span>后，下次发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，招式造成的伤害提升50%，最多叠加2次，发动<span style=\"color:#FFFFFF;\">[终结技]</span>后效果重置。"

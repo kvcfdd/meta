@@ -51,7 +51,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "36.2%",
@@ -74,7 +74,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "56.5%",
@@ -97,7 +97,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "193.3%",
@@ -120,7 +120,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "97.4%",
@@ -143,7 +143,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "18.1%",
@@ -166,7 +166,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "45.1%",
@@ -189,7 +189,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "151.3%",
@@ -212,7 +212,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：雷霆击",
+          "unit": "雷霆击",
           "isSame": false,
           "values": [
             "80.5%",
@@ -235,7 +235,7 @@
         },
         {
           "name": "连续攻击伤害倍率",
-          "unit": "普通攻击：雷霆击-感电",
+          "unit": "雷霆击-感电",
           "isSame": false,
           "values": [
             "382.8%",
@@ -258,7 +258,7 @@
         },
         {
           "name": "终结一击伤害倍率",
-          "unit": "普通攻击：雷霆击-感电",
+          "unit": "雷霆击-感电",
           "isSame": false,
           "values": [
             "424.2%",
@@ -281,7 +281,7 @@
         },
         {
           "name": "连续攻击失衡倍率",
-          "unit": "普通攻击：雷霆击-感电",
+          "unit": "雷霆击-感电",
           "isSame": false,
           "values": [
             "161.7%",
@@ -304,7 +304,7 @@
         },
         {
           "name": "终结一击失衡倍率",
-          "unit": "普通攻击：雷霆击-感电",
+          "unit": "雷霆击-感电",
           "isSame": false,
           "values": [
             "145.5%",
@@ -352,7 +352,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：武力支援",
+          "unit": "武力支援",
           "isSame": false,
           "values": [
             "100%",
@@ -375,7 +375,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：武力支援",
+          "unit": "武力支援",
           "isSame": false,
           "values": [
             "100%",
@@ -398,7 +398,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：迅雷盾",
+          "unit": "迅雷盾",
           "isSame": false,
           "values": [
             "246.7%",
@@ -421,7 +421,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：迅雷盾",
+          "unit": "迅雷盾",
           "isSame": false,
           "values": [
             "311.7%",
@@ -444,7 +444,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：迅雷盾",
+          "unit": "迅雷盾",
           "isSame": false,
           "values": [
             "151.7%",
@@ -467,7 +467,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：治安裁决",
+          "unit": "治安裁决",
           "isSame": false,
           "values": [
             "428.5%",
@@ -490,7 +490,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：治安裁决",
+          "unit": "治安裁决",
           "isSame": false,
           "values": [
             "378%",
@@ -532,7 +532,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：电光盾冲",
+          "unit": "电光盾冲",
           "isSame": false,
           "values": [
             "69.2%",
@@ -555,7 +555,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：电光盾冲",
+          "unit": "电光盾冲",
           "isSame": false,
           "values": [
             "69.2%",
@@ -578,7 +578,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：电光盾冲-高伏特",
+          "unit": "电光盾冲-高伏特",
           "isSame": false,
           "values": [
             "646%",
@@ -601,7 +601,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：电光盾冲-高伏特",
+          "unit": "电光盾冲-高伏特",
           "isSame": false,
           "values": [
             "540.4%",
@@ -624,7 +624,7 @@
         },
         {
           "name": "伤害倍率（蓄力）",
-          "unit": "强化特殊技：电光盾冲-高伏特",
+          "unit": "电光盾冲-高伏特",
           "isSame": false,
           "values": [
             "999.8%",
@@ -647,7 +647,7 @@
         },
         {
           "name": "失衡倍率（蓄力）",
-          "unit": "强化特殊技：电光盾冲-高伏特",
+          "unit": "电光盾冲-高伏特",
           "isSame": false,
           "values": [
             "849%",
@@ -670,7 +670,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：电光盾冲-高伏特",
+          "unit": "电光盾冲-高伏特",
           "isSame": true,
           "values": [
             "80点"
@@ -698,7 +698,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：最终制裁",
+          "unit": "最终制裁",
           "isSame": false,
           "values": [
             "704.1%",
@@ -721,7 +721,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：最终制裁",
+          "unit": "最终制裁",
           "isSame": false,
           "values": [
             "305.1%",
@@ -744,7 +744,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：正义必胜",
+          "unit": "正义必胜",
           "isSame": false,
           "values": [
             "2024.3%",
@@ -767,7 +767,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：正义必胜",
+          "unit": "正义必胜",
           "isSame": false,
           "values": [
             "403.3%",
@@ -811,7 +811,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：电光突袭",
+          "unit": "电光突袭",
           "isSame": false,
           "values": [
             "110%",
@@ -834,7 +834,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：电光突袭",
+          "unit": "电光突袭",
           "isSame": false,
           "values": [
             "55%",
@@ -857,7 +857,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：以退为进",
+          "unit": "以退为进",
           "isSame": false,
           "values": [
             "230%",
@@ -880,7 +880,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：以退为进",
+          "unit": "以退为进",
           "isSame": false,
           "values": [
             "200%",
@@ -908,45 +908,61 @@
     "1": {
       "name": "英雄主义",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[匪石之盾]</span>提供的护盾及其上限提升30%，<span style=\"color:#FFFFFF;\">[匪石之盾]</span>失效时，<span style=\"color:#FFFFFF;\">[核心被动：守望者]</span>提供的异常精通提升效果额外维持10秒。"
+        "<span style=\"color:#FFFFFF;\">[匪石之盾]</span>提供的护盾及其上限提升30%，<span style=\"color:#FFFFFF;\">[匪石之盾]</span>失效时，<span style=\"color:#FFFFFF;\">[核心被动：守望者]</span>提供的异常精通提升效果额外维持10秒。",
+        "<i>团队行动的时候，赛斯永远是冲在最前面的人。</i>",
+        "<i>「逮捕犯人就交给我吧！我的近身擒拿成绩是99分，扣掉的那一分是因为不小心扭伤了教官的手腕。」</i>"
       ]
     },
     "2": {
       "name": "年少轻狂",
       "desc": [
-        "进入战场时，赛斯立刻为自身累积75%<span style=\"color:#FFFFFF;\">[意气]</span>；发动<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>命中敌人时，招式累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升35%。"
+        "进入战场时，赛斯立刻为自身累积75%<span style=\"color:#FFFFFF;\">[意气]</span>；发动<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>命中敌人时，招式累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升35%。",
+        "<i>赛斯很容易被各种犯罪者小看。</i>",
+        "<i>或许是因为他的眼神太过清澈，又或许是因为那无害的毛茸茸耳朵和尾巴——</i>",
+        "<i>无论如何，所有看低他的人，最终都会付出相应的代价。</i>"
       ]
     },
     "3": {
       "name": "钝感力",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「像你这么厉害的治安官，肯定做什么都是靠自己吧？绝对没依赖其他人吧？」</i>",
+        "<i>即使被这么说了，赛斯依然不动声色。</i>",
+        "<i>直到半夜，他才忽然惊醒：</i>",
+        "<i>「那家伙白天的话…莫非是在讽刺我？」</i>"
       ]
     },
     "4": {
       "name": "初心",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[招架支援：迅雷盾]</span>造成的失衡值提升25%。"
+        "<span style=\"color:#FFFFFF;\">[招架支援：迅雷盾]</span>造成的失衡值提升25%。",
+        "<i>「放下你那愚蠢的善恶观。世上没有一种方式可以守护所有人。有时候，你必须做出选择。」</i>",
+        "<i>「这就是我的选择，也是治安官最基本的职责——是你变了，哥哥。」</i>"
       ]
     },
     "5": {
       "name": "憧憬的距离",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>对于自己的兄长，赛斯曾抱有极度的憧憬和尊敬。</i>",
+        "<i>但就像你知道的那样——「憧憬」是距离「理解」最遥远的距离。</i>",
+        "<i>「总有一天，我会成为最厉害的治安官…让那家伙收回之前的话！」</i>"
       ]
     },
     "6": {
       "name": "理想主义",
       "desc": [
-        "赛斯在<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>中发动终结一击命中敌人时，额外造成自身500%攻击力的伤害，本次攻击必定触发暴击，且暴击伤害提升60%。"
+        "赛斯在<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>中发动终结一击命中敌人时，额外造成自身500%攻击力的伤害，本次攻击必定触发暴击，且暴击伤害提升60%。",
+        "<i>少年人眼里的一切很清晰，黑白分明，善恶有别。</i>",
+        "<i>一定会有人想告诉他世界的颜色是混沌的灰。但黑白分明善恶有别的世界…不值得追求吗？</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：守望者 / 额外能力：意气风发",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：守望者</h3>",
-      "赛斯发动<span style=\"color:#FFFFFF;\">[强化特殊技：电光盾冲-高伏特]</span>时，会获得等同于自身40%/50%/60%/68%/72%/76%初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；队伍中其他角色通过<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>或<span style=\"color:#FFFFFF;\">[支援突击：治安裁决]</span>所触发的<span style=\"color:#FFFFFF;\">[快速支援]</span>或<span style=\"color:#FFFFFF;\">[连携技]</span>入场时，会为该队友提供等同于赛斯40%/50%/60%/68%/72%/76%初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；拥有<span style=\"color:#FFFFFF;\">[匪石之盾]</span>时，持有者的异常精通提升50/62/75/85/90/95点。",
+      "赛斯发动<span style=\"color:#FFFFFF;\">[强化特殊技：电光盾冲-高伏特]</span>时，会获得等同于自身<span style=\"color:#2BAD00;\">(40%/50%/60%/68%/72%/76%/80%)</span>初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；队伍中其他角色通过<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>或<span style=\"color:#FFFFFF;\">[支援突击：治安裁决]</span>所触发的<span style=\"color:#FFFFFF;\">[快速支援]</span>或<span style=\"color:#FFFFFF;\">[连携技]</span>入场时，会为该队友提供等同于赛斯<span style=\"color:#2BAD00;\">(40%/50%/60%/68%/72%/76%/80%)</span>初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；拥有<span style=\"color:#FFFFFF;\">[匪石之盾]</span>时，持有者的异常精通提升<span style=\"color:#2BAD00;\">(50/62/75/85/90/95/100)</span>点。",
       "<h3>额外能力：意气风发</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "赛斯发动<span style=\"color:#FFFFFF;\">[连携技：最终制裁]</span>命中敌人或在<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>中发动终结一击命中敌人时，目标的全属性异常积蓄抗性降低20%，持续20秒。"

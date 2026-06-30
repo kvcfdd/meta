@@ -46,7 +46,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "59%",
@@ -69,7 +69,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "78.8%",
@@ -92,7 +92,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "150.1%",
@@ -115,7 +115,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "320.6%",
@@ -138,7 +138,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "29.5%",
@@ -161,7 +161,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "64.5%",
@@ -184,7 +184,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "121.9%",
@@ -207,7 +207,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：准备发车",
+          "unit": "准备发车",
           "isSame": false,
           "values": [
             "252.2%",
@@ -251,7 +251,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：点刹",
+          "unit": "点刹",
           "isSame": false,
           "values": [
             "130%",
@@ -274,7 +274,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：点刹",
+          "unit": "点刹",
           "isSame": false,
           "values": [
             "130%",
@@ -297,7 +297,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：极限刹车",
+          "unit": "极限刹车",
           "isSame": false,
           "values": [
             "246.7%",
@@ -320,7 +320,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：极限刹车",
+          "unit": "极限刹车",
           "isSame": false,
           "values": [
             "311.7%",
@@ -343,7 +343,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：极限刹车",
+          "unit": "极限刹车",
           "isSame": false,
           "values": [
             "151.7%",
@@ -366,7 +366,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：弯道超车",
+          "unit": "弯道超车",
           "isSame": false,
           "values": [
             "400.5%",
@@ -389,7 +389,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：弯道超车",
+          "unit": "弯道超车",
           "isSame": false,
           "values": [
             "352%",
@@ -440,7 +440,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：轮胎转",
+          "unit": "轮胎转",
           "isSame": false,
           "values": [
             "271.7%",
@@ -463,7 +463,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：轮胎转",
+          "unit": "轮胎转",
           "isSame": false,
           "values": [
             "271.7%",
@@ -486,7 +486,7 @@
         },
         {
           "name": "一级蓄力伤害倍率",
-          "unit": "特殊技：有亿点重",
+          "unit": "有亿点重",
           "isSame": false,
           "values": [
             "93.4%",
@@ -509,7 +509,7 @@
         },
         {
           "name": "二级蓄力伤害倍率",
-          "unit": "特殊技：有亿点重",
+          "unit": "有亿点重",
           "isSame": false,
           "values": [
             "103.4%",
@@ -532,7 +532,7 @@
         },
         {
           "name": "三级蓄力伤害倍率",
-          "unit": "特殊技：有亿点重",
+          "unit": "有亿点重",
           "isSame": false,
           "values": [
             "235%",
@@ -555,7 +555,7 @@
         },
         {
           "name": "一级蓄力失衡倍率",
-          "unit": "特殊技：有亿点重",
+          "unit": "有亿点重",
           "isSame": false,
           "values": [
             "93.4%",
@@ -578,7 +578,7 @@
         },
         {
           "name": "二级蓄力失衡倍率",
-          "unit": "特殊技：有亿点重",
+          "unit": "有亿点重",
           "isSame": false,
           "values": [
             "103.4%",
@@ -601,7 +601,7 @@
         },
         {
           "name": "三级蓄力失衡倍率",
-          "unit": "特殊技：有亿点重",
+          "unit": "有亿点重",
           "isSame": false,
           "values": [
             "235%",
@@ -624,7 +624,7 @@
         },
         {
           "name": "每圈伤害倍率",
-          "unit": "强化特殊技：引擎转",
+          "unit": "引擎转",
           "isSame": false,
           "values": [
             "93.55%",
@@ -647,7 +647,7 @@
         },
         {
           "name": "每圈失衡倍率",
-          "unit": "强化特殊技：引擎转",
+          "unit": "引擎转",
           "isSame": false,
           "values": [
             "54.8%",
@@ -670,7 +670,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：引擎转",
+          "unit": "引擎转",
           "isSame": true,
           "values": [
             "20点/秒"
@@ -678,7 +678,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：非常重",
+          "unit": "非常重",
           "isSame": false,
           "values": [
             "612.9%",
@@ -701,7 +701,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：非常重",
+          "unit": "非常重",
           "isSame": false,
           "values": [
             "396.8%",
@@ -724,7 +724,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：非常重",
+          "unit": "非常重",
           "isSame": true,
           "values": [
             "20点"
@@ -748,7 +748,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：系好安全带",
+          "unit": "系好安全带",
           "isSame": false,
           "values": [
             "652.3%",
@@ -771,7 +771,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：系好安全带",
+          "unit": "系好安全带",
           "isSame": false,
           "values": [
             "253.3%",
@@ -794,7 +794,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：坐~稳~啦~",
+          "unit": "坐~稳~啦~",
           "isSame": false,
           "values": [
             "1660.4%",
@@ -817,7 +817,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：坐~稳~啦~",
+          "unit": "坐~稳~啦~",
           "isSame": false,
           "values": [
             "328.3%",
@@ -859,7 +859,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：一脚油门",
+          "unit": "一脚油门",
           "isSame": false,
           "values": [
             "90.1%",
@@ -882,7 +882,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：一脚油门",
+          "unit": "一脚油门",
           "isSame": false,
           "values": [
             "45.1%",
@@ -905,7 +905,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：动力漂移",
+          "unit": "动力漂移",
           "isSame": false,
           "values": [
             "269%",
@@ -928,7 +928,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：动力漂移",
+          "unit": "动力漂移",
           "isSame": false,
           "values": [
             "230%",
@@ -956,45 +956,62 @@
     "1": {
       "name": "悠闲一刻",
       "desc": [
-        "派派在<span style=\"color:#FFFFFF;\">[特殊技：轮胎转]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中发动旋转斩击命中敌人时，有50%概率额外获得1层<span style=\"color:#FFFFFF;\">[动力]</span>，<span style=\"color:#FFFFFF;\">[动力]</span>的叠加层数上限提升至30层。"
+        "派派在<span style=\"color:#FFFFFF;\">[特殊技：轮胎转]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中发动旋转斩击命中敌人时，有50%概率额外获得1层<span style=\"color:#FFFFFF;\">[动力]</span>，<span style=\"color:#FFFFFF;\">[动力]</span>的叠加层数上限提升至30层。",
+        "<i>卡吕冬之子某个平常的上午，派派慢悠悠地打了个哈欠。</i>",
+        "<i>「早上好——」</i>",
+        "<i>「今天也能悠闲地度过吧？养生可是很重要的，不然这个人会过劳死哦——」</i>"
       ]
     },
     "2": {
       "name": "上进心",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[特殊技：轮胎转]</span>和<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>发动期间，派派的移动速度有所提升；在<span style=\"color:#FFFFFF;\">[特殊技：有亿点重]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：非常重]</span>和<span style=\"color:#FFFFFF;\">[终结技]</span>中发动下砸攻击命中敌人时，招式造成的<span style=\"color:#F0D12B;\">物理伤害</span>提升10%，每拥有1层<span style=\"color:#FFFFFF;\">[动力]</span>，该增益效果额外提升1%。"
+        "在<span style=\"color:#FFFFFF;\">[特殊技：轮胎转]</span>和<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>发动期间，派派的移动速度有所提升；在<span style=\"color:#FFFFFF;\">[特殊技：有亿点重]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：非常重]</span>和<span style=\"color:#FFFFFF;\">[终结技]</span>中发动下砸攻击命中敌人时，招式造成的<span style=\"color:#F0D12B;\">物理伤害</span>提升10%，每拥有1层<span style=\"color:#FFFFFF;\">[动力]</span>，该增益效果额外提升1%。",
+        "<i>暂时的努力，是为了更加长久的休憩。</i>",
+        "<i>当然，如果能一直都不努力就更好了——派派伸了个懒腰，拍了拍卡车里的柔软床铺，躺了下来。</i>"
       ]
     },
     "3": {
       "name": "卡车专家",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>派派总是对卡车的一切充满兴趣。</i>",
+        "<i>即使是在熟睡的状态下，只要引擎声响起，少女就能瞬间清醒：</i>",
+        "<i>「100马力，载重5吨，这是…三门重工新发售的轻型卡车！」</i>"
       ]
     },
     "4": {
       "name": "技巧娴熟",
       "desc": [
-        "队伍中任意角色对敌人施加属性异常效果时，派派回复20点能量，30秒内最多触发一次。"
+        "队伍中任意角色对敌人施加属性异常效果时，派派回复20点能量，30秒内最多触发一次。",
+        "<i>成为派派的乘客是一件让人心惊胆战的事。</i>",
+        "<i>通常在她慢悠悠地提醒「坐~稳~咯~」的时候，「稳」字发音还没结束，卡车就已经向前行驶了惊人的距离。</i>",
+        "<i>当然，她总能在最短的时间内把你安全送到目的地——精神损失不算在内。</i>"
       ]
     },
     "5": {
       "name": "私人爱好",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>派派似乎拥有一些不太符合外表的私人爱好。</i>",
+        "<i>「这匹马好像很能跑的样子…唔，但是买的人好少，果然还是那匹胜率更高吗…」</i>",
+        "<i>「嗝——燃油饮…我才没喝多…再来一杯！」</i>"
       ]
     },
     "6": {
       "name": "轻度兴奋",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>的持续时间上限提升2秒，<span style=\"color:#FFFFFF;\">[动力]</span>的持续时间提升4秒。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>的持续时间上限提升2秒，<span style=\"color:#FFFFFF;\">[动力]</span>的持续时间提升4秒。",
+        "<i>如你所知，派派最大的愿望是永远都能悠闲度日。</i>",
+        "<i>但此刻，少女总是半睁着的双眸竟少有的精神奕奕。</i>",
+        "<i>「如果是为了你…这个人稍微努力一下下，也可以哦~」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：动力蓄能 / 额外能力：同步疾驰",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：动力蓄能</h3>",
-      "派派在<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中发动旋转斩击命中敌人时，获得1层<span style=\"color:#FFFFFF;\">[动力]</span>，最多叠加20层，持续12秒，重复触发时刷新持续时间；每拥有一层<span style=\"color:#FFFFFF;\">[动力]</span>，派派的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升2%/2.3%/2.6%/3%/3.3%/3.6%。",
+      "派派在<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中发动旋转斩击命中敌人时，获得1层<span style=\"color:#FFFFFF;\">[动力]</span>，最多叠加20层，持续12秒，重复触发时刷新持续时间；每拥有一层<span style=\"color:#FFFFFF;\">[动力]</span>，派派的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升<span style=\"color:#2BAD00;\">(2%/2.3%/2.6%/3%/3.3%/3.6%/4%)</span>。",
       "<h3>额外能力：同步疾驰</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "派派拥有20层或以上<span style=\"color:#FFFFFF;\">[动力]</span>时，全队角色造成的伤害提升18%。"

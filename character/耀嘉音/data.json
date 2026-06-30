@@ -62,7 +62,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "43.8%",
@@ -85,7 +85,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "59.1%",
@@ -108,7 +108,7 @@
         },
         {
           "name": "三段最小伤害倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "120.9%",
@@ -131,7 +131,7 @@
         },
         {
           "name": "三段最大伤害倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "270.7%",
@@ -154,7 +154,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "41.3%",
@@ -177,7 +177,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "56.4%",
@@ -200,7 +200,7 @@
         },
         {
           "name": "三段最小失衡倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "114.8%",
@@ -223,7 +223,7 @@
         },
         {
           "name": "三段最大失衡倍率",
-          "unit": "普通攻击：《随想曲》",
+          "unit": "《随想曲》",
           "isSame": false,
           "values": [
             "219.4%",
@@ -246,7 +246,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "55%",
@@ -269,7 +269,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "55%",
@@ -292,7 +292,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "110%",
@@ -315,7 +315,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "55%",
@@ -338,7 +338,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "110%",
@@ -361,7 +361,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "48.4%",
@@ -384,7 +384,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "48.4%",
@@ -407,7 +407,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "96.8%",
@@ -430,7 +430,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "48.4%",
@@ -453,7 +453,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：间奏",
+          "unit": "间奏",
           "isSame": false,
           "values": [
             "96.8%",
@@ -476,7 +476,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：副歌",
+          "unit": "副歌",
           "isSame": false,
           "values": [
             "220%",
@@ -499,7 +499,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：副歌",
+          "unit": "副歌",
           "isSame": false,
           "values": [
             "193.6%",
@@ -522,7 +522,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：终曲",
+          "unit": "终曲",
           "isSame": false,
           "values": [
             "55%",
@@ -545,7 +545,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：终曲",
+          "unit": "终曲",
           "isSame": false,
           "values": [
             "48.4%",
@@ -588,7 +588,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：《一川烟火》",
+          "unit": "《一川烟火》",
           "isSame": false,
           "values": [
             "55%",
@@ -611,7 +611,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：《一川烟火》",
+          "unit": "《一川烟火》",
           "isSame": false,
           "values": [
             "48.4%",
@@ -634,7 +634,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：《三生初见》",
+          "unit": "《三生初见》",
           "isSame": false,
           "values": [
             "304.6%",
@@ -657,7 +657,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：《三生初见》",
+          "unit": "《三生初见》",
           "isSame": false,
           "values": [
             "261%",
@@ -707,7 +707,7 @@
       "tables": [
         {
           "name": "全队角色伤害提升",
-          "unit": "特殊技：《风铃与旧约》",
+          "unit": "《风铃与旧约》",
           "isSame": true,
           "values": [
             "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%"
@@ -715,7 +715,7 @@
         },
         {
           "name": "全队角色暴击伤害提升",
-          "unit": "特殊技：《风铃与旧约》",
+          "unit": "《风铃与旧约》",
           "isSame": true,
           "values": [
             "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%"
@@ -723,7 +723,7 @@
         },
         {
           "name": "最小伤害倍率",
-          "unit": "特殊技：《风铃与旧约》",
+          "unit": "《风铃与旧约》",
           "isSame": false,
           "values": [
             "55%",
@@ -746,7 +746,7 @@
         },
         {
           "name": "最大伤害倍率",
-          "unit": "特殊技：《风铃与旧约》",
+          "unit": "《风铃与旧约》",
           "isSame": false,
           "values": [
             "220%",
@@ -769,7 +769,7 @@
         },
         {
           "name": "最小失衡倍率",
-          "unit": "特殊技：《风铃与旧约》",
+          "unit": "《风铃与旧约》",
           "isSame": false,
           "values": [
             "48.4%",
@@ -792,7 +792,7 @@
         },
         {
           "name": "最大失衡倍率",
-          "unit": "特殊技：《风铃与旧约》",
+          "unit": "《风铃与旧约》",
           "isSame": false,
           "values": [
             "193.6%",
@@ -891,7 +891,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：《微醺协奏》",
+          "unit": "《微醺协奏》",
           "isSame": false,
           "values": [
             "671.8%",
@@ -914,7 +914,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：《微醺协奏》",
+          "unit": "《微醺协奏》",
           "isSame": false,
           "values": [
             "232.9%",
@@ -937,7 +937,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：《幻想式奏鸣》",
+          "unit": "《幻想式奏鸣》",
           "isSame": false,
           "values": [
             "1959.8%",
@@ -960,7 +960,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：《幻想式奏鸣》",
+          "unit": "《幻想式奏鸣》",
           "isSame": false,
           "values": [
             "238.3%",
@@ -983,7 +983,7 @@
         },
         {
           "name": "生命值回复",
-          "unit": "终结技：《幻想式奏鸣》",
+          "unit": "《幻想式奏鸣》",
           "isSame": true,
           "values": [
             "{CAL:-50+AvatarSkillLevel(3)*250,1,2}点"
@@ -1011,7 +1011,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：《蚀月奏》",
+          "unit": "《蚀月奏》",
           "isSame": false,
           "values": [
             "80.7%",
@@ -1034,7 +1034,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：《蚀月奏》",
+          "unit": "《蚀月奏》",
           "isSame": false,
           "values": [
             "40.4%",
@@ -1057,7 +1057,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：《折伞华尔兹》",
+          "unit": "《折伞华尔兹》",
           "isSame": false,
           "values": [
             "110%",
@@ -1080,7 +1080,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：《折伞华尔兹》",
+          "unit": "《折伞华尔兹》",
           "isSame": false,
           "values": [
             "96.8%",
@@ -1108,45 +1108,68 @@
     "1": {
       "name": "十二平均律",
       "desc": [
-        "耀嘉音攻击命中敌人时，目标的全属性伤害抗性降低6%，最多叠加3层，持续30秒，重复触发时刷新持续时间；进入战场时，耀嘉音立刻获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次；发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，全队角色各自获得1层<span style=\"color:#FFFFFF;\">[庇佑之音]</span>效果，持续60秒，受到敌方攻击时，将消耗<span style=\"color:#FFFFFF;\">[庇佑之音]</span>并获得无敌效果，持续1秒。"
+        "耀嘉音攻击命中敌人时，目标的全属性伤害抗性降低6%，最多叠加3层，持续30秒，重复触发时刷新持续时间；进入战场时，耀嘉音立刻获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次；发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，全队角色各自获得1层<span style=\"color:#FFFFFF;\">[庇佑之音]</span>效果，持续60秒，受到敌方攻击时，将消耗<span style=\"color:#FFFFFF;\">[庇佑之音]</span>并获得无敌效果，持续1秒。",
+        "<i>「老师老师，什么是十二平均律？」</i>",
+        "<i>「十二平均律是一种音乐的律式，就像小朋友们要排队队一样，声音也要排队队。」</i>",
+        "<i>「那声音肯定也和小朋友一样，不爱排队队！」</i>",
+        "<i>——嘉音六岁时的音乐老师，在她成名之后回忆道。</i>"
       ]
     },
     "2": {
       "name": "贪心艺术",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[核心被动：《如歌的行板》]</span>中的攻击力提升效果额外提升19%，上限额外提升400点；<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下，队伍中其他角色通过<span style=\"color:#FFFFFF;\">[快速支援]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[招架支援]</span>或<span style=\"color:#FFFFFF;\">[回避支援]</span>入场时，耀嘉音将额外追加释放1道<span style=\"color:#FFFFFF;\">[震音]</span>和3枚<span style=\"color:#FFFFFF;\">[音簇]</span>进行攻击，3秒内最多触发一次。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：《如歌的行板》]</span>中的攻击力提升效果额外提升19%，上限额外提升400点；<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下，队伍中其他角色通过<span style=\"color:#FFFFFF;\">[快速支援]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[招架支援]</span>或<span style=\"color:#FFFFFF;\">[回避支援]</span>入场时，耀嘉音将额外追加释放1道<span style=\"color:#FFFFFF;\">[震音]</span>和3枚<span style=\"color:#FFFFFF;\">[音簇]</span>进行攻击，3秒内最多触发一次。",
+        "<i>「这个世界上最闪亮的东西，当然是爱！」</i>",
+        "<i>像筑巢的小鸟，想要收集亮晶晶的东西。艺术家内心的那份小贪心，就是收集世界上所有的爱吧？只要将所有的爱汇聚在一起，就能创作出最动人的旋律。</i>"
       ]
     },
     "3": {
       "name": "交错五线谱",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>空白的五线谱，是永不相交的平行线，就像未曾相遇的灵魂，静静等待着彼此的旋律交织成曲。</i>",
+        "<i>「那就用音符填满它好了！还要很多很多连音符，会是一首很棒的歌吧？」</i>",
+        "<i>就这样创作了一首从头到尾用连音符横跨了136小节的新歌…</i>"
       ]
     },
     "4": {
       "name": "《后颈的碎发》",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>后，15秒内，耀嘉音未拥有<span style=\"color:#FFFFFF;\">[和弦]</span>时也能够触发<span style=\"color:#FFFFFF;\">[快速支援]</span>，且攻击命中敌人时触发<span style=\"color:#FFFFFF;\">[快速支援]</span>的间隔缩短至1秒；<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下，队伍中其他角色通过<span style=\"color:#FFFFFF;\">[快速支援]</span>入场时，将根据自身特性获得不同的增益效果，全队3秒内最多触发一次：<span style=\"color:#FFFFFF;\">[强攻]</span>：下一次<span style=\"color:#FFFFFF;\">[快速支援]</span>重击命中敌人时，额外造成等同于耀嘉音300%攻击力的伤害；<span style=\"color:#FFFFFF;\">[异常]</span>：下一次<span style=\"color:#FFFFFF;\">[快速支援]</span>累积的属性异常积蓄值提升50%；<span style=\"color:#FFFFFF;\">[击破]</span>：下一次<span style=\"color:#FFFFFF;\">[快速支援]</span>造成的失衡值提升50%。"
+        "发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>后，15秒内，耀嘉音未拥有<span style=\"color:#FFFFFF;\">[和弦]</span>时也能够触发<span style=\"color:#FFFFFF;\">[快速支援]</span>，且攻击命中敌人时触发<span style=\"color:#FFFFFF;\">[快速支援]</span>的间隔缩短至1秒；<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下，队伍中其他角色通过<span style=\"color:#FFFFFF;\">[快速支援]</span>入场时，将根据自身特性获得不同的增益效果，全队3秒内最多触发一次：<span style=\"color:#FFFFFF;\">[强攻]</span>：下一次<span style=\"color:#FFFFFF;\">[快速支援]</span>重击命中敌人时，额外造成等同于耀嘉音300%攻击力的伤害；<span style=\"color:#FFFFFF;\">[异常]</span>：下一次<span style=\"color:#FFFFFF;\">[快速支援]</span>累积的属性异常积蓄值提升50%；<span style=\"color:#FFFFFF;\">[击破]</span>：下一次<span style=\"color:#FFFFFF;\">[快速支援]</span>造成的失衡值提升50%。",
+        "<i>一只手悬在钢琴上</i>",
+        "<i>不知该按下哪一个键</i>",
+        "<i>是悲伤的小调</i>",
+        "<i>还是悠扬的思念？</i>",
+        "<i>在音符间寻觅你的影子</i>",
+        "<i>闭上眼，就能看到</i>",
+        "<i>你后颈的碎发</i>"
       ]
     },
     "5": {
       "name": "绳匠与丝弦",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「伊芙！我有一个重大发现——伊芙和{M#哲}{F#铃}都是长条形的！」</i>",
+        "<i>「…这两者的共性是什么？」</i>",
+        "<i>「你们都是我最喜欢的人啊！」</i>",
+        "<i>嘉音像发现了什么不得了的机密一般，开心而明媚。</i>"
       ]
     },
     "6": {
       "name": "我们即是世界",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下释放和追加释放的<span style=\"color:#FFFFFF;\">[震音]</span>和<span style=\"color:#FFFFFF;\">[音簇]</span>的伤害倍率提升至原本的200%，暴击率提升80%；触发<span style=\"color:#FFFFFF;\">[精准支援]</span>时，耀嘉音会自动追加发动蓄力完成后的<span style=\"color:#FFFFFF;\">[普通攻击：《随想曲》]</span>第三段攻击，并使该招式的暴击率提升80%，10秒内最多触发一次。"
+        "在<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下释放和追加释放的<span style=\"color:#FFFFFF;\">[震音]</span>和<span style=\"color:#FFFFFF;\">[音簇]</span>的伤害倍率提升至原本的200%，暴击率提升80%；触发<span style=\"color:#FFFFFF;\">[精准支援]</span>时，耀嘉音会自动追加发动蓄力完成后的<span style=\"color:#FFFFFF;\">[普通攻击：《随想曲》]</span>第三段攻击，并使该招式的暴击率提升80%，10秒内最多触发一次。",
+        "<i>世界的纷纷扰扰，都是源自人心的孤寂。如果每个人的心都可以得到回音，会不会，这个世界的苦难、悲伤、沉默都可以被统统抹去？</i>",
+        "<i>若能用歌声编织起这份连结，是否所有的裂痕都会愈合，所有的痛楚都会化作悠扬的音律，在寂静中响起？那时，整个世界，便不再是任何一座孤岛。</i>",
+        "<i>「这首歌，献给这个世界！」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：《如歌的行板》 / 额外能力：《月华乱舞》",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：《如歌的行板》</h3>",
-      "<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下，队伍中其他角色通过<span style=\"color:#FFFFFF;\">[快速支援]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[招架支援]</span>或<span style=\"color:#FFFFFF;\">[回避支援]</span>入场，耀嘉音消耗能量追加释放<span style=\"color:#FFFFFF;\">[震音]</span>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的22%/24%/26%/28%/30%/32%，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+      "<span style=\"color:#FFFFFF;\">[咏叹华彩]</span>状态下，队伍中其他角色通过<span style=\"color:#FFFFFF;\">[快速支援]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[招架支援]</span>或<span style=\"color:#FFFFFF;\">[回避支援]</span>入场，耀嘉音消耗能量追加释放<span style=\"color:#FFFFFF;\">[震音]</span>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<span style=\"color:#2BAD00;\">(22%/24%/26%/28%/30%/32%/35%)</span>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
       "<h3>额外能力：《月华乱舞》</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>、<span style=\"color:#FFFFFF;\">[异常]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
       "消耗能量发动<span style=\"color:#FFFFFF;\">[精准支援]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：终曲]</span>时，耀嘉音将额外追加释放1道<span style=\"color:#FFFFFF;\">[震音]</span>和3枚<span style=\"color:#FFFFFF;\">[音簇]</span>进行攻击。"

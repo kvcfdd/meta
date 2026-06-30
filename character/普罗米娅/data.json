@@ -17,7 +17,7 @@
     "def": 612.6038
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -57,7 +57,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "49.8%",
@@ -80,7 +80,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "103.2%",
@@ -103,7 +103,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "190.9%",
@@ -126,7 +126,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "204.7%",
@@ -149,7 +149,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "241.5%",
@@ -172,7 +172,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "33.8%",
@@ -195,7 +195,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "69.1%",
@@ -218,7 +218,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "124.9%",
@@ -241,7 +241,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "136.3%",
@@ -264,7 +264,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "160.4%",
@@ -287,7 +287,7 @@
         },
         {
           "name": "披风切割每秒伤害倍率",
-          "unit": "普通攻击：偏锋",
+          "unit": "偏锋",
           "isSame": false,
           "values": [
             "19.5%",
@@ -310,7 +310,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：旋刃",
+          "unit": "旋刃",
           "isSame": false,
           "values": [
             "175.5%",
@@ -333,7 +333,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：旋刃",
+          "unit": "旋刃",
           "isSame": false,
           "values": [
             "82.5%",
@@ -377,7 +377,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：折袭",
+          "unit": "折袭",
           "isSame": false,
           "values": [
             "79.1%",
@@ -400,7 +400,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：折袭",
+          "unit": "折袭",
           "isSame": false,
           "values": [
             "67%",
@@ -423,7 +423,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：禁令",
+          "unit": "禁令",
           "isSame": false,
           "values": [
             "271.3%",
@@ -446,7 +446,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：禁令",
+          "unit": "禁令",
           "isSame": false,
           "values": [
             "342.8%",
@@ -469,7 +469,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：禁令",
+          "unit": "禁令",
           "isSame": false,
           "values": [
             "166.8%",
@@ -492,7 +492,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：截兵",
+          "unit": "截兵",
           "isSame": false,
           "values": [
             "469%",
@@ -515,7 +515,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：截兵",
+          "unit": "截兵",
           "isSame": false,
           "values": [
             "346.7%",
@@ -576,7 +576,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：处刑式·寒芒乍现",
+          "unit": "处刑式·寒芒乍现",
           "isSame": false,
           "values": [
             "127.8%",
@@ -599,7 +599,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：处刑式·寒芒乍现",
+          "unit": "处刑式·寒芒乍现",
           "isSame": false,
           "values": [
             "54.1%",
@@ -622,7 +622,7 @@
         },
         {
           "name": "飞镖射击总伤害倍率",
-          "unit": "强化特殊技：处刑式·封喉霜径",
+          "unit": "处刑式·封喉霜径",
           "isSame": false,
           "values": [
             "79.3%",
@@ -645,7 +645,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：处刑式·封喉霜径",
+          "unit": "处刑式·封喉霜径",
           "isSame": true,
           "values": [
             "40点"
@@ -653,7 +653,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：处刑式·坠霜",
+          "unit": "处刑式·坠霜",
           "isSame": false,
           "values": [
             "383.8%",
@@ -676,7 +676,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：处刑式·坠霜",
+          "unit": "处刑式·坠霜",
           "isSame": false,
           "values": [
             "274.3%",
@@ -699,7 +699,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：处刑式·重霜",
+          "unit": "处刑式·重霜",
           "isSame": false,
           "values": [
             "608.2%",
@@ -722,7 +722,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：处刑式·重霜",
+          "unit": "处刑式·重霜",
           "isSame": false,
           "values": [
             "450.6%",
@@ -745,7 +745,7 @@
         },
         {
           "name": "飞镖切割总伤害倍率",
-          "unit": "特殊技：处刑式·重霜",
+          "unit": "处刑式·重霜",
           "isSame": false,
           "values": [
             "12.1%",
@@ -768,7 +768,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：处刑式·绝裁",
+          "unit": "处刑式·绝裁",
           "isSame": false,
           "values": [
             "512.3%",
@@ -791,7 +791,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：处刑式·绝裁",
+          "unit": "处刑式·绝裁",
           "isSame": false,
           "values": [
             "121.6%",
@@ -834,7 +834,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：倒悬清算",
+          "unit": "倒悬清算",
           "isSame": false,
           "values": [
             "830.8%",
@@ -857,7 +857,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：倒悬清算",
+          "unit": "倒悬清算",
           "isSame": false,
           "values": [
             "264.1%",
@@ -880,7 +880,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：彻骨磔罚",
+          "unit": "彻骨磔罚",
           "isSame": false,
           "values": [
             "1538.4%",
@@ -903,7 +903,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：彻骨磔罚",
+          "unit": "彻骨磔罚",
           "isSame": false,
           "values": [
             "249.4%",
@@ -946,7 +946,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：掠命",
+          "unit": "掠命",
           "isSame": false,
           "values": [
             "56.3%",
@@ -969,7 +969,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：掠命",
+          "unit": "掠命",
           "isSame": false,
           "values": [
             "23.9%",
@@ -992,7 +992,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：蝠跃",
+          "unit": "蝠跃",
           "isSame": false,
           "values": [
             "335.7%",
@@ -1015,7 +1015,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：蝠跃",
+          "unit": "蝠跃",
           "isSame": false,
           "values": [
             "243.9%",
@@ -1043,42 +1043,68 @@
     "1": {
       "name": "理想稚嫩",
       "desc": [
-        "普罗米娅发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>时额外获得效果：<span style=\"color:#FFFFFF;\">[霜刑]</span>不满时获得1点<span style=\"color:#FFFFFF;\">[霜刑]</span>，该效果在发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>后可触发一次；全队角色对<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态的敌人造成<span style=\"color:#FFFFFF;\">[异放]</span>效果时额外无视20%防御力。"
+        "普罗米娅发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>时额外获得效果：<span style=\"color:#FFFFFF;\">[霜刑]</span>不满时获得1点<span style=\"color:#FFFFFF;\">[霜刑]</span>，该效果在发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>后可触发一次；全队角色对<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态的敌人造成<span style=\"color:#FFFFFF;\">[异放]</span>效果时额外无视20%防御力。",
+        "<i>这是一片混乱的无主之地。</i>",
+        "<i>轰鸣的引擎与扬起的沙尘，钢筋与血肉的碰撞，纷争与暴力，日日夜夜地上演着。</i>",
+        "<i>稚嫩的孩子握紧了同样稚嫩的武器，彷徨地走在同样彷徨的红土地上。</i>",
+        "<i>「你愿意，为这儿的和平尽一份力吗？」</i>"
       ]
     },
     "2": {
       "name": "信念飘摇",
       "desc": [
-        "普罗米娅的异常精通提升40点；消耗<span style=\"color:#FFFFFF;\">[霜刑]</span>造成的<span style=\"color:#FFFFFF;\">[异放]</span>效果的倍率提升120%。"
+        "普罗米娅的异常精通提升40点；消耗<span style=\"color:#FFFFFF;\">[霜刑]</span>造成的<span style=\"color:#FFFFFF;\">[异放]</span>效果的倍率提升120%。",
+        "<i>她成为了出色的清道夫，干净利落，了无声息。目标清晰而众多，是以骸，是感染不可逆侵蚀症的患者，是终将异变的以骸，是溅起的血花与耳边的悲鸣。</i>",
+        "<i>可是，这是对的吗？</i>",
+        "<i>「这是清道夫的责任！」「就当是…为了这儿的大多数人，明白了吗！」「那些家伙迟早会死的。」…</i>",
+        "<i>「这是必要的牺牲。」</i>"
       ]
     },
     "3": {
       "name": "月光残忍",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>真相往往从一次不起眼的意外中被剖出。</i>",
+        "<i>「只是处理那些没用的废物以骸的话，你以为清道夫要怎么捞到现在的油水？！」</i>",
+        "<i>「帮派斗争可是门稳赚不赔的生意。你怕脏了自己的手，『黑狼』倒是眼红得紧…」</i>",
+        "<i>很快，夜晚来了，比所有人以为的更早。</i>",
+        "<i>清道夫，卡吕冬，叫得上名字和叫不上名字的帮派，混乱的时代，似乎都消逝在漫漫无边的黑夜里。</i>"
       ]
     },
     "4": {
       "name": "冷酷罪名",
       "desc": [
-        "普罗米娅触发<span style=\"color:#FFFFFF;\">[异放]</span>效果时，回复5点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，0.5秒内最多触发一次。"
+        "普罗米娅触发<span style=\"color:#FFFFFF;\">[异放]</span>效果时，回复5点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，0.5秒内最多触发一次。",
+        "<i>一封邀请函寄来了对飞蛾的审判。</i>",
+        "<i>选择的权利，光明，正义，以及作为「普罗米娅」的全部。</i>",
+        "<i>她戴上手铐，选择了对自我的流放。</i>",
+        "<i>「这是我，最后的选择。」</i>"
       ]
     },
     "5": {
       "name": "飞蛾将死",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>她将自己淹没在工作之中。</i>",
+        "<i>调查，审讯，裁决，几乎无穷无尽。</i>",
+        "<i>同伴担忧地望着她。</i>",
+        "<i>「你打算这样…到什么时候？」</i>",
+        "<i>「直到赎清全部的罪行，或是迎接死亡。」</i>"
       ]
     },
     "6": {
       "name": "故事未完待续",
       "desc": [
-        "普罗米娅消耗<span style=\"color:#FFFFFF;\">[霜刑]</span>触发<span style=\"color:#FFFFFF;\">[异放]</span>效果时，额外触发一次特殊的<span style=\"color:#FFFFFF;\">[异放]</span>效果，固定结算200%倍率的对应属性的属性异常伤害，同时回复5点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>、100点喧响值，该效果每15秒最多触发一次；此外，普罗米娅造成的属性异常伤害、<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害无视敌人15%全属性伤害抗性。"
+        "普罗米娅消耗<span style=\"color:#FFFFFF;\">[霜刑]</span>触发<span style=\"color:#FFFFFF;\">[异放]</span>效果时，额外触发一次特殊的<span style=\"color:#FFFFFF;\">[异放]</span>效果，固定结算200%倍率的对应属性的属性异常伤害，同时回复5点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>、100点喧响值，该效果每15秒最多触发一次；此外，普罗米娅造成的属性异常伤害、<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害无视敌人15%全属性伤害抗性。",
+        "<i>终点并没有如期到来，夜晚也并没有想象中的那般漆黑。</i>",
+        "<i>同僚，旧相识，深夜亮起的灯盏与新的朋友…</i>",
+        "<i>「可怜」的飞蛾似乎尚且无法摆脱如此沉甸甸的馈赠，某个期待已久的结局似乎更远了些。</i>",
+        "<i>但这样的命运，似乎也不错？</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：盗火 / 额外能力：饮冰",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：盗火</h3>",
       "若普罗米娅的初始异常掌控大于150点，每超过1点初始异常掌控会提升自身1.5点异常精通，提升0.35%全队造成的<span style=\"color:#FFFFFF;\">[异放]</span>伤害；",
@@ -1086,7 +1112,7 @@
       "队友触发<span style=\"color:#FFFFFF;\">[异放]</span>效果命中敌人时，普罗米娅额外回复15点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>；",
       "若<span style=\"color:#FFFFFF;\">[寒蚀值]</span>大于等于50点，则消耗50点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，转化为1点<span style=\"color:#FFFFFF;\">[霜刑]</span>，最多获得2点<span style=\"color:#FFFFFF;\">[霜刑]</span>；",
       "进入战场时，普罗米娅获得2点<span style=\"color:#FFFFFF;\">[霜刑]</span>；",
-      "发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>的终结一击命中处于<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的敌人时，触发1次<span style=\"color:#FFFFFF;\">[异放]</span>效果，固定结算330%/385%/435%/485%/535%/585%倍率的对应属性的属性异常伤害，招式发动时消耗1点<span style=\"color:#FFFFFF;\">[霜刑]</span>;",
+      "发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>的终结一击命中处于<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的敌人时，触发1次<span style=\"color:#FFFFFF;\">[异放]</span>效果，固定结算<span style=\"color:#2BAD00;\">(330%/385%/435%/485%/535%/585%/635%)</span>倍率的对应属性的属性异常伤害，招式发动时消耗1点<span style=\"color:#FFFFFF;\">[霜刑]</span>;",
       "普罗米娅触发<span style=\"color:#FFFFFF;\">[异放]</span>效果命中敌人时额外回复100点喧响值，0.5秒内最多触发一次，发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>时获得<span style=\"color:#FFFFFF;\">[寒誓]</span>效果，拥有<span style=\"color:#FFFFFF;\">[寒誓]</span>效果时，发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>、<span style=\"color:#FFFFFF;\">[连携技：倒悬清算]</span>、<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>后点按或长按「特殊技」可消耗<span style=\"color:#FFFFFF;\">[寒誓]</span>效果直接衔接<span style=\"color:#FFFFFF;\">[特殊技：处刑式·重霜]</span>，<span style=\"color:#FFFFFF;\">[寒誓]</span>效果最多获得1层。",
       "<h3>额外能力：饮冰</h3>",
       "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",

@@ -17,7 +17,7 @@
     "def": 753.862
   },
   "growAttr": {
-    "冲击力": 0.18,
+    "冲击力": 18,
     "基础攻击力": 75
   },
   "talentId": {
@@ -50,7 +50,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "47.2%",
@@ -73,7 +73,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "40.9%",
@@ -96,7 +96,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "148.3%",
@@ -119,7 +119,7 @@
         },
         {
           "name": "三段（派生）伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "118.4%",
@@ -142,7 +142,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "78.8%",
@@ -165,7 +165,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "198.6%",
@@ -188,7 +188,7 @@
         },
         {
           "name": "六段伤害倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "399.9%",
@@ -211,7 +211,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "21.3%",
@@ -234,7 +234,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "33.8%",
@@ -257,7 +257,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "110%",
@@ -280,7 +280,7 @@
         },
         {
           "name": "三段（派生）失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "73.6%",
@@ -303,7 +303,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "67.5%",
@@ -326,7 +326,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "137.5%",
@@ -349,7 +349,7 @@
         },
         {
           "name": "六段失衡倍率",
-          "unit": "普通攻击：横行斩打",
+          "unit": "横行斩打",
           "isSame": false,
           "values": [
             "262.6%",
@@ -372,7 +372,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：此路不通！",
+          "unit": "此路不通！",
           "isSame": false,
           "values": [
             "126.3%",
@@ -395,7 +395,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：此路不通！",
+          "unit": "此路不通！",
           "isSame": false,
           "values": [
             "93.2%",
@@ -418,7 +418,7 @@
         },
         {
           "name": "支援点数消耗",
-          "unit": "普通攻击：此路不通！",
+          "unit": "此路不通！",
           "isSame": true,
           "values": [
             "1点"
@@ -448,7 +448,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：变道支援",
+          "unit": "变道支援",
           "isSame": false,
           "values": [
             "64.2%",
@@ -471,7 +471,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：变道支援",
+          "unit": "变道支援",
           "isSame": false,
           "values": [
             "64.2%",
@@ -494,7 +494,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：守御之盾",
+          "unit": "守御之盾",
           "isSame": false,
           "values": [
             "271.3%",
@@ -517,7 +517,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：守御之盾",
+          "unit": "守御之盾",
           "isSame": false,
           "values": [
             "345.3%",
@@ -540,7 +540,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：守御之盾",
+          "unit": "守御之盾",
           "isSame": false,
           "values": [
             "169.3%",
@@ -563,7 +563,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：支援之锋",
+          "unit": "支援之锋",
           "isSame": false,
           "values": [
             "407.2%",
@@ -586,7 +586,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：支援之锋",
+          "unit": "支援之锋",
           "isSame": false,
           "values": [
             "356.3%",
@@ -650,7 +650,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：震荡盾击",
+          "unit": "震荡盾击",
           "isSame": false,
           "values": [
             "53.3%",
@@ -673,7 +673,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：震荡盾击",
+          "unit": "震荡盾击",
           "isSame": false,
           "values": [
             "24%",
@@ -696,7 +696,7 @@
         },
         {
           "name": "[精准格挡]失衡倍率",
-          "unit": "特殊技：震荡盾击",
+          "unit": "震荡盾击",
           "isSame": false,
           "values": [
             "77%",
@@ -719,7 +719,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：喧嚣直刺",
+          "unit": "喧嚣直刺",
           "isSame": false,
           "values": [
             "58.8%",
@@ -742,7 +742,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：喧嚣直刺",
+          "unit": "喧嚣直刺",
           "isSame": false,
           "values": [
             "26.5%",
@@ -765,7 +765,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：招架反击",
+          "unit": "招架反击",
           "isSame": false,
           "values": [
             "387.2%",
@@ -788,7 +788,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：招架反击",
+          "unit": "招架反击",
           "isSame": false,
           "values": [
             "252.6%",
@@ -811,7 +811,7 @@
         },
         {
           "name": "[精准格挡]失衡倍率",
-          "unit": "强化特殊技：招架反击",
+          "unit": "招架反击",
           "isSame": false,
           "values": [
             "154%",
@@ -834,7 +834,7 @@
         },
         {
           "name": "[精准格挡]反击伤害倍率",
-          "unit": "强化特殊技：招架反击",
+          "unit": "招架反击",
           "isSame": false,
           "values": [
             "387.2%",
@@ -857,7 +857,7 @@
         },
         {
           "name": "[精准格挡]反击失衡倍率",
-          "unit": "强化特殊技：招架反击",
+          "unit": "招架反击",
           "isSame": false,
           "values": [
             "252.6%",
@@ -880,7 +880,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：招架反击",
+          "unit": "招架反击",
           "isSame": true,
           "values": [
             "40点"
@@ -888,7 +888,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：超强力盾击",
+          "unit": "超强力盾击",
           "isSame": false,
           "values": [
             "425.7%",
@@ -911,7 +911,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：超强力盾击",
+          "unit": "超强力盾击",
           "isSame": false,
           "values": [
             "288.4%",
@@ -934,7 +934,7 @@
         },
         {
           "name": "[精准格挡]失衡倍率",
-          "unit": "强化特殊技：超强力盾击",
+          "unit": "超强力盾击",
           "isSame": false,
           "values": [
             "154%",
@@ -957,7 +957,7 @@
         },
         {
           "name": "点按发动能量消耗",
-          "unit": "强化特殊技：超强力盾击",
+          "unit": "超强力盾击",
           "isSame": true,
           "values": [
             "20点"
@@ -982,7 +982,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：路怒震打",
+          "unit": "路怒震打",
           "isSame": false,
           "values": [
             "638.8%",
@@ -1005,7 +1005,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：路怒震打",
+          "unit": "路怒震打",
           "isSame": false,
           "values": [
             "199.9%",
@@ -1028,7 +1028,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：暴君猛击",
+          "unit": "暴君猛击",
           "isSame": false,
           "values": [
             "2012.3%",
@@ -1051,7 +1051,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：暴君猛击",
+          "unit": "暴君猛击",
           "isSame": false,
           "values": [
             "278.7%",
@@ -1074,7 +1074,7 @@
         },
         {
           "name": "失衡值提升",
-          "unit": "终结技：暴君猛击",
+          "unit": "暴君猛击",
           "isSame": true,
           "values": [
             "{CAL:40+AvatarSkillLevel(3)*5,1,2}%"
@@ -1102,7 +1102,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：猪突猛进",
+          "unit": "猪突猛进",
           "isSame": false,
           "values": [
             "62.3%",
@@ -1125,7 +1125,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：猪突猛进",
+          "unit": "猪突猛进",
           "isSame": false,
           "values": [
             "31.2%",
@@ -1148,7 +1148,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：以牙还牙",
+          "unit": "以牙还牙",
           "isSame": false,
           "values": [
             "193.5%",
@@ -1171,7 +1171,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：以牙还牙",
+          "unit": "以牙还牙",
           "isSame": false,
           "values": [
             "174.2%",
@@ -1199,47 +1199,62 @@
     "1": {
       "name": "楔式进军",
       "desc": [
-        "成为接战状态下的当前操作角色时，凯撒立即为全队提供<span style=\"color:#FFFFFF;\">[荣光之盾]</span>，300秒内最多触发一次；<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，持有者附近5米范围内敌人的全属性伤害抗性降低15%。"
+        "成为接战状态下的当前操作角色时，凯撒立即为全队提供<span style=\"color:#FFFFFF;\">[荣光之盾]</span>，300秒内最多触发一次；<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，持有者附近5米范围内敌人的全属性伤害抗性降低15%。",
+        "<i>「大老爹教过我，这时候就该以强大的兵力构成楔子般的队形，向敌方最薄弱之处进行攻击——」</i>",
+        "<i>「当然，是由我来打头阵！」</i>"
       ]
     },
     "2": {
       "name": "异域传承",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[核心被动：坚韧之壁]</span>中，<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，凯撒的能量获得效率提升10%，持有者的攻击力提升效果提升至原本的150%。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：坚韧之壁]</span>中，<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，凯撒的能量获得效率提升10%，持有者的攻击力提升效果提升至原本的150%。",
+        "<i>凯撒的战斗方式与新艾利都或是外环的风格都略有不同，继承成自流浪者集团最厉害的武者们。</i>",
+        "<i>在恰当的时候收敛锋芒，在恰当的时候一击毙命——这向来是流浪者们的生存之道。</i>",
+        "<i>而凯撒一直是个好学生。</i>"
       ]
     },
     "3": {
       "name": "绝对信任",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>一旦认可某个人之后，凯撒就会把对方划到自己的麾下，并予以其绝对的信任，毫不设防…</i>",
+        "<i>一如她现在对待你那样。</i>"
       ]
     },
     "4": {
       "name": "阿瑞斯攻城锤",
       "desc": [
-        "凯撒发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，额外回复3点<span style=\"color:#FFFFFF;\">[支援点数]</span>；凯撒的能量值不足20点时，可以消耗1点<span style=\"color:#FFFFFF;\">[支援点数]</span>作为代替，发动<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>，代替效果5秒内最多触发一次。"
+        "凯撒发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，额外回复3点<span style=\"color:#FFFFFF;\">[支援点数]</span>；凯撒的能量值不足20点时，可以消耗1点<span style=\"color:#FFFFFF;\">[支援点数]</span>作为代替，发动<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>，代替效果5秒内最多触发一次。",
+        "<i>凯撒在流浪者集团导师教育下学会的战术之一。</i>",
+        "<i>「无论如何，我会战到最后一刻！」</i>"
       ]
     },
     "5": {
       "name": "浪漫征伐",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>与外表不同，凯撒拥有特别的浪漫情怀。</i>",
+        "<i>例如她总是对一些恋爱戏码充满了好奇心。</i>",
+        "<i>但如果你和她更「深入」地聊这个话题…凯撒则会难得红了脸。</i>"
       ]
     },
     "6": {
       "name": "霸主之志",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>和<span style=\"color:#FFFFFF;\">[支援突击：支援之锋]</span>必定触发暴击，招式造成的伤害提升50%，对主要目标造成的伤害额外提升50%；凯撒发动<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>或<span style=\"color:#FFFFFF;\">[支援突击：支援之锋]</span>时，自身暴击率提升30%，暴击伤害提升60%，持续15秒。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>和<span style=\"color:#FFFFFF;\">[支援突击：支援之锋]</span>必定触发暴击，招式造成的伤害提升50%，对主要目标造成的伤害额外提升50%；凯撒发动<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>或<span style=\"color:#FFFFFF;\">[支援突击：支援之锋]</span>时，自身暴击率提升30%，暴击伤害提升60%，持续15秒。",
+        "<i>「我曾只看向前方。我以为只要自己够强，就没有办不到的事。」</i>",
+        "<i>「但要成为优秀的霸主，这还远远不够。」</i>",
+        "<i>「我还需要守护好后方的同伴——他们才是我最大的底气。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：坚韧之壁 / 额外能力：战意激昂",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：坚韧之壁</h3>",
-      "凯撒发动<span style=\"color:#FFFFFF;\">[强化特殊技：招架反击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>或以<span style=\"color:#FFFFFF;\">[防御反击]</span>的方式发动<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>时，为全队提供等同于自身300%/500%/700%/900%/1100%/1300%初始冲击力+200/400/700/900/1100/1300点的护盾<span style=\"color:#FFFFFF;\">[荣光之盾]</span>，持续60秒，<span style=\"color:#FFFFFF;\">[荣光之盾]</span>由当前操作中的角色持有，护盾值为全队共享，单次受到的伤害不会超过护盾值；",
+      "凯撒发动<span style=\"color:#FFFFFF;\">[强化特殊技：招架反击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>或以<span style=\"color:#FFFFFF;\">[防御反击]</span>的方式发动<span style=\"color:#FFFFFF;\">[强化特殊技：超强力盾击]</span>时，为全队提供等同于自身<span style=\"color:#2BAD00;\">(300%/500%/700%/900%/1100%/1300%/1400%)</span>初始冲击力+<span style=\"color:#2BAD00;\">(200/400/700/900/1100/1300/1400)</span>点的护盾<span style=\"color:#FFFFFF;\">[荣光之盾]</span>，持续60秒，<span style=\"color:#FFFFFF;\">[荣光之盾]</span>由当前操作中的角色持有，护盾值为全队共享，单次受到的伤害不会超过护盾值；",
       "<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，持有者的抗打断等级提升；",
-      "<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，持有者的攻击力提升40/135/240/400/650/900点，<span style=\"color:#FFFFFF;\">[荣光之盾]</span>效果结束后，该增益效果仍然保留，持续5秒。",
+      "<span style=\"color:#FFFFFF;\">[荣光之盾]</span>存在期间，持有者的攻击力提升<span style=\"color:#2BAD00;\">(40/135/240/400/650/900/1000)</span>点，<span style=\"color:#FFFFFF;\">[荣光之盾]</span>效果结束后，该增益效果仍然保留，持续5秒。",
       "<h3>额外能力：战意激昂</h3>",
       "队伍中存在其他可发动<span style=\"color:#FFFFFF;\">[招架支援]</span>的角色或与自身阵营相同的角色时触发：",
       "凯撒触发<span style=\"color:#FFFFFF;\">[精准格挡]</span>、<span style=\"color:#FFFFFF;\">[防御反击]</span>、<span style=\"color:#FFFFFF;\">[招架支援]</span>或发动<span style=\"color:#FFFFFF;\">[普通攻击：此路不通！]</span>时，对自身附近7米范围内的敌人施加减益效果，使全队角色对其造成的伤害提升25%，持续30秒。"

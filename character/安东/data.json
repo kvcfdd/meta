@@ -51,7 +51,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "67.8%",
@@ -74,7 +74,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "92.3%",
@@ -97,7 +97,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "109.8%",
@@ -120,7 +120,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "229.1%",
@@ -143,7 +143,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "33.9%",
@@ -166,7 +166,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "75.3%",
@@ -189,7 +189,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "93.3%",
@@ -212,7 +212,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：热血上工操",
+          "unit": "热血上工操",
           "isSame": false,
           "values": [
             "181.4%",
@@ -235,7 +235,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：热血上工操（爆发状态）",
+          "unit": "热血上工操（爆发状态）",
           "isSame": false,
           "values": [
             "240.9%",
@@ -258,7 +258,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：热血上工操（爆发状态）",
+          "unit": "热血上工操（爆发状态）",
           "isSame": false,
           "values": [
             "469.2%",
@@ -281,7 +281,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：热血上工操（爆发状态）",
+          "unit": "热血上工操（爆发状态）",
           "isSame": false,
           "values": [
             "456.9%",
@@ -304,7 +304,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：热血上工操（爆发状态）",
+          "unit": "热血上工操（爆发状态）",
           "isSame": false,
           "values": [
             "166%",
@@ -327,7 +327,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：热血上工操（爆发状态）",
+          "unit": "热血上工操（爆发状态）",
           "isSame": false,
           "values": [
             "323.3%",
@@ -350,7 +350,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：热血上工操（爆发状态）",
+          "unit": "热血上工操（爆发状态）",
           "isSame": false,
           "values": [
             "314.8%",
@@ -398,7 +398,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：并肩作战",
+          "unit": "并肩作战",
           "isSame": false,
           "values": [
             "263.4%",
@@ -421,7 +421,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：并肩作战",
+          "unit": "并肩作战",
           "isSame": false,
           "values": [
             "131.7%",
@@ -444,7 +444,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "快速支援：援护钻击（爆发状态）",
+          "unit": "援护钻击（爆发状态）",
           "isSame": false,
           "values": [
             "365.4%",
@@ -467,7 +467,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：援护钻击（爆发状态）",
+          "unit": "援护钻击（爆发状态）",
           "isSame": false,
           "values": [
             "251.8%",
@@ -490,7 +490,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：钢腕",
+          "unit": "钢腕",
           "isSame": false,
           "values": [
             "246.7%",
@@ -513,7 +513,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：钢腕",
+          "unit": "钢腕",
           "isSame": false,
           "values": [
             "311.7%",
@@ -536,7 +536,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：钢腕",
+          "unit": "钢腕",
           "isSame": false,
           "values": [
             "151.7%",
@@ -559,7 +559,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：极限突进",
+          "unit": "极限突进",
           "isSame": false,
           "values": [
             "325.8%",
@@ -582,7 +582,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：极限突进",
+          "unit": "极限突进",
           "isSame": false,
           "values": [
             "282.7%",
@@ -626,7 +626,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：兄弟，转起来！",
+          "unit": "兄弟，转起来！",
           "isSame": false,
           "values": [
             "44.2%",
@@ -649,7 +649,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：兄弟，转起来！",
+          "unit": "兄弟，转起来！",
           "isSame": false,
           "values": [
             "44.2%",
@@ -672,7 +672,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：爆发钻击（爆发状态）",
+          "unit": "爆发钻击（爆发状态）",
           "isSame": false,
           "values": [
             "231.4%",
@@ -695,7 +695,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：爆发钻击（爆发状态）",
+          "unit": "爆发钻击（爆发状态）",
           "isSame": false,
           "values": [
             "118.4%",
@@ -718,7 +718,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：兄弟，突破天际！",
+          "unit": "兄弟，突破天际！",
           "isSame": false,
           "values": [
             "195.1%",
@@ -741,7 +741,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：兄弟，突破天际！",
+          "unit": "兄弟，突破天际！",
           "isSame": false,
           "values": [
             "195.1%",
@@ -764,7 +764,7 @@
         },
         {
           "name": "发动所需能量",
-          "unit": "强化特殊技：兄弟，突破天际！",
+          "unit": "兄弟，突破天际！",
           "isSame": true,
           "values": [
             "40点"
@@ -788,7 +788,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：转转转！",
+          "unit": "转转转！",
           "isSame": false,
           "values": [
             "640.7%",
@@ -811,7 +811,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：转转转！",
+          "unit": "转转转！",
           "isSame": false,
           "values": [
             "241.7%",
@@ -834,7 +834,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：转转转转转！",
+          "unit": "转转转转转！",
           "isSame": false,
           "values": [
             "1816.4%",
@@ -857,7 +857,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：转转转转转！",
+          "unit": "转转转转转！",
           "isSame": false,
           "values": [
             "243.4%",
@@ -903,7 +903,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：硬碰硬",
+          "unit": "硬碰硬",
           "isSame": false,
           "values": [
             "68.4%",
@@ -926,7 +926,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：硬碰硬",
+          "unit": "硬碰硬",
           "isSame": false,
           "values": [
             "34.2%",
@@ -949,7 +949,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：回敬拳击",
+          "unit": "回敬拳击",
           "isSame": false,
           "values": [
             "271.2%",
@@ -972,7 +972,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：回敬拳击",
+          "unit": "回敬拳击",
           "isSame": false,
           "values": [
             "231.7%",
@@ -995,7 +995,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：过载钻击（爆发状态）",
+          "unit": "过载钻击（爆发状态）",
           "isSame": false,
           "values": [
             "465.4%",
@@ -1018,7 +1018,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：过载钻击（爆发状态）",
+          "unit": "过载钻击（爆发状态）",
           "isSame": false,
           "values": [
             "351.8%",
@@ -1046,45 +1046,58 @@
     "1": {
       "name": "热身运动",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[电钻攻击]</span>命中敌人时，能够额外回复能量；同一招式内，该效果最多为安东回复5点能量。"
+        "<span style=\"color:#FFFFFF;\">[电钻攻击]</span>命中敌人时，能够额外回复能量；同一招式内，该效果最多为安东回复5点能量。",
+        "<i>「醒了吗？转起来，兄弟！」</i>",
+        "<i>「跟上节奏，现在是早操时间！」</i>"
       ]
     },
     "2": {
       "name": "气势如虹",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>进入<span style=\"color:#FFFFFF;\">[爆发状态]</span>时，获得等同于安东7.5%生命值上限的护盾；在<span style=\"color:#FFFFFF;\">[爆发状态]</span>下进入接战状态或换入前场时，将刷新护盾效果，15秒内最多触发一次；退出<span style=\"color:#FFFFFF;\">[爆发状态]</span>时，该护盾效果结束。"
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>进入<span style=\"color:#FFFFFF;\">[爆发状态]</span>时，获得等同于安东7.5%生命值上限的护盾；在<span style=\"color:#FFFFFF;\">[爆发状态]</span>下进入接战状态或换入前场时，将刷新护盾效果，15秒内最多触发一次；退出<span style=\"color:#FFFFFF;\">[爆发状态]</span>时，该护盾效果结束。",
+        "<i>经过长期的艰苦训练，有少部分幸运儿在进行高强度运动时，会爆发绝佳气势，超水平发挥自身能力，俗称「领域」。</i>",
+        "<i>现在，你准备好一起动起来，进入「领域」了吗？</i>",
+        "<i>——燃油饮独家冠名节目，「早安，热血上班族！」</i>"
       ]
     },
     "3": {
       "name": "轮岗培训",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>什么都会一点只能叫平庸，但在情况复杂多变的空洞作业现场，多一个技能有时就意味着多一个突破困境的可能。</i>"
       ]
     },
     "4": {
       "name": "一起燃烧！",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，全队角色暴击率提升10%，持续12秒。"
+        "发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，全队角色暴击率提升10%，持续12秒。",
+        "<i>「想想平时训练的感觉，一起动起来！」</i>",
+        "<i>当安东开始认真时，所有人的动作都会跟着变得利索起来。</i>",
+        "<i>毕竟，如果跟不上他的节拍，明天的早操是要单独加练的。</i>"
       ]
     },
     "5": {
       "name": "全栈专家",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>什么都会一点只能叫平庸，但如果你足够坚定，从「会一点」变成「很擅长」，那你就是全能！</i>"
       ]
     },
     "6": {
       "name": "突破极限",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[打桩攻击]</span>造成暴击时，<span style=\"color:#FFFFFF;\">[普通攻击：热血上工操（爆发状态）]</span>和<span style=\"color:#FFFFFF;\">[闪避反击：过载钻击（爆发状态）]</span>造成的伤害提升4%，最多叠加6层，持续30秒，重复触发时刷新持续时间。"
+        "<span style=\"color:#FFFFFF;\">[打桩攻击]</span>造成暴击时，<span style=\"color:#FFFFFF;\">[普通攻击：热血上工操（爆发状态）]</span>和<span style=\"color:#FFFFFF;\">[闪避反击：过载钻击（爆发状态）]</span>造成的伤害提升4%，最多叠加6层，持续30秒，重复触发时刷新持续时间。",
+        "<i>「哦，兄弟！你也想燃烧吗！」</i>",
+        "<i>每当安东想要突破极限时，</i>",
+        "<i>「兄弟」便会爆发出惊人的转速，以嗡鸣声应和着他的意志。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：兄弟齐心！ / 额外能力：通力合作",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：兄弟齐心！</h3>",
-      "安东发动<span style=\"color:#FFFFFF;\">[打桩攻击]</span>时，招式造成的伤害提升12%/14%/16%/18%/20%/22%，发动<span style=\"color:#FFFFFF;\">[电钻攻击]</span>时，招式造成的伤害提升20%/23.3%/26.6%/30%/33.3%/36.6%。",
+      "安东发动<span style=\"color:#FFFFFF;\">[打桩攻击]</span>时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(12%/14%/16%/18%/20%/22%/24%)</span>，发动<span style=\"color:#FFFFFF;\">[电钻攻击]</span>时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(20%/23.3%/26.6%/30%/33.3%/36.6%/40%)</span>。",
       "<h3>额外能力：通力合作</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "安东进入<span style=\"color:#FFFFFF;\">[爆发状态]</span>后，每触发4次暴击，下一次攻击命中处于<span style=\"color:#2EB6FF;\">[感电]</span>状态下的敌人时，能够额外结算一次<span style=\"color:#2EB6FF;\">[感电]</span>伤害，伤害效果等同于原本的45%，0.5秒内最多触发一次。"

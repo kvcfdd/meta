@@ -17,7 +17,7 @@
     "def": 619.6099
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -53,7 +53,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "33.2%",
@@ -76,7 +76,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "71.6%",
@@ -99,7 +99,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "93.8%",
@@ -122,7 +122,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "194.2%",
@@ -145,7 +145,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "34.4%",
@@ -168,7 +168,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "68%",
@@ -191,7 +191,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "82.3%",
@@ -214,7 +214,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：甜心律动",
+          "unit": "甜心律动",
           "isSame": false,
           "values": [
             "165.6%",
@@ -237,7 +237,7 @@
         },
         {
           "name": "一段蓄力攻击伤害倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "181.5%",
@@ -260,7 +260,7 @@
         },
         {
           "name": "二段蓄力攻击伤害倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "207.2%",
@@ -283,7 +283,7 @@
         },
         {
           "name": "三段蓄力攻击伤害倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "275%",
@@ -306,7 +306,7 @@
         },
         {
           "name": "三段蓄力攻击伤害倍率（协同）",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "316.3%",
@@ -329,7 +329,7 @@
         },
         {
           "name": "强化蓄力攻击伤害倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "320.9%",
@@ -352,7 +352,7 @@
         },
         {
           "name": "强化蓄力攻击伤害倍率（协同）",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "362.2%",
@@ -375,7 +375,7 @@
         },
         {
           "name": "一段蓄力攻击失衡倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "154.3%",
@@ -398,7 +398,7 @@
         },
         {
           "name": "二段蓄力攻击失衡倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "176.1%",
@@ -421,7 +421,7 @@
         },
         {
           "name": "三段蓄力攻击失衡倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "110%",
@@ -444,7 +444,7 @@
         },
         {
           "name": "三段蓄力攻击失衡倍率（协同）",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "126.5%",
@@ -467,7 +467,7 @@
         },
         {
           "name": "强化蓄力攻击失衡倍率",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "110%",
@@ -490,7 +490,7 @@
         },
         {
           "name": "强化蓄力攻击失衡倍率（协同）",
-          "unit": "普通攻击：绝对音准",
+          "unit": "绝对音准",
           "isSame": false,
           "values": [
             "126.5%",
@@ -534,7 +534,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：破碎幻梦",
+          "unit": "破碎幻梦",
           "isSame": false,
           "values": [
             "49.6%",
@@ -557,7 +557,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：破碎幻梦",
+          "unit": "破碎幻梦",
           "isSame": false,
           "values": [
             "49.6%",
@@ -580,7 +580,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：极限救场",
+          "unit": "极限救场",
           "isSame": false,
           "values": [
             "271.3%",
@@ -603,7 +603,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：极限救场",
+          "unit": "极限救场",
           "isSame": false,
           "values": [
             "342.8%",
@@ -626,7 +626,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：极限救场",
+          "unit": "极限救场",
           "isSame": false,
           "values": [
             "166.8%",
@@ -649,7 +649,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：安可曲目",
+          "unit": "安可曲目",
           "isSame": false,
           "values": [
             "363.5%",
@@ -672,7 +672,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：安可曲目",
+          "unit": "安可曲目",
           "isSame": false,
           "values": [
             "315.7%",
@@ -719,7 +719,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：全糖电音",
+          "unit": "全糖电音",
           "isSame": false,
           "values": [
             "54.3%",
@@ -742,7 +742,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：全糖电音",
+          "unit": "全糖电音",
           "isSame": false,
           "values": [
             "67.9%",
@@ -765,7 +765,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：全糖电音·不加冰",
+          "unit": "全糖电音·不加冰",
           "isSame": false,
           "values": [
             "64.8%",
@@ -788,7 +788,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：全糖电音·不加冰",
+          "unit": "全糖电音·不加冰",
           "isSame": false,
           "values": [
             "67.1%",
@@ -811,7 +811,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：坠入妄想",
+          "unit": "坠入妄想",
           "isSame": false,
           "values": [
             "511.2%",
@@ -834,7 +834,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：坠入妄想",
+          "unit": "坠入妄想",
           "isSame": false,
           "values": [
             "402.7%",
@@ -857,7 +857,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：坠入妄想",
+          "unit": "坠入妄想",
           "isSame": true,
           "values": [
             "40点"
@@ -865,7 +865,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：光速入坑",
+          "unit": "光速入坑",
           "isSame": false,
           "values": [
             "544.5%",
@@ -888,7 +888,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：光速入坑",
+          "unit": "光速入坑",
           "isSame": false,
           "values": [
             "433.6%",
@@ -911,7 +911,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：光速入坑",
+          "unit": "光速入坑",
           "isSame": true,
           "values": [
             "40点"
@@ -940,7 +940,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：梦幻联动",
+          "unit": "梦幻联动",
           "isSame": false,
           "values": [
             "816.2%",
@@ -963,7 +963,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：梦幻联动",
+          "unit": "梦幻联动",
           "isSame": false,
           "values": [
             "231%",
@@ -986,7 +986,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：元气百分百",
+          "unit": "元气百分百",
           "isSame": false,
           "values": [
             "1622.5%",
@@ -1009,7 +1009,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：元气百分百",
+          "unit": "元气百分百",
           "isSame": false,
           "values": [
             "198%",
@@ -1054,7 +1054,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：丝滑小连招",
+          "unit": "丝滑小连招",
           "isSame": false,
           "values": [
             "45.8%",
@@ -1077,7 +1077,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：丝滑小连招",
+          "unit": "丝滑小连招",
           "isSame": false,
           "values": [
             "22.9%",
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：滑动变奏",
+          "unit": "滑动变奏",
           "isSame": false,
           "values": [
             "241.2%",
@@ -1123,7 +1123,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：滑动变奏",
+          "unit": "滑动变奏",
           "isSame": false,
           "values": [
             "210.9%",
@@ -1151,46 +1151,57 @@
     "1": {
       "name": "元气声浪",
       "desc": [
-        "爱芮的<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>对敌人造成伤害时，无视目标10%的<span style=\"color:#FE437E;\">以太异常积蓄抗性</span>；且自身触发<span style=\"color:#FFFFFF;\">[异放]</span>时有概率触发暴击：基础暴击率为25%，暴击伤害为25%；若初始异常掌控大于100点，每超过1点初始异常掌控会使该效果的暴击率额外提升0.5%。"
+        "爱芮的<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>对敌人造成伤害时，无视目标10%的<span style=\"color:#FE437E;\">以太异常积蓄抗性</span>；且自身触发<span style=\"color:#FFFFFF;\">[异放]</span>时有概率触发暴击：基础暴击率为25%，暴击伤害为25%；若初始异常掌控大于100点，每超过1点初始异常掌控会使该效果的暴击率额外提升0.5%。",
+        "<i>「你看到了吗？他们都在期待着我们。所以只要灯光亮起，便一定要饱含元气。这便是身为偶像的意义。」</i>",
+        "<i>——一些上台前的悄悄话。</i>"
       ]
     },
     "2": {
       "name": "梦幻节拍",
       "desc": [
-        "爱芮攻击和触发<span style=\"color:#FFFFFF;\">[异放]</span>时无视目标16%防御力；在<span style=\"color:#FFFFFF;\">[妄想时刻]</span>持续时间内，攻击和触发<span style=\"color:#FFFFFF;\">[异放]</span>时额外无视目标8%防御力。"
+        "爱芮攻击和触发<span style=\"color:#FFFFFF;\">[异放]</span>时无视目标16%防御力；在<span style=\"color:#FFFFFF;\">[妄想时刻]</span>持续时间内，攻击和触发<span style=\"color:#FFFFFF;\">[异放]</span>时额外无视目标8%防御力。",
+        "<i>「不用唱出来，闭上眼睛，去感受它，去接纳它。之后在舞台上，用我们的表演，让全场听众一起爱上它。」</i>"
       ]
     },
     "3": {
       "name": "梦想家",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「梦想也好，妄想也罢，只要奔跑在成为更好自己的路上。每个人都值得被欣赏，每次努力都会有人记在心上。」</i>"
       ]
     },
     "4": {
       "name": "机械天使",
       "desc": [
-        "爱芮触发<span style=\"color:#FFFFFF;\">[异放]</span>时，自身获得4点能量和70点喧响值，10秒内最多触发一次。"
+        "爱芮触发<span style=\"color:#FFFFFF;\">[异放]</span>时，自身获得4点能量和70点喧响值，10秒内最多触发一次。",
+        "<i>我的羽翼，是精钢锻铸的月光，</i>",
+        "<i>在数据中，校准着每一次振响。</i>",
+        "<i>齿轮咬合着宿命的节拍，</i>",
+        "<i>电流是体内寂静的喧嚷。</i>"
       ]
     },
     "5": {
       "name": "雨中之泪",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>我曾看到过，城市被空洞包裹，秩序被以太重塑，美好的一切都被黑暗吞噬，坠入时间的长河…一如泪水消逝在雨中。</i>"
       ]
     },
     "6": {
       "name": "构造体之梦",
       "desc": [
-        "进入战场时，爱芮立即获得1200点喧响值，在勘域模式中此效果180秒内最多触发一次；且爱芮进入<span style=\"color:#FFFFFF;\">[妄想时刻]</span>后将不会退出，<span style=\"color:#FFFFFF;\">强化版[普通攻击：绝对音准]</span>和<span style=\"color:#FFFFFF;\">[终结技]</span>造成的<span style=\"color:#FE437E;\">以太伤害</span>提升40%；当爱芮处于<span style=\"color:#FFFFFF;\">[妄想时刻]</span>时，若场上有敌人进入属性异常状态，爱芮获得1层<span style=\"color:#FFFFFF;\">[全场应援]</span>，该效果6秒内最多触发一次；在获得<span style=\"color:#FFFFFF;\">[全场应援]</span>效果时，若自身已有3层<span style=\"color:#FFFFFF;\">[全场应援]</span>效果，则会将溢出的<span style=\"color:#FFFFFF;\">[全场应援]</span>效果转化为2个<span style=\"color:#FFFFFF;\">[应援能量]</span>生成在场上。"
+        "进入战场时，爱芮立即获得1200点喧响值，在勘域模式中此效果180秒内最多触发一次；且爱芮进入<span style=\"color:#FFFFFF;\">[妄想时刻]</span>后将不会退出，<span style=\"color:#FFFFFF;\">强化版[普通攻击：绝对音准]</span>和<span style=\"color:#FFFFFF;\">[终结技]</span>造成的<span style=\"color:#FE437E;\">以太伤害</span>提升40%；当爱芮处于<span style=\"color:#FFFFFF;\">[妄想时刻]</span>时，若场上有敌人进入属性异常状态，爱芮获得1层<span style=\"color:#FFFFFF;\">[全场应援]</span>，该效果6秒内最多触发一次；在获得<span style=\"color:#FFFFFF;\">[全场应援]</span>效果时，若自身已有3层<span style=\"color:#FFFFFF;\">[全场应援]</span>效果，则会将溢出的<span style=\"color:#FFFFFF;\">[全场应援]</span>效果转化为2个<span style=\"color:#FFFFFF;\">[应援能量]</span>生成在场上。",
+        "<i>你是否还记得，九月的夜晚，爱在那时产生。</i>",
+        "<i>你是否还记得，舞台上的欢舞，在坠入妄想的日子。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：控场核心 / 额外能力：合作舞台",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：控场核心</h3>",
-      "爱芮的异常精通提升45/52/60/67/75/82点；",
-      "爱芮的第三段<span style=\"color:#FFFFFF;\">[普通攻击：绝对音准]</span>重击命中处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的目标时，触发一次<span style=\"color:#FFFFFF;\">[异放]</span>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点初始异常掌控<span style=\"color:#FE437E;\">13.8%</span>/<span style=\"color:#2EB6FF;\">7.2%</span>/<span style=\"color:#FF5521;\">17.9%</span>/<span style=\"color:#F0D12B;\">1.25%</span>/<span style=\"color:#98EFF0;\">1.8%</span>/<span style=\"color:#A6C5FD;\">0.7%</span>，当目标处于失衡状态下时，该伤害比例额外提升<span style=\"color:#FFFFFF;\">50%</span>。",
+      "爱芮的异常精通提升<span style=\"color:#2BAD00;\">(45/52/60/67/75/82/90)</span>点；",
+      "爱芮的第三段<span style=\"color:#FFFFFF;\">[普通攻击：绝对音准]</span>重击命中处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的目标时，触发一次<span style=\"color:#FFFFFF;\">[异放]</span>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点初始异常掌控<span style=\"color:#FE437E;\">(13.8%/16%/18.3%/20.6%/22.9%/25.2%/27.5%)</span>/<span style=\"color:#2EB6FF;\">(7.2%/8.3%/9.5%/10.7%/11.9%/13.1%/14.3%)</span>/<span style=\"color:#FF5521;\">(17.9%/20.8%/23.8%/26.8%/29.8%/32.7%/35.7%)</span>/<span style=\"color:#F0D12B;\">(1.25%/1.46%/1.67%/1.88%/2.08%/2.29%/2.5%)</span>/<span style=\"color:#98EFF0;\">(1.8%/2.1%/2.4%/2.7%/3%/3.3%/3.6%)</span>/<span style=\"color:#A6C5FD;\">(0.7%/0.8%/0.9%/1.1%/1.2%/1.3%/1.4%)</span>，当目标处于失衡状态下时，该伤害比例额外提升<span style=\"color:#FFFFFF;\">50%</span>。",
       "<h3>额外能力：合作舞台</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>、<span style=\"color:#FFFFFF;\">[支援]</span>或与自身阵营相同的角色或其他<span style=\"color:#FFFFFF;\">[异常]</span>角色时触发：",
       "当有<span style=\"color:#FFFFFF;\">[以太帷幕]</span>开启时，会在场上生成4个<span style=\"color:#FFFFFF;\">[应援能量]</span>，1秒内最多触发1次；",

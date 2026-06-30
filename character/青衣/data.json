@@ -17,7 +17,7 @@
     "def": 612.6038
   },
   "growAttr": {
-    "冲击力": 0.18,
+    "冲击力": 18,
     "基础攻击力": 75
   },
   "talentId": {
@@ -60,7 +60,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "47.2%",
@@ -83,7 +83,7 @@
         },
         {
           "name": "一段伤害倍率（派生）",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "110.3%",
@@ -106,7 +106,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "122.1%",
@@ -129,7 +129,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "17.6%",
@@ -152,7 +152,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "106.4%",
@@ -175,7 +175,7 @@
         },
         {
           "name": "四段伤害倍率（强化）",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "234.4%",
@@ -198,7 +198,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "23.6%",
@@ -221,7 +221,7 @@
         },
         {
           "name": "一段失衡倍率（派生）",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "55.2%",
@@ -244,7 +244,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "82.2%",
@@ -267,7 +267,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "19.1%",
@@ -290,7 +290,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "106.3%",
@@ -313,7 +313,7 @@
         },
         {
           "name": "四段失衡倍率（强化）",
-          "unit": "普通攻击：一煞",
+          "unit": "一煞",
           "isSame": false,
           "values": [
             "204.7%",
@@ -336,7 +336,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：醉花云",
+          "unit": "醉花云",
           "isSame": false,
           "values": [
             "85.6%",
@@ -359,7 +359,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：醉花云",
+          "unit": "醉花云",
           "isSame": false,
           "values": [
             "85.6%",
@@ -382,7 +382,7 @@
         },
         {
           "name": "突进攻击伤害倍率",
-          "unit": "普通攻击：醉花月云转",
+          "unit": "醉花月云转",
           "isSame": false,
           "values": [
             "448.7%",
@@ -405,7 +405,7 @@
         },
         {
           "name": "终结一击伤害倍率",
-          "unit": "普通攻击：醉花月云转",
+          "unit": "醉花月云转",
           "isSame": false,
           "values": [
             "394.4%",
@@ -428,7 +428,7 @@
         },
         {
           "name": "突进攻击失衡倍率",
-          "unit": "普通攻击：醉花月云转",
+          "unit": "醉花月云转",
           "isSame": false,
           "values": [
             "271.9%",
@@ -451,7 +451,7 @@
         },
         {
           "name": "终结一击失衡倍率",
-          "unit": "普通攻击：醉花月云转",
+          "unit": "醉花月云转",
           "isSame": false,
           "values": [
             "217.6%",
@@ -495,7 +495,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：风入松",
+          "unit": "风入松",
           "isSame": false,
           "values": [
             "133.9%",
@@ -518,7 +518,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：风入松",
+          "unit": "风入松",
           "isSame": false,
           "values": [
             "133.9%",
@@ -541,7 +541,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：锦上花",
+          "unit": "锦上花",
           "isSame": false,
           "values": [
             "249.3%",
@@ -564,7 +564,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：锦上花",
+          "unit": "锦上花",
           "isSame": false,
           "values": [
             "304.3%",
@@ -587,7 +587,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：锦上花",
+          "unit": "锦上花",
           "isSame": false,
           "values": [
             "128.3%",
@@ -610,7 +610,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：清江引",
+          "unit": "清江引",
           "isSame": false,
           "values": [
             "376.4%",
@@ -633,7 +633,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：清江引",
+          "unit": "清江引",
           "isSame": false,
           "values": [
             "279%",
@@ -673,7 +673,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：昼锦堂",
+          "unit": "昼锦堂",
           "isSame": false,
           "values": [
             "62.4%",
@@ -696,7 +696,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：昼锦堂",
+          "unit": "昼锦堂",
           "isSame": false,
           "values": [
             "62.4%",
@@ -719,7 +719,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：月上海棠",
+          "unit": "月上海棠",
           "isSame": false,
           "values": [
             "602.8%",
@@ -742,7 +742,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：月上海棠",
+          "unit": "月上海棠",
           "isSame": false,
           "values": [
             "444.3%",
@@ -765,7 +765,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：月上海棠",
+          "unit": "月上海棠",
           "isSame": true,
           "values": [
             "60点"
@@ -773,7 +773,7 @@
         },
         {
           "name": "额外能量消耗",
-          "unit": "强化特殊技：月上海棠",
+          "unit": "月上海棠",
           "isSame": true,
           "values": [
             "20点"
@@ -798,7 +798,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：太平令",
+          "unit": "太平令",
           "isSame": false,
           "values": [
             "647.9%",
@@ -821,7 +821,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：太平令",
+          "unit": "太平令",
           "isSame": false,
           "values": [
             "209%",
@@ -844,7 +844,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：八声甘州",
+          "unit": "八声甘州",
           "isSame": false,
           "values": [
             "1670.7%",
@@ -867,7 +867,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：八声甘州",
+          "unit": "八声甘州",
           "isSame": false,
           "values": [
             "1097.1%",
@@ -909,7 +909,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：入破",
+          "unit": "入破",
           "isSame": false,
           "values": [
             "49.5%",
@@ -932,7 +932,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：入破",
+          "unit": "入破",
           "isSame": false,
           "values": [
             "24.8%",
@@ -955,7 +955,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：意不尽",
+          "unit": "意不尽",
           "isSame": false,
           "values": [
             "284%",
@@ -978,7 +978,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：意不尽",
+          "unit": "意不尽",
           "isSame": false,
           "values": [
             "190.4%",
@@ -1006,45 +1006,59 @@
     "1": {
       "name": "介电击穿",
       "desc": [
-        "青衣进入战场时，立即使<span style=\"color:#FFFFFF;\">[闪络电压]</span>回复至上限，并使其后继累积效率提升30%；发动<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>时，若<span style=\"color:#FFFFFF;\">[闪络电压]</span>已累积至上限，则使本次招式命中的敌人防御力降低15%，且自身对该目标的暴击率提升20%，持续15秒。"
+        "青衣进入战场时，立即使<span style=\"color:#FFFFFF;\">[闪络电压]</span>回复至上限，并使其后继累积效率提升30%；发动<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>时，若<span style=\"color:#FFFFFF;\">[闪络电压]</span>已累积至上限，则使本次招式命中的敌人防御力降低15%，且自身对该目标的暴击率提升20%，持续15秒。",
+        "<i>「虽不会有生命危险，不过还请不要拒捕…」</i>",
+        "<i>电流的方向和强度都经过精密的计算，保证每位嫌疑犯都能获得安全的电击体验。</i>"
       ]
     },
     "2": {
       "name": "四两拨千斤",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[核心被动：千秋岁]</span>中每层<span style=\"color:#FFFFFF;\">[羁服]</span>提供的失衡易伤倍率提升效果提升至原本的135%；青衣攻击命中敌人时，若对其施加的<span style=\"color:#FFFFFF;\">[羁服]</span>已叠加至层数上限，则自身对其造成的失衡值提升15%。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：千秋岁]</span>中每层<span style=\"color:#FFFFFF;\">[羁服]</span>提供的失衡易伤倍率提升效果提升至原本的135%；青衣攻击命中敌人时，若对其施加的<span style=\"color:#FFFFFF;\">[羁服]</span>已叠加至层数上限，则自身对其造成的失衡值提升15%。",
+        "<i>旧文明典籍中记载的一种搏击技术，起初似乎是一种拳术而非棍术的技巧。</i>",
+        "<i>「不必拘泥，其实手臂也是一种三节棍，嗯。」</i>"
       ]
     },
     "3": {
       "name": "多喝热水",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「年轻人要注意养生，还是多喝热水吧。」</i>",
+        "<i>每次青衣捧着保温杯啜饮的时候，都给人以非常温暖的感受。但接过她递上的热水时一定要小心——</i>",
+        "<i>「就算是100度的开水前辈也能不动声色地喝下…」某位中过招的治安官留下了这样的记录。</i>"
       ]
     },
     "4": {
       "name": "稳态电弧屏障",
       "desc": [
-        "进入或退出<span style=\"color:#FFFFFF;\">[闪络]</span>状态时，获得等同于青衣10%生命值上限的护盾；护盾效果刷新时，如果上一次获得的护盾仍然存在，则为青衣回复5点能量，能量回复效果10秒内最多触发一次。"
+        "进入或退出<span style=\"color:#FFFFFF;\">[闪络]</span>状态时，获得等同于青衣10%生命值上限的护盾；护盾效果刷新时，如果上一次获得的护盾仍然存在，则为青衣回复5点能量，能量回复效果10秒内最多触发一次。",
+        "<i>怀斯塔学会逆向研究旧文明的钰偶而开发出的电弧屏障，是集防御、攻击、电能转换于一体的技术。</i>",
+        "<i>「俗话说：水能载舟，亦能覆舟。物理学俗话又说：电流如水流。并联得到：电流进可攻退可守。真是相当好的结合。」</i>"
       ]
     },
     "5": {
       "name": "童心未泯",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「善，年轻人就要勇于尝试新的事物，加油！」</i>",
+        "<i>虽然有时候会觉得青衣的鼓励里带着几分摸鱼、几分捉弄。但如果真的不幸捅了娄子，只要信赖她就可以了。</i>",
+        "<i>毕竟是活了几百上千年的老家伙了，什么都能摆平。</i>"
       ]
     },
     "6": {
       "name": "奇经八脉",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>的打断等级大幅提升，招式的暴击伤害额外提升100%；青衣<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>命中敌人时，目标的全属性伤害抗性降低20%，持续15秒。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>的打断等级大幅提升，招式的暴击伤害额外提升100%；青衣<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>命中敌人时，目标的全属性伤害抗性降低20%，持续15秒。",
+        "<i>旧文明典籍中记载的对人体循环系统的一种学说，据说完整掌握这一理论后，可以在搏击中瞬间让对手失去行动能力。</i>",
+        "<i>「下次试试让人发痒的穴位吧，找谁来试验呢？店长？还是朱鸢？」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：千秋岁 / 额外能力：阳关三叠",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：千秋岁</h3>",
-      "青衣在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中发动终结一击命中敌人时，会对敌人施加5层<span style=\"color:#FFFFFF;\">[羁服]</span>，最多叠加20层，每层<span style=\"color:#FFFFFF;\">[羁服]</span>能够使目标的失衡易伤倍率提升2%/2.4%/2.7%/3%/3.4%/3.7%；在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中每发动一次突进攻击，终结一击将额外施加1层<span style=\"color:#FFFFFF;\">[羁服]</span>，在发动终结一击时，若触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>，可以直接施加{CAL:5+5,1,2}层<span style=\"color:#FFFFFF;\">[羁服]</span>；对普通或精英敌人施加[羁服]时，施加的层数翻倍；目标从失衡状态恢复时，对应<span style=\"color:#FFFFFF;\">[羁服]</span>层数重置。",
+      "青衣在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中发动终结一击命中敌人时，会对敌人施加5层<span style=\"color:#FFFFFF;\">[羁服]</span>，最多叠加20层，每层<span style=\"color:#FFFFFF;\">[羁服]</span>能够使目标的失衡易伤倍率提升<span style=\"color:#2BAD00;\">(2%/2.4%/2.7%/3%/3.4%/3.7%/4%)</span>；在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中每发动一次突进攻击，终结一击将额外施加1层<span style=\"color:#FFFFFF;\">[羁服]</span>，在发动终结一击时，若触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>，可以直接施加{CAL:5+5,1,2}层<span style=\"color:#FFFFFF;\">[羁服]</span>；对普通或精英敌人施加[羁服]时，施加的层数翻倍；目标从失衡状态恢复时，对应<span style=\"color:#FFFFFF;\">[羁服]</span>层数重置。",
       "<h3>额外能力：阳关三叠</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或与自身阵营相同的角色时触发：",
       "<span style=\"color:#FFFFFF;\">[普通攻击]</span>造成的失衡值提升20%；此外，若青衣的冲击力高于120点，每超过1点冲击力会使自身的攻击力提升6点，通过这种方式最多使自身的攻击力提升600点。"

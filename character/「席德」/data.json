@@ -59,7 +59,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "46.5%",
@@ -82,7 +82,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "124.1%",
@@ -105,7 +105,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "71.8%",
@@ -128,7 +128,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "358.6%",
@@ -151,7 +151,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "29.4%",
@@ -174,7 +174,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "82.9%",
@@ -197,7 +197,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "44.6%",
@@ -220,7 +220,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：霜蕊轮舞",
+          "unit": "霜蕊轮舞",
           "isSame": false,
           "values": [
             "226.5%",
@@ -243,7 +243,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：落华·重戮",
+          "unit": "落华·重戮",
           "isSame": false,
           "values": [
             "166.6%",
@@ -266,7 +266,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：落华·重戮",
+          "unit": "落华·重戮",
           "isSame": false,
           "values": [
             "144.8%",
@@ -289,7 +289,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：落华·崩坠一式",
+          "unit": "落华·崩坠一式",
           "isSame": false,
           "values": [
             "528.3%",
@@ -312,7 +312,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：落华·崩坠一式",
+          "unit": "落华·崩坠一式",
           "isSame": false,
           "values": [
             "67.9%",
@@ -335,7 +335,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：落华·崩坠二式",
+          "unit": "落华·崩坠二式",
           "isSame": false,
           "values": [
             "989.4%",
@@ -358,7 +358,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：落华·崩坠二式",
+          "unit": "落华·崩坠二式",
           "isSame": false,
           "values": [
             "168.8%",
@@ -401,7 +401,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：花雨齐射",
+          "unit": "花雨齐射",
           "isSame": false,
           "values": [
             "154%",
@@ -424,7 +424,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：花雨齐射",
+          "unit": "花雨齐射",
           "isSame": false,
           "values": [
             "77%",
@@ -447,7 +447,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：雏华屏障",
+          "unit": "雏华屏障",
           "isSame": false,
           "values": [
             "271.3%",
@@ -470,7 +470,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：雏华屏障",
+          "unit": "雏华屏障",
           "isSame": false,
           "values": [
             "342.8%",
@@ -493,7 +493,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：雏华屏障",
+          "unit": "雏华屏障",
           "isSame": false,
           "values": [
             "166.8%",
@@ -516,7 +516,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：绯芯爆裂",
+          "unit": "绯芯爆裂",
           "isSame": false,
           "values": [
             "456%",
@@ -539,7 +539,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：绯芯爆裂",
+          "unit": "绯芯爆裂",
           "isSame": false,
           "values": [
             "401.6%",
@@ -585,7 +585,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：苍霜零落",
+          "unit": "苍霜零落",
           "isSame": false,
           "values": [
             "47.7%",
@@ -608,7 +608,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：苍霜零落",
+          "unit": "苍霜零落",
           "isSame": false,
           "values": [
             "47.7%",
@@ -631,7 +631,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：铁萼雨幕",
+          "unit": "铁萼雨幕",
           "isSame": false,
           "values": [
             "683.4%",
@@ -654,7 +654,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：铁萼雨幕",
+          "unit": "铁萼雨幕",
           "isSame": false,
           "values": [
             "586.8%",
@@ -677,7 +677,7 @@
         },
         {
           "name": "初始消耗",
-          "unit": "强化特殊技：铁萼雨幕",
+          "unit": "铁萼雨幕",
           "isSame": true,
           "values": [
             "10点"
@@ -685,7 +685,7 @@
         },
         {
           "name": "发射弹幕消耗",
-          "unit": "强化特殊技：铁萼雨幕",
+          "unit": "铁萼雨幕",
           "isSame": true,
           "values": [
             "5点"
@@ -693,7 +693,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：铁萼雨幕·离",
+          "unit": "铁萼雨幕·离",
           "isSame": false,
           "values": [
             "18.4%",
@@ -716,7 +716,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：铁萼雨幕·离",
+          "unit": "铁萼雨幕·离",
           "isSame": false,
           "values": [
             "9.2%",
@@ -757,7 +757,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：落霰风暴",
+          "unit": "落霰风暴",
           "isSame": false,
           "values": [
             "734.2%",
@@ -780,7 +780,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：落霰风暴",
+          "unit": "落霰风暴",
           "isSame": false,
           "values": [
             "295.3%",
@@ -803,7 +803,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：机芯花园·绽放！",
+          "unit": "机芯花园·绽放！",
           "isSame": false,
           "values": [
             "3249.7%",
@@ -826,7 +826,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：机芯花园·绽放！",
+          "unit": "机芯花园·绽放！",
           "isSame": false,
           "values": [
             "595.9%",
@@ -868,7 +868,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：磁陨轮舞",
+          "unit": "磁陨轮舞",
           "isSame": false,
           "values": [
             "64.2%",
@@ -891,7 +891,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：磁陨轮舞",
+          "unit": "磁陨轮舞",
           "isSame": false,
           "values": [
             "32.1%",
@@ -914,7 +914,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：裂萼纷华",
+          "unit": "裂萼纷华",
           "isSame": false,
           "values": [
             "320.1%",
@@ -937,7 +937,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：裂萼纷华",
+          "unit": "裂萼纷华",
           "isSame": false,
           "values": [
             "254.9%",
@@ -965,48 +965,84 @@
     "1": {
       "name": "「冻眠期」",
       "desc": [
-        "「席德」<span style=\"color:#FFFFFF;\">[钢能]</span>达到100点时，即可发动<span style=\"color:#FFFFFF;\">[普通攻击：落华·崩坠]</span>且总计消耗的<span style=\"color:#FFFFFF;\">[钢能]</span>降低至100点；获得一次快速释放<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>机会所需的<span style=\"color:#FFFFFF;\">[钢能]</span>降低至100点；进入战场/发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，额外累积40/20点<span style=\"color:#FFFFFF;\">[钢能]</span>；<span style=\"color:#FFFFFF;\">[普通攻击：落华·崩坠]</span>造成的暴击伤害提升30%。"
+        "「席德」<span style=\"color:#FFFFFF;\">[钢能]</span>达到100点时，即可发动<span style=\"color:#FFFFFF;\">[普通攻击：落华·崩坠]</span>且总计消耗的<span style=\"color:#FFFFFF;\">[钢能]</span>降低至100点；获得一次快速释放<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>机会所需的<span style=\"color:#FFFFFF;\">[钢能]</span>降低至100点；进入战场/发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，额外累积40/20点<span style=\"color:#FFFFFF;\">[钢能]</span>；<span style=\"color:#FFFFFF;\">[普通攻击：落华·崩坠]</span>造成的暴击伤害提升30%。",
+        "<i>这儿是一处与外界隔绝的，肃穆而神秘的建筑。</i>",
+        "<i>洁白的她属于这里。她瑟缩着，小心翼翼地朝着铁丝网外探出头。外面的世界是什么样的呢？</i>",
+        "<i>她的好奇心漫过无菌的房间，越过崩裂的高楼，躲开天空中粉色的巨花。</i>",
+        "<i>流呀流……</i>",
+        "<i>「看起来很像一个破壳的臭鸡蛋呢～」</i>",
+        "<i>「但我想在这儿待一会儿…」</i>"
       ]
     },
     "2": {
       "name": "「汲光法」",
       "desc": [
-        "代理人<span style=\"color:#FFFFFF;\">[围杀]</span>状态的增益效果生效时，该代理人造成的伤害无视20%防御力；发动<span style=\"color:#FFFFFF;\">[强化特殊技：铁萼雨幕]</span>时，在累计消耗60点能量后，可继续消耗能量延长招式，直到松开按键或累计消耗120点能量；<span style=\"color:#FFFFFF;\">[强化特殊技：铁萼雨幕]</span>每消耗5点能量会使本次衔接的<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>造成的伤害提升5%。"
+        "代理人<span style=\"color:#FFFFFF;\">[围杀]</span>状态的增益效果生效时，该代理人造成的伤害无视20%防御力；发动<span style=\"color:#FFFFFF;\">[强化特殊技：铁萼雨幕]</span>时，在累计消耗60点能量后，可继续消耗能量延长招式，直到松开按键或累计消耗120点能量；<span style=\"color:#FFFFFF;\">[强化特殊技：铁萼雨幕]</span>每消耗5点能量会使本次衔接的<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>造成的伤害提升5%。",
+        "<i>这儿是一片钢筋错落的、连绵的废墟。</i>",
+        "<i>莫名的、无法表达的情绪梗住了喉头，口舌却无法发声…</i>",
+        "<i>视线悄悄模糊，某种古怪的液体顺着脸颊流了下来。</i>",
+        "<i>揉揉眼眶，眨眨眼睛…</i>",
+        "<i>那刺眼的、笨拙地凑近过来的，究竟是什么呢？</i>",
+        "<i>「不要害怕…我来…救你了…」</i>",
+        "<i>「你有…名字吗？我的代号是…『席德』。」</i>"
       ]
     },
     "3": {
       "name": "「抽芽说」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>这儿是一所军营里再普通不过的休息间。</i>",
+        "<i>她们向她打着招呼，尝试着打开她的心扉。</i>",
+        "<i>怯生生的红头发少女，大呼小叫的奇怪枪管，戴着眼罩的金毛狗狗…</i>",
+        "<i>大个子机器人告诉她，她们都是她的朋友。</i>",
+        "<i>「什么是朋友？」</i>",
+        "<i>「朋友啊…是一回头就能看见的人。」</i>"
       ]
     },
     "4": {
       "name": "「芳香调」",
       "desc": [
-        "「席德」<span style=\"color:#FFFFFF;\">[围杀]</span>状态的增益效果生效时，喧响值获取效率提升10%，<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升20%。"
+        "「席德」<span style=\"color:#FFFFFF;\">[围杀]</span>状态的增益效果生效时，喧响值获取效率提升10%，<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升20%。",
+        "<i>这儿是一处盛大的、人头攒动的广场。</i>",
+        "<i>比所有人都要高的台子上，有人叽里咕噜地说着什么。</i>",
+        "<i>有声音喊了她的名字，很多人簇拥了过来，茫然的花儿被移植到了舞台，甚至还没洗去发梢上的硝烟。</i>",
+        "<i>黑匣子闪烁着比星星更亮的光，一枚小小的金属贴片被别在了同样手足无措的老朋友与小朋友身上。</i>",
+        "<i>这份表彰也意味着，从这一刻起，她成为了「『席德』」，一直陪伴着她的机器人成为了「老『席德』」。</i>",
+        "<i>「我做的很好吗？」</i>",
+        "<i>「当然，你是我们的骄傲…这个代号就是证明，『席德』。」</i>"
       ]
     },
     "5": {
       "name": "「绽蕊时」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>这儿是一所几乎无人知晓的、狭小的安全屋。</i>",
+        "<i>零碎的、杂乱无章的东西填满了整个空间。箱子、沙发、相框、一盆又一盆的花朵，红的，黄的，粉的，站得笔直的，蓬松的，耷拉脑袋的。</i>",
+        "<i>闭上眼睛，捂紧嘴巴，一定会忍住的——她保证。</i>",
+        "<i>「再给它们一点时间，好吗？」</i>",
+        "<i>「它们会长得很好的…就像你一样。」</i>"
       ]
     },
     "6": {
       "name": "「有心论」",
       "desc": [
         "「席德」的暴击伤害提升50%；",
-        "发动<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>时，额外发射3道激光，每道激光造成165%攻击力的伤害，3秒内最多触发一次。"
+        "发动<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>时，额外发射3道激光，每道激光造成165%攻击力的伤害，3秒内最多触发一次。",
+        "<i>这儿是一片鲜花漫野的、灿烂的花海。</i>",
+        "<i>她记起了这里最开始的样子，光秃秃，连一棵小草也没有。</i>",
+        "<i>是谁做的坏事呢？是谁把荒芜的、阴郁的零号空洞变成了这样呢？是谁在苍白的土壤里种出了一颗茁壮的心呢？</i>",
+        "<i>「原来你走了这么大的一个圈呢…」</i>",
+        "<i>「下次再见，『老席德』。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：花链协议 / 额外能力：奇兵轰临",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：花链协议</h3>",
       "「席德」将初始攻击力最高的<span style=\"color:#FFFFFF;\">[强攻]</span>队友视为<span style=\"color:#FFFFFF;\">[正兵]</span>；",
-      "<span style=\"color:#FFFFFF;\">[正兵]</span>释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使「席德」获得<span style=\"color:#FFFFFF;\">[强袭]</span>状态，提升「席德」100点/225点/350点/475点/600点/725点攻击力和15%/17.5%/20%/22.5%/25%/27.5%暴击伤害，「席德」释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使<span style=\"color:#FFFFFF;\">[正兵]</span>获得<span style=\"color:#FFFFFF;\">[明攻]</span>状态，提升<span style=\"color:#FFFFFF;\">[正兵]</span>100点/225点/350点/475点/600点/725点攻击力和15%/17.5%/20%/22.5%/25%/27.5%暴击伤害；",
-      "<span style=\"color:#FFFFFF;\">[明攻]</span><span style=\"color:#FFFFFF;\">[强袭]</span>同时存在时，「席德」与<span style=\"color:#FFFFFF;\">[正兵]</span>同时获得<span style=\"color:#FFFFFF;\">[围杀]</span>状态，造成的伤害提升12.5%/14.5%/16.5%/18.5%/20.5%/22.5%；",
+      "<span style=\"color:#FFFFFF;\">[正兵]</span>释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使「席德」获得<span style=\"color:#FFFFFF;\">[强袭]</span>状态，提升「席德」<span style=\"color:#2BAD00;\">(100点/225点/350点/475点/600点/725点/1000点)</span>攻击力和<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>暴击伤害，「席德」释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使<span style=\"color:#FFFFFF;\">[正兵]</span>获得<span style=\"color:#FFFFFF;\">[明攻]</span>状态，提升<span style=\"color:#FFFFFF;\">[正兵]</span><span style=\"color:#2BAD00;\">(100点/225点/350点/475点/600点/725点/1000点)</span>攻击力和<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>暴击伤害；",
+      "<span style=\"color:#FFFFFF;\">[明攻]</span><span style=\"color:#FFFFFF;\">[强袭]</span>同时存在时，「席德」与<span style=\"color:#FFFFFF;\">[正兵]</span>同时获得<span style=\"color:#FFFFFF;\">[围杀]</span>状态，造成的伤害提升<span style=\"color:#2BAD00;\">(12.5%/14.5%/16.5%/18.5%/20.5%/22.5%/25%)</span>；",
       "<span style=\"color:#FFFFFF;\">[强袭]</span>，<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；",
       "进入战场时若存在<span style=\"color:#FFFFFF;\">[正兵]</span>，「席德」立刻获得<span style=\"color:#FFFFFF;\">[强袭]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>状态，<span style=\"color:#FFFFFF;\">[正兵]</span>立刻获得<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>状态；",
       "<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[强袭]</span>状态持续40秒，重复获得刷新持续时间；",

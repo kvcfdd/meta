@@ -52,7 +52,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "42.5%",
@@ -75,7 +75,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "45.2%",
@@ -98,7 +98,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "31.5%",
@@ -121,7 +121,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "218.4%",
@@ -144,7 +144,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "48.5%",
@@ -167,7 +167,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "39.1%",
@@ -190,7 +190,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "48.5%",
@@ -213,7 +213,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：恶虎七式·燎身爪",
+          "unit": "恶虎七式·燎身爪",
           "isSame": false,
           "values": [
             "133.9%",
@@ -236,7 +236,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：「虎威」",
+          "unit": "「虎威」",
           "isSame": false,
           "values": [
             "92.4%",
@@ -259,7 +259,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：「虎威」",
+          "unit": "「虎威」",
           "isSame": false,
           "values": [
             "69.3%",
@@ -303,7 +303,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：怒决蹯",
+          "unit": "怒决蹯",
           "isSame": false,
           "values": [
             "75.3%",
@@ -326,7 +326,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：怒决蹯",
+          "unit": "怒决蹯",
           "isSame": false,
           "values": [
             "37.7%",
@@ -349,7 +349,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：岿然虎踞",
+          "unit": "岿然虎踞",
           "isSame": false,
           "values": [
             "201.3%",
@@ -372,7 +372,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：岿然虎踞",
+          "unit": "岿然虎踞",
           "isSame": false,
           "values": [
             "272.8%",
@@ -395,7 +395,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：岿然虎踞",
+          "unit": "岿然虎踞",
           "isSame": false,
           "values": [
             "136.8%",
@@ -418,7 +418,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：彪形焰颌",
+          "unit": "彪形焰颌",
           "isSame": false,
           "values": [
             "407.2%",
@@ -441,7 +441,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：彪形焰颌",
+          "unit": "彪形焰颌",
           "isSame": false,
           "values": [
             "256.3%",
@@ -481,7 +481,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：恶虎七式·下山虎",
+          "unit": "恶虎七式·下山虎",
           "isSame": false,
           "values": [
             "66.1%",
@@ -504,7 +504,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：恶虎七式·下山虎",
+          "unit": "恶虎七式·下山虎",
           "isSame": false,
           "values": [
             "66.1%",
@@ -527,7 +527,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：恶虎七式改·下山猛虎",
+          "unit": "恶虎七式改·下山猛虎",
           "isSame": false,
           "values": [
             "526.5%",
@@ -550,7 +550,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：恶虎七式改·下山猛虎",
+          "unit": "恶虎七式改·下山猛虎",
           "isSame": false,
           "values": [
             "344.1%",
@@ -573,7 +573,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：恶虎七式改·下山猛虎",
+          "unit": "恶虎七式改·下山猛虎",
           "isSame": true,
           "values": [
             "60点"
@@ -603,7 +603,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：虎釜崩",
+          "unit": "虎釜崩",
           "isSame": false,
           "values": [
             "668.1%",
@@ -626,7 +626,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：虎釜崩",
+          "unit": "虎釜崩",
           "isSame": false,
           "values": [
             "160.5%",
@@ -649,7 +649,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "连携技：虎釜震煞",
+          "unit": "虎釜震煞",
           "isSame": false,
           "values": [
             "354.5%",
@@ -672,7 +672,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：虎釜震煞",
+          "unit": "虎釜震煞",
           "isSame": false,
           "values": [
             "221.6%",
@@ -695,7 +695,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：恶虎七式·猛虎炸开花",
+          "unit": "恶虎七式·猛虎炸开花",
           "isSame": false,
           "values": [
             "1663.8%",
@@ -718,7 +718,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：恶虎七式·猛虎炸开花",
+          "unit": "恶虎七式·猛虎炸开花",
           "isSame": false,
           "values": [
             "1090.7%",
@@ -767,7 +767,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：恶虎七式·虎奔",
+          "unit": "恶虎七式·虎奔",
           "isSame": false,
           "values": [
             "36.8%",
@@ -790,7 +790,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：恶虎七式·虎奔",
+          "unit": "恶虎七式·虎奔",
           "isSame": false,
           "values": [
             "18.4%",
@@ -813,7 +813,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：恶虎七式·山君鼎戏",
+          "unit": "恶虎七式·山君鼎戏",
           "isSame": false,
           "values": [
             "18.4%",
@@ -836,7 +836,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：恶虎七式·山君鼎戏",
+          "unit": "恶虎七式·山君鼎戏",
           "isSame": false,
           "values": [
             "18.4%",
@@ -859,7 +859,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：恶虎七式·山君鼎戏·威势",
+          "unit": "恶虎七式·山君鼎戏·威势",
           "isSame": false,
           "values": [
             "19.2%",
@@ -882,7 +882,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：恶虎七式·山君鼎戏·威势",
+          "unit": "恶虎七式·山君鼎戏·威势",
           "isSame": false,
           "values": [
             "8.7%",
@@ -905,7 +905,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：恶虎七式·山君鼎戏·「虎威」",
+          "unit": "恶虎七式·山君鼎戏·「虎威」",
           "isSame": false,
           "values": [
             "92.4%",
@@ -928,7 +928,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：恶虎七式·山君鼎戏·「虎威」",
+          "unit": "恶虎七式·山君鼎戏·「虎威」",
           "isSame": false,
           "values": [
             "69.3%",
@@ -951,7 +951,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：恶虎七式·离火回峰",
+          "unit": "恶虎七式·离火回峰",
           "isSame": false,
           "values": [
             "207.8%",
@@ -974,7 +974,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：恶虎七式·离火回峰",
+          "unit": "恶虎七式·离火回峰",
           "isSame": false,
           "values": [
             "185.3%",
@@ -1002,48 +1002,66 @@
     "1": {
       "name": "超级可怕小老虎",
       "desc": [
-        "进入战场时，橘福福的暴击率提升12%，立即获得100点<span style=\"color:#FFFFFF;\">[威风]</span>；橘福福的<span style=\"color:#FFFFFF;\">[连携技]</span>命中敌人时，目标处于失衡状态下时，失衡易伤倍率提升35%，持续30秒。"
+        "进入战场时，橘福福的暴击率提升12%，立即获得100点<span style=\"color:#FFFFFF;\">[威风]</span>；橘福福的<span style=\"color:#FFFFFF;\">[连携技]</span>命中敌人时，目标处于失衡状态下时，失衡易伤倍率提升35%，持续30秒。",
+        "<i>「告别与死生的课题，对孩子来说太难懂，对大人来说太沉重，对长者来说太残酷。」</i>",
+        "<i>「但我不害怕——我是不会害怕的虎希人，早早地知晓这一课。」</i>",
+        "<i>「我是超级可怕的大老虎，可爱小动物们请不要直视我的目光！」</i>"
       ]
     },
     "2": {
       "name": "神通广大青溟客",
       "desc": [
-        "处于<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下角色的暴击伤害额外提升22%；任意角色发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，橘福福回复3点<span style=\"color:#FFFFFF;\">[威势]</span>。"
+        "处于<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下角色的暴击伤害额外提升22%；任意角色发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，橘福福回复3点<span style=\"color:#FFFFFF;\">[威势]</span>。",
+        "<i>「师父教我的术法真是神奇，虽然比不过那些童话和传说。」</i>",
+        "<i>「如果我厉害一点——再厉害一点，是不是可以将那些命定的过往全都重来过，就像童话和传说。」</i>",
+        "<i>「我一开始确实也摸不着头脑，但其实把握了关窍就很简单啦。我来教你吧，{F#小师妹}{M#小师弟}！」</i>"
       ]
     },
     "3": {
       "name": "仗义行侠少年郎",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「那一刻的善，那一刻的恶，或许都是一念之差。一念之差留下好多遗憾好多如果——还有好多牺牲与爱。」</i>",
+        "<i>「我不聪明，大道理我不懂得许多，只好去做我觉得正确的选择。」</i>",
+        "<i>「有福福大侠的地方，就有公义！」</i>"
       ]
     },
     "4": {
       "name": "降妖伏魔虎修者",
       "desc": [
-        "橘福福处于<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下时，自身的暴击伤害提升35%。"
+        "橘福福处于<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下时，自身的暴击伤害提升35%。",
+        "<i>「以骸好可怕，强盗好可怕，空洞好可怕，没有星星的黑夜好可怕——可我是云岿山绝顶厉害的修者，我不可以退缩，不可以再看到我的故事发生。」</i>",
+        "<i>「那堪黯晦绝此景，不忍山与月与云。」</i>",
+        "<i>「我是云岿山绝顶厉害的修者！魑魅魍魉速速伏诛！」</i>"
       ]
     },
     "5": {
       "name": "神威盖世大师姐",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「诸位安心——大师姐来了！」</i>",
+        "<i>「小时候的那个我没有等到一直在等待的英雄，我不会让你等——我会成为你的英雄。」</i>",
+        "<i>「福福可欺而师弟师妹不可欺！我去跟他拼了！嗷——！」</i>"
       ]
     },
     "6": {
       "name": "知我心中虎啸声",
       "desc": [
-        "橘福福的<span style=\"color:#FFFFFF;\">[连携技]</span>造成的伤害提升30%；橘福福在高速旋转状态下时，消耗<span style=\"color:#FFFFFF;\">[威势]</span>命中敌人时，会发射3个爆米花，每个爆米花造成福福攻击力160%的伤害，且造成的伤害视为<span style=\"color:#FFFFFF;\">[连携技]</span>伤害。"
+        "橘福福的<span style=\"color:#FFFFFF;\">[连携技]</span>造成的伤害提升30%；橘福福在高速旋转状态下时，消耗<span style=\"color:#FFFFFF;\">[威势]</span>命中敌人时，会发射3个爆米花，每个爆米花造成福福攻击力160%的伤害，且造成的伤害视为<span style=\"color:#FFFFFF;\">[连携技]</span>伤害。",
+        "<i>「威风摇落山上月，气宇踏平洞中窟——师姐这句诗写得如何？有没有把师姐威风八面的气概写出来？」</i>",
+        "<i>「侠名不重要，遗憾不重要，泪水不重要，总有一天会到来的离别也没关系。」</i>",
+        "<i>「只要有你还记得，我曾勇敢咆哮过。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：虎虎生威 / 额外能力：八面威风",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：虎虎生威</h3>",
       "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<span style=\"color:#FFFFFF;\">[威风]</span>；",
-      "「虎威」命中敌人时，若拥有至少100点<span style=\"color:#FFFFFF;\">[威风]</span>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<span style=\"color:#FFFFFF;\">[连携技：虎釜震煞]</span>；发动时，全队角色获得<span style=\"color:#FFFFFF;\">[虎啸]</span>效果：暴击伤害提升10%/11.7%/13.3%/15%/16.7%/18.3%，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；",
-      "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下，角色的<span style=\"color:#FFFFFF;\">[连携技]</span>/<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升10%/20%/11.7%/23.3%/13.3%/26.7%/15%/30%/16.7%/33.3%/18.3%/36.7%；",
-      "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态持续30秒，重复触发时刷新持续时间，橘福福处于<span style=\"color:#FFFFFF;\">[虎啸]</span>效果中，冲击力提升25点/29.2点/33.3点/37.5点/41.7点/45.8点。",
+      "「虎威」命中敌人时，若拥有至少100点<span style=\"color:#FFFFFF;\">[威风]</span>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<span style=\"color:#FFFFFF;\">[连携技：虎釜震煞]</span>；发动时，全队角色获得<span style=\"color:#FFFFFF;\">[虎啸]</span>效果：暴击伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；",
+      "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下，角色的<span style=\"color:#FFFFFF;\">[连携技]</span>/<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升<span style=\"color:#2BAD00;\">(10%/20%/11.7%/23.3%/13.3%/26.7%/15%/30%/16.7%/33.3%/18.3%/36.7%/20%/40%)</span>；",
+      "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态持续30秒，重复触发时刷新持续时间，橘福福处于<span style=\"color:#FFFFFF;\">[虎啸]</span>效果中，冲击力提升<span style=\"color:#2BAD00;\">(25点/29.2点/33.3点/37.5点/41.7点/45.8点/50点)</span>。",
       "<h3>额外能力：八面威风</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
       "队伍中所有角色的喧响值上限提升1000点，<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，该角色获得300点喧响值。"

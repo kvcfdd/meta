@@ -51,7 +51,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "56.6%",
@@ -74,7 +74,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "77.8%",
@@ -97,7 +97,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "188.9%",
@@ -120,7 +120,7 @@
         },
         {
           "name": "三段（派生）伤害倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "211.5%",
@@ -143,7 +143,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "272.6%",
@@ -166,7 +166,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "28.3%",
@@ -189,7 +189,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "65%",
@@ -212,7 +212,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "157.4%",
@@ -235,7 +235,7 @@
         },
         {
           "name": "三段（派生）失衡倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "162.3%",
@@ -258,7 +258,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：淑女的球棍",
+          "unit": "淑女的球棍",
           "isSame": false,
           "values": [
             "208%",
@@ -281,7 +281,7 @@
         },
         {
           "name": "棒球棍伤害倍率",
-          "unit": "亲卫队小猪：抄家伙！",
+          "unit": "抄家伙！",
           "isSame": false,
           "values": [
             "92.5%",
@@ -304,7 +304,7 @@
         },
         {
           "name": "拳套伤害倍率",
-          "unit": "亲卫队小猪：抄家伙！",
+          "unit": "抄家伙！",
           "isSame": false,
           "values": [
             "127.5%",
@@ -327,7 +327,7 @@
         },
         {
           "name": "弹弓伤害倍率",
-          "unit": "亲卫队小猪：抄家伙！",
+          "unit": "抄家伙！",
           "isSame": false,
           "values": [
             "175%",
@@ -350,7 +350,7 @@
         },
         {
           "name": "棒球棍失衡倍率",
-          "unit": "亲卫队小猪：抄家伙！",
+          "unit": "抄家伙！",
           "isSame": false,
           "values": [
             "15.5%",
@@ -373,7 +373,7 @@
         },
         {
           "name": "拳套失衡倍率",
-          "unit": "亲卫队小猪：抄家伙！",
+          "unit": "抄家伙！",
           "isSame": false,
           "values": [
             "21.3%",
@@ -396,7 +396,7 @@
         },
         {
           "name": "弹弓失衡倍率",
-          "unit": "亲卫队小猪：抄家伙！",
+          "unit": "抄家伙！",
           "isSame": false,
           "values": [
             "29.2%",
@@ -419,7 +419,7 @@
         },
         {
           "name": "回旋挥击伤害倍率",
-          "unit": "亲卫队小猪：回旋挥击！",
+          "unit": "回旋挥击！",
           "isSame": false,
           "values": [
             "250%",
@@ -442,7 +442,7 @@
         },
         {
           "name": "回旋挥击失衡倍率",
-          "unit": "亲卫队小猪：回旋挥击！",
+          "unit": "回旋挥击！",
           "isSame": false,
           "values": [
             "20%",
@@ -485,7 +485,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：触身球！",
+          "unit": "触身球！",
           "isSame": false,
           "values": [
             "160%",
@@ -508,7 +508,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：触身球！",
+          "unit": "触身球！",
           "isSame": false,
           "values": [
             "160%",
@@ -531,7 +531,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：安全上垒！",
+          "unit": "安全上垒！",
           "isSame": false,
           "values": [
             "207.7%",
@@ -554,7 +554,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：安全上垒！",
+          "unit": "安全上垒！",
           "isSame": false,
           "values": [
             "229.4%",
@@ -577,7 +577,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：安全上垒！",
+          "unit": "安全上垒！",
           "isSame": false,
           "values": [
             "69.4%",
@@ -600,7 +600,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：触垒得分！",
+          "unit": "触垒得分！",
           "isSame": false,
           "values": [
             "349.1%",
@@ -623,7 +623,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：触垒得分！",
+          "unit": "触垒得分！",
           "isSame": false,
           "values": [
             "304.3%",
@@ -678,7 +678,7 @@
         },
         {
           "name": "平直球伤害倍率",
-          "unit": "特殊技：安打！",
+          "unit": "安打！",
           "isSame": false,
           "values": [
             "61.7%",
@@ -701,7 +701,7 @@
         },
         {
           "name": "高飞球伤害倍率",
-          "unit": "特殊技：安打！",
+          "unit": "安打！",
           "isSame": false,
           "values": [
             "69.2%",
@@ -724,7 +724,7 @@
         },
         {
           "name": "平直球失衡倍率",
-          "unit": "特殊技：安打！",
+          "unit": "安打！",
           "isSame": false,
           "values": [
             "61.7%",
@@ -747,7 +747,7 @@
         },
         {
           "name": "高飞球失衡倍率",
-          "unit": "特殊技：安打！",
+          "unit": "安打！",
           "isSame": false,
           "values": [
             "69.2%",
@@ -770,7 +770,7 @@
         },
         {
           "name": "平直球伤害倍率",
-          "unit": "强化特殊技：全垒打！",
+          "unit": "全垒打！",
           "isSame": false,
           "values": [
             "508.4%",
@@ -793,7 +793,7 @@
         },
         {
           "name": "高飞球伤害倍率",
-          "unit": "强化特殊技：全垒打！",
+          "unit": "全垒打！",
           "isSame": false,
           "values": [
             "536.4%",
@@ -816,7 +816,7 @@
         },
         {
           "name": "平直球失衡倍率",
-          "unit": "强化特殊技：全垒打！",
+          "unit": "全垒打！",
           "isSame": false,
           "values": [
             "364.6%",
@@ -839,7 +839,7 @@
         },
         {
           "name": "高飞球失衡倍率",
-          "unit": "强化特殊技：全垒打！",
+          "unit": "全垒打！",
           "isSame": false,
           "values": [
             "389.6%",
@@ -862,7 +862,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：全垒打！",
+          "unit": "全垒打！",
           "isSame": true,
           "values": [
             "60点"
@@ -889,7 +889,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：大满贯！",
+          "unit": "大满贯！",
           "isSame": false,
           "values": [
             "492.4%",
@@ -912,7 +912,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：大满贯！",
+          "unit": "大满贯！",
           "isSame": false,
           "values": [
             "93.4%",
@@ -935,7 +935,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：再见全垒打！",
+          "unit": "再见全垒打！",
           "isSame": false,
           "values": [
             "1718.6%",
@@ -958,7 +958,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：再见全垒打！",
+          "unit": "再见全垒打！",
           "isSame": false,
           "values": [
             "283.5%",
@@ -1000,7 +1000,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：豪勇猪突！",
+          "unit": "豪勇猪突！",
           "isSame": false,
           "values": [
             "78.4%",
@@ -1023,7 +1023,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：豪勇猪突！",
+          "unit": "豪勇猪突！",
           "isSame": false,
           "values": [
             "39.2%",
@@ -1046,7 +1046,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：獠牙折转！",
+          "unit": "獠牙折转！",
           "isSame": false,
           "values": [
             "308%",
@@ -1069,7 +1069,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：獠牙折转！",
+          "unit": "獠牙折转！",
           "isSame": false,
           "values": [
             "260%",
@@ -1097,45 +1097,58 @@
     "1": {
       "name": "队形操练中",
       "desc": [
-        "亲卫队小猪发动<span style=\"color:#FFFFFF;\">[亲卫队小猪：回旋挥击！]</span>时，为露西回复2点能量，15秒内最多触发一次，每只亲卫队小猪单独结算冷却时间。"
+        "亲卫队小猪发动<span style=\"color:#FFFFFF;\">[亲卫队小猪：回旋挥击！]</span>时，为露西回复2点能量，15秒内最多触发一次，每只亲卫队小猪单独结算冷却时间。",
+        "<i>「阿草，向右看齐！…那是左边，笨蛋！！！」</i>",
+        "<i>一声令下，两种方向，三阵惨呼，四面哀嚎。</i>"
       ]
     },
     "2": {
       "name": "小猪大队长",
       "desc": [
-        "露西发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，将为全队角色、邦布和亲卫队小猪施加<span style=\"color:#FFFFFF;\">[加油！]</span>状态，持续10秒。"
+        "露西发动<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，将为全队角色、邦布和亲卫队小猪施加<span style=\"color:#FFFFFF;\">[加油！]</span>状态，持续10秒。",
+        "<i>「毋庸置疑，露西队长是卡吕冬野猪希人最棒的领导者！」</i>",
+        "<i>这是阿木在「卡吕冬之子年度工作报告」中的结语。</i>"
       ]
     },
     "3": {
       "name": "铁腕监护人",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「要是露西队长在打飞我们的时候下手轻点就更好了。」</i>",
+        "<i>这是阿木没敢说出来的后半句心里话。</i>"
       ]
     },
     "4": {
       "name": "无规则球赛",
       "desc": [
-        "处于<span style=\"color:#FFFFFF;\">[加油！]</span>状态下的友方单位，暴击伤害额外提升10%。"
+        "处于<span style=\"color:#FFFFFF;\">[加油！]</span>状态下的友方单位，暴击伤害额外提升10%。",
+        "<i>规则和裁判的肋骨，总有一样要被打破。</i>"
       ]
     },
     "5": {
       "name": "荒原贵公主",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>对球棍下惨叫的对手用敬语，</i>",
+        "<i>向匍匐在脚边的敌人说抱歉，</i>",
+        "<i>这就是千金的完美礼仪。</i>"
       ]
     },
     "6": {
       "name": "獠牙堪烈火",
       "desc": [
-        "处于<span style=\"color:#FFFFFF;\">[加油！]</span>状态下的队友<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，一只亲卫队小猪会从空中落地引发爆炸，造成等同于亲卫队小猪300%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>，并使全队角色、邦布和亲卫队小猪的<span style=\"color:#FFFFFF;\">[加油！]</span>状态的持续时间提升5秒；持续时间最多提升3次，上限30秒，重新获得<span style=\"color:#FFFFFF;\">[加油！]</span>状态时刷新可提升次数；亲卫队小猪落地引发爆炸后，将会发动一次<span style=\"color:#FFFFFF;\">[亲卫队小猪：回旋挥击！]</span>。"
+        "处于<span style=\"color:#FFFFFF;\">[加油！]</span>状态下的队友<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，一只亲卫队小猪会从空中落地引发爆炸，造成等同于亲卫队小猪300%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>，并使全队角色、邦布和亲卫队小猪的<span style=\"color:#FFFFFF;\">[加油！]</span>状态的持续时间提升5秒；持续时间最多提升3次，上限30秒，重新获得<span style=\"color:#FFFFFF;\">[加油！]</span>状态时刷新可提升次数；亲卫队小猪落地引发爆炸后，将会发动一次<span style=\"color:#FFFFFF;\">[亲卫队小猪：回旋挥击！]</span>。",
+        "<i>被称为「赤鬣亲卫队」的小猪希人们总是冲锋在战斗的最前线！</i>",
+        "<i>虽然说不清从球棒起飞的那一刹那，心绪是万念俱灰还是心甘情愿。</i>",
+        "<i>勇敢小猪，身先士卒！</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：赤鬣亲卫队 / 额外能力：击「球」准备！",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：赤鬣亲卫队</h3>",
-      "当露西发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<span style=\"color:#FFFFFF;\">[加油！]</span>对亲卫队小猪的增益效果提升至原本的140%/150%/160%/170%/180%/190%，并使亲卫队小猪的攻击频率提升。",
+      "当露西发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<span style=\"color:#FFFFFF;\">[加油！]</span>对亲卫队小猪的增益效果提升至原本的<span style=\"color:#2BAD00;\">(140%/150%/160%/170%/180%/190%/200%)</span>，并使亲卫队小猪的攻击频率提升。",
       "<h3>额外能力：击「球」准备！</h3>",
       "队伍中存在与自身属性或阵营相同的角色或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
       "亲卫队小猪可以继承露西的暴击率和暴击伤害。"

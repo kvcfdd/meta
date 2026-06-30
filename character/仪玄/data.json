@@ -62,7 +62,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "45.8%",
@@ -85,7 +85,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "65.5%",
@@ -108,7 +108,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "87.1%",
@@ -131,7 +131,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "104.8%",
@@ -154,7 +154,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "113.7%",
@@ -177,7 +177,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "28.6%",
@@ -200,7 +200,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "68.9%",
@@ -223,7 +223,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "85.8%",
@@ -246,7 +246,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "111.8%",
@@ -269,7 +269,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：霄云劲",
+          "unit": "霄云劲",
           "isSame": false,
           "values": [
             "105.7%",
@@ -292,7 +292,7 @@
         },
         {
           "name": "墨影凝云总伤害倍率",
-          "unit": "普通攻击：墨影凝云",
+          "unit": "墨影凝云",
           "isSame": false,
           "values": [
             "234.7%",
@@ -315,7 +315,7 @@
         },
         {
           "name": "墨影凝云总失衡倍率",
-          "unit": "普通攻击：墨影凝云",
+          "unit": "墨影凝云",
           "isSame": false,
           "values": [
             "293.4%",
@@ -338,7 +338,7 @@
         },
         {
           "name": "玄墨极阵总伤害倍率",
-          "unit": "普通攻击：玄墨极阵",
+          "unit": "玄墨极阵",
           "isSame": false,
           "values": [
             "305.2%",
@@ -361,7 +361,7 @@
         },
         {
           "name": "玄墨极阵总失衡倍率",
-          "unit": "普通攻击：玄墨极阵",
+          "unit": "玄墨极阵",
           "isSame": false,
           "values": [
             "293.4%",
@@ -384,7 +384,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：青溟震击",
+          "unit": "青溟震击",
           "isSame": false,
           "values": [
             "110.6%",
@@ -407,7 +407,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：青溟震击",
+          "unit": "青溟震击",
           "isSame": false,
           "values": [
             "106.3%",
@@ -450,7 +450,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：流云影身",
+          "unit": "流云影身",
           "isSame": false,
           "values": [
             "101.2%",
@@ -473,7 +473,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：流云影身",
+          "unit": "流云影身",
           "isSame": false,
           "values": [
             "63.3%",
@@ -496,7 +496,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：清霄劲",
+          "unit": "清霄劲",
           "isSame": false,
           "values": [
             "271.3%",
@@ -519,7 +519,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：清霄劲",
+          "unit": "清霄劲",
           "isSame": false,
           "values": [
             "342.8%",
@@ -542,7 +542,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：清霄劲",
+          "unit": "清霄劲",
           "isSame": false,
           "values": [
             "166.8%",
@@ -565,7 +565,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：霄云迅击",
+          "unit": "霄云迅击",
           "isSame": false,
           "values": [
             "297%",
@@ -588,7 +588,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：霄云迅击",
+          "unit": "霄云迅击",
           "isSame": false,
           "values": [
             "322.9%",
@@ -646,7 +646,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：烬影诀",
+          "unit": "烬影诀",
           "isSame": false,
           "values": [
             "52.1%",
@@ -669,7 +669,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：烬影诀",
+          "unit": "烬影诀",
           "isSame": false,
           "values": [
             "65.1%",
@@ -692,7 +692,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "300.3%",
@@ -715,7 +715,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "172.9%",
@@ -738,7 +738,7 @@
         },
         {
           "name": "蓄力完成追加伤害倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "149.6%",
@@ -761,7 +761,7 @@
         },
         {
           "name": "蓄力完成追加失衡倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "75.8%",
@@ -784,7 +784,7 @@
         },
         {
           "name": "闪能消耗",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": true,
           "values": [
             "40点"
@@ -792,7 +792,7 @@
         },
         {
           "name": "[强化特殊技：霄云迅击-破]总伤害倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "370.6%",
@@ -815,7 +815,7 @@
         },
         {
           "name": "[强化特殊技：霄云迅击-破]总失衡倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "294.4%",
@@ -838,7 +838,7 @@
         },
         {
           "name": "[强化特殊技：青溟震击-破]总伤害倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "426.4%",
@@ -861,7 +861,7 @@
         },
         {
           "name": "[强化特殊技：青溟震击-破]总失衡倍率",
-          "unit": "强化特殊技：墨痕化形",
+          "unit": "墨痕化形",
           "isSame": false,
           "values": [
             "285.3%",
@@ -884,7 +884,7 @@
         },
         {
           "name": "蓄力期间总伤害倍率",
-          "unit": "强化特殊技：凝云术",
+          "unit": "凝云术",
           "isSame": false,
           "values": [
             "671.8%",
@@ -907,7 +907,7 @@
         },
         {
           "name": "蓄力期间总失衡倍率",
-          "unit": "强化特殊技：凝云术",
+          "unit": "凝云术",
           "isSame": false,
           "values": [
             "480%",
@@ -930,7 +930,7 @@
         },
         {
           "name": "发动所需闪能",
-          "unit": "强化特殊技：凝云术",
+          "unit": "凝云术",
           "isSame": true,
           "values": [
             "40点"
@@ -938,7 +938,7 @@
         },
         {
           "name": "初始消耗",
-          "unit": "强化特殊技：凝云术",
+          "unit": "凝云术",
           "isSame": true,
           "values": [
             "20点"
@@ -946,7 +946,7 @@
         },
         {
           "name": "每秒消耗",
-          "unit": "强化特殊技：凝云术",
+          "unit": "凝云术",
           "isSame": true,
           "values": [
             "20点"
@@ -954,7 +954,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：墨烬影消",
+          "unit": "墨烬影消",
           "isSame": false,
           "values": [
             "234.3%",
@@ -977,7 +977,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：墨烬影消",
+          "unit": "墨烬影消",
           "isSame": false,
           "values": [
             "142.1%",
@@ -1025,7 +1025,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：玄墨迅击",
+          "unit": "玄墨迅击",
           "isSame": false,
           "values": [
             "533.1%",
@@ -1048,7 +1048,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：玄墨迅击",
+          "unit": "玄墨迅击",
           "isSame": false,
           "values": [
             "227.4%",
@@ -1071,7 +1071,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：青溟云影",
+          "unit": "青溟云影",
           "isSame": false,
           "values": [
             "1853.4%",
@@ -1094,7 +1094,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：青溟云影",
+          "unit": "青溟云影",
           "isSame": false,
           "values": [
             "407.1%",
@@ -1117,7 +1117,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：符法千重",
+          "unit": "符法千重",
           "isSame": false,
           "values": [
             "1466.2%",
@@ -1140,7 +1140,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：符法千重",
+          "unit": "符法千重",
           "isSame": false,
           "values": [
             "249.4%",
@@ -1187,7 +1187,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：凌云破",
+          "unit": "凌云破",
           "isSame": false,
           "values": [
             "49.9%",
@@ -1210,7 +1210,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：凌云破",
+          "unit": "凌云破",
           "isSame": false,
           "values": [
             "31.2%",
@@ -1233,7 +1233,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：除祟一击",
+          "unit": "除祟一击",
           "isSame": false,
           "values": [
             "219.6%",
@@ -1256,7 +1256,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：除祟一击",
+          "unit": "除祟一击",
           "isSame": false,
           "values": [
             "236.5%",
@@ -1284,42 +1284,59 @@
     "1": {
       "name": "清灵道心",
       "desc": [
-        "进入战场时，暴击率提升10%，立即获得120点<span style=\"color:#FFFFFF;\">[术法值]</span>，在勘域模式中此效果180秒内最多触发一次；队伍中任意角色命中敌人时，仪玄会自动追加一道落雷，造成等同于仪玄50%贯穿力的伤害并额外回复5点闪能，6秒内最多追加一次落雷。"
+        "进入战场时，暴击率提升10%，立即获得120点<span style=\"color:#FFFFFF;\">[术法值]</span>，在勘域模式中此效果180秒内最多触发一次；队伍中任意角色命中敌人时，仪玄会自动追加一道落雷，造成等同于仪玄50%贯穿力的伤害并额外回复5点闪能，6秒内最多追加一次落雷。",
+        "<i>「命运多变，前路难测，守恒不变的唯有清灵心境而已。纵使沧海桑田，依旧无悔。」</i>",
+        "<i>「术法万千，其本质不变；歧路难行，唯心志不改。」</i>",
+        "<i>「无论身处何等险境，遭逢何种强敌，皆可随机应变，以平常心应敌。」</i>"
       ]
     },
     "2": {
       "name": "消灾渡厄",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[终结技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>造成伤害时，无视目标15%<span style=\"color:#FE437E;\">以太伤害抗性</span>；发动<span style=\"color:#FFFFFF;\">[终结技：青溟云影]</span>时，使所有处于失衡状态的敌人失衡持续时间提升3秒，敌人在一次失衡期间内只会受到一次该效果，且同类效果不可叠加；此外，发动<span style=\"color:#FFFFFF;\">[终结技：符法千重]</span>时，获得一层<span style=\"color:#FFFFFF;\">[聚墨]</span>效果，发动<span style=\"color:#FFFFFF;\">[普通攻击：青溟震击]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：墨烬影消]</span>后点按普通攻击键，发动<span style=\"color:#FFFFFF;\">[强化特殊技：青溟震击-破]</span>后点按特殊技键，可消耗一层<span style=\"color:#FFFFFF;\">[聚墨]</span>发动<span style=\"color:#FFFFFF;\">[强化特殊技：符法千重-破]</span>，最多造成等同于1200%贯穿力的伤害，<span style=\"color:#FFFFFF;\">[聚墨]</span>效果最多维持一层。"
+        "<span style=\"color:#FFFFFF;\">[终结技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>造成伤害时，无视目标15%<span style=\"color:#FE437E;\">以太伤害抗性</span>；发动<span style=\"color:#FFFFFF;\">[终结技：青溟云影]</span>时，使所有处于失衡状态的敌人失衡持续时间提升3秒，敌人在一次失衡期间内只会受到一次该效果，且同类效果不可叠加；此外，发动<span style=\"color:#FFFFFF;\">[终结技：符法千重]</span>时，获得一层<span style=\"color:#FFFFFF;\">[聚墨]</span>效果，发动<span style=\"color:#FFFFFF;\">[普通攻击：青溟震击]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：墨烬影消]</span>后点按普通攻击键，发动<span style=\"color:#FFFFFF;\">[强化特殊技：青溟震击-破]</span>后点按特殊技键，可消耗一层<span style=\"color:#FFFFFF;\">[聚墨]</span>发动<span style=\"color:#FFFFFF;\">[强化特殊技：符法千重-破]</span>，最多造成等同于1200%贯穿力的伤害，<span style=\"color:#FFFFFF;\">[聚墨]</span>效果最多维持一层。",
+        "<i>「世事难测，即使是卜算者也只能知其一二。」</i>",
+        "<i>「所谓消灾祈福，只不过是因势象形，趋利避害而已。」</i>",
+        "<i>「若能通晓避祸之术，便自然也能做到加祸于敌…只需将对方未曾遭逢的劫数，提前招来而已。」</i>"
       ]
     },
     "3": {
       "name": "阴阳相生",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「万事万物皆有其相生相克之道，若能窥见其中真谛，则可阴阳相生，克敌制胜。」</i>",
+        "<i>「以简单的技巧达到最佳效果，这不是走捷径，而是顺势引导的结果。」</i>"
       ]
     },
     "4": {
       "name": "术道归一",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，获得一层<span style=\"color:#FFFFFF;\">[静心]</span>效果，最多拥有2层；每有一层<span style=\"color:#FFFFFF;\">[静心]</span>效果，下一次<span style=\"color:#FFFFFF;\">[强化特殊技：凝云术]</span>和<span style=\"color:#FFFFFF;\">[强化特殊技：墨烬影消]</span>造成的伤害提升30%。"
+        "发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，获得一层<span style=\"color:#FFFFFF;\">[静心]</span>效果，最多拥有2层；每有一层<span style=\"color:#FFFFFF;\">[静心]</span>效果，下一次<span style=\"color:#FFFFFF;\">[强化特殊技：凝云术]</span>和<span style=\"color:#FFFFFF;\">[强化特殊技：墨烬影消]</span>造成的伤害提升30%。",
+        "<i>「正所谓百变不离其中，学习术法不可拘泥于形，更需通晓其意。」</i>",
+        "<i>「若能领悟其中真谛，则一招一式，皆可相互转化，此所谓术法之道，万变归一。」</i>"
       ]
     },
     "5": {
       "name": "静观流云",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「若要修习术法，除去勤学善思之外，更要懂得保持灵台清明，闲时听风，静时观云。」</i>",
+        "<i>「进入物我两忘的境地，不知不觉间对以太的掌握便能愈发精进。」</i>",
+        "<i>「长此以往，无论遇到何事，都能稳住心性，以不变应万变。」</i>"
       ]
     },
     "6": {
       "name": "动静相宜",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[终结技：青溟云影]</span>后，获得一层<span style=\"color:#FFFFFF;\">[调息]</span>效果，<span style=\"color:#FFFFFF;\">[调息]</span>状态下，可无视<span style=\"color:#FFFFFF;\">[术法值]</span>发动一次<span style=\"color:#FFFFFF;\">[终结技：符法千重]</span>，发动<span style=\"color:#FFFFFF;\">[终结技：符法千重]</span>后<span style=\"color:#FFFFFF;\">[调息]</span>状态结束，该效果每30秒最多获得一次，<span style=\"color:#FFFFFF;\">[调息]</span>效果最多维持一层；此外，<span style=\"color:#FFFFFF;\">[凝神]</span>状态下，仪玄的贯穿伤害提高20%。"
+        "发动<span style=\"color:#FFFFFF;\">[终结技：青溟云影]</span>后，获得一层<span style=\"color:#FFFFFF;\">[调息]</span>效果，<span style=\"color:#FFFFFF;\">[调息]</span>状态下，可无视<span style=\"color:#FFFFFF;\">[术法值]</span>发动一次<span style=\"color:#FFFFFF;\">[终结技：符法千重]</span>，发动<span style=\"color:#FFFFFF;\">[终结技：符法千重]</span>后<span style=\"color:#FFFFFF;\">[调息]</span>状态结束，该效果每30秒最多获得一次，<span style=\"color:#FFFFFF;\">[调息]</span>效果最多维持一层；此外，<span style=\"color:#FFFFFF;\">[凝神]</span>状态下，仪玄的贯穿伤害提高20%。",
+        "<i>「以静制动，动静相宜。而动中有静，静中亦有动。」</i>",
+        "<i>「无论何时，只要守得灵台清明，就能以不变应万变，抓住时机一招致胜。」</i>",
+        "<i>「你…学会了吗？」</i>",
+        "<i>「就算没有学会也无妨…静静领悟之后，总有那一刻会突然顿悟。这，也是另一种『动静相宜』。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：术法宗师 / 额外能力：玄墨暗涌",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：术法宗师</h3>",
       "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；",
@@ -1327,7 +1344,7 @@
       "仪玄累积<span style=\"color:#FE437E;\">玄墨异常积蓄值</span>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；",
       "仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；",
       "消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；",
-      "仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升30%/35%/40%/45%/50%/55%；",
+      "仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>；",
       "释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
       "<h3>额外能力：玄墨暗涌</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>角色或<span style=\"color:#FFFFFF;\">[支援]</span>角色或<span style=\"color:#FFFFFF;\">[防护]</span>角色时触发：",

@@ -17,7 +17,7 @@
     "def": 606.5977
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -53,7 +53,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "55.1%",
@@ -76,7 +76,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "88%",
@@ -99,7 +99,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "66.1%",
@@ -122,7 +122,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "111.9%",
@@ -145,7 +145,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "130.3%",
@@ -168,7 +168,7 @@
         },
         {
           "name": "五段（强化）伤害倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "218.3%",
@@ -191,7 +191,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "39.7%",
@@ -214,7 +214,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "69.8%",
@@ -237,7 +237,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "59.9%",
@@ -260,7 +260,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "105.1%",
@@ -283,7 +283,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "131.7%",
@@ -306,7 +306,7 @@
         },
         {
           "name": "五段（强化）失衡倍率",
-          "unit": "普通攻击：星仪序曲",
+          "unit": "星仪序曲",
           "isSame": false,
           "values": [
             "210.9%",
@@ -329,7 +329,7 @@
         },
         {
           "name": "一段蓄力伤害倍率",
-          "unit": "普通攻击：星芒圆舞曲",
+          "unit": "星芒圆舞曲",
           "isSame": false,
           "values": [
             "188.9%",
@@ -352,7 +352,7 @@
         },
         {
           "name": "二段蓄力伤害倍率",
-          "unit": "普通攻击：星芒圆舞曲",
+          "unit": "星芒圆舞曲",
           "isSame": false,
           "values": [
             "304.4%",
@@ -375,7 +375,7 @@
         },
         {
           "name": "三段蓄力伤害倍率",
-          "unit": "普通攻击：星芒圆舞曲",
+          "unit": "星芒圆舞曲",
           "isSame": false,
           "values": [
             "965.7%",
@@ -398,7 +398,7 @@
         },
         {
           "name": "一段蓄力失衡倍率",
-          "unit": "普通攻击：星芒圆舞曲",
+          "unit": "星芒圆舞曲",
           "isSame": false,
           "values": [
             "55.3%",
@@ -421,7 +421,7 @@
         },
         {
           "name": "二段蓄力失衡倍率",
-          "unit": "普通攻击：星芒圆舞曲",
+          "unit": "星芒圆舞曲",
           "isSame": false,
           "values": [
             "77.6%",
@@ -444,7 +444,7 @@
         },
         {
           "name": "三段蓄力失衡倍率",
-          "unit": "普通攻击：星芒圆舞曲",
+          "unit": "星芒圆舞曲",
           "isSame": false,
           "values": [
             "197.2%",
@@ -487,7 +487,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：交替穿刺",
+          "unit": "交替穿刺",
           "isSame": false,
           "values": [
             "163.3%",
@@ -510,7 +510,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：交替穿刺",
+          "unit": "交替穿刺",
           "isSame": false,
           "values": [
             "146.9%",
@@ -533,7 +533,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：对抗防守",
+          "unit": "对抗防守",
           "isSame": false,
           "values": [
             "244.2%",
@@ -556,7 +556,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：对抗防守",
+          "unit": "对抗防守",
           "isSame": false,
           "values": [
             "308.6%",
@@ -579,7 +579,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：对抗防守",
+          "unit": "对抗防守",
           "isSame": false,
           "values": [
             "150.2%",
@@ -602,7 +602,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：交叉还击",
+          "unit": "交叉还击",
           "isSame": false,
           "values": [
             "332.7%",
@@ -625,7 +625,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：交叉还击",
+          "unit": "交叉还击",
           "isSame": false,
           "values": [
             "258.4%",
@@ -672,7 +672,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：破晓突刺",
+          "unit": "破晓突刺",
           "isSame": false,
           "values": [
             "62.4%",
@@ -695,7 +695,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：破晓突刺",
+          "unit": "破晓突刺",
           "isSame": false,
           "values": [
             "56.1%",
@@ -718,7 +718,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：极光突刺·北十字",
+          "unit": "极光突刺·北十字",
           "isSame": false,
           "values": [
             "460%",
@@ -741,7 +741,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：极光突刺·北十字",
+          "unit": "极光突刺·北十字",
           "isSame": false,
           "values": [
             "345.2%",
@@ -764,7 +764,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：极光突刺·北十字",
+          "unit": "极光突刺·北十字",
           "isSame": true,
           "values": [
             "40点"
@@ -772,7 +772,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：极光突刺·南十字",
+          "unit": "极光突刺·南十字",
           "isSame": false,
           "values": [
             "532%",
@@ -795,7 +795,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：极光突刺·南十字",
+          "unit": "极光突刺·南十字",
           "isSame": false,
           "values": [
             "405.3%",
@@ -818,7 +818,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：极光突刺·南十字",
+          "unit": "极光突刺·南十字",
           "isSame": true,
           "values": [
             "40点"
@@ -844,7 +844,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：星落间章",
+          "unit": "星落间章",
           "isSame": false,
           "values": [
             "666.3%",
@@ -867,7 +867,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：星落间章",
+          "unit": "星落间章",
           "isSame": false,
           "values": [
             "204.7%",
@@ -890,7 +890,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：星芒终章",
+          "unit": "星芒终章",
           "isSame": false,
           "values": [
             "2262%",
@@ -913,7 +913,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：星芒终章",
+          "unit": "星芒终章",
           "isSame": false,
           "values": [
             "242.6%",
@@ -955,7 +955,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：剑舞之风",
+          "unit": "剑舞之风",
           "isSame": false,
           "values": [
             "75.3%",
@@ -978,7 +978,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：剑舞之风",
+          "unit": "剑舞之风",
           "isSame": false,
           "values": [
             "33.9%",
@@ -1001,7 +1001,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：剑闪之仪",
+          "unit": "剑闪之仪",
           "isSame": false,
           "values": [
             "284%",
@@ -1024,7 +1024,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：剑闪之仪",
+          "unit": "剑闪之仪",
           "isSame": false,
           "values": [
             "219.5%",
@@ -1052,48 +1052,77 @@
     "1": {
       "name": "掌心的芫荽",
       "desc": [
-        "爱丽丝触发<span style=\"color:#F0D12B;\">[极性强击]</span>时，回复25点<span style=\"color:#FFFFFF;\">[剑仪]</span>；爱丽丝触发<span style=\"color:#F0D12B;\">[强击]</span>时，目标的防御力降低20%，持续30秒。"
+        "爱丽丝触发<span style=\"color:#F0D12B;\">[极性强击]</span>时，回复25点<span style=\"color:#FFFFFF;\">[剑仪]</span>；爱丽丝触发<span style=\"color:#F0D12B;\">[强击]</span>时，目标的防御力降低20%，持续30秒。",
+        "<i>一株芫荽摇曳如新生的绿星，</i>",
+        "<i>指尖仿佛下一秒便能将它穿透。</i>",
+        "<i>她摊开微微颤抖的双手，</i>",
+        "<i>将那丝悸动拥入掌心。</i>",
+        "<i>少女的心跳如雨后晨曦破土的春芽。</i>"
       ]
     },
     "2": {
       "name": "剑尖的鼠尾草",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[终结技：星芒终章]</span>的终结一击命中敌人时，触发<span style=\"color:#F0D12B;\">[极性强击]</span>；全队角色造成的<span style=\"color:#F0D12B;\">[强击]</span>伤害提升15%；<span style=\"color:#F0D12B;\">物理异常状态</span>下的敌人被结算的<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升15%；进入战场时，爱丽丝立刻获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次。"
+        "<span style=\"color:#FFFFFF;\">[终结技：星芒终章]</span>的终结一击命中敌人时，触发<span style=\"color:#F0D12B;\">[极性强击]</span>；全队角色造成的<span style=\"color:#F0D12B;\">[强击]</span>伤害提升15%；<span style=\"color:#F0D12B;\">物理异常状态</span>下的敌人被结算的<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升15%；进入战场时，爱丽丝立刻获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次。",
+        "<i>银色的剑尖低吻着鼠尾草叶上的霜痕，</i>",
+        "<i>战前的行礼是少女余裕的体现。</i>",
+        "<i>恐惧与无力已被冰封于昨日的故梦中，</i>",
+        "<i>佩剑跃动着，将要勾勒出繁星的轮廓。</i>",
+        "<i>破晓就要到来，花蕾等待着盛开。</i>"
       ]
     },
     "3": {
       "name": "对称主义",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>她无法拒绝完美的对称。</i>",
+        "<i>对称之中，存在着秩序与规律。若看不到对称，她的兔耳和尾巴将会丧失柔顺与光泽，仿佛美好的事物下一秒就会离她而去。</i>",
+        "<i>「所以…这就是你非得提我的堆堆袜，还想卸掉我腿环的理由？」</i>",
+        "<i>「我实在受不了你的不对称啦！就一下，我保证就一下！」</i>"
       ]
     },
     "4": {
       "name": "唇间的迷迭香",
       "desc": [
-        "爱丽丝无视目标10%<span style=\"color:#F0D12B;\">物理伤害抗性</span>；强化后的<span style=\"color:#FFFFFF;\">[普通攻击：星仪序曲]</span>累积的<span style=\"color:#F0D12B;\">物理异常积蓄值</span>提升25%。"
+        "爱丽丝无视目标10%<span style=\"color:#F0D12B;\">物理伤害抗性</span>；强化后的<span style=\"color:#FFFFFF;\">[普通攻击：星仪序曲]</span>累积的<span style=\"color:#F0D12B;\">物理异常积蓄值</span>提升25%。",
+        "<i>双唇间残留着迷迭香的香气，</i>",
+        "<i>誓言滚烫且坚定，烙印于吐出的白息之中。</i>",
+        "<i>纵使吸入肺内的空气冰冷而沉重，</i>",
+        "<i>少女也绝不会忘却名为爱的咒语。</i>",
+        "<i>「以泰姆菲尔德之名…我绝不背弃。」</i>"
       ]
     },
     "5": {
       "name": "灵异渴求",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>她无法拒绝恐怖的灵异。</i>",
+        "<i>灵异之中，隐藏着未知与危险。若能感受到灵异，她的兔耳和尾巴都会在战栗中炸毛，却又在平复过后欲罢不能地变得更加顺滑。</i>",
+        "<i>「所以…这就是你每回怪谈冒险明明怕得要死，还是要紧跟着我的理由？」</i>",
+        "<i>「我只是好奇会发生什么…但是好恐怖，我已经后悔了！就一次，下次绝对不来了！」</i>"
       ]
     },
     "6": {
       "name": "心中的百里香",
       "desc": [
-        "爱丽丝发动三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>或<span style=\"color:#FFFFFF;\">[终结技：星芒终章]</span>时，进入<span style=\"color:#FFFFFF;\">[决胜状态]</span>，持续30秒，在持续期间，队伍中任意角色攻击命中目标后的短时间内，爱丽丝对目标发动1次额外攻击，造成等同于爱丽丝3300%异常精通的物理伤害，必定暴击，该效果1秒内最多触发一次，最多触发6次，再次获得<span style=\"color:#FFFFFF;\">[决胜状态]</span>时刷新可触发次数。"
+        "爱丽丝发动三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>或<span style=\"color:#FFFFFF;\">[终结技：星芒终章]</span>时，进入<span style=\"color:#FFFFFF;\">[决胜状态]</span>，持续30秒，在持续期间，队伍中任意角色攻击命中目标后的短时间内，爱丽丝对目标发动1次额外攻击，造成等同于爱丽丝3300%异常精通的物理伤害，必定暴击，该效果1秒内最多触发一次，最多触发6次，再次获得<span style=\"color:#FFFFFF;\">[决胜状态]</span>时刷新可触发次数。",
+        "<i>百里香漫放的那片庄园，</i>",
+        "<i>天体观测的那个夜晚，</i>",
+        "<i>知晓勇气为何物的那个瞬间。</i>",
+        "<i>熏风驱散了乌云，阳光掩盖了水晶灯的华彩，</i>",
+        "<i>少女向往日轻轻行了个礼。</i>",
+        "<i>她缓缓消失在百里香的花田。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：剑心双虹 / 额外能力：寻奇猎幽",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：剑心双虹</h3>",
       "队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">物理异常状态</span>后，在异常状态的持续期间，爱丽丝每0.95秒对其额外造成基于该物理异常伤害比例2.5%的伤害，并使<span style=\"color:#F0D12B;\">物理异常状态</span>下的敌人被触发<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，每有1秒<span style=\"color:#F0D12B;\">物理异常状态</span>剩余时间，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升18%，最多提升{CAL:18*10,1,2}%；",
       "爱丽丝攻击命中敌人时，累积<span style=\"color:#FFFFFF;\">[剑仪]</span>，爱丽丝通过属性异常积蓄触发<span style=\"color:#F0D12B;\">[强击]</span>时，回复10点<span style=\"color:#FFFFFF;\">[剑仪]</span>，<span style=\"color:#FFFFFF;\">[剑仪]</span>的上限为300点，每100点为1格；",
       "三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>的终结一击命中敌人时，触发特殊的<span style=\"color:#F0D12B;\">[强击]</span>效果<span style=\"color:#F0D12B;\">[极性强击]</span>，无视属性积蓄进度造成一次原本<span style=\"color:#F0D12B;\">[强击]</span>效果{CAL:0+100,1,2}%的伤害，并可以与包括物理异常效果在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
-      "爱丽丝触发<span style=\"color:#F0D12B;\">[强击]</span>时，<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升12.5%/14.6%/16.7%/18.8%/20.8%/22.9%，持续30秒。",
+      "爱丽丝触发<span style=\"color:#F0D12B;\">[强击]</span>时，<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升<span style=\"color:#2BAD00;\">(12.5%/14.6%/16.7%/18.8%/20.8%/22.9%/25%)</span>，持续30秒。",
       "<h3>额外能力：寻奇猎幽</h3>",
       "队伍中存在另一名<span style=\"color:#FFFFFF;\">[异常]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
       "队伍中任意角色触发<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，爱丽丝回复30点<span style=\"color:#FFFFFF;\">[剑仪]</span>；",

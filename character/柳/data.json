@@ -17,7 +17,7 @@
     "def": 612.6038
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -51,7 +51,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "56.6%",
@@ -74,7 +74,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "99.7%",
@@ -97,7 +97,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "113.1%",
@@ -120,7 +120,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "126.6%",
@@ -143,7 +143,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "236.9%",
@@ -166,7 +166,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "27.8%",
@@ -189,7 +189,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "68.1%",
@@ -212,7 +212,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "69.4%",
@@ -235,7 +235,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "77.6%",
@@ -258,7 +258,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "架势：上弦",
+          "unit": "上弦",
           "isSame": false,
           "values": [
             "145.2%",
@@ -281,7 +281,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "113.1%",
@@ -304,7 +304,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "129.2%",
@@ -327,7 +327,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "72.8%",
@@ -350,7 +350,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "107.7%",
@@ -373,7 +373,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "271.8%",
@@ -396,7 +396,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "55.5%",
@@ -419,7 +419,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "93.1%",
@@ -442,7 +442,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "44.6%",
@@ -465,7 +465,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "66.1%",
@@ -488,7 +488,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "架势：下弦",
+          "unit": "下弦",
           "isSame": false,
           "values": [
             "166.7%",
@@ -533,7 +533,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：风华斩",
+          "unit": "风华斩",
           "isSame": false,
           "values": [
             "93.6%",
@@ -556,7 +556,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：风华斩",
+          "unit": "风华斩",
           "isSame": false,
           "values": [
             "84.2%",
@@ -579,7 +579,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：流光反",
+          "unit": "流光反",
           "isSame": false,
           "values": [
             "244.2%",
@@ -602,7 +602,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：流光反",
+          "unit": "流光反",
           "isSame": false,
           "values": [
             "308.6%",
@@ -625,7 +625,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：流光反",
+          "unit": "流光反",
           "isSame": false,
           "values": [
             "150.2%",
@@ -648,7 +648,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：飞絮刺",
+          "unit": "飞絮刺",
           "isSame": false,
           "values": [
             "407.1%",
@@ -671,7 +671,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：飞絮刺",
+          "unit": "飞絮刺",
           "isSame": false,
           "values": [
             "320.6%",
@@ -715,7 +715,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：流转",
+          "unit": "流转",
           "isSame": false,
           "values": [
             "117.4%",
@@ -738,7 +738,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：流转",
+          "unit": "流转",
           "isSame": false,
           "values": [
             "105.7%",
@@ -761,7 +761,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：月华流转",
+          "unit": "月华流转",
           "isSame": true,
           "values": [
             "40"
@@ -769,7 +769,7 @@
         },
         {
           "name": "突刺攻击伤害倍率",
-          "unit": "强化特殊技：月华流转",
+          "unit": "月华流转",
           "isSame": false,
           "values": [
             "163.8%",
@@ -792,7 +792,7 @@
         },
         {
           "name": "突刺攻击失衡倍率",
-          "unit": "强化特殊技：月华流转",
+          "unit": "月华流转",
           "isSame": false,
           "values": [
             "127.1%",
@@ -815,7 +815,7 @@
         },
         {
           "name": "下落攻击伤害倍率",
-          "unit": "强化特殊技：月华流转",
+          "unit": "月华流转",
           "isSame": false,
           "values": [
             "377.8%",
@@ -838,7 +838,7 @@
         },
         {
           "name": "下落攻击失衡倍率",
-          "unit": "强化特殊技：月华流转",
+          "unit": "月华流转",
           "isSame": false,
           "values": [
             "109.6%",
@@ -861,7 +861,7 @@
         },
         {
           "name": "额外附加伤害倍率",
-          "unit": "强化特殊技：月华流转",
+          "unit": "月华流转",
           "isSame": true,
           "values": [
             "{CAL:5+AvatarSkillLevel(1)*2.25,100,2}%"
@@ -888,7 +888,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：星月相随",
+          "unit": "星月相随",
           "isSame": false,
           "values": [
             "593.1%",
@@ -911,7 +911,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：星月相随",
+          "unit": "星月相随",
           "isSame": false,
           "values": [
             "178.3%",
@@ -934,7 +934,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：雷影天华",
+          "unit": "雷影天华",
           "isSame": false,
           "values": [
             "1511.8%",
@@ -957,7 +957,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：雷影天华",
+          "unit": "雷影天华",
           "isSame": false,
           "values": [
             "97.5%",
@@ -980,7 +980,7 @@
         },
         {
           "name": "额外附加伤害倍率",
-          "unit": "终结技：雷影天华",
+          "unit": "雷影天华",
           "isSame": true,
           "values": [
             "{CAL:5+AvatarSkillLevel(3)*2.25,100,2}%"
@@ -1008,7 +1008,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：飞掠",
+          "unit": "飞掠",
           "isSame": false,
           "values": [
             "50.4%",
@@ -1031,7 +1031,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：飞掠",
+          "unit": "飞掠",
           "isSame": false,
           "values": [
             "45.4%",
@@ -1054,7 +1054,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：疾反",
+          "unit": "疾反",
           "isSame": false,
           "values": [
             "231.6%",
@@ -1077,7 +1077,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：疾反",
+          "unit": "疾反",
           "isSame": false,
           "values": [
             "183.2%",
@@ -1105,45 +1105,59 @@
     "1": {
       "name": "知己知彼",
       "desc": [
-        "队伍中任意角色对敌人施加属性异常效果时，月城柳会获得1层<span style=\"color:#FFFFFF;\">[洞悉]</span>，持续15秒，最多叠加3层，重复触发时刷新持续时间；受到敌方攻击时，月城柳将消耗1层<span style=\"color:#FFFFFF;\">[洞悉]</span>并获得无敌效果，持续1秒；拥有1层或以上<span style=\"color:#FFFFFF;\">[洞悉]</span>时，月城柳的异常精通提升80点。"
+        "队伍中任意角色对敌人施加属性异常效果时，月城柳会获得1层<span style=\"color:#FFFFFF;\">[洞悉]</span>，持续15秒，最多叠加3层，重复触发时刷新持续时间；受到敌方攻击时，月城柳将消耗1层<span style=\"color:#FFFFFF;\">[洞悉]</span>并获得无敌效果，持续1秒；拥有1层或以上<span style=\"color:#FFFFFF;\">[洞悉]</span>时，月城柳的异常精通提升80点。",
+        "<i>「洞悉敌人的弱点，等同于为自己赢得更多的保障…和胜算。」</i>",
+        "<i>柳推了推眼镜，即使已然胜券在握，她依然如像往常一般不动声色。</i>"
       ]
     },
     "2": {
       "name": "卓越适应性",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中，快速突刺累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升20%；快速突刺命中敌人时，保持长按「特殊攻击」按键，可以额外消耗10点能量，再次发动突刺攻击，能量不足或停止长按后将自动衔接下落攻击；下落攻击命中处于属性异常状态下的敌人并触发<span style=\"color:#FFFFFF;\">[极性紊乱]</span>效果时，对目标造成的伤害倍率提升至原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的20%，每额外发动一次突刺攻击，该伤害倍率额外提升15%，伤害倍率额外提升效果最多触发2次。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中，快速突刺累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升20%；快速突刺命中敌人时，保持长按「特殊攻击」按键，可以额外消耗10点能量，再次发动突刺攻击，能量不足或停止长按后将自动衔接下落攻击；下落攻击命中处于属性异常状态下的敌人并触发<span style=\"color:#FFFFFF;\">[极性紊乱]</span>效果时，对目标造成的伤害倍率提升至原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的20%，每额外发动一次突刺攻击，该伤害倍率额外提升15%，伤害倍率额外提升效果最多触发2次。",
+        "<i>「柳的话…无论被丢到怎样异常的环境，一定都能处理好的。」</i>",
+        "<i>「我比相信自己更加相信她。」</i>",
+        "<i>——来自一位正在进行「斩断面前所有落叶」修行的武者</i>"
       ]
     },
     "3": {
       "name": "月城氏管理学",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>人人都说对空六课聚集了一帮怪人和天才，其中唯一的「正常人」便是月城柳了。</i>",
+        "<i>但也正是她的存在，把怪人和天才们「粘合」了起来。</i>"
       ]
     },
     "4": {
       "name": "掌棋者",
       "desc": [
-        "月城柳对敌人造成属性异常伤害时，会为其施加<span style=\"color:#FFFFFF;\">[识破]</span>效果，持续15秒；处于<span style=\"color:#FFFFFF;\">[识破]</span>效果下的敌人受到攻击时，本次攻击的穿透率提升16%。"
+        "月城柳对敌人造成属性异常伤害时，会为其施加<span style=\"color:#FFFFFF;\">[识破]</span>效果，持续15秒；处于<span style=\"color:#FFFFFF;\">[识破]</span>效果下的敌人受到攻击时，本次攻击的穿透率提升16%。",
+        "<i>无论在何种情况下，月城柳都能以最快的速度掌握当下所有信息，并据此做出最合适的判断。</i>"
       ]
     },
     "5": {
       "name": "鬼「妈妈」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>目前，月城柳是苍角的唯一指定监护人。</i>",
+        "<i>「苍角，这是课长的饭团，不可以随便吃——算了，过来，我给你加热一下。」</i>",
+        "<i>「之后再买个一样的还给课长吧…」</i>"
       ]
     },
     "6": {
       "name": "非人之血",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中发动突刺攻击后，<span style=\"color:#FFFFFF;\">[森罗万象]</span>状态的持续时间提升至30秒，状态持续期间，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>造成的伤害提升20%；<span style=\"color:#FFFFFF;\">[卓越适应性]</span>中，<span style=\"color:#FFFFFF;\">[极性紊乱]</span>伤害倍率额外提升效果的触发次数上限提升至4次，前4次额外发动突刺攻击时所需的能量消耗减半。"
+        "在<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中发动突刺攻击后，<span style=\"color:#FFFFFF;\">[森罗万象]</span>状态的持续时间提升至30秒，状态持续期间，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>造成的伤害提升20%；<span style=\"color:#FFFFFF;\">[卓越适应性]</span>中，<span style=\"color:#FFFFFF;\">[极性紊乱]</span>伤害倍率额外提升效果的触发次数上限提升至4次，前4次额外发动突刺攻击时所需的能量消耗减半。",
+        "<i>月城柳的身体中流淌着一部分不属于她的血液。</i>",
+        "<i>这些血曾让她在绝境中获得了新生，也因此拥有了一些特殊的力量。</i>",
+        "<i>「但如你所知，一切本不属于我的东西…终有代价。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：月蚀 / 额外能力：月相",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：月蚀</h3>",
-      "月城柳发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后，队伍中任意角色对敌人施加<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升125%/145%/166%/188%/208%/230%，持续15秒；<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，月城柳对目标造成的<span style=\"color:#2EB6FF;\">电属性伤害</span>提升10%/11.6%/13.3%/15%/16.6%/18.3%，持续15秒。",
+      "月城柳发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后，队伍中任意角色对敌人施加<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升<span style=\"color:#2BAD00;\">(125%/145%/166%/188%/208%/230%/250%)</span>，持续15秒；<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，月城柳对目标造成的<span style=\"color:#2EB6FF;\">电属性伤害</span>提升<span style=\"color:#2BAD00;\">(10%/11.6%/13.3%/15%/16.6%/18.3%/20%)</span>，持续15秒。",
       "<h3>额外能力：月相</h3>",
       "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身属性相同的角色时触发：",
       "架势切换后，月城柳发动<span style=\"color:#FFFFFF;\">[普通攻击：夜见尊神乐]</span>命中敌人时累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升45%，持续8秒。"

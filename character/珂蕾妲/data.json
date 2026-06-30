@@ -17,7 +17,7 @@
     "def": 594.5855
   },
   "growAttr": {
-    "冲击力": 0.18,
+    "冲击力": 18,
     "基础攻击力": 75
   },
   "talentId": {
@@ -49,7 +49,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "63.6%",
@@ -72,7 +72,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "79.2%",
@@ -95,7 +95,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "126.1%",
@@ -118,7 +118,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "317.4%",
@@ -141,7 +141,7 @@
         },
         {
           "name": "强化普攻一段伤害倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "160.8%",
@@ -164,7 +164,7 @@
         },
         {
           "name": "强化普攻二段伤害倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "404.9%",
@@ -187,7 +187,7 @@
         },
         {
           "name": "强化普攻二段伤害倍率（协同）",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "501.3%",
@@ -210,7 +210,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "31.8%",
@@ -233,7 +233,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "65.5%",
@@ -256,7 +256,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "104.3%",
@@ -279,7 +279,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "249.3%",
@@ -302,7 +302,7 @@
         },
         {
           "name": "强化普攻一段失衡倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "61.4%",
@@ -325,7 +325,7 @@
         },
         {
           "name": "强化普攻二段失衡倍率",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "156.6%",
@@ -348,7 +348,7 @@
         },
         {
           "name": "强化普攻二段失衡倍率（协同）",
-          "unit": "普通攻击：砸扁，粉碎",
+          "unit": "砸扁，粉碎",
           "isSame": false,
           "values": [
             "234.6%",
@@ -392,7 +392,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：让我来",
+          "unit": "让我来",
           "isSame": false,
           "values": [
             "183.8%",
@@ -415,7 +415,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：让我来",
+          "unit": "让我来",
           "isSame": false,
           "values": [
             "183.8%",
@@ -438,7 +438,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：护身锤",
+          "unit": "护身锤",
           "isSame": false,
           "values": [
             "259%",
@@ -461,7 +461,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：护身锤",
+          "unit": "护身锤",
           "isSame": false,
           "values": [
             "327.3%",
@@ -484,7 +484,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：护身锤",
+          "unit": "护身锤",
           "isSame": false,
           "values": [
             "159.3%",
@@ -507,7 +507,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：锤钟",
+          "unit": "锤钟",
           "isSame": false,
           "values": [
             "359.2%",
@@ -530,7 +530,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：锤钟",
+          "unit": "锤钟",
           "isSame": false,
           "values": [
             "312.7%",
@@ -573,7 +573,7 @@
       "tables": [
         {
           "name": "打击伤害倍率",
-          "unit": "特殊技：爆破！铁锤时间",
+          "unit": "爆破！铁锤时间",
           "isSame": false,
           "values": [
             "51.9%",
@@ -596,7 +596,7 @@
         },
         {
           "name": "引爆伤害倍率",
-          "unit": "特殊技：爆破！铁锤时间",
+          "unit": "爆破！铁锤时间",
           "isSame": false,
           "values": [
             "77.8%",
@@ -619,7 +619,7 @@
         },
         {
           "name": "引爆伤害倍率（协同）",
-          "unit": "特殊技：爆破！铁锤时间",
+          "unit": "爆破！铁锤时间",
           "isSame": false,
           "values": [
             "85.5%",
@@ -642,7 +642,7 @@
         },
         {
           "name": "打击失衡倍率",
-          "unit": "特殊技：爆破！铁锤时间",
+          "unit": "爆破！铁锤时间",
           "isSame": false,
           "values": [
             "51.9%",
@@ -665,7 +665,7 @@
         },
         {
           "name": "引爆失衡倍率",
-          "unit": "特殊技：爆破！铁锤时间",
+          "unit": "爆破！铁锤时间",
           "isSame": false,
           "values": [
             "77.8%",
@@ -688,7 +688,7 @@
         },
         {
           "name": "引爆失衡倍率（协同）",
-          "unit": "特殊技：爆破！铁锤时间",
+          "unit": "爆破！铁锤时间",
           "isSame": false,
           "values": [
             "77.8%",
@@ -711,7 +711,7 @@
         },
         {
           "name": "打击伤害倍率",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": false,
           "values": [
             "152.3%",
@@ -734,7 +734,7 @@
         },
         {
           "name": "引爆伤害倍率",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": false,
           "values": [
             "606%",
@@ -757,7 +757,7 @@
         },
         {
           "name": "引爆伤害倍率（协同）",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": false,
           "values": [
             "666.6%",
@@ -780,7 +780,7 @@
         },
         {
           "name": "打击失衡倍率",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": false,
           "values": [
             "152.3%",
@@ -803,7 +803,7 @@
         },
         {
           "name": "引爆失衡倍率",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": false,
           "values": [
             "494%",
@@ -826,7 +826,7 @@
         },
         {
           "name": "引爆失衡倍率（协同）",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": false,
           "values": [
             "494%",
@@ -849,7 +849,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：沸腾熔炉",
+          "unit": "沸腾熔炉",
           "isSame": true,
           "values": [
             "60点"
@@ -874,7 +874,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：天崩-地裂",
+          "unit": "天崩-地裂",
           "isSame": false,
           "values": [
             "636%",
@@ -897,7 +897,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：天崩-地裂",
+          "unit": "天崩-地裂",
           "isSame": false,
           "values": [
             "217%",
@@ -920,7 +920,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：锤进地心",
+          "unit": "锤进地心",
           "isSame": false,
           "values": [
             "1548.8%",
@@ -943,7 +943,7 @@
         },
         {
           "name": "伤害倍率（协同）",
-          "unit": "终结技：锤进地心",
+          "unit": "锤进地心",
           "isSame": false,
           "values": [
             "1694%",
@@ -966,7 +966,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：锤进地心",
+          "unit": "锤进地心",
           "isSame": false,
           "values": [
             "1004.9%",
@@ -989,7 +989,7 @@
         },
         {
           "name": "失衡倍率（协同）",
-          "unit": "终结技：锤进地心",
+          "unit": "锤进地心",
           "isSame": false,
           "values": [
             "1096.5%",
@@ -1031,7 +1031,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：给我颤抖",
+          "unit": "给我颤抖",
           "isSame": false,
           "values": [
             "56.1%",
@@ -1054,7 +1054,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：给我颤抖",
+          "unit": "给我颤抖",
           "isSame": false,
           "values": [
             "28.1%",
@@ -1077,7 +1077,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：别小看我",
+          "unit": "别小看我",
           "isSame": false,
           "values": [
             "343.9%",
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：别小看我",
+          "unit": "别小看我",
           "isSame": false,
           "values": [
             "288.8%",
@@ -1128,45 +1128,59 @@
     "1": {
       "name": "锤击节奏",
       "desc": [
-        "当衔接在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第二、第四段或强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后，快速发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的失衡值提升15%。"
+        "当衔接在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第二、第四段或强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后，快速发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的失衡值提升15%。",
+        "<i>火爆的脾气只是表象，其实珂蕾妲心思很细腻。比如她知道什么时候挥锤能打得更痛。</i>"
       ]
     },
     "2": {
       "name": "动能回收",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，珂蕾妲回复60点能量，45秒内最多触发一次。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，珂蕾妲回复60点能量，45秒内最多触发一次。",
+        "<i>对珂蕾妲来说，完美的锤击自有独特的节奏。</i>",
+        "<i>像是加速敲击手鼓，每一击都在为下一次更强的节拍蓄力。</i>",
+        "<i>当然，面前的「玩具」能够撑住几下，就不好说了。</i>"
       ]
     },
     "3": {
       "name": "「别惹我！」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>作为合格的「玩具」，当珂蕾妲逐渐找到挥锤的手感时，</i>",
+        "<i>最好不要节外生枝惹麻烦，只要老老实实挨锤就好。</i>",
+        "<i>——毕竟，反抗又有什么用呢？</i>"
       ]
     },
     "4": {
       "name": "熔炉余温",
       "desc": [
-        "消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，珂蕾妲获得1层充能（上限2层）；<span style=\"color:#FFFFFF;\">[连携技：天崩-地裂]</span>或<span style=\"color:#FFFFFF;\">[终结技：锤进地心]</span>命中敌人时，消耗所有充能，每层充能使当前招式造成的伤害提升18%。"
+        "消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，珂蕾妲获得1层充能（上限2层）；<span style=\"color:#FFFFFF;\">[连携技：天崩-地裂]</span>或<span style=\"color:#FFFFFF;\">[终结技：锤进地心]</span>命中敌人时，消耗所有充能，每层充能使当前招式造成的伤害提升18%。",
+        "<i>当炽热的挥锤让周围温度上升后，珂蕾妲便进入了作战状态。</i>",
+        "<i>现在，她比以太炸药更易燃易爆。</i>"
       ]
     },
     "5": {
       "name": "「敢小瞧我？」",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>珂蕾妲非常在意自己这个年轻的首领会让外人小瞧白祇重工。为了弥补这一点，她总是悄悄努力训练。</i>"
       ]
     },
     "6": {
       "name": "饱和爆破",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中，引发爆炸命中敌人时，额外造成珂蕾妲360%攻击力的伤害。"
+        "在<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中，引发爆炸命中敌人时，额外造成珂蕾妲360%攻击力的伤害。",
+        "<i>在珂蕾妲眼里，讨厌的人分为两种：</i>",
+        "<i>笨蛋，和无可救药的笨蛋。</i>",
+        "<i>万幸的是，白祇重工向来不缺烈性以太炸药。</i>",
+        "<i>多余的份正好可以用在这些笨蛋头上。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：爆破锤 / 额外能力：白祇管理学",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：爆破锤</h3>",
-      "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>，或消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，招式造成的失衡值提升30%/35%/40%/45%/50%/55%。",
+      "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>，或消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>。",
       "<h3>额外能力：白祇管理学</h3>",
       "队伍中存在与自身属性或阵营相同的角色或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
       "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>引发爆炸命中敌人时，对目标施加减益效果；当目标陷入失衡状态后，<span style=\"color:#FFFFFF;\">[连携技]</span>对其造成的伤害提升35%，最多叠加2层，失衡状态结束时该效果重置。"

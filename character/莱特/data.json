@@ -17,7 +17,7 @@
     "def": 612.6038
   },
   "growAttr": {
-    "冲击力": 0.18,
+    "冲击力": 18,
     "基础攻击力": 75
   },
   "talentId": {
@@ -52,7 +52,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "39.2%",
@@ -75,7 +75,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "48%",
@@ -98,7 +98,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "55.3%",
@@ -121,7 +121,7 @@
         },
         {
           "name": "追击一段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "86.9%",
@@ -144,7 +144,7 @@
         },
         {
           "name": "追击二段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "47.7%",
@@ -167,7 +167,7 @@
         },
         {
           "name": "追击三段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "58.1%",
@@ -190,7 +190,7 @@
         },
         {
           "name": "追击四段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "32.8%",
@@ -213,7 +213,7 @@
         },
         {
           "name": "追击五段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "89%",
@@ -236,7 +236,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "78.9%",
@@ -259,7 +259,7 @@
         },
         {
           "name": "五段起攻伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "163.6%",
@@ -282,7 +282,7 @@
         },
         {
           "name": "五段连击伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "122.9%",
@@ -305,7 +305,7 @@
         },
         {
           "name": "五段终结伤害倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "104.6%",
@@ -328,7 +328,7 @@
         },
         {
           "name": "五段起攻伤害倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "177.2%",
@@ -351,7 +351,7 @@
         },
         {
           "name": "五段连击伤害倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "364.3%",
@@ -374,7 +374,7 @@
         },
         {
           "name": "五段终结伤害倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "119.7%",
@@ -397,7 +397,7 @@
         },
         {
           "name": "五段强力终结伤害倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "435.4%",
@@ -420,7 +420,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "19.6%",
@@ -443,7 +443,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "32.9%",
@@ -466,7 +466,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "46.7%",
@@ -489,7 +489,7 @@
         },
         {
           "name": "追击一段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "60.5%",
@@ -512,7 +512,7 @@
         },
         {
           "name": "追击二段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "33.2%",
@@ -535,7 +535,7 @@
         },
         {
           "name": "追击三段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "40.4%",
@@ -558,7 +558,7 @@
         },
         {
           "name": "追击四段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "22.8%",
@@ -581,7 +581,7 @@
         },
         {
           "name": "追击五段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "61.9%",
@@ -604,7 +604,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "76.1%",
@@ -627,7 +627,7 @@
         },
         {
           "name": "五段起攻失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "129.5%",
@@ -650,7 +650,7 @@
         },
         {
           "name": "五段连击失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "81.3%",
@@ -673,7 +673,7 @@
         },
         {
           "name": "五段终结失衡倍率",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "79.5%",
@@ -696,7 +696,7 @@
         },
         {
           "name": "五段起攻失衡倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "136.3%",
@@ -719,7 +719,7 @@
         },
         {
           "name": "五段连击失衡倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "85.5%",
@@ -742,7 +742,7 @@
         },
         {
           "name": "五段终结失衡倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "92.1%",
@@ -765,7 +765,7 @@
         },
         {
           "name": "五段强力终结失衡倍率（士气喷发状态）",
-          "unit": "普通攻击：L式轰鸣拳",
+          "unit": "L式轰鸣拳",
           "isSame": false,
           "values": [
             "132.4%",
@@ -810,7 +810,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：烈闪-守",
+          "unit": "烈闪-守",
           "isSame": false,
           "values": [
             "69.7%",
@@ -833,7 +833,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：烈闪-守",
+          "unit": "烈闪-守",
           "isSame": false,
           "values": [
             "69.7%",
@@ -856,7 +856,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：瞬破",
+          "unit": "瞬破",
           "isSame": false,
           "values": [
             "271.3%",
@@ -879,7 +879,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：瞬破",
+          "unit": "瞬破",
           "isSame": false,
           "values": [
             "342.8%",
@@ -902,7 +902,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：瞬破",
+          "unit": "瞬破",
           "isSame": false,
           "values": [
             "166.8%",
@@ -925,7 +925,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：骸突-刺",
+          "unit": "骸突-刺",
           "isSame": false,
           "values": [
             "219.8%",
@@ -948,7 +948,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：骸突-刺",
+          "unit": "骸突-刺",
           "isSame": false,
           "values": [
             "182.3%",
@@ -998,7 +998,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：V式日轮升拳",
+          "unit": "V式日轮升拳",
           "isSame": false,
           "values": [
             "36.3%",
@@ -1021,7 +1021,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：V式日轮升拳",
+          "unit": "V式日轮升拳",
           "isSame": false,
           "values": [
             "36.3%",
@@ -1044,7 +1044,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：V式日轮升拳-全冲程",
+          "unit": "V式日轮升拳-全冲程",
           "isSame": false,
           "values": [
             "486.3%",
@@ -1067,7 +1067,7 @@
         },
         {
           "name": "追击伤害倍率",
-          "unit": "强化特殊技：V式日轮升拳-全冲程",
+          "unit": "V式日轮升拳-全冲程",
           "isSame": false,
           "values": [
             "292.7%",
@@ -1090,7 +1090,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：V式日轮升拳-全冲程",
+          "unit": "V式日轮升拳-全冲程",
           "isSame": false,
           "values": [
             "403.5%",
@@ -1113,7 +1113,7 @@
         },
         {
           "name": "追击失衡倍率",
-          "unit": "强化特殊技：V式日轮升拳-全冲程",
+          "unit": "V式日轮升拳-全冲程",
           "isSame": false,
           "values": [
             "247.7%",
@@ -1136,7 +1136,7 @@
         },
         {
           "name": "发动能量消耗",
-          "unit": "强化特殊技：V式日轮升拳-全冲程",
+          "unit": "V式日轮升拳-全冲程",
           "isSame": true,
           "values": [
             "40点"
@@ -1144,7 +1144,7 @@
         },
         {
           "name": "追击能量消耗",
-          "unit": "强化特殊技：V式日轮升拳-全冲程",
+          "unit": "V式日轮升拳-全冲程",
           "isSame": true,
           "values": [
             "20点"
@@ -1168,7 +1168,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：V式灼日炎",
+          "unit": "V式灼日炎",
           "isSame": false,
           "values": [
             "712.1%",
@@ -1191,7 +1191,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：V式灼日炎",
+          "unit": "V式灼日炎",
           "isSame": false,
           "values": [
             "273.2%",
@@ -1214,7 +1214,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：W式桂冠终火",
+          "unit": "W式桂冠终火",
           "isSame": false,
           "values": [
             "1508%",
@@ -1237,7 +1237,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：W式桂冠终火",
+          "unit": "W式桂冠终火",
           "isSame": false,
           "values": [
             "947.4%",
@@ -1284,7 +1284,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：骸突",
+          "unit": "骸突",
           "isSame": false,
           "values": [
             "89.9%",
@@ -1307,7 +1307,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：骸突",
+          "unit": "骸突",
           "isSame": false,
           "values": [
             "45%",
@@ -1330,7 +1330,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：烈闪",
+          "unit": "烈闪",
           "isSame": false,
           "values": [
             "186.3%",
@@ -1353,7 +1353,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：烈闪",
+          "unit": "烈闪",
           "isSame": false,
           "values": [
             "168.7%",
@@ -1381,45 +1381,58 @@
     "1": {
       "name": "常胜冠军",
       "desc": [
-        "在<span style=\"color:#FFFFFF;\">[核心被动：助燃剂]</span>所施加的减益效果中，<span style=\"color:#FFFFFF;\">[溃败]</span>效果将使失衡持续时间提升5秒，<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>和<span style=\"color:#FF5521;\">火属性伤害抗性</span>将额外降低10%；在轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>，自动衔接发动强力终结一击时，强力终结一击造成的伤害提升30%。"
+        "在<span style=\"color:#FFFFFF;\">[核心被动：助燃剂]</span>所施加的减益效果中，<span style=\"color:#FFFFFF;\">[溃败]</span>效果将使失衡持续时间提升5秒，<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>和<span style=\"color:#FF5521;\">火属性伤害抗性</span>将额外降低10%；在轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>，自动衔接发动强力终结一击时，强力终结一击造成的伤害提升30%。",
+        "<i>常胜冠军的胜利至关重要。与对面最强的战士决斗，为团长解决威胁——同时为团队带来巨大的士气鼓舞。</i>",
+        "<i>对他来说，唯有胜利值得赞颂。</i>",
+        "<i>「常胜冠军不能倒下。」</i>"
       ]
     },
     "2": {
       "name": "红围巾",
       "desc": [
-        "通过<span style=\"color:#FFFFFF;\">[核心被动：助燃剂]</span>对敌人施加<span style=\"color:#FFFFFF;\">[溃败]</span>效果时，目标的失衡易伤倍率提升25%；<span style=\"color:#FFFFFF;\">[额外能力：斗志昂扬]</span>中由<span style=\"color:#FFFFFF;\">[昂扬]</span>提供的<span style=\"color:#98EFF0;\">冰属性伤害</span>和<span style=\"color:#FF5521;\">火属性伤害</span>增益效果提升至原本的120%。"
+        "通过<span style=\"color:#FFFFFF;\">[核心被动：助燃剂]</span>对敌人施加<span style=\"color:#FFFFFF;\">[溃败]</span>效果时，目标的失衡易伤倍率提升25%；<span style=\"color:#FFFFFF;\">[额外能力：斗志昂扬]</span>中由<span style=\"color:#FFFFFF;\">[昂扬]</span>提供的<span style=\"color:#98EFF0;\">冰属性伤害</span>和<span style=\"color:#FF5521;\">火属性伤害</span>增益效果提升至原本的120%。",
+        "<i>作为卡吕冬之子的「红围巾」，莱特在外环非常有名。</i>",
+        "<i>不只是因为他的拳头，也因为…某些说话风格。</i>",
+        "<i>「虽然我乐得清闲…不过没有我的话，你们也搞不定吧？」</i>"
       ]
     },
     "3": {
       "name": "佣兵团长",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「我大概是全世界最不适合当团长的人吧。」</i>"
       ]
     },
     "4": {
       "name": "墨镜",
       "desc": [
-        "莱特位于后场时，前场角色的能量自动回复效率提升10%；莱特进入<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态时，为后场角色回复4点能量，18秒内最多触发一次。"
+        "莱特位于后场时，前场角色的能量自动回复效率提升10%；莱特进入<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态时，为后场角色回复4点能量，18秒内最多触发一次。",
+        "<i>「问我为什么要带墨镜？嗯…因为我晕血啊，大概吧。」</i>"
       ]
     },
     "5": {
       "name": "决策者",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「给我命令，我来照做。就这么简单。」</i>",
+        "<i>莱特推了推自己的墨镜，笑得漫不经心。</i>",
+        "<i>「别再让我来做决定就行。」</i>"
       ]
     },
     "6": {
       "name": "幸存者",
       "desc": [
-        "莱特的<span style=\"color:#FFFFFF;\">[士气]</span>回复效率提升至原本的200%；莱特在<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避反击]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[快速支援]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>中发动重击命中敌人时，将会触发<span style=\"color:#FFFFFF;\">[火焰冲击]</span>效果，造成250%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>，每个敌人8秒内最多触发一次；若莱特的冲击力高于170点，每超过1点冲击力会使<span style=\"color:#FFFFFF;\">[火焰冲击]</span>的倍率额外提升5%，最多提升500%；在轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>，自动衔接发动强力终结一击命中敌人时，可以忽略冷却时间，额外触发一次<span style=\"color:#FFFFFF;\">[火焰冲击]</span>效果。"
+        "莱特的<span style=\"color:#FFFFFF;\">[士气]</span>回复效率提升至原本的200%；莱特在<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避反击]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[快速支援]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>中发动重击命中敌人时，将会触发<span style=\"color:#FFFFFF;\">[火焰冲击]</span>效果，造成250%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>，每个敌人8秒内最多触发一次；若莱特的冲击力高于170点，每超过1点冲击力会使<span style=\"color:#FFFFFF;\">[火焰冲击]</span>的倍率额外提升5%，最多提升500%；在轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>，自动衔接发动强力终结一击命中敌人时，可以忽略冷却时间，额外触发一次<span style=\"color:#FFFFFF;\">[火焰冲击]</span>效果。",
+        "<i>重来一次，他绝不会选择成为唯一的幸存者。</i>",
+        "<i>可惜命运向来无法选择。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：助燃剂 / 额外能力：斗志昂扬",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：助燃剂</h3>",
-      "莱特会随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，每秒回复2.9点，队伍中任意角色每消耗1点能量值，额外为莱特回复0.26点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特最多拥有100点<span style=\"color:#FFFFFF;\">[士气]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>回复至80点时，下一次换入前场将直接发动<span style=\"color:#FFFFFF;\">[快速支援]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>大于等于80点后，莱特发动第五段<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，将进入<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态，提升<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段中轻拳起攻、刺拳连击和终结一击的威力；威力提升后，招式命中敌人时，会持续消耗<span style=\"color:#FFFFFF;\">[士气]</span>，每消耗10点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特的冲击力提升1%/1.17%/1.33%/1.5%/1.67%/1.83%，最多提升10%/11.7%/13.3%/15%/16.7%/18.3%，持续6秒；",
+      "莱特会随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，每秒回复2.9点，队伍中任意角色每消耗1点能量值，额外为莱特回复0.26点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特最多拥有100点<span style=\"color:#FFFFFF;\">[士气]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>回复至80点时，下一次换入前场将直接发动<span style=\"color:#FFFFFF;\">[快速支援]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>大于等于80点后，莱特发动第五段<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，将进入<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态，提升<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段中轻拳起攻、刺拳连击和终结一击的威力；威力提升后，招式命中敌人时，会持续消耗<span style=\"color:#FFFFFF;\">[士气]</span>，每消耗10点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特的冲击力提升<span style=\"color:#2BAD00;\">(1%/1.17%/1.33%/1.5%/1.67%/1.83%/2%)</span>，最多提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，持续6秒；",
       "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，莱特不再随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>时，会自动衔接发动更加强力的终结一击；",
       "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，轻拳起攻或刺拳连击命中敌人时，目标的<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>和<span style=\"color:#FF5521;\">火属性伤害抗性</span>降低15%，持续30秒；",
       "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，终结一击命中敌人时，会对目标施加<span style=\"color:#FFFFFF;\">[溃败]</span>效果，使其进入失衡状态后的失衡持续时间提升3秒，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[溃败]</span>效果对同一目标最多触发一次；",

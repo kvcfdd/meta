@@ -48,7 +48,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "40.9%",
@@ -71,7 +71,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "27.8%",
@@ -94,7 +94,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "83.5%",
@@ -117,7 +117,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "80.1%",
@@ -140,7 +140,7 @@
         },
         {
           "name": "随想伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "172.9%",
@@ -163,7 +163,7 @@
         },
         {
           "name": "合唱伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "412.5%",
@@ -186,7 +186,7 @@
         },
         {
           "name": "追加攻击伤害倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "550%",
@@ -209,7 +209,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "66.1%",
@@ -232,7 +232,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "36.7%",
@@ -255,7 +255,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "107.7%",
@@ -278,7 +278,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "111.9%",
@@ -301,7 +301,7 @@
         },
         {
           "name": "随想失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "207.6%",
@@ -324,7 +324,7 @@
         },
         {
           "name": "合唱失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": false,
           "values": [
             "207.6%",
@@ -347,7 +347,7 @@
         },
         {
           "name": "追加攻击失衡倍率",
-          "unit": "普通攻击：星轨连击",
+          "unit": "星轨连击",
           "isSame": true,
           "values": [
             "0%"
@@ -377,7 +377,7 @@
       "tables": [
         {
           "name": "随想伤害倍率",
-          "unit": "快速支援：迷雾重击",
+          "unit": "迷雾重击",
           "isSame": false,
           "values": [
             "106.4%",
@@ -400,7 +400,7 @@
         },
         {
           "name": "合唱伤害倍率",
-          "unit": "快速支援：迷雾重击",
+          "unit": "迷雾重击",
           "isSame": false,
           "values": [
             "243.9%",
@@ -423,7 +423,7 @@
         },
         {
           "name": "追加攻击伤害倍率",
-          "unit": "快速支援：迷雾重击",
+          "unit": "迷雾重击",
           "isSame": false,
           "values": [
             "550%",
@@ -446,7 +446,7 @@
         },
         {
           "name": "随想失衡倍率",
-          "unit": "快速支援：迷雾重击",
+          "unit": "迷雾重击",
           "isSame": false,
           "values": [
             "53.2%",
@@ -469,7 +469,7 @@
         },
         {
           "name": "合唱失衡倍率",
-          "unit": "快速支援：迷雾重击",
+          "unit": "迷雾重击",
           "isSame": false,
           "values": [
             "53.2%",
@@ -492,7 +492,7 @@
         },
         {
           "name": "追加攻击失衡倍率",
-          "unit": "快速支援：迷雾重击",
+          "unit": "迷雾重击",
           "isSame": true,
           "values": [
             "0%"
@@ -500,7 +500,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：幻梦之声",
+          "unit": "幻梦之声",
           "isSame": false,
           "values": [
             "271.3%",
@@ -523,7 +523,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：幻梦之声",
+          "unit": "幻梦之声",
           "isSame": false,
           "values": [
             "342.8%",
@@ -546,7 +546,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：幻梦之声",
+          "unit": "幻梦之声",
           "isSame": false,
           "values": [
             "166.8%",
@@ -569,7 +569,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：绘梦和声",
+          "unit": "绘梦和声",
           "isSame": false,
           "values": [
             "327.7%",
@@ -592,7 +592,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：绘梦和声",
+          "unit": "绘梦和声",
           "isSame": false,
           "values": [
             "282.4%",
@@ -636,7 +636,7 @@
       "tables": [
         {
           "name": "随想伤害倍率",
-          "unit": "特殊技：死神协奏曲·风暴",
+          "unit": "死神协奏曲·风暴",
           "isSame": false,
           "values": [
             "45.9%",
@@ -659,7 +659,7 @@
         },
         {
           "name": "合唱伤害倍率",
-          "unit": "特殊技：死神协奏曲·风暴",
+          "unit": "死神协奏曲·风暴",
           "isSame": false,
           "values": [
             "183.4%",
@@ -682,7 +682,7 @@
         },
         {
           "name": "追加攻击伤害倍率",
-          "unit": "特殊技：死神协奏曲·风暴",
+          "unit": "死神协奏曲·风暴",
           "isSame": false,
           "values": [
             "550%",
@@ -705,7 +705,7 @@
         },
         {
           "name": "随想失衡倍率",
-          "unit": "特殊技：死神协奏曲·风暴",
+          "unit": "死神协奏曲·风暴",
           "isSame": false,
           "values": [
             "45.9%",
@@ -728,7 +728,7 @@
         },
         {
           "name": "合唱失衡倍率",
-          "unit": "特殊技：死神协奏曲·风暴",
+          "unit": "死神协奏曲·风暴",
           "isSame": false,
           "values": [
             "45.9%",
@@ -751,7 +751,7 @@
         },
         {
           "name": "追加攻击失衡倍率",
-          "unit": "特殊技：死神协奏曲·风暴",
+          "unit": "死神协奏曲·风暴",
           "isSame": true,
           "values": [
             "0%"
@@ -759,7 +759,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：死神协奏曲·破晓",
+          "unit": "死神协奏曲·破晓",
           "isSame": false,
           "values": [
             "638.1%",
@@ -782,7 +782,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：死神协奏曲·破晓",
+          "unit": "死神协奏曲·破晓",
           "isSame": false,
           "values": [
             "441.9%",
@@ -805,7 +805,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：死神协奏曲·破晓",
+          "unit": "死神协奏曲·破晓",
           "isSame": true,
           "values": [
             "60点"
@@ -813,7 +813,7 @@
         },
         {
           "name": "贯穿力额外提升上限",
-          "unit": "强化特殊技：死神协奏曲·破晓",
+          "unit": "死神协奏曲·破晓",
           "isSame": true,
           "values": [
             "{CAL:612+AvatarSkillLevel(1)*24,1,2}点"
@@ -821,7 +821,7 @@
         },
         {
           "name": "[合唱]额外伤害倍率",
-          "unit": "强化特殊技：死神协奏曲·破晓",
+          "unit": "死神协奏曲·破晓",
           "isSame": true,
           "values": [
             "{CAL:0.34+AvatarSkillLevel(1)*0.03,100,2}%"
@@ -849,7 +849,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：璀色剧场",
+          "unit": "璀色剧场",
           "isSame": false,
           "values": [
             "616.7%",
@@ -872,7 +872,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：璀色剧场",
+          "unit": "璀色剧场",
           "isSame": false,
           "values": [
             "177.8%",
@@ -895,7 +895,7 @@
         },
         {
           "name": "突进单次撞击伤害倍率",
-          "unit": "终结技：进击，大铠甲！",
+          "unit": "进击，大铠甲！",
           "isSame": false,
           "values": [
             "93%",
@@ -918,7 +918,7 @@
         },
         {
           "name": "终结技伤害倍率",
-          "unit": "终结技：进击，大铠甲！",
+          "unit": "进击，大铠甲！",
           "isSame": false,
           "values": [
             "1902.7%",
@@ -941,7 +941,7 @@
         },
         {
           "name": "突进单次撞击失衡倍率",
-          "unit": "终结技：进击，大铠甲！",
+          "unit": "进击，大铠甲！",
           "isSame": false,
           "values": [
             "71.5%",
@@ -964,7 +964,7 @@
         },
         {
           "name": "终结技失衡倍率",
-          "unit": "终结技：进击，大铠甲！",
+          "unit": "进击，大铠甲！",
           "isSame": false,
           "values": [
             "194.4%",
@@ -987,7 +987,7 @@
         },
         {
           "name": "每秒回复生命百分比",
-          "unit": "终结技：进击，大铠甲！",
+          "unit": "进击，大铠甲！",
           "isSame": true,
           "values": [
             "{CAL:0.01+AvatarSkillLevel(3)*0.0005,100,2}%"
@@ -1015,7 +1015,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：折光",
+          "unit": "折光",
           "isSame": false,
           "values": [
             "86.3%",
@@ -1038,7 +1038,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：折光",
+          "unit": "折光",
           "isSame": false,
           "values": [
             "43.2%",
@@ -1061,7 +1061,7 @@
         },
         {
           "name": "随想伤害倍率",
-          "unit": "闪避反击：星尘回响",
+          "unit": "星尘回响",
           "isSame": false,
           "values": [
             "248.3%",
@@ -1084,7 +1084,7 @@
         },
         {
           "name": "合唱伤害倍率",
-          "unit": "闪避反击：星尘回响",
+          "unit": "星尘回响",
           "isSame": false,
           "values": [
             "385.8%",
@@ -1107,7 +1107,7 @@
         },
         {
           "name": "随想失衡倍率",
-          "unit": "闪避反击：星尘回响",
+          "unit": "星尘回响",
           "isSame": false,
           "values": [
             "216.4%",
@@ -1130,7 +1130,7 @@
         },
         {
           "name": "合唱失衡倍率",
-          "unit": "闪避反击：星尘回响",
+          "unit": "星尘回响",
           "isSame": false,
           "values": [
             "216.4%",
@@ -1158,48 +1158,80 @@
     "1": {
       "name": "秘密朋友",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态额外附加造成伤害时无视敌人18%全属性伤害抗性和喧响值获取效率提升5%效果；且卢西娅发动招式升级时获得1层<span style=\"color:#FFFFFF;\">[回音]</span>，最多叠加4层，当<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态结束时，若卢西娅持有<span style=\"color:#FFFFFF;\">[回音]</span>，则会自动消耗1层并重新为全队角色施加<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态。"
+        "<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态额外附加造成伤害时无视敌人18%全属性伤害抗性和喧响值获取效率提升5%效果；且卢西娅发动招式升级时获得1层<span style=\"color:#FFFFFF;\">[回音]</span>，最多叠加4层，当<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态结束时，若卢西娅持有<span style=\"color:#FFFFFF;\">[回音]</span>，则会自动消耗1层并重新为全队角色施加<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态。",
+        "<i>在还是个孩子的时候，奶奶就牵着卢西娅的手，将她带进了空洞。</i>",
+        "<i>从此，她穿梭于漆黑的小径，狩猎于无边的空洞；画笔下描绘了擦肩而过的以骸，以太光芒构成了童年的所有光彩。</i>",
+        "<i>「小时候，我有三个朋友：很强壮的黑盾，会瞬间移动的塔纳，还有特别特别厉害的大铠甲！」</i>",
+        "<i>「后来，他们都不见啦…」</i>",
+        "<i>「不过没关系！我把他们都画在了本子上——现在，只要挥挥法杖，我就能把他们都召唤出来！」</i>"
       ]
     },
     "2": {
       "name": "魔术大师",
       "desc": [
-        "卢西娅处于<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>内时<span style=\"color:#FFFFFF;\">[合唱]</span>造成的伤害提升15%；拥有<span style=\"color:#FFFFFF;\">[破暗]</span>状态的代理人处于<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>内时，额外获得贯穿伤害提升15%效果。"
+        "卢西娅处于<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>内时<span style=\"color:#FFFFFF;\">[合唱]</span>造成的伤害提升15%；拥有<span style=\"color:#FFFFFF;\">[破暗]</span>状态的代理人处于<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>内时，额外获得贯穿伤害提升15%效果。",
+        "<i>近来，新艾利都流传着一则关于「夜魔使者」的传说。</i>",
+        "<i>「每到晚上十二点，夜魔使者就会出现在街头，给我们讲各种各样的故事！」</i>",
+        "<i>「她还是个很厉害的魔术师！只要念起咒语，就能『哗啦啦』召唤出好多好多以骸，帮我们战斗！」</i>",
+        "<i>「上次在空洞里迷路时，夜魔使者就是用这招把我们救出来的！」</i>",
+        "<i>——上述内容由果核布、恶魔布和飞靶布口述</i>"
       ]
     },
     "3": {
       "name": "最佳搭档",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>——咚，咚咚。</i>",
+        "<i>伴随着有规律的敲击声，一把烤串从窗口递了进来。</i>",
+        "<i>「绳匠接着！刚出炉的烤肉搭配柠檬跳跳糖，契合得就像杜拉罕的左手刀和右手盾！」</i>",
+        "<i>「吃完了的话…我们现在一起出去玩吧！」</i>",
+        "<i>「我有预感，今晚一定能找到超级棒的怪谈素材——能『嘭』地一下掀翻论坛那种程度！」</i>"
       ]
     },
     "4": {
       "name": "深夜时间",
       "desc": [
-        "当场上有<span style=\"color:#FFFFFF;\">[以太帷幕]</span>开启或延长时，卢西娅使全队角色获得100点喧响值，该效果15秒内最多触发一次。"
+        "当场上有<span style=\"color:#FFFFFF;\">[以太帷幕]</span>开启或延长时，卢西娅使全队角色获得100点喧响值，该效果15秒内最多触发一次。",
+        "<i>对于「怪谈学者」来说，旺盛的好奇心、充沛的行动力以及说走就走的决心，都是必不可少的重要特质，卢西娅也是这样。</i>",
+        "<i>正因如此，在刚来新艾利都的那段时间，她成为了治安局的常客。</i>",
+        "<i>「说过多少次了，哪怕是追踪怪谈的时候，也不可以随随便便闯进工地——」</i>",
+        "<i>「不要在街上睡觉，不可以半夜到处乱跑，不能在所有人面前冲进空洞…这些全都是『新艾利都生活守则』，需要好好遵守！」</i>",
+        "<i>「实在睡不着的话，要不…唔，就去泰姆菲尔德庄园探险，顺便给爱丽丝讲点鬼故事怎么样？」</i>"
       ]
     },
     "5": {
       "name": "梦境守望人",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>夜色如墨深沉，繁星瑰丽璀璨。</i>",
+        "<i>她从远方跋涉而来，带着故事、歌谣和未完成的诗篇。</i>",
+        "<i>她摘下花朵，露水凝结在花瓣中，放在窗前。</i>",
+        "<i>她守候着你的梦境，让它温暖安全。</i>",
+        "<i>「早上好…诶，卢西娅是什么时候过来的？」</i>",
+        "<i>「我不记得了，应该没有很久吧…毕竟，和绳匠在一起的时间总是过得很快。」</i>"
       ]
     },
     "6": {
       "name": "永不结束的旅途",
       "desc": [
-        "卢西娅处于任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>内时，会根据自身初始最大生命值的2%提升自身攻击力，且<span style=\"color:#FFFFFF;\">[合唱]</span>必定暴击，<span style=\"color:#FFFFFF;\">[合唱]</span>造成暴击时暴击伤害提升30%。"
+        "卢西娅处于任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>内时，会根据自身初始最大生命值的2%提升自身攻击力，且<span style=\"color:#FFFFFF;\">[合唱]</span>必定暴击，<span style=\"color:#FFFFFF;\">[合唱]</span>造成暴击时暴击伤害提升30%。",
+        "<i>卢西娅的生命是一场没有尽头的旅程。她在月色下奔跑寻觅，横跨一条又一条街道，走过一个又一个城市。</i>",
+        "<i>故事的丝线编织出无数美梦，轻盈的歌声于夜灯下流淌。</i>",
+        "<i>寻觅的脚步从不停歇，星空下的旅途永不终止。</i>",
+        "<i>直到夜幕消褪，阳光升起，少女才伸着懒腰走出空洞。</i>",
+        "<i>「哈欠…好困…可是大家都说最好别睡在空洞里…」</i>",
+        "<i>「要不，还是去录像店打个地铺吧！」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：迷途夜颂 / 额外能力：长夜诗篇",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：迷途夜颂</h3>",
       "进入战场时，卢西娅立刻获得60点<span style=\"color:#FFFFFF;\">[梦境值]</span>，若在发动<span style=\"color:#FFFFFF;\">[随想]</span>或<span style=\"color:#FFFFFF;\">[合唱]</span>时，卢西娅的<span style=\"color:#FFFFFF;\">[梦境值]</span>达到100点，会进入<span style=\"color:#FFFFFF;\">[梦境]</span>状态；",
       "进入<span style=\"color:#FFFFFF;\">[梦境]</span>状态时，将触发<span style=\"color:#FFFFFF;\">[快速支援]</span>，并同时开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>，<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>生效期间，全队角色最大生命值提升5%，持续40秒，重复触发延长持续时间，最多延长至300秒；",
       "当卢西娅处于<span style=\"color:#FFFFFF;\">[梦境]</span>状态中，发动任意<span style=\"color:#FFFFFF;\">[随想]</span>时，会消耗25点<span style=\"color:#FFFFFF;\">[梦境值]</span>将<span style=\"color:#FFFFFF;\">[随想]</span>升级为<span style=\"color:#FFFFFF;\">[合唱]</span>；其他操作中的角色攻击命中敌人时，会消耗25点<span style=\"color:#FFFFFF;\">[梦境值]</span>发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>，<span style=\"color:#FFFFFF;\">[追加攻击]</span>为<span style=\"color:#FFFFFF;\">[合唱]</span>，卢西娅在发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>后，8秒内不会触发<span style=\"color:#FFFFFF;\">[追加攻击]</span>；",
-      "卢西娅发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>时，会为全队角色施加<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态，<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态下，角色造成的伤害提升10%/11.7%/13.3%/15%/16.7%/18.3%，持续12秒，重复触发时刷新持续时间；",
+      "卢西娅发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>时，会为全队角色施加<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态，<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态下，角色造成的伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，持续12秒，重复触发时刷新持续时间；",
       "<span style=\"color:#FFFFFF;\">[梦境值]</span>不足或离开<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，卢西娅退出<span style=\"color:#FFFFFF;\">[梦境]</span>状态。",
       "<h3>额外能力：长夜诗篇</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[命破]</span>角色或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",

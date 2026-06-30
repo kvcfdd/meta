@@ -17,7 +17,7 @@
     "def": 606.5977
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -64,7 +64,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "34.1%",
@@ -87,7 +87,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "24.2%",
@@ -110,7 +110,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "76.9%",
@@ -133,7 +133,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "128.4%",
@@ -156,7 +156,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "42.4%",
@@ -179,7 +179,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "28.1%",
@@ -202,7 +202,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "81.8%",
@@ -225,7 +225,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：翎羽拂击",
+          "unit": "翎羽拂击",
           "isSame": false,
           "values": [
             "127.2%",
@@ -248,7 +248,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：淑女礼仪·舞步",
+          "unit": "淑女礼仪·舞步",
           "isSame": false,
           "values": [
             "47.8%",
@@ -271,7 +271,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：淑女礼仪·舞步",
+          "unit": "淑女礼仪·舞步",
           "isSame": false,
           "values": [
             "37.2%",
@@ -294,7 +294,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：裙裾浮游·悬落",
+          "unit": "裙裾浮游·悬落",
           "isSame": false,
           "values": [
             "80.2%",
@@ -317,7 +317,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：裙裾浮游·悬落",
+          "unit": "裙裾浮游·悬落",
           "isSame": false,
           "values": [
             "62.4%",
@@ -340,7 +340,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：落羽生花",
+          "unit": "落羽生花",
           "isSame": false,
           "values": [
             "220%",
@@ -363,7 +363,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：落羽生花",
+          "unit": "落羽生花",
           "isSame": true,
           "values": [
             "0%"
@@ -394,7 +394,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：凛羽之护",
+          "unit": "凛羽之护",
           "isSame": false,
           "values": [
             "97.3%",
@@ -417,7 +417,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：凛羽之护",
+          "unit": "凛羽之护",
           "isSame": false,
           "values": [
             "48.7%",
@@ -440,7 +440,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：银伞列阵",
+          "unit": "银伞列阵",
           "isSame": false,
           "values": [
             "271.3%",
@@ -463,7 +463,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：银伞列阵",
+          "unit": "银伞列阵",
           "isSame": false,
           "values": [
             "342.8%",
@@ -486,7 +486,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：银伞列阵",
+          "unit": "银伞列阵",
           "isSame": false,
           "values": [
             "166.8%",
@@ -509,7 +509,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：裁决羽刃",
+          "unit": "裁决羽刃",
           "isSame": false,
           "values": [
             "373.9%",
@@ -532,7 +532,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：裁决羽刃",
+          "unit": "裁决羽刃",
           "isSame": false,
           "values": [
             "325.3%",
@@ -572,7 +572,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：银羽咏叹",
+          "unit": "银羽咏叹",
           "isSame": false,
           "values": [
             "56.9%",
@@ -595,7 +595,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：银羽咏叹",
+          "unit": "银羽咏叹",
           "isSame": false,
           "values": [
             "56.9%",
@@ -618,7 +618,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：堇花悼亡",
+          "unit": "堇花悼亡",
           "isSame": false,
           "values": [
             "592.6%",
@@ -641,7 +641,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：堇花悼亡",
+          "unit": "堇花悼亡",
           "isSame": false,
           "values": [
             "484.8%",
@@ -664,7 +664,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：堇花悼亡",
+          "unit": "堇花悼亡",
           "isSame": true,
           "values": [
             "60点"
@@ -690,7 +690,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：星羽和声",
+          "unit": "星羽和声",
           "isSame": false,
           "values": [
             "658.9%",
@@ -713,7 +713,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：星羽和声",
+          "unit": "星羽和声",
           "isSame": false,
           "values": [
             "220%",
@@ -736,7 +736,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：飞鸟鸣颂",
+          "unit": "飞鸟鸣颂",
           "isSame": false,
           "values": [
             "1686.8%",
@@ -759,7 +759,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：飞鸟鸣颂",
+          "unit": "飞鸟鸣颂",
           "isSame": false,
           "values": [
             "249.4%",
@@ -806,7 +806,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：银刺舞曲",
+          "unit": "银刺舞曲",
           "isSame": false,
           "values": [
             "49.6%",
@@ -829,7 +829,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：银刺舞曲",
+          "unit": "银刺舞曲",
           "isSame": false,
           "values": [
             "24.8%",
@@ -852,7 +852,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：羽刃反振",
+          "unit": "羽刃反振",
           "isSame": false,
           "values": [
             "236.4%",
@@ -875,7 +875,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：羽刃反振",
+          "unit": "羽刃反振",
           "isSame": false,
           "values": [
             "207.3%",
@@ -903,51 +903,76 @@
     "1": {
       "name": "《在春天走进果园》",
       "desc": [
-        "累计消耗4点<span style=\"color:#FFFFFF;\">[护羽]</span>时回复1点<span style=\"color:#FFFFFF;\">[飞羽]</span>；处于<span style=\"color:#FFFFFF;\">[薇薇安的预言]</span>下的目标受到的所有属性异常伤害和<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升16%。"
+        "累计消耗4点<span style=\"color:#FFFFFF;\">[护羽]</span>时回复1点<span style=\"color:#FFFFFF;\">[飞羽]</span>；处于<span style=\"color:#FFFFFF;\">[薇薇安的预言]</span>下的目标受到的所有属性异常伤害和<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升16%。",
+        "<i>「每个清晨都是与你的初遇，每个夜晚都是重逢。」</i>",
+        "<i>她曾窥得命运无常，无法改变的结局总是被泪水侵染。</i>",
+        "<i>但因你的出现，她不愿再成为那预言灾厄的飞鸟，她愿让自己消失在火里，沉眠于光中，用自己的一切改变关于你的结局。</i>",
+        "<i>所以，请不要关上窗，飞鸟会为你衔来爱意，衔走死亡。</i>"
       ]
     },
     "2": {
       "name": "《暴风雨夜，暴风雨夜》",
       "desc": [
-        "薇薇安的<span style=\"color:#FE437E;\">以太异常积蓄效率</span>提升25%；<span style=\"color:#FFFFFF;\">[异放]</span>从精通中获得的收益提升至原本的130%，且无视目标15%全属性伤害抗性。"
+        "薇薇安的<span style=\"color:#FE437E;\">以太异常积蓄效率</span>提升25%；<span style=\"color:#FFFFFF;\">[异放]</span>从精通中获得的收益提升至原本的130%，且无视目标15%全属性伤害抗性。",
+        "<i>「假如我不曾见过太阳 我本可以忍受黑暗。」</i>",
+        "<i>救赎者这个词汇太过沉重，好心人这个词又稍显轻率。</i>",
+        "<i>所以，不如说，你曾是她的撑船人。</i>",
+        "<i>在那场名为恶意与自我懊悔的暴风雨中，你是一束光，引她渡过洪流。</i>",
+        "<i>于是那之后，她无法再忍受诅咒与噩梦，她走向追寻你的旅程。</i>"
       ]
     },
     "3": {
       "name": "《另一个，同一个》",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「我们用黄昏丈量彼此的阴影，发现完全重叠。」</i>",
+        "<i>在你不知道的无数个黄昏里，她曾与你看着同一个太阳西沉，将一片海煮沸至瑰丽暖色。</i>",
+        "<i>在无数分岔的路径中，她坚定地选择了走到你身边的方向。</i>",
+        "<i>而今天，她终于与你影子相叠。</i>",
+        "<i>而今天，夕阳依旧。</i>"
       ]
     },
     "4": {
       "name": "《苇间风》",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击：裙裾浮游·悬落]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：落羽生花]</span>命中时必定暴击，并使薇薇安的攻击力提升12%，持续12秒，重复触发时刷新持续时间；进入战场时，薇薇安立即获得5点<span style=\"color:#FFFFFF;\">[护羽]</span>。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击：裙裾浮游·悬落]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：落羽生花]</span>命中时必定暴击，并使薇薇安的攻击力提升12%，持续12秒，重复触发时刷新持续时间；进入战场时，薇薇安立即获得5点<span style=\"color:#FFFFFF;\">[护羽]</span>。",
+        "<i>「将我的真心，如月光铺满你脚下的路。」</i>",
+        "<i>在追赶你的路上，她已自成穹顶。</i>",
+        "<i>她没有如此博爱，拥有的也并不算多。</i>",
+        "<i>但为你，只为你，她可倾泻月光，覆盖黑暗，修补裂痕。</i>",
+        "<i>你是她唯一的慷慨，是她最大的勇气。</i>"
       ]
     },
     "5": {
       "name": "《十四行诗》",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「能否将你比作夏日？」</i>",
+        "<i>她如飞鸟，带着悸动与期盼从深秋启航，羽翼掠过冬雪，在春日里采衔一枝花，就这么撞入夏日炙阳中。</i>",
+        "<i>只因你的眼中藏着千万个太阳，让她永爱烈阳，不惧寒霜侵袭。</i>"
       ]
     },
     "6": {
       "name": "《薇薇安》",
       "desc": [
-        "薇薇安造成的<span style=\"color:#FE437E;\">以太伤害</span>提升40%；<span style=\"color:#FFFFFF;\">[普通攻击：淑女礼仪·舞步]</span>突进期间触发极限闪避、发动<span style=\"color:#FFFFFF;\">[强化特殊技：堇花悼亡]</span>时，均额外回复1点<span style=\"color:#FFFFFF;\">[飞羽]</span>；发动<span style=\"color:#FFFFFF;\">[普通攻击：裙裾浮游·悬落]</span>时会消耗全部<span style=\"color:#FFFFFF;\">[护羽]</span>，下落攻击的范围大幅增加，并在命中时触发一次特殊的<span style=\"color:#FFFFFF;\">[异放]</span>，额外消耗的<span style=\"color:#FFFFFF;\">[护羽]</span>会提高此次<span style=\"color:#FFFFFF;\">[异放]</span>结算的额外异常伤害的比例，最多消耗5点<span style=\"color:#FFFFFF;\">[护羽]</span>，使伤害比例提高至原本的5倍。"
+        "薇薇安造成的<span style=\"color:#FE437E;\">以太伤害</span>提升40%；<span style=\"color:#FFFFFF;\">[普通攻击：淑女礼仪·舞步]</span>突进期间触发极限闪避、发动<span style=\"color:#FFFFFF;\">[强化特殊技：堇花悼亡]</span>时，均额外回复1点<span style=\"color:#FFFFFF;\">[飞羽]</span>；发动<span style=\"color:#FFFFFF;\">[普通攻击：裙裾浮游·悬落]</span>时会消耗全部<span style=\"color:#FFFFFF;\">[护羽]</span>，下落攻击的范围大幅增加，并在命中时触发一次特殊的<span style=\"color:#FFFFFF;\">[异放]</span>，额外消耗的<span style=\"color:#FFFFFF;\">[护羽]</span>会提高此次<span style=\"color:#FFFFFF;\">[异放]</span>结算的额外异常伤害的比例，最多消耗5点<span style=\"color:#FFFFFF;\">[护羽]</span>，使伤害比例提高至原本的5倍。",
+        "<i>「薇薇安是一首只送给你的情诗。」</i>",
+        "<i>「我们拥有世界上所有的时间。」</i>",
+        "<i>「所以，请允许我把余生写成你的注脚。」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：命运悲歌 / 额外能力：预言之泪",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：命运悲歌</h3>",
-      "<span style=\"color:#FFFFFF;\">[普通攻击：落羽生花]</span>命中处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的目标时，触发一次<span style=\"color:#FFFFFF;\">[异放]</span>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<span style=\"color:#FE437E;\">3.07%</span>/<span style=\"color:#2EB6FF;\">1.6%</span>/<span style=\"color:#FF5521;\">4%</span>/<span style=\"color:#F0D12B;\">0.37%</span>/<span style=\"color:#98EFF0;\">0.54%</span>/<span style=\"color:#A6C5FD;\">0.16%</span>；",
+      "<span style=\"color:#FFFFFF;\">[普通攻击：落羽生花]</span>命中处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的目标时，触发一次<span style=\"color:#FFFFFF;\">[异放]</span>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<span style=\"color:#FE437E;\">(3.07%/3.59%/4.11%/4.63%/5.15%/5.65%/6.15%)</span>/<span style=\"color:#2EB6FF;\">(1.6%/1.86%/2.12%/2.38%/2.64%/2.9%/3.2%)</span>/<span style=\"color:#FF5521;\">(4%/4.66%/5.32%/5.98%/6.64%/7.3%/8%)</span>/<span style=\"color:#F0D12B;\">(0.37%/0.44%/0.51%/0.58%/0.65%/0.7%/0.75%)</span>/<span style=\"color:#98EFF0;\">(0.54%/0.63%/0.72%/0.81%/0.9%/0.99%/1.08%)</span>/<span style=\"color:#A6C5FD;\">(0.16%/0.18%/0.21%/0.24%/0.26%/0.29%/0.32%)</span>；",
       "<span style=\"color:#FFFFFF;\">[普通攻击：裙裾浮游·悬落]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：落羽生花]</span>命中处于任意属性异常状态的目标时，使目标陷入<span style=\"color:#FFFFFF;\">[薇薇安的预言]</span>，每0.55秒受到薇薇安55%攻击力的<span style=\"color:#FE437E;\">以太伤害</span>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<span style=\"color:#FFFFFF;\">[薇薇安的预言]</span>结束；",
       "进入战场时，薇薇安获得2点<span style=\"color:#FFFFFF;\">[飞羽]</span>。",
       "<h3>额外能力：预言之泪</h3>",
       "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身属性相同的角色时触发：",
       "队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<span style=\"color:#FFFFFF;\">[护羽]</span>并对目标发动一次<span style=\"color:#FFFFFF;\">[普通攻击：落羽生花]</span>，0.5秒内至多触发一次；",
-      "全队角色造成的<span style=\"color:#FE437E;\">[侵蚀]</span>伤害和<span style=\"color:#FE437E;\">[侵蚀]</span>状态被结算的<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升12%/12%/12%/12%/12%/12%。"
+      "全队角色造成的<span style=\"color:#FE437E;\">[侵蚀]</span>伤害和<span style=\"color:#FE437E;\">[侵蚀]</span>状态被结算的<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升<span style=\"color:#2BAD00;\">12%</span>。"
     ]
   }
 }

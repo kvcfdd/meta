@@ -52,7 +52,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "50.3%",
@@ -75,7 +75,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "68%",
@@ -98,7 +98,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "54.5%",
@@ -121,7 +121,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "206%",
@@ -144,7 +144,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "39.9%",
@@ -167,7 +167,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "56.8%",
@@ -190,7 +190,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "48%",
@@ -213,7 +213,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：骑士斗技",
+          "unit": "骑士斗技",
           "isSame": false,
           "values": [
             "163.5%",
@@ -236,7 +236,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：最高马力星光",
+          "unit": "最高马力星光",
           "isSame": false,
           "values": [
             "1043.2%",
@@ -259,7 +259,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：最高马力星光",
+          "unit": "最高马力星光",
           "isSame": false,
           "values": [
             "341.1%",
@@ -282,7 +282,7 @@
         },
         {
           "name": "[决意]消耗",
-          "unit": "普通攻击：最高马力星光",
+          "unit": "最高马力星光",
           "isSame": true,
           "values": [
             "100点"
@@ -311,7 +311,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：星徽-羁绊之力",
+          "unit": "星徽-羁绊之力",
           "isSame": false,
           "values": [
             "92%",
@@ -334,7 +334,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：星徽-羁绊之力",
+          "unit": "星徽-羁绊之力",
           "isSame": false,
           "values": [
             "48.7%",
@@ -357,7 +357,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：英雄登台",
+          "unit": "英雄登台",
           "isSame": false,
           "values": [
             "271.3%",
@@ -380,7 +380,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：英雄登台",
+          "unit": "英雄登台",
           "isSame": false,
           "values": [
             "342.8%",
@@ -403,7 +403,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：英雄登台",
+          "unit": "英雄登台",
           "isSame": false,
           "values": [
             "166.8%",
@@ -426,7 +426,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：反派退场",
+          "unit": "反派退场",
           "isSame": false,
           "values": [
             "229.6%",
@@ -449,7 +449,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：反派退场",
+          "unit": "反派退场",
           "isSame": false,
           "values": [
             "203.7%",
@@ -509,7 +509,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：动力压制",
+          "unit": "动力压制",
           "isSame": false,
           "values": [
             "52%",
@@ -532,7 +532,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：动力压制",
+          "unit": "动力压制",
           "isSame": false,
           "values": [
             "110%",
@@ -555,7 +555,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：脱缰",
+          "unit": "脱缰",
           "isSame": false,
           "values": [
             "72.1%",
@@ -578,7 +578,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：脱缰",
+          "unit": "脱缰",
           "isSame": false,
           "values": [
             "58.7%",
@@ -601,7 +601,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：孤轮特技",
+          "unit": "孤轮特技",
           "isSame": false,
           "values": [
             "389.7%",
@@ -624,7 +624,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：孤轮特技",
+          "unit": "孤轮特技",
           "isSame": false,
           "values": [
             "139.3%",
@@ -647,7 +647,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：抓地轮毂",
+          "unit": "抓地轮毂",
           "isSame": false,
           "values": [
             "929.9%",
@@ -670,7 +670,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：抓地轮毂",
+          "unit": "抓地轮毂",
           "isSame": false,
           "values": [
             "795.4%",
@@ -693,7 +693,7 @@
         },
         {
           "name": "闪能消耗",
-          "unit": "强化特殊技：抓地轮毂",
+          "unit": "抓地轮毂",
           "isSame": true,
           "values": [
             "60点"
@@ -701,7 +701,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：摇曳步伐",
+          "unit": "摇曳步伐",
           "isSame": false,
           "values": [
             "959%",
@@ -724,7 +724,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：摇曳步伐",
+          "unit": "摇曳步伐",
           "isSame": false,
           "values": [
             "824%",
@@ -747,7 +747,7 @@
         },
         {
           "name": "闪能消耗",
-          "unit": "强化特殊技：摇曳步伐",
+          "unit": "摇曳步伐",
           "isSame": true,
           "values": [
             "60点"
@@ -772,7 +772,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：骑士漫步",
+          "unit": "骑士漫步",
           "isSame": false,
           "values": [
             "662.9%",
@@ -795,7 +795,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：骑士漫步",
+          "unit": "骑士漫步",
           "isSame": false,
           "values": [
             "262.2%",
@@ -818,7 +818,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：骑士飞踢",
+          "unit": "骑士飞踢",
           "isSame": false,
           "values": [
             "1592.1%",
@@ -841,7 +841,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：骑士飞踢",
+          "unit": "骑士飞踢",
           "isSame": false,
           "values": [
             "449.2%",
@@ -897,7 +897,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：星-徽-惩-戒",
+          "unit": "星-徽-惩-戒",
           "isSame": false,
           "values": [
             "45.1%",
@@ -920,7 +920,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：星-徽-惩-戒",
+          "unit": "星-徽-惩-戒",
           "isSame": false,
           "values": [
             "23.9%",
@@ -943,7 +943,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：决斗之王",
+          "unit": "决斗之王",
           "isSame": false,
           "values": [
             "119.5%",
@@ -966,7 +966,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：决斗之王",
+          "unit": "决斗之王",
           "isSame": false,
           "values": [
             "97.3%",
@@ -989,7 +989,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：尾焰全旋",
+          "unit": "尾焰全旋",
           "isSame": false,
           "values": [
             "198.7%",
@@ -1012,7 +1012,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：尾焰全旋",
+          "unit": "尾焰全旋",
           "isSame": false,
           "values": [
             "187%",
@@ -1040,47 +1040,67 @@
     "1": {
       "name": "英雄登场",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[核心被动：骑士决心]</span>进入战场时，额外回复60点闪能；<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，使自身攻击造成的伤害无视目标18%<span style=\"color:#F0D12B;\">物理伤害抗性</span>，持续45秒，重复触发时刷新持续时间。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：骑士决心]</span>进入战场时，额外回复60点闪能；<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，使自身攻击造成的伤害无视目标18%<span style=\"color:#F0D12B;\">物理伤害抗性</span>，持续45秒，重复触发时刷新持续时间。",
+        "<i>新艾利都的坏蛋就像特摄片里的一样多，而真正的英雄却没有几个。</i>",
+        "<i>「虽然我很会喊英雄的台词，不过我可能还算不上英雄…」</i>",
+        "<i>「但我会学着英雄的样子，站在大家的身前！」</i>"
       ]
     },
     "2": {
       "name": "荒原机兵",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>和<span style=\"color:#FFFFFF;\">[终结技：骑士飞踢]</span>造成的伤害提升50%；发动<span style=\"color:#FFFFFF;\">[强化特殊技：摇曳步伐]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：抓地轮毂]</span>时或发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>命中处于失衡状态下的敌人时，获得<span style=\"color:#FFFFFF;\">[涡轮增压]</span>效果：<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>会消耗该效果直接衔接<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>，并使该次<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>造成的暴击伤害提升50%，<span style=\"color:#FFFFFF;\">[涡轮增压]</span>效果至多叠加1层。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>和<span style=\"color:#FFFFFF;\">[终结技：骑士飞踢]</span>造成的伤害提升50%；发动<span style=\"color:#FFFFFF;\">[强化特殊技：摇曳步伐]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：抓地轮毂]</span>时或发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>命中处于失衡状态下的敌人时，获得<span style=\"color:#FFFFFF;\">[涡轮增压]</span>效果：<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>会消耗该效果直接衔接<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>，并使该次<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>造成的暴击伤害提升50%，<span style=\"color:#FFFFFF;\">[涡轮增压]</span>效果至多叠加1层。",
+        "<i>外环的神射手数不胜数，但在高速奔驰的机车上还能保持准头，才能成为真正的王牌。</i>",
+        "<i>「弹道算法和机械指头？那些当然很有用…」</i>",
+        "<i>「但我射术神准的真正原因是…星光选中了我！」</i>"
       ]
     },
     "3": {
       "name": "骑士精神",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>星徽骑士的精神到底是什么？永不退缩，锄强扶弱？牺牲、公正、怜悯、荣誉？</i>",
+        "<i>「认为正确的事情，就去做…」</i>",
+        "<i>「认为是不帅气的事情，就绝不能妥协！」</i>",
+        "<i>「这就是我绝不放弃同伴的理由！」</i>"
       ]
     },
     "4": {
       "name": "审判底火",
       "desc": [
-        "接战状态下，每次发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>时，自身暴击伤害提升8%，至多叠加2层，持续45秒，重复触发时刷新持续时间；若生命值低于35%，且自身非当前操作中的角色时，会持续回复生命值至35%。"
+        "接战状态下，每次发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>时，自身暴击伤害提升8%，至多叠加2层，持续45秒，重复触发时刷新持续时间；若生命值低于35%，且自身非当前操作中的角色时，会持续回复生命值至35%。",
+        "<i>理想的秩序为维护公义而生，然而理想生来就是为了被背弃。</i>",
+        "<i>「你说这些片子是小孩子才看的…？」</i>",
+        "<i>「有些最有勇气的梦想，本来只有小孩子才敢做吧？」</i>",
+        "<i>「这些被嘲笑的梦想，就由我——星徽·比利来守护！」</i>"
       ]
     },
     "5": {
       "name": "辉光武装",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>身披华丽的衣装才能成为威风的英雄…所以说英雄还真是不方便的东西。</i>",
+        "<i>「我可不是因为加大口径的武器和加大功率的部件才变强的！」</i>",
+        "<i>「我真正的武装，是漫天的星光！」</i>"
       ]
     },
     "6": {
       "name": "星徽骑士",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[终结技：骑士飞踢]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>造成的贯穿伤害提升18%；第四段<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>或<span style=\"color:#FFFFFF;\">[连携技：骑士漫步]</span>命中敌人后，可以获得1层<span style=\"color:#FFFFFF;\">[煊赫星辉]</span>，最多获得6层，同一招式内至多获得1层；发动<span style=\"color:#FFFFFF;\">[终结技：骑士飞踢]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>时，至多消耗2层<span style=\"color:#FFFFFF;\">[煊赫星辉]</span>，每消耗1层<span style=\"color:#FFFFFF;\">[煊赫星辉]</span>，使该招式的最后一击额外造成100%贯穿力的<span style=\"color:#F0D12B;\">物理伤害</span>。"
+        "<span style=\"color:#FFFFFF;\">[终结技：骑士飞踢]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>造成的贯穿伤害提升18%；第四段<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>或<span style=\"color:#FFFFFF;\">[连携技：骑士漫步]</span>命中敌人后，可以获得1层<span style=\"color:#FFFFFF;\">[煊赫星辉]</span>，最多获得6层，同一招式内至多获得1层；发动<span style=\"color:#FFFFFF;\">[终结技：骑士飞踢]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>时，至多消耗2层<span style=\"color:#FFFFFF;\">[煊赫星辉]</span>，每消耗1层<span style=\"color:#FFFFFF;\">[煊赫星辉]</span>，使该招式的最后一击额外造成100%贯穿力的<span style=\"color:#F0D12B;\">物理伤害</span>。",
+        "<i>永远相信希望的人，最后也成为了别人的希望。</i>",
+        "<i>这就是关于星徽骑士，关于比利·奇德的故事。</i>",
+        "<i>「星徽骑士——变身！」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：骑士决心 / 额外能力：炽热星辉",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：骑士决心</h3>",
       "星徽·比利会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；发动招式造成的<span style=\"color:#F0D12B;\">物理伤害</span>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；",
       "星徽·比利进入战场时即可回复60点闪能，在勘域模式中此效果180秒内最多触发一次;",
-      "生命值大于25%时，可以点按「特殊技」消耗生命值发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>，且接战状态下，每次发动该招式时，自身暴击伤害提升45%/53%/60%/68%/75%/83%，持续45秒，重复触发刷新持续时间；生命值小于或等于25%时，受到的伤害减少50%；",
+      "生命值大于25%时，可以点按「特殊技」消耗生命值发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>，且接战状态下，每次发动该招式时，自身暴击伤害提升<span style=\"color:#2BAD00;\">(45%/53%/60%/68%/75%/83%/90%)</span>，持续45秒，重复触发刷新持续时间；生命值小于或等于25%时，受到的伤害减少50%；",
       "星徽·比利攻击命中敌人时，会获得<span style=\"color:#FFFFFF;\">[决意]</span>，回复量根据招式变化，<span style=\"color:#FFFFFF;\">[决意]</span>上限为120点，处于接战状态下，会缓慢回复<span style=\"color:#FFFFFF;\">[决意]</span>；<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>命中时、发动<span style=\"color:#FFFFFF;\">[连携技：骑士漫步]</span>时或触发格挡时，额外回复<span style=\"color:#FFFFFF;\">[决意]</span>；任意方式触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，回复3点<span style=\"color:#FFFFFF;\">[决意]</span>，此效果0.5秒内最多触发一次；",
       "当<span style=\"color:#FFFFFF;\">[决意]</span>大于等于100点时，长按「普通攻击」会消耗100点<span style=\"color:#FFFFFF;\">[决意]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>；",
       "<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>命中敌人时，回复少量生命值；通过<span style=\"color:#FFFFFF;\">[极限闪避]</span>发动<span style=\"color:#FFFFFF;\">[闪避反击：决斗之王]</span>命中敌人时，回复生命值；发动<span style=\"color:#FFFFFF;\">[强化特殊技：抓地轮毂]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：摇曳步伐]</span>时，回复生命值。",

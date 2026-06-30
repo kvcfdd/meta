@@ -50,7 +50,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "25.6%",
@@ -73,7 +73,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "51.3%",
@@ -96,7 +96,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "64.8%",
@@ -119,7 +119,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "99.5%",
@@ -142,7 +142,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "19.4%",
@@ -165,7 +165,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "43.5%",
@@ -188,7 +188,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "61.6%",
@@ -211,7 +211,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：很高兴为您服务",
+          "unit": "很高兴为您服务",
           "isSame": false,
           "values": [
             "99.5%",
@@ -234,7 +234,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "89.5%",
@@ -257,7 +257,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "113.9%",
@@ -280,7 +280,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "103.1%",
@@ -303,7 +303,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "100.3%",
@@ -326,7 +326,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "71.4%",
@@ -349,7 +349,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "90.8%",
@@ -372,7 +372,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "82.2%",
@@ -395,7 +395,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：猜拳把戏",
+          "unit": "猜拳把戏",
           "isSame": false,
           "values": [
             "80%",
@@ -441,7 +441,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：呼叫转移",
+          "unit": "呼叫转移",
           "isSame": false,
           "values": [
             "121%",
@@ -464,7 +464,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：呼叫转移",
+          "unit": "呼叫转移",
           "isSame": false,
           "values": [
             "60.5%",
@@ -487,7 +487,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：拒绝通话",
+          "unit": "拒绝通话",
           "isSame": false,
           "values": [
             "271.3%",
@@ -510,7 +510,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：拒绝通话",
+          "unit": "拒绝通话",
           "isSame": false,
           "values": [
             "342.8%",
@@ -533,7 +533,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：拒绝通话",
+          "unit": "拒绝通话",
           "isSame": false,
           "values": [
             "166.8%",
@@ -556,7 +556,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：连环呼叫",
+          "unit": "连环呼叫",
           "isSame": false,
           "values": [
             "376.4%",
@@ -579,7 +579,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：连环呼叫",
+          "unit": "连环呼叫",
           "isSame": false,
           "values": [
             "327.7%",
@@ -631,7 +631,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：送客！",
+          "unit": "送客！",
           "isSame": false,
           "values": [
             "549.7%",
@@ -654,7 +654,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：送客！",
+          "unit": "送客！",
           "isSame": false,
           "values": [
             "336.5%",
@@ -677,7 +677,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：欢迎手势",
+          "unit": "欢迎手势",
           "isSame": false,
           "values": [
             "54.2%",
@@ -700,7 +700,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：欢迎手势",
+          "unit": "欢迎手势",
           "isSame": false,
           "values": [
             "54.2%",
@@ -723,7 +723,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：石头",
+          "unit": "石头",
           "isSame": false,
           "values": [
             "404%",
@@ -746,7 +746,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：石头",
+          "unit": "石头",
           "isSame": false,
           "values": [
             "236%",
@@ -769,7 +769,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：石头",
+          "unit": "石头",
           "isSame": true,
           "values": [
             "25点"
@@ -777,7 +777,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：剪刀",
+          "unit": "剪刀",
           "isSame": false,
           "values": [
             "524.9%",
@@ -800,7 +800,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：剪刀",
+          "unit": "剪刀",
           "isSame": false,
           "values": [
             "310.2%",
@@ -823,7 +823,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：剪刀",
+          "unit": "剪刀",
           "isSame": true,
           "values": [
             "25点"
@@ -831,7 +831,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：布！",
+          "unit": "布！",
           "isSame": false,
           "values": [
             "701.7%",
@@ -854,7 +854,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：布！",
+          "unit": "布！",
           "isSame": false,
           "values": [
             "426.9%",
@@ -877,7 +877,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：布！",
+          "unit": "布！",
           "isSame": true,
           "values": [
             "25点"
@@ -903,7 +903,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：迎宾踏垫",
+          "unit": "迎宾踏垫",
           "isSame": false,
           "values": [
             "620.4%",
@@ -926,7 +926,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：迎宾踏垫",
+          "unit": "迎宾踏垫",
           "isSame": false,
           "values": [
             "181.5%",
@@ -949,7 +949,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：拨打用户即刻停机",
+          "unit": "拨打用户即刻停机",
           "isSame": false,
           "values": [
             "1622.5%",
@@ -972,7 +972,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：拨打用户即刻停机",
+          "unit": "拨打用户即刻停机",
           "isSame": false,
           "values": [
             "767.8%",
@@ -1015,7 +1015,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：突然来电",
+          "unit": "突然来电",
           "isSame": false,
           "values": [
             "60.5%",
@@ -1038,7 +1038,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：突然来电",
+          "unit": "突然来电",
           "isSame": false,
           "values": [
             "30.3%",
@@ -1061,7 +1061,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：无法接听",
+          "unit": "无法接听",
           "isSame": false,
           "values": [
             "267.3%",
@@ -1084,7 +1084,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：无法接听",
+          "unit": "无法接听",
           "isSame": false,
           "values": [
             "231%",
@@ -1112,48 +1112,72 @@
     "1": {
       "name": "服务热情保持饱满",
       "desc": [
-        "每秒积累的<span style=\"color:#FFFFFF;\">[好评]</span>与发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>命中敌人时积累的<span style=\"color:#FFFFFF;\">[好评]</span>提升16%，<span style=\"color:#FFFFFF;\">[好评如潮]</span>状态下的角色无视敌人15%全属性伤害抗性。"
+        "每秒积累的<span style=\"color:#FFFFFF;\">[好评]</span>与发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>命中敌人时积累的<span style=\"color:#FFFFFF;\">[好评]</span>提升16%，<span style=\"color:#FFFFFF;\">[好评如潮]</span>状态下的角色无视敌人15%全属性伤害抗性。",
+        "<i>欢迎来到「跨部门响应客服中心」！</i>",
+        "<i>我们的服务宗旨是，永远保持笑容，永远对客户充满热情~！</i>",
+        "<i>笑容？曾经最不熟练的表情，什么时候成了最习以为常的皮肤呢？</i>",
+        "<i>「亲亲~有什么可以帮到您吗？当然~我的意思不是说我真的可以帮到您哦~！」</i>"
       ]
     },
     "2": {
       "name": "7×24热线畅通",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下敌人进入失衡状态后的失衡易伤倍率额外提升20%，所有单位对<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下的敌人造成的伤害提升15%。"
+        "<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下敌人进入失衡状态后的失衡易伤倍率额外提升20%，所有单位对<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下的敌人造成的伤害提升15%。",
+        "<i>TOPS是全新艾利都最~大~的企业联合体，我们工作关乎着这座城市的生息~！</i>",
+        "<i>我们是这座巨型机械最~重要~的润滑剂，所以我们的服务热线7×24小时要随时保持畅通！</i>",
+        "<i>无时无刻从不停止的喧噪杂音么？没问题，那是我最熟悉的东西。</i>",
+        "<i>「请您随时联系我~！反正不管您什么时候联系，我都是这么讨您嫌的样子呢~！」</i>"
       ]
     },
     "3": {
       "name": "空洞来电",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>空洞是一座巨大的坟墓，所有生命的响亮，都在漆黑的棺椁中寂静。</i>",
+        "<i>但唯独对我来说，它是无法回绝的通话，是每一本日记的最后一页，是执念与痴怨的备忘录。</i>",
+        "<i>虽然所有那些释怀或痴心的台词，都与我自己的故事无关。</i>",
+        "<i>「没关系没关系~！我跟很多比您更无法沟通的客户沟通过呢~！」</i>"
       ]
     },
     "4": {
       "name": "往事从不如烟",
       "desc": [
-        "进入战场时，琉音回复20点能量，在勘域模式中此效果180秒内最多触发一次；<span style=\"color:#FFFFFF;\">[好评如潮]</span>效果下，琉音攻击力提升500点。"
+        "进入战场时，琉音回复20点能量，在勘域模式中此效果180秒内最多触发一次；<span style=\"color:#FFFFFF;\">[好评如潮]</span>效果下，琉音攻击力提升500点。",
+        "<i>因为个子小一点总是被当成小孩子，可我的童年早就结束了。</i>",
+        "<i>那一天是哪一天呢？是第一次听到亡灵的絮语时么？是被当作牺牲者送入空洞时么？还是啼哭的第一个夜晚？</i>",
+        "<i>无人庇护只好独自学步，忘不掉过往只好装作释怀。</i>",
+        "<i>「我无意了解您人格的缺陷~但我很关心您童年创伤对我投诉率的影响~！」</i>"
       ]
     },
     "5": {
       "name": "谎话",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>人总是在被人在乎的时候说谎，却又在被人遗忘的时候吐露真相。</i>",
+        "<i>这些不明智的抉择总是带来悔恨，我的工作不过是用昨天的悔恨，来让今天的悔恨少一些。</i>",
+        "<i>我知道人总是讲谎话，但至少还有人愿意对我说谎。</i>",
+        "<i>「我的策略建议是：在您人身攻击的间隙中，插入对您有利的胡说八道~！」</i>"
       ]
     },
     "6": {
       "name": "真言",
       "desc": [
-        "通过<span style=\"color:#FFFFFF;\">[核心被动]</span>使其他队友以终结技入场后，该队友获得<span style=\"color:#FFFFFF;\">[余音]</span>效果，攻击命中敌人时琉音对敌人造成额外一次<span style=\"color:#F0D12B;\">物理属性伤害</span>，等同于琉音480%攻击力，该伤害被视为<span style=\"color:#FFFFFF;\">[强化特殊技]</span>伤害，1秒内最多触发一次，最多触发12次，重复获得<span style=\"color:#FFFFFF;\">[余音]</span>效果时刷新次数，同时只能有一名队友获得<span style=\"color:#FFFFFF;\">[余音]</span>效果。"
+        "通过<span style=\"color:#FFFFFF;\">[核心被动]</span>使其他队友以终结技入场后，该队友获得<span style=\"color:#FFFFFF;\">[余音]</span>效果，攻击命中敌人时琉音对敌人造成额外一次<span style=\"color:#F0D12B;\">物理属性伤害</span>，等同于琉音480%攻击力，该伤害被视为<span style=\"color:#FFFFFF;\">[强化特殊技]</span>伤害，1秒内最多触发一次，最多触发12次，重复获得<span style=\"color:#FFFFFF;\">[余音]</span>效果时刷新次数，同时只能有一名队友获得<span style=\"color:#FFFFFF;\">[余音]</span>效果。",
+        "<i>但骤然降临的死亡就像时间的标本，将真相框定、凝结成了不会变更的模样。</i>",
+        "<i>我从亡灵的手中取回这些标本， 把他们的死亡证明当作裁决书的底本。</i>",
+        "<i>绝对客观的「真相」是唯一可以信赖的准绳，是指引我前路的唯一绳索，直到…</i>",
+        "<i>「绳匠，我也可以说谎么？」</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：五星客服热线 / 额外能力：场外连线",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：五星客服热线</h3>",
-      "进入战场时，琉音初始拥有60点<span style=\"color:#FFFFFF;\">[好评]</span>，初始暴击率超过50%时，每超过1%，冲击力提升1.4/1.5/1.6/1.7/1.8/1.9点，最多提升100点；",
+      "进入战场时，琉音初始拥有60点<span style=\"color:#FFFFFF;\">[好评]</span>，初始暴击率超过50%时，每超过1%，冲击力提升<span style=\"color:#2BAD00;\">(1.4/1.5/1.6/1.7/1.8/1.9/2)</span>点，最多提升100点；",
       "发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>后，下一次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>变为<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>，持续8秒；",
       "发动<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>后，下一次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>变为<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>，持续8秒；",
-      "<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>命中敌人时，敌人获得<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果，<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下敌人进入失衡状态后的失衡持续时间提升2秒，失衡易伤倍率提升15%/17.5%/20%/22.5%/25%/27.5%，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果对同一目标最多触发一次，失衡持续时间提升效果与同类效果不可叠加，拥有<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果的敌人失衡结束时<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果结束；",
+      "<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>命中敌人时，敌人获得<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果，<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下敌人进入失衡状态后的失衡持续时间提升2秒，失衡易伤倍率提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果对同一目标最多触发一次，失衡持续时间提升效果与同类效果不可叠加，拥有<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果的敌人失衡结束时<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果结束；",
       "处于接战状态下，琉音每秒积攒0.6点<span style=\"color:#FFFFFF;\">[好评]</span>，发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>的重击命中敌人时将积攒7.5点<span style=\"color:#FFFFFF;\">[好评]</span>，同一招式内最多积攒一次，最多积攒120点；",
       "当<span style=\"color:#FFFFFF;\">[好评]</span>满90点且琉音利用<span style=\"color:#FFFFFF;\">[连携技：迎宾踏垫]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：送客！]</span>、<span style=\"color:#FFFFFF;\">[快速支援：呼叫转移]</span>打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口时，下一位出场的角色会将此次<span style=\"color:#FFFFFF;\">[连携技]</span>强制升级为<span style=\"color:#FFFFFF;\">[终结技]</span>，队友以此方式发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，琉音消耗60点<span style=\"color:#FFFFFF;\">[好评]</span>；",
       "当<span style=\"color:#FFFFFF;\">[好评]</span>满90点且琉音发动<span style=\"color:#FFFFFF;\">[强化特殊技：送客！]</span>命中未打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口的敌人时，将消耗90点<span style=\"color:#FFFFFF;\">[好评]</span>强制打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口，下一位出场的角色会将此次<span style=\"color:#FFFFFF;\">[连携技]</span>强制升级为<span style=\"color:#FFFFFF;\">[终结技]</span>；",

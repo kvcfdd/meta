@@ -59,7 +59,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "44.8%",
@@ -82,7 +82,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "43.5%",
@@ -105,7 +105,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "71.7%",
@@ -128,7 +128,7 @@
         },
         {
           "name": "四段伤害倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "66.6%",
@@ -151,7 +151,7 @@
         },
         {
           "name": "五段伤害倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "96.3%",
@@ -174,7 +174,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "18.7%",
@@ -197,7 +197,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "30.8%",
@@ -220,7 +220,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "47.8%",
@@ -243,7 +243,7 @@
         },
         {
           "name": "四段失衡倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "30.4%",
@@ -266,7 +266,7 @@
         },
         {
           "name": "五段失衡倍率",
-          "unit": "普通攻击：炽焰直调式",
+          "unit": "炽焰直调式",
           "isSame": false,
           "values": [
             "52%",
@@ -289,7 +289,7 @@
         },
         {
           "name": "持续喷射伤害倍率",
-          "unit": "普通攻击：炽焰搅拌式",
+          "unit": "炽焰搅拌式",
           "isSame": false,
           "values": [
             "125.4%",
@@ -312,7 +312,7 @@
         },
         {
           "name": "终结一击伤害倍率",
-          "unit": "普通攻击：炽焰搅拌式",
+          "unit": "炽焰搅拌式",
           "isSame": false,
           "values": [
             "232.8%",
@@ -335,7 +335,7 @@
         },
         {
           "name": "持续喷射失衡倍率",
-          "unit": "普通攻击：炽焰搅拌式",
+          "unit": "炽焰搅拌式",
           "isSame": false,
           "values": [
             "96.5%",
@@ -358,7 +358,7 @@
         },
         {
           "name": "终结一击失衡倍率",
-          "unit": "普通攻击：炽焰搅拌式",
+          "unit": "炽焰搅拌式",
           "isSame": false,
           "values": [
             "179.1%",
@@ -407,7 +407,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：提神特饮",
+          "unit": "提神特饮",
           "isSame": false,
           "values": [
             "84.4%",
@@ -430,7 +430,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：提神特饮",
+          "unit": "提神特饮",
           "isSame": false,
           "values": [
             "84.4%",
@@ -453,7 +453,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：烟熏油盅",
+          "unit": "烟熏油盅",
           "isSame": false,
           "values": [
             "271.3%",
@@ -476,7 +476,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：烟熏油盅",
+          "unit": "烟熏油盅",
           "isSame": false,
           "values": [
             "342.8%",
@@ -499,7 +499,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：烟熏油盅",
+          "unit": "烟熏油盅",
           "isSame": false,
           "values": [
             "166.8%",
@@ -522,7 +522,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：灼焰甘露",
+          "unit": "灼焰甘露",
           "isSame": false,
           "values": [
             "327.6%",
@@ -545,7 +545,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：灼焰甘露",
+          "unit": "灼焰甘露",
           "isSame": false,
           "values": [
             "282.4%",
@@ -611,7 +611,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：灼热熟成法",
+          "unit": "灼热熟成法",
           "isSame": false,
           "values": [
             "57.8%",
@@ -634,7 +634,7 @@
         },
         {
           "name": "蓄力伤害倍率",
-          "unit": "特殊技：灼热熟成法",
+          "unit": "灼热熟成法",
           "isSame": false,
           "values": [
             "62.4%",
@@ -657,7 +657,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：灼热熟成法",
+          "unit": "灼热熟成法",
           "isSame": false,
           "values": [
             "57.8%",
@@ -680,7 +680,7 @@
         },
         {
           "name": "蓄力失衡倍率",
-          "unit": "特殊技：灼热熟成法",
+          "unit": "灼热熟成法",
           "isSame": false,
           "values": [
             "62.4%",
@@ -703,7 +703,7 @@
         },
         {
           "name": "持续喷射伤害倍率",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": false,
           "values": [
             "543.8%",
@@ -726,7 +726,7 @@
         },
         {
           "name": "持续喷射失衡倍率",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": false,
           "values": [
             "378.6%",
@@ -749,7 +749,7 @@
         },
         {
           "name": "火焰冲击伤害倍率",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": false,
           "values": [
             "96.7%",
@@ -772,7 +772,7 @@
         },
         {
           "name": "火焰冲击失衡倍率",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": false,
           "values": [
             "65.7%",
@@ -795,7 +795,7 @@
         },
         {
           "name": "发动所需能量",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": true,
           "values": [
             "40点"
@@ -803,7 +803,7 @@
         },
         {
           "name": "持续喷射能量消耗",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": true,
           "values": [
             "12.5点/秒"
@@ -811,7 +811,7 @@
         },
         {
           "name": "火焰冲击能量消耗",
-          "unit": "强化特殊技：灼热摇荡法",
+          "unit": "灼热摇荡法",
           "isSame": true,
           "values": [
             "5点"
@@ -819,7 +819,7 @@
         },
         {
           "name": "持续喷射伤害倍率",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": false,
           "values": [
             "958.1%",
@@ -842,7 +842,7 @@
         },
         {
           "name": "持续喷射失衡倍率",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": false,
           "values": [
             "585.7%",
@@ -865,7 +865,7 @@
         },
         {
           "name": "火焰冲击伤害倍率",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": false,
           "values": [
             "287.1%",
@@ -888,7 +888,7 @@
         },
         {
           "name": "火焰冲击失衡倍率",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": false,
           "values": [
             "207.8%",
@@ -911,7 +911,7 @@
         },
         {
           "name": "发动所需能量",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": true,
           "values": [
             "10点"
@@ -919,7 +919,7 @@
         },
         {
           "name": "持续喷射能量消耗",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": true,
           "values": [
             "25点/秒"
@@ -927,7 +927,7 @@
         },
         {
           "name": "火焰冲击能量消耗",
-          "unit": "强化特殊技：灼热摇荡法·双份",
+          "unit": "灼热摇荡法·双份",
           "isSame": true,
           "values": [
             "10点"
@@ -935,7 +935,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：灼热抛接法",
+          "unit": "灼热抛接法",
           "isSame": false,
           "values": [
             "199.9%",
@@ -958,7 +958,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：灼热抛接法",
+          "unit": "灼热抛接法",
           "isSame": false,
           "values": [
             "199.9%",
@@ -1000,7 +1000,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：燃油熔焰",
+          "unit": "燃油熔焰",
           "isSame": false,
           "values": [
             "680.9%",
@@ -1023,7 +1023,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：燃油熔焰",
+          "unit": "燃油熔焰",
           "isSame": false,
           "values": [
             "242%",
@@ -1046,7 +1046,7 @@
         },
         {
           "name": "最大伤害倍率",
-          "unit": "终结技：纵享盛焰",
+          "unit": "纵享盛焰",
           "isSame": false,
           "values": [
             "2012.2%",
@@ -1069,7 +1069,7 @@
         },
         {
           "name": "最大失衡倍率",
-          "unit": "终结技：纵享盛焰",
+          "unit": "纵享盛焰",
           "isSame": false,
           "values": [
             "106.4%",
@@ -1111,7 +1111,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：危险发酵式",
+          "unit": "危险发酵式",
           "isSame": false,
           "values": [
             "67.9%",
@@ -1134,7 +1134,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：危险发酵式",
+          "unit": "危险发酵式",
           "isSame": false,
           "values": [
             "34%",
@@ -1157,7 +1157,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：摇荡闪",
+          "unit": "摇荡闪",
           "isSame": false,
           "values": [
             "219.7%",
@@ -1180,7 +1180,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：摇荡闪",
+          "unit": "摇荡闪",
           "isSame": false,
           "values": [
             "194.4%",
@@ -1208,46 +1208,64 @@
     "1": {
       "name": "热络同心",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[燃点]</span>的上限从100点提升至140点，进入战场时，柏妮思额外累积40点<span style=\"color:#FFFFFF;\">[燃点]</span>；<span style=\"color:#FFFFFF;\">[余烬]</span>效果的伤害倍率提升，提升效果等同于柏妮思攻击力的100%；<span style=\"color:#FFFFFF;\">[余烬]</span>效果累积的<span style=\"color:#FF5521;\">火属性异常积蓄值</span>提升25%。"
+        "<span style=\"color:#FFFFFF;\">[燃点]</span>的上限从100点提升至140点，进入战场时，柏妮思额外累积40点<span style=\"color:#FFFFFF;\">[燃点]</span>；<span style=\"color:#FFFFFF;\">[余烬]</span>效果的伤害倍率提升，提升效果等同于柏妮思攻击力的100%；<span style=\"color:#FFFFFF;\">[余烬]</span>效果累积的<span style=\"color:#FF5521;\">火属性异常积蓄值</span>提升25%。",
+        "<i>「谁都有不够顺利的时候，很正常啦！」</i>",
+        "<i>「别难过，凯撒，来一杯燃油饮特调怎么样？我加了很多很多糖哦！」</i>"
       ]
     },
     "2": {
       "name": "加量不加价",
       "desc": [
-        "触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果时，将对敌人施加<span style=\"color:#FFFFFF;\">[热意洞穿]</span>，最多叠加5层，持续6秒，重复触发时刷新持续时间；受到我方攻击时，目标每拥有一层<span style=\"color:#FFFFFF;\">[热意洞穿]</span>，本次攻击的穿透率提升4%，最多提升20%。"
+        "触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果时，将对敌人施加<span style=\"color:#FFFFFF;\">[热意洞穿]</span>，最多叠加5层，持续6秒，重复触发时刷新持续时间；受到我方攻击时，目标每拥有一层<span style=\"color:#FFFFFF;\">[热意洞穿]</span>，本次攻击的穿透率提升4%，最多提升20%。",
+        "<i>作为卡吕冬之子的调饮师，柏妮思乐于为所有朋友调制新艾利都最美味的燃油饮。</i>",
+        "<i>当然，如果你是她的「敌人」…则会有机会喝到前所未有的新口味饮品。</i>",
+        "<i>「是一生只能喝一次的超绝美味哦！」</i>"
       ]
     },
     "3": {
       "name": "天性乐观",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>「柏妮思那家伙，不管什么时候都是一副元气满满的样子啊！就连刚起床都是！真不知道她从哪来这么多能量…」</i>",
+        "<i>「更可怕的是，她还能把身边人都带动着积极起来！这简直快称得上是妖怪了吧！」</i>",
+        "<i>「不过…我倒是不讨厌就是啦…」</i>",
+        "<i>——来自一位不愿意透露姓名的猪猪管理者</i>"
       ]
     },
     "4": {
       "name": "超绝燃油补给",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>或<span style=\"color:#FFFFFF;\">[支援攻击]</span>命中敌人时，招式的暴击率提升30%；<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>中，火焰喷射的持续时间上限提升1秒。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技]</span>或<span style=\"color:#FFFFFF;\">[支援攻击]</span>命中敌人时，招式的暴击率提升30%；<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>中，火焰喷射的持续时间上限提升1秒。",
+        "<i>「喜欢我调的饮料？谢谢你，大钢牙也很喜欢~那家伙一顿能吃两百升呢！」</i>",
+        "<i>「哦，大钢牙就是我们的那辆大卡车啦！」</i>",
+        "<i>「想尝尝它的特供燃油吗？很火热的哦~」</i>"
       ]
     },
     "5": {
       "name": "火与冰之舞",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>在调制饮品的时候，冰块也是非常重要的一环。</i>",
+        "<i>毕竟没有极致的冰冷，就难以衬托出极致的火热。</i>",
+        "<i>「这种火与冰交融的感觉~真令人沉迷呢！」</i>"
       ]
     },
     "6": {
       "name": "盛焰邀约",
       "desc": [
-        "柏妮思的<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人时，将额外触发特殊的<span style=\"color:#FFFFFF;\">[余烬]</span>效果，对目标造成等同于柏妮思60%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>，0.5秒内最多触发1次，无需消耗<span style=\"color:#FFFFFF;\">[燃点]</span>；发动<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人后，招式发动期间，<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>、特殊的<span style=\"color:#FFFFFF;\">[余烬]</span>效果、<span style=\"color:#FF5521;\">[灼烧]</span>伤害将无视目标25%<span style=\"color:#FF5521;\">火属性伤害抗性</span>；在<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>中发动火焰冲击命中处于<span style=\"color:#FF5521;\">[灼烧]</span>状态下的敌人时，能够额外结算一次<span style=\"color:#FF5521;\">[灼烧]</span>伤害，伤害效果等同于原本的1800%，同一目标20秒内最多触发一次。"
+        "柏妮思的<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人时，将额外触发特殊的<span style=\"color:#FFFFFF;\">[余烬]</span>效果，对目标造成等同于柏妮思60%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>，0.5秒内最多触发1次，无需消耗<span style=\"color:#FFFFFF;\">[燃点]</span>；发动<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人后，招式发动期间，<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>、特殊的<span style=\"color:#FFFFFF;\">[余烬]</span>效果、<span style=\"color:#FF5521;\">[灼烧]</span>伤害将无视目标25%<span style=\"color:#FF5521;\">火属性伤害抗性</span>；在<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>中发动火焰冲击命中处于<span style=\"color:#FF5521;\">[灼烧]</span>状态下的敌人时，能够额外结算一次<span style=\"color:#FF5521;\">[灼烧]</span>伤害，伤害效果等同于原本的1800%，同一目标20秒内最多触发一次。",
+        "<i>好像从来没有谁见过柏妮思真正生气的样子。</i>",
+        "<i>「相信我，你们不会想要看到的~」</i>",
+        "<i>——来自一位正在大钢牙上准备入睡的司机</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：燃油特调 / 额外能力：星火燎原",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：燃油特调</h3>",
       "柏妮思消耗能量值时，会为自身累积<span style=\"color:#FFFFFF;\">[燃点]</span>，最多累积100点；每消耗1点能量值，能够累积1.4点<span style=\"color:#FFFFFF;\">[燃点]</span>，当<span style=\"color:#FFFFFF;\">[燃点]</span>累积至50点时，柏妮思将进入<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态，直到<span style=\"color:#FFFFFF;\">[燃点]</span>耗尽；进入战场时，柏妮思立刻累积100点<span style=\"color:#FFFFFF;\">[燃点]</span>；",
-      "<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态下，柏妮思的<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>、<span style=\"color:#FFFFFF;\">[连携技：燃油熔焰]</span>或<span style=\"color:#FFFFFF;\">[终结技：纵享盛焰]</span>命中敌人时，将对目标施加<span style=\"color:#FFFFFF;\">[灼伤]</span>效果，直到柏妮思退出<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态；队伍中其他角色攻击命中处于<span style=\"color:#FFFFFF;\">[灼伤]</span>状态下的敌人时，会触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果，消耗8点<span style=\"color:#FFFFFF;\">[燃点]</span>，对目标造成等同于柏妮思175%/205%/235%/262%/290%/320%攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>并累积<span style=\"color:#FF5521;\">火属性异常积蓄值</span>，1.5秒内最多触发一次；每拥有10点异常精通，<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害提升1%，最多提升30%；<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害被视为<span style=\"color:#FFFFFF;\">[支援攻击]</span>伤害。",
+      "<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态下，柏妮思的<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>、<span style=\"color:#FFFFFF;\">[连携技：燃油熔焰]</span>或<span style=\"color:#FFFFFF;\">[终结技：纵享盛焰]</span>命中敌人时，将对目标施加<span style=\"color:#FFFFFF;\">[灼伤]</span>效果，直到柏妮思退出<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态；队伍中其他角色攻击命中处于<span style=\"color:#FFFFFF;\">[灼伤]</span>状态下的敌人时，会触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果，消耗8点<span style=\"color:#FFFFFF;\">[燃点]</span>，对目标造成等同于柏妮思<span style=\"color:#2BAD00;\">(175%/205%/235%/262%/290%/320%/350%)</span>攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>并累积<span style=\"color:#FF5521;\">火属性异常积蓄值</span>，1.5秒内最多触发一次；每拥有10点异常精通，<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害提升1%，最多提升30%；<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害被视为<span style=\"color:#FFFFFF;\">[支援攻击]</span>伤害。",
       "<h3>额外能力：星火燎原</h3>",
       "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
       "柏妮思<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人，或触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果时，招式累积的<span style=\"color:#FF5521;\">火属性异常积蓄值</span>提升65%；队伍中任意角色对敌人施加<span style=\"color:#FF5521;\">[灼烧]</span>效果时，该效果的持续时间提升3秒。"

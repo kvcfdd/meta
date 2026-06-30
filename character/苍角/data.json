@@ -49,7 +49,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：打年糕",
+          "unit": "打年糕",
           "isSame": false,
           "values": [
             "66.2%",
@@ -72,7 +72,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：打年糕",
+          "unit": "打年糕",
           "isSame": false,
           "values": [
             "216.3%",
@@ -95,7 +95,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：打年糕",
+          "unit": "打年糕",
           "isSame": false,
           "values": [
             "293.1%",
@@ -118,7 +118,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：打年糕",
+          "unit": "打年糕",
           "isSame": false,
           "values": [
             "33.1%",
@@ -141,7 +141,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：打年糕",
+          "unit": "打年糕",
           "isSame": false,
           "values": [
             "188%",
@@ -164,7 +164,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：打年糕",
+          "unit": "打年糕",
           "isSame": false,
           "values": [
             "221.7%",
@@ -187,7 +187,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：打年糕（霜染刃旗）",
+          "unit": "打年糕（霜染刃旗）",
           "isSame": false,
           "values": [
             "76.6%",
@@ -210,7 +210,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：打年糕（霜染刃旗）",
+          "unit": "打年糕（霜染刃旗）",
           "isSame": false,
           "values": [
             "228.5%",
@@ -233,7 +233,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：打年糕（霜染刃旗）",
+          "unit": "打年糕（霜染刃旗）",
           "isSame": false,
           "values": [
             "511.4%",
@@ -256,7 +256,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：打年糕（霜染刃旗）",
+          "unit": "打年糕（霜染刃旗）",
           "isSame": false,
           "values": [
             "46.6%",
@@ -279,7 +279,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：打年糕（霜染刃旗）",
+          "unit": "打年糕（霜染刃旗）",
           "isSame": false,
           "values": [
             "127.5%",
@@ -302,7 +302,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：打年糕（霜染刃旗）",
+          "unit": "打年糕（霜染刃旗）",
           "isSame": false,
           "values": [
             "263.3%",
@@ -347,7 +347,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：双人套餐",
+          "unit": "双人套餐",
           "isSame": false,
           "values": [
             "113.4%",
@@ -370,7 +370,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：双人套餐",
+          "unit": "双人套餐",
           "isSame": false,
           "values": [
             "113.4%",
@@ -393,7 +393,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：防守战术",
+          "unit": "防守战术",
           "isSame": false,
           "values": [
             "246.7%",
@@ -416,7 +416,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：防守战术",
+          "unit": "防守战术",
           "isSame": false,
           "values": [
             "311.7%",
@@ -439,7 +439,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：防守战术",
+          "unit": "防守战术",
           "isSame": false,
           "values": [
             "151.7%",
@@ -462,7 +462,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：席卷打击",
+          "unit": "席卷打击",
           "isSame": false,
           "values": [
             "377.2%",
@@ -485,7 +485,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：席卷打击",
+          "unit": "席卷打击",
           "isSame": false,
           "values": [
             "330.4%",
@@ -537,7 +537,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "特殊技：吹凉便当",
+          "unit": "吹凉便当",
           "isSame": false,
           "values": [
             "28.4%",
@@ -560,7 +560,7 @@
         },
         {
           "name": "终结段伤害倍率",
-          "unit": "特殊技：吹凉便当",
+          "unit": "吹凉便当",
           "isSame": false,
           "values": [
             "100.1%",
@@ -583,7 +583,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "特殊技：吹凉便当",
+          "unit": "吹凉便当",
           "isSame": false,
           "values": [
             "28.4%",
@@ -606,7 +606,7 @@
         },
         {
           "name": "终结段失衡倍率",
-          "unit": "特殊技：吹凉便当",
+          "unit": "吹凉便当",
           "isSame": false,
           "values": [
             "100.1%",
@@ -629,7 +629,7 @@
         },
         {
           "name": "连续攻击伤害倍率",
-          "unit": "强化特殊技：扇走蚊虫",
+          "unit": "扇走蚊虫",
           "isSame": false,
           "values": [
             "131.2%",
@@ -652,7 +652,7 @@
         },
         {
           "name": "风场伤害倍率",
-          "unit": "强化特殊技：扇走蚊虫",
+          "unit": "扇走蚊虫",
           "isSame": false,
           "values": [
             "102.1%",
@@ -675,7 +675,7 @@
         },
         {
           "name": "连续攻击失衡倍率",
-          "unit": "强化特殊技：扇走蚊虫",
+          "unit": "扇走蚊虫",
           "isSame": false,
           "values": [
             "112.9%",
@@ -698,7 +698,7 @@
         },
         {
           "name": "风场失衡倍率",
-          "unit": "强化特殊技：扇走蚊虫",
+          "unit": "扇走蚊虫",
           "isSame": false,
           "values": [
             "87.9%",
@@ -721,7 +721,7 @@
         },
         {
           "name": "发动所需能量",
-          "unit": "强化特殊技：扇走蚊虫",
+          "unit": "扇走蚊虫",
           "isSame": true,
           "values": [
             "60点"
@@ -729,7 +729,7 @@
         },
         {
           "name": "每次攻击消耗能量",
-          "unit": "强化特殊技：扇走蚊虫",
+          "unit": "扇走蚊虫",
           "isSame": true,
           "values": [
             "30点"
@@ -737,7 +737,7 @@
         },
         {
           "name": "展旗伤害倍率",
-          "unit": "特殊技：集合啦！",
+          "unit": "集合啦！",
           "isSame": false,
           "values": [
             "250.1%",
@@ -760,7 +760,7 @@
         },
         {
           "name": "快速展旗伤害倍率",
-          "unit": "特殊技：集合啦！",
+          "unit": "集合啦！",
           "isSame": false,
           "values": [
             "140.1%",
@@ -783,7 +783,7 @@
         },
         {
           "name": "收旗攻击伤害倍率",
-          "unit": "特殊技：集合啦！",
+          "unit": "集合啦！",
           "isSame": false,
           "values": [
             "245%",
@@ -806,7 +806,7 @@
         },
         {
           "name": "展旗失衡倍率",
-          "unit": "特殊技：集合啦！",
+          "unit": "集合啦！",
           "isSame": false,
           "values": [
             "275.1%",
@@ -829,7 +829,7 @@
         },
         {
           "name": "快速展旗失衡倍率",
-          "unit": "特殊技：集合啦！",
+          "unit": "集合啦！",
           "isSame": false,
           "values": [
             "140.1%",
@@ -852,7 +852,7 @@
         },
         {
           "name": "收旗攻击失衡倍率",
-          "unit": "特殊技：集合啦！",
+          "unit": "集合啦！",
           "isSame": false,
           "values": [
             "245%",
@@ -893,7 +893,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：鹅鸡斩",
+          "unit": "鹅鸡斩",
           "isSame": false,
           "values": [
             "745.8%",
@@ -916,7 +916,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：鹅鸡斩",
+          "unit": "鹅鸡斩",
           "isSame": false,
           "values": [
             "346.8%",
@@ -939,7 +939,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：大份鹅鸡斩",
+          "unit": "大份鹅鸡斩",
           "isSame": false,
           "values": [
             "1989.8%",
@@ -962,7 +962,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：大份鹅鸡斩",
+          "unit": "大份鹅鸡斩",
           "isSame": false,
           "values": [
             "376.8%",
@@ -1007,7 +1007,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：对半分",
+          "unit": "对半分",
           "isSame": false,
           "values": [
             "76.7%",
@@ -1030,7 +1030,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：对半分",
+          "unit": "对半分",
           "isSame": false,
           "values": [
             "38.4%",
@@ -1053,7 +1053,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：对半分（霜染刃旗）",
+          "unit": "对半分（霜染刃旗）",
           "isSame": false,
           "values": [
             "131.5%",
@@ -1076,7 +1076,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：对半分（霜染刃旗）",
+          "unit": "对半分（霜染刃旗）",
           "isSame": false,
           "values": [
             "80.1%",
@@ -1099,7 +1099,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：别抢零食",
+          "unit": "别抢零食",
           "isSame": false,
           "values": [
             "247.3%",
@@ -1122,7 +1122,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：别抢零食",
+          "unit": "别抢零食",
           "isSame": false,
           "values": [
             "213.4%",
@@ -1150,45 +1150,55 @@
     "1": {
       "name": "振奋汇流",
       "desc": [
-        "苍角触发<span style=\"color:#FFFFFF;\">[核心被动：刃旗助威]</span>或<span style=\"color:#FFFFFF;\">[额外能力：团膳套餐]</span>时，增益效果的持续时间提升8秒。"
+        "苍角触发<span style=\"color:#FFFFFF;\">[核心被动：刃旗助威]</span>或<span style=\"color:#FFFFFF;\">[额外能力：团膳套餐]</span>时，增益效果的持续时间提升8秒。",
+        "<i>蓄能完毕后，特制充能模块可以形成以太能量风场，为周围的以太设备充能。</i>",
+        "<i>对苍角来说，这就像她最喜欢的聚餐时刻。</i>",
+        "<i>「大家~来吃自助餐咯！」</i>"
       ]
     },
     "2": {
       "name": "实验型充能模块",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避反击]</span>、<span style=\"color:#FFFFFF;\">[快速支援]</span>命中敌人时，苍角有15%的概率获得一层<span style=\"color:#FFFFFF;\">[涡流]</span>，1秒内最多触发一次；<span style=\"color:#FFFFFF;\">[涡流]</span>层数到达上限后，若再次获得<span style=\"color:#FFFFFF;\">[涡流]</span>，将改为苍角回复1.2点能量。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避反击]</span>、<span style=\"color:#FFFFFF;\">[快速支援]</span>命中敌人时，苍角有15%的概率获得一层<span style=\"color:#FFFFFF;\">[涡流]</span>，1秒内最多触发一次；<span style=\"color:#FFFFFF;\">[涡流]</span>层数到达上限后，若再次获得<span style=\"color:#FFFFFF;\">[涡流]</span>，将改为苍角回复1.2点能量。",
+        "<i>充能模块能够在战斗中不断积蓄能量，</i>",
+        "<i>因此被研发部门视作划时代的新概念战术兵器。</i>",
+        "<i>但对苍角来说，蓄能完毕，只意味着开饭的时间到了。</i>"
       ]
     },
     "3": {
       "name": "出勤餐补",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>要激励苍角努力锻炼的方法非常简单：提高出勤的餐饮补助标准就行。</i>"
       ]
     },
     "4": {
       "name": "失温症",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[展旗]</span>攻击命中敌人时，目标的<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>降低10%，持续8秒。"
+        "<span style=\"color:#FFFFFF;\">[展旗]</span>攻击命中敌人时，目标的<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>降低10%，持续8秒。",
+        "<i>特制武装战鬼刃旗内置强大的制冷装置，产生冷气的催化剂中含有以太物质，能深度伤害被击中的敌人。</i>"
       ]
     },
     "5": {
       "name": "夜宵福利",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>要进一步激励苍角努力锻炼的方法也很简单：在出勤餐补之外再追加夜宵。</i>"
       ]
     },
     "6": {
       "name": "朔风侵袭",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[霜染刃旗]</span>状态下，强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>和强化<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>的可发动次数提升至12次，且招式造成的伤害提升45%。"
+        "<span style=\"color:#FFFFFF;\">[霜染刃旗]</span>状态下，强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>和强化<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>的可发动次数提升至12次，且招式造成的伤害提升45%。",
+        "<i>解开刃旗内的保险装置，让武器以最大功率模式运转，不仅战斗没问题…用来吹凉便当也没问题。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：刃旗助威 / 额外能力：团膳套餐",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：刃旗助威</h3>",
-      "苍角发动<span style=\"color:#FFFFFF;\">[展旗]</span>时，自身攻击力提升，提升数值等同于苍角10%/12.5%/15%/17%/18%/19%初始攻击力，最高不超过500点，持续22秒，发动<span style=\"color:#FFFFFF;\">[展旗]</span>并消耗<span style=\"color:#FFFFFF;\">[涡流]</span>时，该增益效果翻倍，最高不超过1000点。队伍中其他角色通过<span style=\"color:#FFFFFF;\">[展旗]</span>所触发的<span style=\"color:#FFFFFF;\">[快速支援]</span>或<span style=\"color:#FFFFFF;\">[连携技]</span>入场时，该增益效果将传递给对应的角色，并刷新其持续时间。",
+      "苍角发动<span style=\"color:#FFFFFF;\">[展旗]</span>时，自身攻击力提升，提升数值等同于苍角<span style=\"color:#2BAD00;\">(10%/12.5%/15%/17%/18%/19%/20%)</span>初始攻击力，最高不超过500点，持续22秒，发动<span style=\"color:#FFFFFF;\">[展旗]</span>并消耗<span style=\"color:#FFFFFF;\">[涡流]</span>时，该增益效果翻倍，最高不超过1000点。队伍中其他角色通过<span style=\"color:#FFFFFF;\">[展旗]</span>所触发的<span style=\"color:#FFFFFF;\">[快速支援]</span>或<span style=\"color:#FFFFFF;\">[连携技]</span>入场时，该增益效果将传递给对应的角色，并刷新其持续时间。",
       "<h3>额外能力：团膳套餐</h3>",
       "队伍中存在与自身属性或阵营相同的角色时触发：",
       "苍角消耗<span style=\"color:#FFFFFF;\">[涡流]</span>发动<span style=\"color:#FFFFFF;\">[展旗]</span>时，全队角色造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>提升20%，持续22秒。"

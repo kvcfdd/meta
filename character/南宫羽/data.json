@@ -17,7 +17,7 @@
     "def": 622.6159
   },
   "growAttr": {
-    "异常掌控": 0.36,
+    "异常掌控": 36,
     "基础攻击力": 75
   },
   "talentId": {
@@ -55,7 +55,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：流星舞步",
+          "unit": "流星舞步",
           "isSame": false,
           "values": [
             "114.9%",
@@ -78,7 +78,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：流星舞步",
+          "unit": "流星舞步",
           "isSame": false,
           "values": [
             "136.9%",
@@ -101,7 +101,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：流星舞步",
+          "unit": "流星舞步",
           "isSame": false,
           "values": [
             "263.8%",
@@ -124,7 +124,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：流星舞步",
+          "unit": "流星舞步",
           "isSame": false,
           "values": [
             "82.7%",
@@ -147,7 +147,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：流星舞步",
+          "unit": "流星舞步",
           "isSame": false,
           "values": [
             "84.1%",
@@ -170,7 +170,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：流星舞步",
+          "unit": "流星舞步",
           "isSame": false,
           "values": [
             "168.9%",
@@ -193,7 +193,7 @@
         },
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "104%",
@@ -216,7 +216,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "304.4%",
@@ -239,7 +239,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "510.8%",
@@ -262,7 +262,7 @@
         },
         {
           "name": "三段伤害倍率（协同）",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "587.5%",
@@ -285,7 +285,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "44%",
@@ -308,7 +308,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "210.8%",
@@ -331,7 +331,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "410.8%",
@@ -354,7 +354,7 @@
         },
         {
           "name": "三段失衡倍率（协同）",
-          "unit": "普通攻击：可爱地雷飞天撞",
+          "unit": "可爱地雷飞天撞",
           "isSame": false,
           "values": [
             "431.4%",
@@ -398,7 +398,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：救场技巧",
+          "unit": "救场技巧",
           "isSame": false,
           "values": [
             "74.8%",
@@ -421,7 +421,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：救场技巧",
+          "unit": "救场技巧",
           "isSame": false,
           "values": [
             "63.3%",
@@ -444,7 +444,7 @@
         },
         {
           "name": "轻招架失衡倍率",
-          "unit": "招架支援：完美舞步",
+          "unit": "完美舞步",
           "isSame": false,
           "values": [
             "271.3%",
@@ -467,7 +467,7 @@
         },
         {
           "name": "重招架失衡倍率",
-          "unit": "招架支援：完美舞步",
+          "unit": "完美舞步",
           "isSame": false,
           "values": [
             "342.8%",
@@ -490,7 +490,7 @@
         },
         {
           "name": "连续招架失衡倍率",
-          "unit": "招架支援：完美舞步",
+          "unit": "完美舞步",
           "isSame": false,
           "values": [
             "166.8%",
@@ -513,7 +513,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：即兴演出",
+          "unit": "即兴演出",
           "isSame": false,
           "values": [
             "535.8%",
@@ -536,7 +536,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：即兴演出",
+          "unit": "即兴演出",
           "isSame": false,
           "values": [
             "399.2%",
@@ -574,7 +574,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：有点沉重的爱意",
+          "unit": "有点沉重的爱意",
           "isSame": false,
           "values": [
             "83.5%",
@@ -597,7 +597,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：有点沉重的爱意",
+          "unit": "有点沉重的爱意",
           "isSame": false,
           "values": [
             "70.7%",
@@ -620,7 +620,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：相当沉重的爱意",
+          "unit": "相当沉重的爱意",
           "isSame": false,
           "values": [
             "533%",
@@ -643,7 +643,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：相当沉重的爱意",
+          "unit": "相当沉重的爱意",
           "isSame": false,
           "values": [
             "414.3%",
@@ -666,7 +666,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：相当沉重的爱意",
+          "unit": "相当沉重的爱意",
           "isSame": true,
           "values": [
             "40点"
@@ -691,7 +691,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：慧星引力",
+          "unit": "慧星引力",
           "isSame": false,
           "values": [
             "798.2%",
@@ -714,7 +714,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：慧星引力",
+          "unit": "慧星引力",
           "isSame": false,
           "values": [
             "236.5%",
@@ -737,7 +737,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：流落星群",
+          "unit": "流落星群",
           "isSame": false,
           "values": [
             "2101.7%",
@@ -760,7 +760,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：流落星群",
+          "unit": "流落星群",
           "isSame": false,
           "values": [
             "1196.1%",
@@ -802,7 +802,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：回转流星",
+          "unit": "回转流星",
           "isSame": false,
           "values": [
             "190.7%",
@@ -825,7 +825,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：回转流星",
+          "unit": "回转流星",
           "isSame": false,
           "values": [
             "25.7%",
@@ -848,7 +848,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：流星华尔兹",
+          "unit": "流星华尔兹",
           "isSame": false,
           "values": [
             "355.3%",
@@ -871,7 +871,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：流星华尔兹",
+          "unit": "流星华尔兹",
           "isSame": false,
           "values": [
             "256.7%",
@@ -899,51 +899,57 @@
     "1": {
       "name": "慵懒的聚光灯",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[强化特殊技：相当沉重的爱意]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>命中敌人时，使敌人的全属性伤害抗性降低18%，持续40秒，重复触发时刷新持续时间；进入战场时，南宫羽的<span style=\"color:#FFFFFF;\">[重拍]</span>回复至最大值，在勘域模式中此效果180秒内最多触发一次。"
+        "<span style=\"color:#FFFFFF;\">[强化特殊技：相当沉重的爱意]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>命中敌人时，使敌人的全属性伤害抗性降低18%，持续40秒，重复触发时刷新持续时间；进入战场时，南宫羽的<span style=\"color:#FFFFFF;\">[重拍]</span>回复至最大值，在勘域模式中此效果180秒内最多触发一次。",
+        "<i>梦想是太麻烦又昂贵的东西，聚光灯打在身上，也只是觉得有点暖和而已。比起这个，看千夏被逗到脸红，看爱芮紧张到宕机，或者发现下一个拓金的际遇，或许才更有趣意。</i>"
       ]
     },
     "2": {
       "name": "无痛的泪水",
       "desc": [
-        "每层<span style=\"color:#FFFFFF;\">[颤音]</span>使<span style=\"color:#FFFFFF;\">[核心被动：天才偶像]</span>中<span style=\"color:#FFFFFF;\">[异放]</span>的伤害比例额外提升10%；<span style=\"color:#FFFFFF;\">[额外能力：天使队长]</span>提供的失衡易伤倍率额外提升30%；操作中的角色<span style=\"color:#FFFFFF;\">[连携技]</span>重击命中同时处于属性异常和失衡状态下的敌人时，会对敌人触发<span style=\"color:#FFFFFF;\">[极性紊乱]</span>，对目标造成原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果25%的伤害，敌人在同一失衡期间仅能触发一次该效果。"
+        "每层<span style=\"color:#FFFFFF;\">[颤音]</span>使<span style=\"color:#FFFFFF;\">[核心被动：天才偶像]</span>中<span style=\"color:#FFFFFF;\">[异放]</span>的伤害比例额外提升10%；<span style=\"color:#FFFFFF;\">[额外能力：天使队长]</span>提供的失衡易伤倍率额外提升30%；操作中的角色<span style=\"color:#FFFFFF;\">[连携技]</span>重击命中同时处于属性异常和失衡状态下的敌人时，会对敌人触发<span style=\"color:#FFFFFF;\">[极性紊乱]</span>，对目标造成原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果25%的伤害，敌人在同一失衡期间仅能触发一次该效果。",
+        "<i>眼泪是珍贵的演出道具，可惜她的库存天生不足。好在偶像的演技足够精湛，能让它在需要的时候准时落下——为了安慰真正的小哭包，或者骗取一点观众的同情。</i>"
       ]
     },
     "3": {
       "name": "天秤上的筹码",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>舞步可以编排，走位可以设计，连人气和未来似乎都可以用钱摆平。数字在账户里跳动，是种令人安心的游戏，直到发现未被明码标价的难题…把玩着这叠最擅用的「筹码」，动摇了「只是生意」的天平。</i>"
       ]
     },
     "4": {
       "name": "共犯的舞步",
       "desc": [
-        "异常精通提升40点；<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>命中敌人造成的属性异常积蓄值提升35%。"
+        "异常精通提升40点；<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>命中敌人造成的属性异常积蓄值提升35%。",
+        "<i>总习惯为千夏设计最闪耀的站位，为爱芮预留穿透夜空的高音。我的「梦想」是从她们那里借来的，但守护这份借来之物的决心，百分百属于我自己。</i>"
       ]
     },
     "5": {
       "name": "舞台中央",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>启岁的灯火升上天空，舞台的幕布终于拉开。舞台、灯光、她们的侧脸…一切从未如此清晰。原来我早已站在光芒中央，从未袖手旁观。</i>"
       ]
     },
     "6": {
       "name": "天使的妄想",
       "desc": [
-        "南宫羽攻击造成的失衡值提升50%；敌人不处于失衡状态时，任意角色对其造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害或<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害、使其进入一次属性异常状态时会为其累计1层<span style=\"color:#FFFFFF;\">[颤音：改]</span>，被<span style=\"color:#FFFFFF;\">[强化特殊技：相当沉重的爱意]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>重击命中时会累计1层<span style=\"color:#FFFFFF;\">[颤音：改]</span>，被<span style=\"color:#FFFFFF;\">[终结技：流落星群]</span>重击命中时会累计2层<span style=\"color:#FFFFFF;\">[颤音：改]</span>；<span style=\"color:#FFFFFF;\">[颤音：改]</span>最多累计4层，当敌人进入失衡状态时，<span style=\"color:#FFFFFF;\">[颤音：改]</span>会被全部清除，<span style=\"color:#FFFFFF;\">[颤音：改]</span>被清除时，若敌人处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>下，南宫羽会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为<span style=\"color:#FE437E;\">800%</span>/<span style=\"color:#2EB6FF;\">400%</span>/<span style=\"color:#FF5521;\">1000%</span>/<span style=\"color:#F0D12B;\">70%</span>/<span style=\"color:#98EFF0;\">100%</span>/<span style=\"color:#A6C5FD;\">40%</span>，敌人身上每有1层<span style=\"color:#FFFFFF;\">[颤音：改]</span>，该次<span style=\"color:#FFFFFF;\">[异放]</span>的伤害比例额外提升25%；<span style=\"color:#FFFFFF;\">[颤音：改]</span>与<span style=\"color:#FFFFFF;\">[颤音]</span>无法相互叠加。"
+        "南宫羽攻击造成的失衡值提升50%；敌人不处于失衡状态时，任意角色对其造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害或<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害、使其进入一次属性异常状态时会为其累计1层<span style=\"color:#FFFFFF;\">[颤音：改]</span>，被<span style=\"color:#FFFFFF;\">[强化特殊技：相当沉重的爱意]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>重击命中时会累计1层<span style=\"color:#FFFFFF;\">[颤音：改]</span>，被<span style=\"color:#FFFFFF;\">[终结技：流落星群]</span>重击命中时会累计2层<span style=\"color:#FFFFFF;\">[颤音：改]</span>；<span style=\"color:#FFFFFF;\">[颤音：改]</span>最多累计4层，当敌人进入失衡状态时，<span style=\"color:#FFFFFF;\">[颤音：改]</span>会被全部清除，<span style=\"color:#FFFFFF;\">[颤音：改]</span>被清除时，若敌人处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>下，南宫羽会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为<span style=\"color:#FE437E;\">800%</span>/<span style=\"color:#2EB6FF;\">400%</span>/<span style=\"color:#FF5521;\">1000%</span>/<span style=\"color:#F0D12B;\">70%</span>/<span style=\"color:#98EFF0;\">100%</span>/<span style=\"color:#A6C5FD;\">40%</span>，敌人身上每有1层<span style=\"color:#FFFFFF;\">[颤音：改]</span>，该次<span style=\"color:#FFFFFF;\">[异放]</span>的伤害比例额外提升25%；<span style=\"color:#FFFFFF;\">[颤音：改]</span>与<span style=\"color:#FFFFFF;\">[颤音]</span>无法相互叠加。",
+        "<i>镜头、欢呼、荧光棒…遥远的暖意化作灼人的焰火。从别人那里借来的梦想——早已与我骨血相融。令人沉醉的「妄想」，现在由南宫队长亲自定义。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：天才偶像 / 额外能力：天使队长",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：天才偶像</h3>",
-      "南宫羽的异常精通提升60/70/80/90/100/110点；",
+      "南宫羽的异常精通提升<span style=\"color:#2BAD00;\">(60/70/80/90/100/110/120)</span>点；",
       "南宫羽的初始异常掌控大于110点时，每超过1点初始异常掌控会使自身的冲击力提升1点；",
       "敌人处于失衡状态时，任意角色对其造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害、<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害、使其进入一次属性异常状态时会为其累计1层<span style=\"color:#FFFFFF;\">[颤音]</span>；",
       "同一敌人最多可被叠加4层<span style=\"color:#FFFFFF;\">[颤音]</span>；",
       "若<span style=\"color:#FFFFFF;\">[颤音]</span>叠加到最大层数且敌人处于<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>下时或当敌人持有<span style=\"color:#FFFFFF;\">[颤音]</span>并从失衡状态恢复时，所有<span style=\"color:#FFFFFF;\">[颤音]</span>会被清除；",
       "<span style=\"color:#FFFFFF;\">[颤音]</span>被清除时，若敌人处于上述属性异常状态下，南宫羽会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为<span style=\"color:#FE437E;\">720%</span>/<span style=\"color:#2EB6FF;\">360%</span>/<span style=\"color:#FF5521;\">900%</span>/<span style=\"color:#F0D12B;\">63%</span>/<span style=\"color:#98EFF0;\">90%</span>/<span style=\"color:#A6C5FD;\">36%</span>，敌人身上每有1层<span style=\"color:#FFFFFF;\">[颤音]</span>，该次<span style=\"color:#FFFFFF;\">[异放]</span>的伤害比例额外提升25%，同一次失衡期间，若<span style=\"color:#FFFFFF;\">[颤音]</span>已被清除，则敌人无法再被施加<span style=\"color:#FFFFFF;\">[颤音]</span>；",
-      "南宫羽的<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：相当沉重的爱意]</span>命中敌人时，会使自身的属性异常积蓄效率提升17%/20%/23%/26%/29%/32%，造成的失衡值提升11%/12.5%/14%/15.5%/17%/18.5%，使全队造成的伤害提升13%/15%/17%/19%/21%/23%，持续30秒，重复触发时刷新持续时间；",
+      "南宫羽的<span style=\"color:#FFFFFF;\">[普通攻击：可爱地雷飞天撞]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：相当沉重的爱意]</span>命中敌人时，会使自身的属性异常积蓄效率提升<span style=\"color:#2BAD00;\">(17%/20%/23%/26%/29%/32%/35%)</span>，造成的失衡值提升<span style=\"color:#2BAD00;\">(11%/12.5%/14%/15.5%/17%/18.5%/20%)</span>，使全队造成的伤害提升<span style=\"color:#2BAD00;\">(13%/15%/17%/19%/21%/23%/25%)</span>，持续30秒，重复触发时刷新持续时间；",
       "处于接战状态时，南宫羽每秒回复3.8点<span style=\"color:#FFFFFF;\">[重拍]</span>，队伍中任意角色使敌人进入属性异常状态会额外为南宫羽回复12点<span style=\"color:#FFFFFF;\">[重拍]</span>，该效果每6秒最多触发一次；",
       "南宫羽最多拥有100点<span style=\"color:#FFFFFF;\">[重拍]</span>，进入战场时，初始拥有30点<span style=\"color:#FFFFFF;\">[重拍]</span>。",
       "<h3>额外能力：天使队长</h3>",

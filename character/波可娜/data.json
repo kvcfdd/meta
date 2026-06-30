@@ -17,7 +17,7 @@
     "def": 606.5977
   },
   "growAttr": {
-    "冲击力": 0.18,
+    "冲击力": 18,
     "基础攻击力": 75
   },
   "talentId": {
@@ -49,7 +49,7 @@
       "tables": [
         {
           "name": "一段伤害倍率",
-          "unit": "普通攻击：捷击",
+          "unit": "捷击",
           "isSame": false,
           "values": [
             "35.7%",
@@ -72,7 +72,7 @@
         },
         {
           "name": "二段伤害倍率",
-          "unit": "普通攻击：捷击",
+          "unit": "捷击",
           "isSame": false,
           "values": [
             "94.1%",
@@ -95,7 +95,7 @@
         },
         {
           "name": "三段伤害倍率",
-          "unit": "普通攻击：捷击",
+          "unit": "捷击",
           "isSame": false,
           "values": [
             "167.6%",
@@ -118,7 +118,7 @@
         },
         {
           "name": "一段失衡倍率",
-          "unit": "普通攻击：捷击",
+          "unit": "捷击",
           "isSame": false,
           "values": [
             "28.5%",
@@ -141,7 +141,7 @@
         },
         {
           "name": "二段失衡倍率",
-          "unit": "普通攻击：捷击",
+          "unit": "捷击",
           "isSame": false,
           "values": [
             "75.3%",
@@ -164,7 +164,7 @@
         },
         {
           "name": "三段失衡倍率",
-          "unit": "普通攻击：捷击",
+          "unit": "捷击",
           "isSame": false,
           "values": [
             "134.1%",
@@ -187,7 +187,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "普通攻击：跃击",
+          "unit": "跃击",
           "isSame": false,
           "values": [
             "135%",
@@ -210,7 +210,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "普通攻击：跃击",
+          "unit": "跃击",
           "isSame": false,
           "values": [
             "108%",
@@ -254,7 +254,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "快速支援：雇佣合同·保镖业务",
+          "unit": "雇佣合同·保镖业务",
           "isSame": false,
           "values": [
             "78.3%",
@@ -277,7 +277,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "快速支援：雇佣合同·保镖业务",
+          "unit": "雇佣合同·保镖业务",
           "isSame": false,
           "values": [
             "78.3%",
@@ -300,7 +300,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "支援突击：单独计价",
+          "unit": "单独计价",
           "isSame": false,
           "values": [
             "307.1%",
@@ -323,7 +323,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "支援突击：单独计价",
+          "unit": "单独计价",
           "isSame": false,
           "values": [
             "265.3%",
@@ -368,7 +368,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "特殊技：噬爪",
+          "unit": "噬爪",
           "isSame": false,
           "values": [
             "25.1%",
@@ -391,7 +391,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：噬爪",
+          "unit": "噬爪",
           "isSame": false,
           "values": [
             "50.1%",
@@ -414,7 +414,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "特殊技：噬爪·噩梦袭影",
+          "unit": "噬爪·噩梦袭影",
           "isSame": false,
           "values": [
             "46.3%",
@@ -437,7 +437,7 @@
         },
         {
           "name": "终结一击伤害倍率",
-          "unit": "特殊技：噬爪·噩梦袭影",
+          "unit": "噬爪·噩梦袭影",
           "isSame": false,
           "values": [
             "53.5%",
@@ -460,7 +460,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "特殊技：噬爪·噩梦袭影",
+          "unit": "噬爪·噩梦袭影",
           "isSame": false,
           "values": [
             "29%",
@@ -483,7 +483,7 @@
         },
         {
           "name": "终结一击失衡倍率",
-          "unit": "特殊技：噬爪·噩梦袭影",
+          "unit": "噬爪·噩梦袭影",
           "isSame": false,
           "values": [
             "34.8%",
@@ -506,7 +506,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "强化特殊技：噬爪·瞬步",
+          "unit": "噬爪·瞬步",
           "isSame": false,
           "values": [
             "347.7%",
@@ -529,7 +529,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "强化特殊技：噬爪·瞬步",
+          "unit": "噬爪·瞬步",
           "isSame": false,
           "values": [
             "211.7%",
@@ -552,7 +552,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "强化特殊技：噬爪·瞬步",
+          "unit": "噬爪·瞬步",
           "isSame": true,
           "values": [
             "60点"
@@ -576,7 +576,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "连携技：嗨，想不到吧",
+          "unit": "嗨，想不到吧",
           "isSame": false,
           "values": [
             "534.1%",
@@ -599,7 +599,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "连携技：嗨，想不到吧",
+          "unit": "嗨，想不到吧",
           "isSame": false,
           "values": [
             "135.1%",
@@ -622,7 +622,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "终结技：噢，游戏时间",
+          "unit": "噢，游戏时间",
           "isSame": false,
           "values": [
             "1393.8%",
@@ -645,7 +645,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "终结技：噢，游戏时间",
+          "unit": "噢，游戏时间",
           "isSame": false,
           "values": [
             "882.3%",
@@ -687,7 +687,7 @@
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "冲刺攻击：先下手为强",
+          "unit": "先下手为强",
           "isSame": false,
           "values": [
             "48.3%",
@@ -710,7 +710,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "冲刺攻击：先下手为强",
+          "unit": "先下手为强",
           "isSame": false,
           "values": [
             "24.2%",
@@ -733,7 +733,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "闪避反击：睚眦必报",
+          "unit": "睚眦必报",
           "isSame": false,
           "values": [
             "201.8%",
@@ -756,7 +756,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "闪避反击：睚眦必报",
+          "unit": "睚眦必报",
           "isSame": false,
           "values": [
             "178.3%",
@@ -784,45 +784,64 @@
     "1": {
       "name": "利己主义",
       "desc": [
-        "对被施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果的敌人造成伤害时，自身暴击率提升10%。"
+        "对被施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果的敌人造成伤害时，自身暴击率提升10%。",
+        "<i>「利己主义是一种本能，但其实也可以在后天习得。」</i>",
+        "<i>「如何习得？」</i>",
+        "<i>「多吃点亏自然就明白了。」</i>"
       ]
     },
     "2": {
       "name": "借势而为",
       "desc": [
-        "处于<span style=\"color:#FFFFFF;\">[核心被动：猎手本能]</span>的<span style=\"color:#FFFFFF;\">[猎步]</span>状态时，波可娜的攻击力额外提升10%。"
+        "处于<span style=\"color:#FFFFFF;\">[核心被动：猎手本能]</span>的<span style=\"color:#FFFFFF;\">[猎步]</span>状态时，波可娜的攻击力额外提升10%。",
+        "<i>「一个雇佣兵最重要的素质不是忠诚，而是懂得借势而为。挑选合适的雇主，接下合适的委托，完成分内工作，绝不签长期合同。即使跳槽去对手那边，原雇主也没什么话好说。」</i>",
+        "<i>「波可娜，刚才又有人来找你麻烦，被我打发走了。你怎么会得罪这么多人？」</i>",
+        "<i>「是感情用事的人太多了。所以你看，他们都是一群拈不清自己斤两的失败者。」</i>"
       ]
     },
     "3": {
       "name": "领地意识",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>波可娜居住的卡车车厢门上贴着一张大纸。上面用红色的大字写着：这是我的地盘！进来要敲门！敲门！敲门！</i>",
+        "<i>纸下方还贴有一张稍小的纸，上面用黑色的大字写着：凯撒，赔我的锁！10万丁尼！</i>",
+        "<i>黑色的大字下还有一行歪歪扭扭的小字：我问过绳匠了，那锁2万！</i>"
       ]
     },
     "4": {
       "name": "狩猎乐趣",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[强化特殊技：噬爪·瞬步]</span>时的能量消耗降低5点。"
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技：噬爪·瞬步]</span>时的能量消耗降低5点。",
+        "<i>「挑战强者有什么意思，我又不是自虐狂。对我而言知道自己稳赢的时候，才能体会真正的狩猎乐趣！」</i>",
+        "<i>5分钟后。</i>",
+        "<i>「这游戏的AI太弱了吧，没劲。」</i>"
       ]
     },
     "5": {
       "name": "尾巴游戏",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
+        "<i>波可娜童年最早的模糊回忆，是一条温暖的大尾巴。在她刚学会爬行的时候，最喜欢玩追逐它的游戏。</i>",
+        "<i>「后来呢？」</i>",
+        "<i>「他们告诉我，那条尾巴就是我自己的。」</i>",
+        "<i>但波可娜知道，那条尾巴不是她的。因为除了尾巴游戏，晚上它还会紧紧地包裹住她，度过每一个寒冷的夜晚。可能是空洞把它夺走了，或者是别的什么…哎，无所谓，反正她早就不玩这个游戏了。</i>"
       ]
     },
     "6": {
       "name": "面具之下",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[特殊技：噬爪·噩梦袭影]</span>造成的伤害提升15%，重复攻击的可触发次数额外提升2次；<span style=\"color:#FFFFFF;\">[额外能力：业务搭档]</span>中<span style=\"color:#FFFFFF;\">[困迹]</span>的效果对<span style=\"color:#FFFFFF;\">[追加攻击]</span>以外的伤害类型也会生效。"
+        "<span style=\"color:#FFFFFF;\">[特殊技：噬爪·噩梦袭影]</span>造成的伤害提升15%，重复攻击的可触发次数额外提升2次；<span style=\"color:#FFFFFF;\">[额外能力：业务搭档]</span>中<span style=\"color:#FFFFFF;\">[困迹]</span>的效果对<span style=\"color:#FFFFFF;\">[追加攻击]</span>以外的伤害类型也会生效。",
+        "<i>覆面式呼吸过滤器挡住了以太粒子和花粉，阻隔了或好奇或畏惧或不怀好意的视线，却让人再也没办法蜷缩起来舒服地睡个好觉了。好想去一个温暖的地方，毫无防备地睡一个午觉…</i>",
+        "<i>车厢的门被毫无征兆地推开了，从梦中惊醒的她立刻抓起老搭档扣在脸上，「你们能不能学会敲门？！」</i>",
+        "<i>…啊，原来现在她已经可以摘掉它了。</i>"
       ]
     }
   },
   "passive": {
-    "name": "核心被动：猎手本能 / 额外能力：业务搭档",
+    "name": "核心被动 / 额外能力",
     "desc": [
       "<h3>核心被动：猎手本能</h3>",
-      "波可娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>时，将会进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态，使自身造成的失衡值提升15%/17.5%/20%/22.5%/25%/27.5%，持续6秒；切换至其他角色后，若波可娜仍处于<span style=\"color:#FFFFFF;\">[猎步]</span>状态下，则其持续时间会改为切换回波可娜时；进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态后，自身为当前操作中的角色时，波可娜重击命中敌人，能够触发队伍中上一位角色的<span style=\"color:#FFFFFF;\">[快速支援]</span>。",
+      "波可娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>时，将会进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态，使自身造成的失衡值提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，持续6秒；切换至其他角色后，若波可娜仍处于<span style=\"color:#FFFFFF;\">[猎步]</span>状态下，则其持续时间会改为切换回波可娜时；进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态后，自身为当前操作中的角色时，波可娜重击命中敌人，能够触发队伍中上一位角色的<span style=\"color:#FFFFFF;\">[快速支援]</span>。",
       "<h3>额外能力：业务搭档</h3>",
       "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色或自身阵营相同的角色时触发：",
       "波可娜发动<span style=\"color:#FFFFFF;\">[特殊技：噬爪·噩梦袭影]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：噬爪·瞬步]</span>、<span style=\"color:#FFFFFF;\">[支援突击：单独计价]</span>、<span style=\"color:#FFFFFF;\">[连携技：嗨，想不到吧]</span>、<span style=\"color:#FFFFFF;\">[终结技：噢，游戏时间]</span>命中敌人时，将对敌人施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果，持续15秒；被施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果后，所有单位发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>对目标造成的伤害提升30%。"
