@@ -1093,14 +1093,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：兄弟齐心！</h3>",
-      "安东发动<span style=\"color:#FFFFFF;\">[打桩攻击]</span>时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(12%/14%/16%/18%/20%/22%/24%)</span>，发动<span style=\"color:#FFFFFF;\">[电钻攻击]</span>时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(20%/23.3%/26.6%/30%/33.3%/36.6%/40%)</span>。",
-      "<h3>额外能力：通力合作</h3>",
-      "队伍中存在与自身属性或阵营相同的角色时触发：",
-      "安东进入<span style=\"color:#FFFFFF;\">[爆发状态]</span>后，每触发4次暴击，下一次攻击命中处于<span style=\"color:#2EB6FF;\">[感电]</span>状态下的敌人时，能够额外结算一次<span style=\"color:#2EB6FF;\">[感电]</span>伤害，伤害效果等同于原本的45%，0.5秒内最多触发一次。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：兄弟齐心！</h3>",
+        "安东发动<span style=\"color:#FFFFFF;\">[打桩攻击]</span>时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(12%/14%/16%/18%/20%/22%/24%)</span>，发动<span style=\"color:#FFFFFF;\">[电钻攻击]</span>时，招式造成的伤害提升<span style=\"color:#2BAD00;\">(20%/23.3%/26.6%/30%/33.3%/36.6%/40%)</span>。",
+        "<h3>额外能力：通力合作</h3>",
+        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "安东进入<span style=\"color:#FFFFFF;\">[爆发状态]</span>后，每触发4次暴击，下一次攻击命中处于<span style=\"color:#2EB6FF;\">[感电]</span>状态下的敌人时，能够额外结算一次<span style=\"color:#2EB6FF;\">[感电]</span>伤害，伤害效果等同于原本的45%，0.5秒内最多触发一次。"
+      ]
+    }
+  ]
 }

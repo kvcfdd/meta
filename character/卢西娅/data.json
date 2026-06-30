@@ -1224,18 +1224,20 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：迷途夜颂</h3>",
-      "进入战场时，卢西娅立刻获得60点<span style=\"color:#FFFFFF;\">[梦境值]</span>，若在发动<span style=\"color:#FFFFFF;\">[随想]</span>或<span style=\"color:#FFFFFF;\">[合唱]</span>时，卢西娅的<span style=\"color:#FFFFFF;\">[梦境值]</span>达到100点，会进入<span style=\"color:#FFFFFF;\">[梦境]</span>状态；",
-      "进入<span style=\"color:#FFFFFF;\">[梦境]</span>状态时，将触发<span style=\"color:#FFFFFF;\">[快速支援]</span>，并同时开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>，<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>生效期间，全队角色最大生命值提升5%，持续40秒，重复触发延长持续时间，最多延长至300秒；",
-      "当卢西娅处于<span style=\"color:#FFFFFF;\">[梦境]</span>状态中，发动任意<span style=\"color:#FFFFFF;\">[随想]</span>时，会消耗25点<span style=\"color:#FFFFFF;\">[梦境值]</span>将<span style=\"color:#FFFFFF;\">[随想]</span>升级为<span style=\"color:#FFFFFF;\">[合唱]</span>；其他操作中的角色攻击命中敌人时，会消耗25点<span style=\"color:#FFFFFF;\">[梦境值]</span>发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>，<span style=\"color:#FFFFFF;\">[追加攻击]</span>为<span style=\"color:#FFFFFF;\">[合唱]</span>，卢西娅在发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>后，8秒内不会触发<span style=\"color:#FFFFFF;\">[追加攻击]</span>；",
-      "卢西娅发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>时，会为全队角色施加<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态，<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态下，角色造成的伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，持续12秒，重复触发时刷新持续时间；",
-      "<span style=\"color:#FFFFFF;\">[梦境值]</span>不足或离开<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，卢西娅退出<span style=\"color:#FFFFFF;\">[梦境]</span>状态。",
-      "<h3>额外能力：长夜诗篇</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[命破]</span>角色或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
-      "施加<span style=\"color:#FFFFFF;\">[破暗]</span>状态时，额外附加暴击伤害提升30%效果。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：迷途夜颂</h3>",
+        "进入战场时，卢西娅立刻获得60点<span style=\"color:#FFFFFF;\">[梦境值]</span>，若在发动<span style=\"color:#FFFFFF;\">[随想]</span>或<span style=\"color:#FFFFFF;\">[合唱]</span>时，卢西娅的<span style=\"color:#FFFFFF;\">[梦境值]</span>达到100点，会进入<span style=\"color:#FFFFFF;\">[梦境]</span>状态；",
+        "进入<span style=\"color:#FFFFFF;\">[梦境]</span>状态时，将触发<span style=\"color:#FFFFFF;\">[快速支援]</span>，并同时开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>，<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>生效期间，全队角色最大生命值提升5%，持续40秒，重复触发延长持续时间，最多延长至300秒；",
+        "当卢西娅处于<span style=\"color:#FFFFFF;\">[梦境]</span>状态中，发动任意<span style=\"color:#FFFFFF;\">[随想]</span>时，会消耗25点<span style=\"color:#FFFFFF;\">[梦境值]</span>将<span style=\"color:#FFFFFF;\">[随想]</span>升级为<span style=\"color:#FFFFFF;\">[合唱]</span>；其他操作中的角色攻击命中敌人时，会消耗25点<span style=\"color:#FFFFFF;\">[梦境值]</span>发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>，<span style=\"color:#FFFFFF;\">[追加攻击]</span>为<span style=\"color:#FFFFFF;\">[合唱]</span>，卢西娅在发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>后，8秒内不会触发<span style=\"color:#FFFFFF;\">[追加攻击]</span>；",
+        "卢西娅发动招式升级或<span style=\"color:#FFFFFF;\">[追加攻击]</span>时，会为全队角色施加<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态，<span style=\"color:#FFFFFF;\">[巡梦童谣]</span>状态下，角色造成的伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，持续12秒，重复触发时刷新持续时间；",
+        "<span style=\"color:#FFFFFF;\">[梦境值]</span>不足或离开<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，卢西娅退出<span style=\"color:#FFFFFF;\">[梦境]</span>状态。",
+        "<h3>额外能力：长夜诗篇</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[命破]</span>角色或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
+        "施加<span style=\"color:#FFFFFF;\">[破暗]</span>状态时，额外附加暴击伤害提升30%效果。"
+      ]
+    }
+  ]
 }

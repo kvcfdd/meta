@@ -1036,21 +1036,23 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：花链协议</h3>",
-      "「席德」将初始攻击力最高的<span style=\"color:#FFFFFF;\">[强攻]</span>队友视为<span style=\"color:#FFFFFF;\">[正兵]</span>；",
-      "<span style=\"color:#FFFFFF;\">[正兵]</span>释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使「席德」获得<span style=\"color:#FFFFFF;\">[强袭]</span>状态，提升「席德」<span style=\"color:#2BAD00;\">(100点/225点/350点/475点/600点/725点/1000点)</span>攻击力和<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>暴击伤害，「席德」释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使<span style=\"color:#FFFFFF;\">[正兵]</span>获得<span style=\"color:#FFFFFF;\">[明攻]</span>状态，提升<span style=\"color:#FFFFFF;\">[正兵]</span><span style=\"color:#2BAD00;\">(100点/225点/350点/475点/600点/725点/1000点)</span>攻击力和<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>暴击伤害；",
-      "<span style=\"color:#FFFFFF;\">[明攻]</span><span style=\"color:#FFFFFF;\">[强袭]</span>同时存在时，「席德」与<span style=\"color:#FFFFFF;\">[正兵]</span>同时获得<span style=\"color:#FFFFFF;\">[围杀]</span>状态，造成的伤害提升<span style=\"color:#2BAD00;\">(12.5%/14.5%/16.5%/18.5%/20.5%/22.5%/25%)</span>；",
-      "<span style=\"color:#FFFFFF;\">[强袭]</span>，<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；",
-      "进入战场时若存在<span style=\"color:#FFFFFF;\">[正兵]</span>，「席德」立刻获得<span style=\"color:#FFFFFF;\">[强袭]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>状态，<span style=\"color:#FFFFFF;\">[正兵]</span>立刻获得<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>状态；",
-      "<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[强袭]</span>状态持续40秒，重复获得刷新持续时间；",
-      "<span style=\"color:#FFFFFF;\">[正兵]</span>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<span style=\"color:#FFFFFF;\">[钢能]</span>。",
-      "<h3>额外能力：奇兵轰临</h3>",
-      "队伍中存在其他<span style=\"color:#FFFFFF;\">[强攻]</span>角色时触发：",
-      "「席德」作为操作中角色造成伤害时，为<span style=\"color:#FFFFFF;\">[正兵]</span>回复2点能量，1秒内最多触发一次；",
-      "「席德」<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>，<span style=\"color:#FFFFFF;\">[普通攻击：落华·崩坠]</span>与<span style=\"color:#FFFFFF;\">[终结技：机芯花园·绽放！]</span>造成的伤害提升30%，且无视敌人25%<span style=\"color:#2EB6FF;\">电属性伤害抗性</span>。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：花链协议</h3>",
+        "「席德」将初始攻击力最高的<span style=\"color:#FFFFFF;\">[强攻]</span>队友视为<span style=\"color:#FFFFFF;\">[正兵]</span>；",
+        "<span style=\"color:#FFFFFF;\">[正兵]</span>释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使「席德」获得<span style=\"color:#FFFFFF;\">[强袭]</span>状态，提升「席德」<span style=\"color:#2BAD00;\">(100点/225点/350点/475点/600点/725点/1000点)</span>攻击力和<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>暴击伤害，「席德」释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，使<span style=\"color:#FFFFFF;\">[正兵]</span>获得<span style=\"color:#FFFFFF;\">[明攻]</span>状态，提升<span style=\"color:#FFFFFF;\">[正兵]</span><span style=\"color:#2BAD00;\">(100点/225点/350点/475点/600点/725点/1000点)</span>攻击力和<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>暴击伤害；",
+        "<span style=\"color:#FFFFFF;\">[明攻]</span><span style=\"color:#FFFFFF;\">[强袭]</span>同时存在时，「席德」与<span style=\"color:#FFFFFF;\">[正兵]</span>同时获得<span style=\"color:#FFFFFF;\">[围杀]</span>状态，造成的伤害提升<span style=\"color:#2BAD00;\">(12.5%/14.5%/16.5%/18.5%/20.5%/22.5%/25%)</span>；",
+        "<span style=\"color:#FFFFFF;\">[强袭]</span>，<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；",
+        "进入战场时若存在<span style=\"color:#FFFFFF;\">[正兵]</span>，「席德」立刻获得<span style=\"color:#FFFFFF;\">[强袭]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>状态，<span style=\"color:#FFFFFF;\">[正兵]</span>立刻获得<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[围杀]</span>状态；",
+        "<span style=\"color:#FFFFFF;\">[明攻]</span>与<span style=\"color:#FFFFFF;\">[强袭]</span>状态持续40秒，重复获得刷新持续时间；",
+        "<span style=\"color:#FFFFFF;\">[正兵]</span>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<span style=\"color:#FFFFFF;\">[钢能]</span>。",
+        "<h3>额外能力：奇兵轰临</h3>",
+        "队伍中存在其他<span style=\"color:#FFFFFF;\">[强攻]</span>角色时触发：",
+        "「席德」作为操作中角色造成伤害时，为<span style=\"color:#FFFFFF;\">[正兵]</span>回复2点能量，1秒内最多触发一次；",
+        "「席德」<span style=\"color:#FFFFFF;\">[普通攻击：落华·重戮]</span>，<span style=\"color:#FFFFFF;\">[普通攻击：落华·崩坠]</span>与<span style=\"color:#FFFFFF;\">[终结技：机芯花园·绽放！]</span>造成的伤害提升30%，且无视敌人25%<span style=\"color:#2EB6FF;\">电属性伤害抗性</span>。"
+      ]
+    }
+  ]
 }

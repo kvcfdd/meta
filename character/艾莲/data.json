@@ -1434,14 +1434,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：凌牙厉齿</h3>",
-      "艾莲在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击，或消耗<span style=\"color:#FFFFFF;\">[急冻充能]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：急冻修剪法]</span>时，招式的暴击伤害提升<span style=\"color:#2BAD00;\">(50%/58.3%/66.6%/75%/83.3%/91.6%/100%)</span>。",
-      "<h3>额外能力：风暴潮</h3>",
-      "队伍中存在与自身属性或阵营相同的角色时触发：",
-      "艾莲造成<span style=\"color:#98EFF0;\">冰属性伤害</span>时，后继<span style=\"color:#98EFF0;\">冰属性伤害</span>提升3%，持续10秒，最多叠加10层，重复触发时刷新持续时间。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：凌牙厉齿</h3>",
+        "艾莲在<span style=\"color:#FFFFFF;\">[冲刺攻击：冰渊潜袭]</span>中发动蓄力剪击，或消耗<span style=\"color:#FFFFFF;\">[急冻充能]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：急冻修剪法]</span>时，招式的暴击伤害提升<span style=\"color:#2BAD00;\">(50%/58.3%/66.6%/75%/83.3%/91.6%/100%)</span>。",
+        "<h3>额外能力：风暴潮</h3>",
+        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "艾莲造成<span style=\"color:#98EFF0;\">冰属性伤害</span>时，后继<span style=\"color:#98EFF0;\">冰属性伤害</span>提升3%，持续10秒，最多叠加10层，重复触发时刷新持续时间。"
+      ]
+    }
+  ]
 }

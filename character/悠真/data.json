@@ -1272,14 +1272,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：破晓</h3>",
-      "<span style=\"color:#FFFFFF;\">[冲刺攻击：飞弦·斩]</span>的暴击率提升<span style=\"color:#2BAD00;\">(10.6%/13%/15.4%/17.8%/20.2%/22.6%/25%)</span>，悠真的<span style=\"color:#FFFFFF;\">[冲刺攻击：飞弦·斩]</span>命中敌人并触发暴击时，将获得1层<span style=\"color:#FFFFFF;\">[锋芒]</span>，同一招式内最多获得3层，<span style=\"color:#FFFFFF;\">[锋芒]</span>最多叠加6层，持续5秒，重复触发时刷新持续时间；每层<span style=\"color:#FFFFFF;\">[锋芒]</span>会使<span style=\"color:#FFFFFF;\">[冲刺攻击：飞弦·斩]</span>造成的暴击伤害提升<span style=\"color:#2BAD00;\">(6%/7%/8%/9%/10%/11%/12%)</span>。",
-      "<h3>额外能力：超频</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>角色或<span style=\"color:#FFFFFF;\">[异常]</span>角色时触发：",
-      "悠真攻击命中处于失衡状态或属性异常状态下的敌人时，自身造成的伤害提升40%；悠真发射<span style=\"color:#FFFFFF;\">[落羽]</span>命中处于失衡状态或属性异常状态下的敌人时，会为其施加2层<span style=\"color:#FFFFFF;\">[电囚]</span>效果。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：破晓</h3>",
+        "<span style=\"color:#FFFFFF;\">[冲刺攻击：飞弦·斩]</span>的暴击率提升<span style=\"color:#2BAD00;\">(10.6%/13%/15.4%/17.8%/20.2%/22.6%/25%)</span>，悠真的<span style=\"color:#FFFFFF;\">[冲刺攻击：飞弦·斩]</span>命中敌人并触发暴击时，将获得1层<span style=\"color:#FFFFFF;\">[锋芒]</span>，同一招式内最多获得3层，<span style=\"color:#FFFFFF;\">[锋芒]</span>最多叠加6层，持续5秒，重复触发时刷新持续时间；每层<span style=\"color:#FFFFFF;\">[锋芒]</span>会使<span style=\"color:#FFFFFF;\">[冲刺攻击：飞弦·斩]</span>造成的暴击伤害提升<span style=\"color:#2BAD00;\">(6%/7%/8%/9%/10%/11%/12%)</span>。",
+        "<h3>额外能力：超频</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>角色或<span style=\"color:#FFFFFF;\">[异常]</span>角色时触发：",
+        "悠真攻击命中处于失衡状态或属性异常状态下的敌人时，自身造成的伤害提升40%；悠真发射<span style=\"color:#FFFFFF;\">[落羽]</span>命中处于失衡状态或属性异常状态下的敌人时，会为其施加2层<span style=\"color:#FFFFFF;\">[电囚]</span>效果。"
+      ]
+    }
+  ]
 }

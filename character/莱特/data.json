@@ -1428,18 +1428,20 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：助燃剂</h3>",
-      "莱特会随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，每秒回复2.9点，队伍中任意角色每消耗1点能量值，额外为莱特回复0.26点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特最多拥有100点<span style=\"color:#FFFFFF;\">[士气]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>回复至80点时，下一次换入前场将直接发动<span style=\"color:#FFFFFF;\">[快速支援]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>大于等于80点后，莱特发动第五段<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，将进入<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态，提升<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段中轻拳起攻、刺拳连击和终结一击的威力；威力提升后，招式命中敌人时，会持续消耗<span style=\"color:#FFFFFF;\">[士气]</span>，每消耗10点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特的冲击力提升<span style=\"color:#2BAD00;\">(1%/1.17%/1.33%/1.5%/1.67%/1.83%/2%)</span>，最多提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，持续6秒；",
-      "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，莱特不再随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>时，会自动衔接发动更加强力的终结一击；",
-      "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，轻拳起攻或刺拳连击命中敌人时，目标的<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>和<span style=\"color:#FF5521;\">火属性伤害抗性</span>降低15%，持续30秒；",
-      "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，终结一击命中敌人时，会对目标施加<span style=\"color:#FFFFFF;\">[溃败]</span>效果，使其进入失衡状态后的失衡持续时间提升3秒，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[溃败]</span>效果对同一目标最多触发一次；",
-      "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段终结一击命中敌人、换回后场或<span style=\"color:#FFFFFF;\">[士气]</span>耗尽时，莱特将退出<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态，尚未消耗的<span style=\"color:#FFFFFF;\">[士气]</span>会被保留。",
-      "<h3>额外能力：斗志昂扬</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或与自身阵营相同的角色时触发：",
-      "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，莱特第五段<span style=\"color:#FFFFFF;\">[普通攻击]</span>命中敌人时，全队角色获得一层<span style=\"color:#FFFFFF;\">[昂扬]</span>，最多叠加20层，持续30秒，重复触发时刷新持续时间；每拥有一层<span style=\"color:#FFFFFF;\">[昂扬]</span>，代理人造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>和<span style=\"color:#FF5521;\">火属性伤害</span>提升1.25%，获得<span style=\"color:#FFFFFF;\">[昂扬]</span>时，若莱特的冲击力高于170点，每超过10点冲击力会使每层<span style=\"color:#FFFFFF;\">[昂扬]</span>提供的增益效果额外提升0.25%；队伍中任意角色发动<span style=\"color:#FFFFFF;\">[连携技]</span>时，会刷新全队角色<span style=\"color:#FFFFFF;\">[昂扬]</span>的持续时间；<span style=\"color:#FFFFFF;\">[昂扬]</span>最多使代理人造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>和<span style=\"color:#FF5521;\">火属性伤害</span>提升75%。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：助燃剂</h3>",
+        "莱特会随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，每秒回复2.9点，队伍中任意角色每消耗1点能量值，额外为莱特回复0.26点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特最多拥有100点<span style=\"color:#FFFFFF;\">[士气]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>回复至80点时，下一次换入前场将直接发动<span style=\"color:#FFFFFF;\">[快速支援]</span>；<span style=\"color:#FFFFFF;\">[士气]</span>大于等于80点后，莱特发动第五段<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，将进入<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态，提升<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段中轻拳起攻、刺拳连击和终结一击的威力；威力提升后，招式命中敌人时，会持续消耗<span style=\"color:#FFFFFF;\">[士气]</span>，每消耗10点<span style=\"color:#FFFFFF;\">[士气]</span>，莱特的冲击力提升<span style=\"color:#2BAD00;\">(1%/1.17%/1.33%/1.5%/1.67%/1.83%/2%)</span>，最多提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，持续6秒；",
+        "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，莱特不再随时间自动获得<span style=\"color:#FFFFFF;\">[士气]</span>，轻拳起攻或刺拳连击期间耗尽<span style=\"color:#FFFFFF;\">[士气]</span>时，会自动衔接发动更加强力的终结一击；",
+        "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，轻拳起攻或刺拳连击命中敌人时，目标的<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>和<span style=\"color:#FF5521;\">火属性伤害抗性</span>降低15%，持续30秒；",
+        "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，终结一击命中敌人时，会对目标施加<span style=\"color:#FFFFFF;\">[溃败]</span>效果，使其进入失衡状态后的失衡持续时间提升3秒，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[溃败]</span>效果对同一目标最多触发一次；",
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段终结一击命中敌人、换回后场或<span style=\"color:#FFFFFF;\">[士气]</span>耗尽时，莱特将退出<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态，尚未消耗的<span style=\"color:#FFFFFF;\">[士气]</span>会被保留。",
+        "<h3>额外能力：斗志昂扬</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或与自身阵营相同的角色时触发：",
+        "<span style=\"color:#FFFFFF;\">[士气喷发]</span>状态下，莱特第五段<span style=\"color:#FFFFFF;\">[普通攻击]</span>命中敌人时，全队角色获得一层<span style=\"color:#FFFFFF;\">[昂扬]</span>，最多叠加20层，持续30秒，重复触发时刷新持续时间；每拥有一层<span style=\"color:#FFFFFF;\">[昂扬]</span>，代理人造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>和<span style=\"color:#FF5521;\">火属性伤害</span>提升1.25%，获得<span style=\"color:#FFFFFF;\">[昂扬]</span>时，若莱特的冲击力高于170点，每超过10点冲击力会使每层<span style=\"color:#FFFFFF;\">[昂扬]</span>提供的增益效果额外提升0.25%；队伍中任意角色发动<span style=\"color:#FFFFFF;\">[连携技]</span>时，会刷新全队角色<span style=\"color:#FFFFFF;\">[昂扬]</span>的持续时间；<span style=\"color:#FFFFFF;\">[昂扬]</span>最多使代理人造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>和<span style=\"color:#FF5521;\">火属性伤害</span>提升75%。"
+      ]
+    }
+  ]
 }

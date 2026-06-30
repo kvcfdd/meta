@@ -1260,15 +1260,17 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：燃油特调</h3>",
-      "柏妮思消耗能量值时，会为自身累积<span style=\"color:#FFFFFF;\">[燃点]</span>，最多累积100点；每消耗1点能量值，能够累积1.4点<span style=\"color:#FFFFFF;\">[燃点]</span>，当<span style=\"color:#FFFFFF;\">[燃点]</span>累积至50点时，柏妮思将进入<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态，直到<span style=\"color:#FFFFFF;\">[燃点]</span>耗尽；进入战场时，柏妮思立刻累积100点<span style=\"color:#FFFFFF;\">[燃点]</span>；",
-      "<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态下，柏妮思的<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>、<span style=\"color:#FFFFFF;\">[连携技：燃油熔焰]</span>或<span style=\"color:#FFFFFF;\">[终结技：纵享盛焰]</span>命中敌人时，将对目标施加<span style=\"color:#FFFFFF;\">[灼伤]</span>效果，直到柏妮思退出<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态；队伍中其他角色攻击命中处于<span style=\"color:#FFFFFF;\">[灼伤]</span>状态下的敌人时，会触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果，消耗8点<span style=\"color:#FFFFFF;\">[燃点]</span>，对目标造成等同于柏妮思<span style=\"color:#2BAD00;\">(175%/205%/235%/262%/290%/320%/350%)</span>攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>并累积<span style=\"color:#FF5521;\">火属性异常积蓄值</span>，1.5秒内最多触发一次；每拥有10点异常精通，<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害提升1%，最多提升30%；<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害被视为<span style=\"color:#FFFFFF;\">[支援攻击]</span>伤害。",
-      "<h3>额外能力：星火燎原</h3>",
-      "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
-      "柏妮思<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人，或触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果时，招式累积的<span style=\"color:#FF5521;\">火属性异常积蓄值</span>提升65%；队伍中任意角色对敌人施加<span style=\"color:#FF5521;\">[灼烧]</span>效果时，该效果的持续时间提升3秒。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：燃油特调</h3>",
+        "柏妮思消耗能量值时，会为自身累积<span style=\"color:#FFFFFF;\">[燃点]</span>，最多累积100点；每消耗1点能量值，能够累积1.4点<span style=\"color:#FFFFFF;\">[燃点]</span>，当<span style=\"color:#FFFFFF;\">[燃点]</span>累积至50点时，柏妮思将进入<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态，直到<span style=\"color:#FFFFFF;\">[燃点]</span>耗尽；进入战场时，柏妮思立刻累积100点<span style=\"color:#FFFFFF;\">[燃点]</span>；",
+        "<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态下，柏妮思的<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>、<span style=\"color:#FFFFFF;\">[连携技：燃油熔焰]</span>或<span style=\"color:#FFFFFF;\">[终结技：纵享盛焰]</span>命中敌人时，将对目标施加<span style=\"color:#FFFFFF;\">[灼伤]</span>效果，直到柏妮思退出<span style=\"color:#FFFFFF;\">[燃油特调]</span>状态；队伍中其他角色攻击命中处于<span style=\"color:#FFFFFF;\">[灼伤]</span>状态下的敌人时，会触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果，消耗8点<span style=\"color:#FFFFFF;\">[燃点]</span>，对目标造成等同于柏妮思<span style=\"color:#2BAD00;\">(175%/205%/235%/262%/290%/320%/350%)</span>攻击力的<span style=\"color:#FF5521;\">火属性伤害</span>并累积<span style=\"color:#FF5521;\">火属性异常积蓄值</span>，1.5秒内最多触发一次；每拥有10点异常精通，<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害提升1%，最多提升30%；<span style=\"color:#FFFFFF;\">[余烬]</span>效果造成的伤害被视为<span style=\"color:#FFFFFF;\">[支援攻击]</span>伤害。",
+        "<h3>额外能力：星火燎原</h3>",
+        "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
+        "柏妮思<span style=\"color:#FFFFFF;\">[普通攻击：炽焰搅拌式]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：灼热摇荡法·双份]</span>命中敌人，或触发<span style=\"color:#FFFFFF;\">[余烬]</span>效果时，招式累积的<span style=\"color:#FF5521;\">火属性异常积蓄值</span>提升65%；队伍中任意角色对敌人施加<span style=\"color:#FF5521;\">[灼烧]</span>效果时，该效果的持续时间提升3秒。"
+      ]
+    }
+  ]
 }

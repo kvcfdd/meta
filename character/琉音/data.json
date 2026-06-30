@@ -1170,25 +1170,27 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：五星客服热线</h3>",
-      "进入战场时，琉音初始拥有60点<span style=\"color:#FFFFFF;\">[好评]</span>，初始暴击率超过50%时，每超过1%，冲击力提升<span style=\"color:#2BAD00;\">(1.4/1.5/1.6/1.7/1.8/1.9/2)</span>点，最多提升100点；",
-      "发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>后，下一次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>变为<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>，持续8秒；",
-      "发动<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>后，下一次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>变为<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>，持续8秒；",
-      "<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>命中敌人时，敌人获得<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果，<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下敌人进入失衡状态后的失衡持续时间提升2秒，失衡易伤倍率提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果对同一目标最多触发一次，失衡持续时间提升效果与同类效果不可叠加，拥有<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果的敌人失衡结束时<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果结束；",
-      "处于接战状态下，琉音每秒积攒0.6点<span style=\"color:#FFFFFF;\">[好评]</span>，发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>的重击命中敌人时将积攒7.5点<span style=\"color:#FFFFFF;\">[好评]</span>，同一招式内最多积攒一次，最多积攒120点；",
-      "当<span style=\"color:#FFFFFF;\">[好评]</span>满90点且琉音利用<span style=\"color:#FFFFFF;\">[连携技：迎宾踏垫]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：送客！]</span>、<span style=\"color:#FFFFFF;\">[快速支援：呼叫转移]</span>打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口时，下一位出场的角色会将此次<span style=\"color:#FFFFFF;\">[连携技]</span>强制升级为<span style=\"color:#FFFFFF;\">[终结技]</span>，队友以此方式发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，琉音消耗60点<span style=\"color:#FFFFFF;\">[好评]</span>；",
-      "当<span style=\"color:#FFFFFF;\">[好评]</span>满90点且琉音发动<span style=\"color:#FFFFFF;\">[强化特殊技：送客！]</span>命中未打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口的敌人时，将消耗90点<span style=\"color:#FFFFFF;\">[好评]</span>强制打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口，下一位出场的角色会将此次<span style=\"color:#FFFFFF;\">[连携技]</span>强制升级为<span style=\"color:#FFFFFF;\">[终结技]</span>；",
-      "每当<span style=\"color:#FFFFFF;\">[好评]</span>积攒至90点或发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，琉音获得1点<span style=\"color:#FFFFFF;\">[客诉]</span>，最多拥有1点<span style=\"color:#FFFFFF;\">[客诉]</span>。",
-      "<h3>额外能力：场外连线</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
-      "琉音造成的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>伤害的暴击伤害提升50%；",
-      "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时全队角色获得<span style=\"color:#FFFFFF;\">[好评如潮]</span>效果，<span style=\"color:#FFFFFF;\">[好评如潮]</span>状态下的角色造成的伤害提升40%，持续15秒，琉音在<span style=\"color:#FFFFFF;\">[好评如潮]</span>状态下发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，若当前<span style=\"color:#FFFFFF;\">[好评如潮]</span>的剩余持续时间小于35秒，则将该状态的持续时间延长10秒；",
-      "<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>重击命中时会根据队伍中琉音的上一位队友的特性造成额外伤害：",
-      "队友为<span style=\"color:#FFFFFF;\">[强攻]</span>代理人时，<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>额外造成等同于该<span style=\"color:#FFFFFF;\">[强攻]</span>代理人320%攻击力的伤害；",
-      "队友为<span style=\"color:#FFFFFF;\">[命破]</span>代理人时，<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>额外造成等同于该<span style=\"color:#FFFFFF;\">[命破]</span>代理人400%贯穿力的伤害。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：五星客服热线</h3>",
+        "进入战场时，琉音初始拥有60点<span style=\"color:#FFFFFF;\">[好评]</span>，初始暴击率超过50%时，每超过1%，冲击力提升<span style=\"color:#2BAD00;\">(1.4/1.5/1.6/1.7/1.8/1.9/2)</span>点，最多提升100点；",
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>后，下一次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>变为<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>，持续8秒；",
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>后，下一次发动的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>变为<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>，持续8秒；",
+        "<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>命中敌人时，敌人获得<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果，<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果下敌人进入失衡状态后的失衡持续时间提升2秒，失衡易伤倍率提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，从失衡状态恢复前<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果对同一目标最多触发一次，失衡持续时间提升效果与同类效果不可叠加，拥有<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果的敌人失衡结束时<span style=\"color:#FFFFFF;\">[恶意投诉]</span>效果结束；",
+        "处于接战状态下，琉音每秒积攒0.6点<span style=\"color:#FFFFFF;\">[好评]</span>，发动<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>的重击命中敌人时将积攒7.5点<span style=\"color:#FFFFFF;\">[好评]</span>，同一招式内最多积攒一次，最多积攒120点；",
+        "当<span style=\"color:#FFFFFF;\">[好评]</span>满90点且琉音利用<span style=\"color:#FFFFFF;\">[连携技：迎宾踏垫]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：送客！]</span>、<span style=\"color:#FFFFFF;\">[快速支援：呼叫转移]</span>打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口时，下一位出场的角色会将此次<span style=\"color:#FFFFFF;\">[连携技]</span>强制升级为<span style=\"color:#FFFFFF;\">[终结技]</span>，队友以此方式发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，琉音消耗60点<span style=\"color:#FFFFFF;\">[好评]</span>；",
+        "当<span style=\"color:#FFFFFF;\">[好评]</span>满90点且琉音发动<span style=\"color:#FFFFFF;\">[强化特殊技：送客！]</span>命中未打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口的敌人时，将消耗90点<span style=\"color:#FFFFFF;\">[好评]</span>强制打开<span style=\"color:#FFFFFF;\">[连携技]</span>窗口，下一位出场的角色会将此次<span style=\"color:#FFFFFF;\">[连携技]</span>强制升级为<span style=\"color:#FFFFFF;\">[终结技]</span>；",
+        "每当<span style=\"color:#FFFFFF;\">[好评]</span>积攒至90点或发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，琉音获得1点<span style=\"color:#FFFFFF;\">[客诉]</span>，最多拥有1点<span style=\"color:#FFFFFF;\">[客诉]</span>。",
+        "<h3>额外能力：场外连线</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
+        "琉音造成的<span style=\"color:#FFFFFF;\">[强化特殊技]</span>伤害的暴击伤害提升50%；",
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时全队角色获得<span style=\"color:#FFFFFF;\">[好评如潮]</span>效果，<span style=\"color:#FFFFFF;\">[好评如潮]</span>状态下的角色造成的伤害提升40%，持续15秒，琉音在<span style=\"color:#FFFFFF;\">[好评如潮]</span>状态下发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>时，若当前<span style=\"color:#FFFFFF;\">[好评如潮]</span>的剩余持续时间小于35秒，则将该状态的持续时间延长10秒；",
+        "<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>重击命中时会根据队伍中琉音的上一位队友的特性造成额外伤害：",
+        "队友为<span style=\"color:#FFFFFF;\">[强攻]</span>代理人时，<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>额外造成等同于该<span style=\"color:#FFFFFF;\">[强攻]</span>代理人320%攻击力的伤害；",
+        "队友为<span style=\"color:#FFFFFF;\">[命破]</span>代理人时，<span style=\"color:#FFFFFF;\">[强化特殊技：石头]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：剪刀]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：布！]</span>额外造成等同于该<span style=\"color:#FFFFFF;\">[命破]</span>代理人400%贯穿力的伤害。"
+      ]
+    }
+  ]
 }

@@ -1054,14 +1054,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：千秋岁</h3>",
-      "青衣在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中发动终结一击命中敌人时，会对敌人施加5层<span style=\"color:#FFFFFF;\">[羁服]</span>，最多叠加20层，每层<span style=\"color:#FFFFFF;\">[羁服]</span>能够使目标的失衡易伤倍率提升<span style=\"color:#2BAD00;\">(2%/2.4%/2.7%/3%/3.4%/3.7%/4%)</span>；在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中每发动一次突进攻击，终结一击将额外施加1层<span style=\"color:#FFFFFF;\">[羁服]</span>，在发动终结一击时，若触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>，可以直接施加{CAL:5+5,1,2}层<span style=\"color:#FFFFFF;\">[羁服]</span>；对普通或精英敌人施加[羁服]时，施加的层数翻倍；目标从失衡状态恢复时，对应<span style=\"color:#FFFFFF;\">[羁服]</span>层数重置。",
-      "<h3>额外能力：阳关三叠</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或与自身阵营相同的角色时触发：",
-      "<span style=\"color:#FFFFFF;\">[普通攻击]</span>造成的失衡值提升20%；此外，若青衣的冲击力高于120点，每超过1点冲击力会使自身的攻击力提升6点，通过这种方式最多使自身的攻击力提升600点。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：千秋岁</h3>",
+        "青衣在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中发动终结一击命中敌人时，会对敌人施加5层<span style=\"color:#FFFFFF;\">[羁服]</span>，最多叠加20层，每层<span style=\"color:#FFFFFF;\">[羁服]</span>能够使目标的失衡易伤倍率提升<span style=\"color:#2BAD00;\">(2%/2.4%/2.7%/3%/3.4%/3.7%/4%)</span>；在<span style=\"color:#FFFFFF;\">[普通攻击：醉花月云转]</span>中每发动一次突进攻击，终结一击将额外施加1层<span style=\"color:#FFFFFF;\">[羁服]</span>，在发动终结一击时，若触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>，可以直接施加{CAL:5+5,1,2}层<span style=\"color:#FFFFFF;\">[羁服]</span>；对普通或精英敌人施加[羁服]时，施加的层数翻倍；目标从失衡状态恢复时，对应<span style=\"color:#FFFFFF;\">[羁服]</span>层数重置。",
+        "<h3>额外能力：阳关三叠</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>角色或与自身阵营相同的角色时触发：",
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>造成的失衡值提升20%；此外，若青衣的冲击力高于120点，每超过1点冲击力会使自身的攻击力提升6点，通过这种方式最多使自身的攻击力提升600点。"
+      ]
+    }
+  ]
 }

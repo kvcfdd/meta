@@ -837,14 +837,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：猎手本能</h3>",
-      "波可娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>时，将会进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态，使自身造成的失衡值提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，持续6秒；切换至其他角色后，若波可娜仍处于<span style=\"color:#FFFFFF;\">[猎步]</span>状态下，则其持续时间会改为切换回波可娜时；进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态后，自身为当前操作中的角色时，波可娜重击命中敌人，能够触发队伍中上一位角色的<span style=\"color:#FFFFFF;\">[快速支援]</span>。",
-      "<h3>额外能力：业务搭档</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色或自身阵营相同的角色时触发：",
-      "波可娜发动<span style=\"color:#FFFFFF;\">[特殊技：噬爪·噩梦袭影]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：噬爪·瞬步]</span>、<span style=\"color:#FFFFFF;\">[支援突击：单独计价]</span>、<span style=\"color:#FFFFFF;\">[连携技：嗨，想不到吧]</span>、<span style=\"color:#FFFFFF;\">[终结技：噢，游戏时间]</span>命中敌人时，将对敌人施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果，持续15秒；被施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果后，所有单位发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>对目标造成的伤害提升30%。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：猎手本能</h3>",
+        "波可娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>时，将会进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态，使自身造成的失衡值提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，持续6秒；切换至其他角色后，若波可娜仍处于<span style=\"color:#FFFFFF;\">[猎步]</span>状态下，则其持续时间会改为切换回波可娜时；进入<span style=\"color:#FFFFFF;\">[猎步]</span>状态后，自身为当前操作中的角色时，波可娜重击命中敌人，能够触发队伍中上一位角色的<span style=\"color:#FFFFFF;\">[快速支援]</span>。",
+        "<h3>额外能力：业务搭档</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色或自身阵营相同的角色时触发：",
+        "波可娜发动<span style=\"color:#FFFFFF;\">[特殊技：噬爪·噩梦袭影]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：噬爪·瞬步]</span>、<span style=\"color:#FFFFFF;\">[支援突击：单独计价]</span>、<span style=\"color:#FFFFFF;\">[连携技：嗨，想不到吧]</span>、<span style=\"color:#FFFFFF;\">[终结技：噢，游戏时间]</span>命中敌人时，将对敌人施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果，持续15秒；被施加<span style=\"color:#FFFFFF;\">[困迹]</span>效果后，所有单位发动<span style=\"color:#FFFFFF;\">[追加攻击]</span>对目标造成的伤害提升30%。"
+      ]
+    }
+  ]
 }

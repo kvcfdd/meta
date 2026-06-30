@@ -1122,20 +1122,22 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：</h3>",
-      "蕾米的<span style=\"color:#FFFFFF;\">[异化系数]</span>为自身异常精通的<span style=\"color:#2BAD00;\">0.03%</span>；",
-      "队友触发角色的<span style=\"color:#FFA9DD;\">流明属性</span><span style=\"color:#FFFFFF;\">[异化]</span>反应时，角色可以将<span style=\"color:#FFFFFF;\">[异化]</span>后的异常池转存为<span style=\"color:#FFFFFF;\">[异常弹]</span>，最多可储存最新触发的3个异常状态的异常池；",
-      "若<span style=\"color:#FFFFFF;\">[终结技：入场]</span>/<span style=\"color:#FFFFFF;\">[终结技：终结]</span>/<span style=\"color:#FFFFFF;\">[全弹发射]</span>/<span style=\"color:#FFFFFF;\">[真·全弹发射]</span>命中目标，在招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果：",
-      "对敌人造成招式对应倍率已储存的所有<span style=\"color:#FFFFFF;\">[异常弹]</span>的属性异常伤害，并根据自身异常精通的<span style=\"color:#2BAD00;\">(0.18%/0.2%/0.22%/0.24%/0.26%/0.28%/0.3%)</span>提升此伤害倍率；",
-      "在角色进入<span style=\"color:#FFFFFF;\">[飞行姿态]</span>时或发动<span style=\"color:#FFFFFF;\">[全弹发射]</span>或<span style=\"color:#FFFFFF;\">[真·全弹发射]</span>后，会清空身上储存的所有<span style=\"color:#FFFFFF;\">[异常弹]</span>。",
-      "（注：<span style=\"color:#FFFFFF;\">[异化]</span>为<span style=\"color:#FFA9DD;\">流明属性</span>反应，若敌人身上有<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>，当敌人即将进入属性异常状态时，则本次异常状态会被<span style=\"color:#FFFFFF;\">[异化]</span>，该异常状态的异常池会根据<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>提供者的<span style=\"color:#FFFFFF;\">[异化系数]</span>进行放大，此次异常状态所能造成的总伤害会随之提升。）",
-      "<h3>额外能力：</h3>",
-      "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或同阵营角色时触发：",
-      "当队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色数量为1/2/3时，进入战场为全队角色提升蕾米初始攻击力40%的攻击力，提升上限不超过300/600/1600，自身在<span style=\"color:#FFFFFF;\">[飞行姿态]</span>下造成的失衡值提升7.5%/15%/35%；",
-      "且角色为敌人施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时，同时为敌人附加<span style=\"color:#FFFFFF;\">[褪色]</span>效果：<span style=\"color:#FFFFFF;\">[褪色]</span>效果下敌人受到属性异常伤害时，异常积蓄值提升15%，敌人身上无<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时，<span style=\"color:#FFFFFF;\">[褪色]</span>效果消失。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：</h3>",
+        "蕾米的<span style=\"color:#FFFFFF;\">[异化系数]</span>为自身异常精通的<span style=\"color:#2BAD00;\">0.03%</span>；",
+        "队友触发角色的<span style=\"color:#FFA9DD;\">流明属性</span><span style=\"color:#FFFFFF;\">[异化]</span>反应时，角色可以将<span style=\"color:#FFFFFF;\">[异化]</span>后的异常池转存为<span style=\"color:#FFFFFF;\">[异常弹]</span>，最多可储存最新触发的3个异常状态的异常池；",
+        "若<span style=\"color:#FFFFFF;\">[终结技：入场]</span>/<span style=\"color:#FFFFFF;\">[终结技：终结]</span>/<span style=\"color:#FFFFFF;\">[全弹发射]</span>/<span style=\"color:#FFFFFF;\">[真·全弹发射]</span>命中目标，在招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果：",
+        "对敌人造成招式对应倍率已储存的所有<span style=\"color:#FFFFFF;\">[异常弹]</span>的属性异常伤害，并根据自身异常精通的<span style=\"color:#2BAD00;\">(0.18%/0.2%/0.22%/0.24%/0.26%/0.28%/0.3%)</span>提升此伤害倍率；",
+        "在角色进入<span style=\"color:#FFFFFF;\">[飞行姿态]</span>时或发动<span style=\"color:#FFFFFF;\">[全弹发射]</span>或<span style=\"color:#FFFFFF;\">[真·全弹发射]</span>后，会清空身上储存的所有<span style=\"color:#FFFFFF;\">[异常弹]</span>。",
+        "（注：<span style=\"color:#FFFFFF;\">[异化]</span>为<span style=\"color:#FFA9DD;\">流明属性</span>反应，若敌人身上有<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>，当敌人即将进入属性异常状态时，则本次异常状态会被<span style=\"color:#FFFFFF;\">[异化]</span>，该异常状态的异常池会根据<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>提供者的<span style=\"color:#FFFFFF;\">[异化系数]</span>进行放大，此次异常状态所能造成的总伤害会随之提升。）",
+        "<h3>额外能力：</h3>",
+        "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或同阵营角色时触发：",
+        "当队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色数量为1/2/3时，进入战场为全队角色提升蕾米初始攻击力40%的攻击力，提升上限不超过300/600/1600，自身在<span style=\"color:#FFFFFF;\">[飞行姿态]</span>下造成的失衡值提升7.5%/15%/35%；",
+        "且角色为敌人施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时，同时为敌人附加<span style=\"color:#FFFFFF;\">[褪色]</span>效果：<span style=\"color:#FFFFFF;\">[褪色]</span>效果下敌人受到属性异常伤害时，异常积蓄值提升15%，敌人身上无<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时，<span style=\"color:#FFFFFF;\">[褪色]</span>效果消失。"
+      ]
+    }
+  ]
 }

@@ -1006,22 +1006,24 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：可爱即正义</h3>",
-      "处于<span style=\"color:#FFFFFF;\">[天使协律]</span>状态下的角色的攻击力提升，提升数值等同于千夏<span style=\"color:#FFFFFF;\">30%</span>初始攻击力，最高不超过<span style=\"color:#2BAD00;\">(525/615/705/795/885/975/1050)</span>点；当千夏的初始攻击力达到1750点时，为全队角色提供的攻击力增益效果达到最大值；",
-      "[普通攻击：坏猫出没]、[强化特殊技：泡泡糖轰炸]、[强化特殊技：特别拍照技巧]、[连携技：别惹猫咪]、[终结技：通通砸碎！]攻击命中敌人时，为目标添加<span style=\"color:#FFFFFF;\">[猫的凝视]</span>，持续12秒，千夏为当前操作中角色时，会不断刷新<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的持续时间；持有<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的部分普通怪物对千夏的攻击欲望降低；",
-      "队伍中的<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[异常]</span>角色持续攻击命中持有<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的敌人时，会触发并清除<span style=\"color:#FFFFFF;\">[猫的凝视]</span>：",
-      "<span style=\"color:#FFFFFF;\">[强攻]</span>角色触发时，对范围内敌人造成<span style=\"color:#2BAD00;\">(150%/175%/200%/225%/250%/275%/300%)</span>攻击力的代理人属性伤害；",
-      "<span style=\"color:#FFFFFF;\">[异常]</span>角色触发时，对范围内敌人造成<span style=\"color:#2BAD00;\">(240%/280%/320%/360%/400%/440%/480%)</span>攻击力的代理人属性伤害，此次伤害必定暴击，且暴击伤害增加<span style=\"color:#2BAD00;\">(80%/90%/100%/120%/130%/140%/150%)</span>；",
-      "<span style=\"color:#FFFFFF;\">[猫的凝视]</span>造成的伤害，视为由[触发代理人]造成的伤害；",
-      "场上存在多名持有<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的怪物时，只会触发主要攻击目标的<span style=\"color:#FFFFFF;\">[猫的凝视]</span>，触发时会清除全场的<span style=\"color:#FFFFFF;\">[猫的凝视]</span>；",
-      "敌人处于失衡状态下时，<span style=\"color:#FFFFFF;\">[猫的凝视]</span>触发所需的攻击次数大幅减少。",
-      "<h3>额外能力：白日梦对位法</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或与自身阵营相同的角色时触发：",
-      "处于<span style=\"color:#FFFFFF;\">[以太帷幕·妄想重奏]</span>内的角色攻击命中敌人时，目标的失衡易伤倍率提升30%，持续40秒；",
-      "千夏进入战场时，回复15能量，在勘域模式中此效果180秒内最多触发一次。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：可爱即正义</h3>",
+        "处于<span style=\"color:#FFFFFF;\">[天使协律]</span>状态下的角色的攻击力提升，提升数值等同于千夏<span style=\"color:#FFFFFF;\">30%</span>初始攻击力，最高不超过<span style=\"color:#2BAD00;\">(525/615/705/795/885/975/1050)</span>点；当千夏的初始攻击力达到1750点时，为全队角色提供的攻击力增益效果达到最大值；",
+        "[普通攻击：坏猫出没]、[强化特殊技：泡泡糖轰炸]、[强化特殊技：特别拍照技巧]、[连携技：别惹猫咪]、[终结技：通通砸碎！]攻击命中敌人时，为目标添加<span style=\"color:#FFFFFF;\">[猫的凝视]</span>，持续12秒，千夏为当前操作中角色时，会不断刷新<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的持续时间；持有<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的部分普通怪物对千夏的攻击欲望降低；",
+        "队伍中的<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[异常]</span>角色持续攻击命中持有<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的敌人时，会触发并清除<span style=\"color:#FFFFFF;\">[猫的凝视]</span>：",
+        "<span style=\"color:#FFFFFF;\">[强攻]</span>角色触发时，对范围内敌人造成<span style=\"color:#2BAD00;\">(150%/175%/200%/225%/250%/275%/300%)</span>攻击力的代理人属性伤害；",
+        "<span style=\"color:#FFFFFF;\">[异常]</span>角色触发时，对范围内敌人造成<span style=\"color:#2BAD00;\">(240%/280%/320%/360%/400%/440%/480%)</span>攻击力的代理人属性伤害，此次伤害必定暴击，且暴击伤害增加<span style=\"color:#2BAD00;\">(80%/90%/100%/120%/130%/140%/150%)</span>；",
+        "<span style=\"color:#FFFFFF;\">[猫的凝视]</span>造成的伤害，视为由[触发代理人]造成的伤害；",
+        "场上存在多名持有<span style=\"color:#FFFFFF;\">[猫的凝视]</span>的怪物时，只会触发主要攻击目标的<span style=\"color:#FFFFFF;\">[猫的凝视]</span>，触发时会清除全场的<span style=\"color:#FFFFFF;\">[猫的凝视]</span>；",
+        "敌人处于失衡状态下时，<span style=\"color:#FFFFFF;\">[猫的凝视]</span>触发所需的攻击次数大幅减少。",
+        "<h3>额外能力：白日梦对位法</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或与自身阵营相同的角色时触发：",
+        "处于<span style=\"color:#FFFFFF;\">[以太帷幕·妄想重奏]</span>内的角色攻击命中敌人时，目标的失衡易伤倍率提升30%，持续40秒；",
+        "千夏进入战场时，回复15能量，在勘域模式中此效果180秒内最多触发一次。"
+      ]
+    }
+  ]
 }

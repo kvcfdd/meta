@@ -1153,14 +1153,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：月蚀</h3>",
-      "月城柳发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后，队伍中任意角色对敌人施加<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升<span style=\"color:#2BAD00;\">(125%/145%/166%/188%/208%/230%/250%)</span>，持续15秒；<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，月城柳对目标造成的<span style=\"color:#2EB6FF;\">电属性伤害</span>提升<span style=\"color:#2BAD00;\">(10%/11.6%/13.3%/15%/16.6%/18.3%/20%)</span>，持续15秒。",
-      "<h3>额外能力：月相</h3>",
-      "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身属性相同的角色时触发：",
-      "架势切换后，月城柳发动<span style=\"color:#FFFFFF;\">[普通攻击：夜见尊神乐]</span>命中敌人时累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升45%，持续8秒。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：月蚀</h3>",
+        "月城柳发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后，队伍中任意角色对敌人施加<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升<span style=\"color:#2BAD00;\">(125%/145%/166%/188%/208%/230%/250%)</span>，持续15秒；<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，月城柳对目标造成的<span style=\"color:#2EB6FF;\">电属性伤害</span>提升<span style=\"color:#2BAD00;\">(10%/11.6%/13.3%/15%/16.6%/18.3%/20%)</span>，持续15秒。",
+        "<h3>额外能力：月相</h3>",
+        "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身属性相同的角色时触发：",
+        "架势切换后，月城柳发动<span style=\"color:#FFFFFF;\">[普通攻击：夜见尊神乐]</span>命中敌人时累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升45%，持续8秒。"
+      ]
+    }
+  ]
 }

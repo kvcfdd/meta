@@ -958,14 +958,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：守望者</h3>",
-      "赛斯发动<span style=\"color:#FFFFFF;\">[强化特殊技：电光盾冲-高伏特]</span>时，会获得等同于自身<span style=\"color:#2BAD00;\">(40%/50%/60%/68%/72%/76%/80%)</span>初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；队伍中其他角色通过<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>或<span style=\"color:#FFFFFF;\">[支援突击：治安裁决]</span>所触发的<span style=\"color:#FFFFFF;\">[快速支援]</span>或<span style=\"color:#FFFFFF;\">[连携技]</span>入场时，会为该队友提供等同于赛斯<span style=\"color:#2BAD00;\">(40%/50%/60%/68%/72%/76%/80%)</span>初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；拥有<span style=\"color:#FFFFFF;\">[匪石之盾]</span>时，持有者的异常精通提升<span style=\"color:#2BAD00;\">(50/62/75/85/90/95/100)</span>点。",
-      "<h3>额外能力：意气风发</h3>",
-      "队伍中存在与自身属性或阵营相同的角色时触发：",
-      "赛斯发动<span style=\"color:#FFFFFF;\">[连携技：最终制裁]</span>命中敌人或在<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>中发动终结一击命中敌人时，目标的全属性异常积蓄抗性降低20%，持续20秒。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：守望者</h3>",
+        "赛斯发动<span style=\"color:#FFFFFF;\">[强化特殊技：电光盾冲-高伏特]</span>时，会获得等同于自身<span style=\"color:#2BAD00;\">(40%/50%/60%/68%/72%/76%/80%)</span>初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；队伍中其他角色通过<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>或<span style=\"color:#FFFFFF;\">[支援突击：治安裁决]</span>所触发的<span style=\"color:#FFFFFF;\">[快速支援]</span>或<span style=\"color:#FFFFFF;\">[连携技]</span>入场时，会为该队友提供等同于赛斯<span style=\"color:#2BAD00;\">(40%/50%/60%/68%/72%/76%/80%)</span>初始攻击力的护盾<span style=\"color:#FFFFFF;\">[匪石之盾]</span>，最高不超过3000点，持续25秒，10秒内最多触发一次；拥有<span style=\"color:#FFFFFF;\">[匪石之盾]</span>时，持有者的异常精通提升<span style=\"color:#2BAD00;\">(50/62/75/85/90/95/100)</span>点。",
+        "<h3>额外能力：意气风发</h3>",
+        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "赛斯发动<span style=\"color:#FFFFFF;\">[连携技：最终制裁]</span>命中敌人或在<span style=\"color:#FFFFFF;\">[普通攻击：雷霆击-感电]</span>中发动终结一击命中敌人时，目标的全属性异常积蓄抗性降低20%，持续20秒。"
+      ]
+    }
+  ]
 }

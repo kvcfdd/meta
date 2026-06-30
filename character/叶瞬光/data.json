@@ -1830,17 +1830,19 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：照破无明</h3>",
-      "非<span style=\"color:#FFFFFF;\">[明心境]</span>状态且未拥有6点[青溟剑势]时，部分攻击会缓慢积攒<span style=\"color:#FFFFFF;\">[青溟剑势]</span>；任意方式获得<span style=\"color:#FFFFFF;\">[青溟剑势]</span>时，每溢出1点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，将转化为1层<span style=\"color:#FFFFFF;\">[载物]</span>效果，至多叠加3层，在退出<span style=\"color:#FFFFFF;\">[明心境]</span>状态时，会消耗所有<span style=\"color:#FFFFFF;\">[载物]</span>获得对应层数的<span style=\"color:#FFFFFF;\">[青溟剑势]</span>。",
-      "进入战场时，获得<span style=\"color:#FFFFFF;\">[合道]</span>效果，暴击率提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，造成的伤害提升<span style=\"color:#2BAD00;\">(10%/12.5%/15%/17.5%/20%/22.5%/25%)</span>。",
-      "释放<span style=\"color:#FFFFFF;\">[终结技：逐云惊霆]</span>或<span style=\"color:#FFFFFF;\">[登场技：照影]</span>后，叶瞬光将进入<span style=\"color:#FFFFFF;\">[明心境]</span>状态，并开启<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>；<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>与<span style=\"color:#FFFFFF;\">[明心境]</span>持续时间相同，持续16秒，处于后场时，持续时间不再减少；处于<span style=\"color:#FFFFFF;\">[明心境]</span>状态下，叶瞬光将使用更加强力的招式，造成的<span style=\"color:#F0D12B;\">物理伤害</span>均为<span style=\"color:#F0D12B;\">凛刃伤害</span>。",
-      "<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>持续期间，敌人进入<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>时，将基于其此时的失衡易伤倍率为其附加帷幕易伤效果，期间叶瞬光发动的招式对敌人造成伤害时都将不计算敌人的失衡易伤加成，转而计算帷幕易伤加成；帷幕易伤加成上限为110%，<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>结束时移除帷幕易伤效果。",
-      "<h3>额外能力：溯影惊鸿</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[防护]</span>角色时触发：",
-      "队友开启任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，获得3点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，若自身已经处于<span style=\"color:#FFFFFF;\">[明心境]</span>状态，则会转化为3层<span style=\"color:#FFFFFF;\">[载物]</span>效果。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：照破无明</h3>",
+        "非<span style=\"color:#FFFFFF;\">[明心境]</span>状态且未拥有6点[青溟剑势]时，部分攻击会缓慢积攒<span style=\"color:#FFFFFF;\">[青溟剑势]</span>；任意方式获得<span style=\"color:#FFFFFF;\">[青溟剑势]</span>时，每溢出1点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，将转化为1层<span style=\"color:#FFFFFF;\">[载物]</span>效果，至多叠加3层，在退出<span style=\"color:#FFFFFF;\">[明心境]</span>状态时，会消耗所有<span style=\"color:#FFFFFF;\">[载物]</span>获得对应层数的<span style=\"color:#FFFFFF;\">[青溟剑势]</span>。",
+        "进入战场时，获得<span style=\"color:#FFFFFF;\">[合道]</span>效果，暴击率提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>，造成的伤害提升<span style=\"color:#2BAD00;\">(10%/12.5%/15%/17.5%/20%/22.5%/25%)</span>。",
+        "释放<span style=\"color:#FFFFFF;\">[终结技：逐云惊霆]</span>或<span style=\"color:#FFFFFF;\">[登场技：照影]</span>后，叶瞬光将进入<span style=\"color:#FFFFFF;\">[明心境]</span>状态，并开启<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>；<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>与<span style=\"color:#FFFFFF;\">[明心境]</span>持续时间相同，持续16秒，处于后场时，持续时间不再减少；处于<span style=\"color:#FFFFFF;\">[明心境]</span>状态下，叶瞬光将使用更加强力的招式，造成的<span style=\"color:#F0D12B;\">物理伤害</span>均为<span style=\"color:#F0D12B;\">凛刃伤害</span>。",
+        "<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>持续期间，敌人进入<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>时，将基于其此时的失衡易伤倍率为其附加帷幕易伤效果，期间叶瞬光发动的招式对敌人造成伤害时都将不计算敌人的失衡易伤加成，转而计算帷幕易伤加成；帷幕易伤加成上限为110%，<span style=\"color:#FFFFFF;\">[以太帷幕·决裁]</span>结束时移除帷幕易伤效果。",
+        "<h3>额外能力：溯影惊鸿</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[防护]</span>角色时触发：",
+        "队友开启任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>时，获得3点<span style=\"color:#FFFFFF;\">[青溟剑势]</span>，若自身已经处于<span style=\"color:#FFFFFF;\">[明心境]</span>状态，则会转化为3层<span style=\"color:#FFFFFF;\">[载物]</span>效果。"
+      ]
+    }
+  ]
 }

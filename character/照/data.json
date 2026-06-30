@@ -980,20 +980,22 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：最佳同事</h3>",
-      "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<span style=\"color:#2BAD00;\">(0.8%/0.9%/1%/1.1%/1.2%/1.3%/1.4%)</span>暴击率；",
-      "进入战场时，照获得100点<span style=\"color:#FFFFFF;\">[霜寒值]</span>，在勘域模式中此效果180秒内最多触发一次，<span style=\"color:#FFFFFF;\">[霜寒值]</span>的上限为100点；",
-      "当前操作中角色攻击命中敌人时，照积攒6点<span style=\"color:#FFFFFF;\">[霜寒值]</span>，每3秒最多触发一次；",
-      "<span style=\"color:#FFFFFF;\">[霜寒值]</span>满时，如果处于接战状态下，将照换入前场可以发动<span style=\"color:#FFFFFF;\">[登场技]</span>；",
-      "照发动<span style=\"color:#FFFFFF;\">[登场技]</span>时，消耗所有<span style=\"color:#FFFFFF;\">[霜寒值]</span>，开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>；",
-      "<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>前，将关闭已有的<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>；",
-      "照开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>时，使全队角色的攻击力提升<span style=\"color:#2BAD00;\">(100/250/400/550/700/850/1000)</span>点，持续50秒，重复触发时刷新持续时间。",
-      "<h3>额外能力：凝聚力</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[异常]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
-      "照处于任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：最佳同事</h3>",
+        "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<span style=\"color:#2BAD00;\">(0.8%/0.9%/1%/1.1%/1.2%/1.3%/1.4%)</span>暴击率；",
+        "进入战场时，照获得100点<span style=\"color:#FFFFFF;\">[霜寒值]</span>，在勘域模式中此效果180秒内最多触发一次，<span style=\"color:#FFFFFF;\">[霜寒值]</span>的上限为100点；",
+        "当前操作中角色攻击命中敌人时，照积攒6点<span style=\"color:#FFFFFF;\">[霜寒值]</span>，每3秒最多触发一次；",
+        "<span style=\"color:#FFFFFF;\">[霜寒值]</span>满时，如果处于接战状态下，将照换入前场可以发动<span style=\"color:#FFFFFF;\">[登场技]</span>；",
+        "照发动<span style=\"color:#FFFFFF;\">[登场技]</span>时，消耗所有<span style=\"color:#FFFFFF;\">[霜寒值]</span>，开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>；",
+        "<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>前，将关闭已有的<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>；",
+        "照开启<span style=\"color:#FFFFFF;\">[以太帷幕·涌泉]</span>时，使全队角色的攻击力提升<span style=\"color:#2BAD00;\">(100/250/400/550/700/850/1000)</span>点，持续50秒，重复触发时刷新持续时间。",
+        "<h3>额外能力：凝聚力</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[异常]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
+        "照处于任意<span style=\"color:#FFFFFF;\">[以太帷幕]</span>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+      ]
+    }
+  ]
 }

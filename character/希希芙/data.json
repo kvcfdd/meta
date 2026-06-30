@@ -956,19 +956,21 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：致命私酿</h3>",
-      "进入战场时，获得3点<span style=\"color:#FFFFFF;\">[毒素]</span>，在勘域模式中此效果180秒内最多触发一次。",
-      "拥有<span style=\"color:#FFFFFF;\">[毒素]</span>时，接战状态下每5秒消耗1点<span style=\"color:#FFFFFF;\">[毒素]</span>，触发一次<span style=\"color:#FFFFFF;\">[蚀骨]</span>，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
-      "拥有<span style=\"color:#FFFFFF;\">[毒素]</span>时，使全队角色对敌人造成的<span style=\"color:#2EB6FF;\">电属性伤害</span>无视敌人<span style=\"color:#2BAD00;\">(3%/3.5%/4%/4.5%/5%/5.5%/6%)</span>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<span style=\"color:#2BAD00;\">(0.52%/0.6%/0.68%/0.76%/0.84%/0.92%/1%)</span>防御力，至多无视敌人<span style=\"color:#2BAD00;\">(12.88%/14.9%/16.92%/18.94%/20.96%/22.98%/25%)</span>防御力，持续至<span style=\"color:#FFFFFF;\">[毒素]</span>耗尽后30秒。",
-      "<span style=\"color:#FFFFFF;\">[蚀骨]</span>额外附加自身<span style=\"color:#2BAD00;\">(227%/245%/263%/281%/299%/317%/335%)</span>攻击力的<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
-      "队伍中有1/2名<span style=\"color:#2EB6FF;\">电属性</span>角色时，<span style=\"color:#FFFFFF;\">[蚀骨]</span>造成的失衡值提升40%/60%；",
-      "获得<span style=\"color:#FFFFFF;\">[毒素]</span>时，每溢出1点<span style=\"color:#FFFFFF;\">[毒素]</span>，触发一次<span style=\"color:#FFFFFF;\">[蚀骨]</span>。",
-      "<h3>额外能力：毒素发酵</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>或与自身属性相同的角色时触发：",
-      "拥有<span style=\"color:#FFFFFF;\">[毒素]</span>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<span style=\"color:#FFFFFF;\">[毒素]</span>耗尽后30秒。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：致命私酿</h3>",
+        "进入战场时，获得3点<span style=\"color:#FFFFFF;\">[毒素]</span>，在勘域模式中此效果180秒内最多触发一次。",
+        "拥有<span style=\"color:#FFFFFF;\">[毒素]</span>时，接战状态下每5秒消耗1点<span style=\"color:#FFFFFF;\">[毒素]</span>，触发一次<span style=\"color:#FFFFFF;\">[蚀骨]</span>，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
+        "拥有<span style=\"color:#FFFFFF;\">[毒素]</span>时，使全队角色对敌人造成的<span style=\"color:#2EB6FF;\">电属性伤害</span>无视敌人<span style=\"color:#2BAD00;\">(3%/3.5%/4%/4.5%/5%/5.5%/6%)</span>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<span style=\"color:#2BAD00;\">(0.52%/0.6%/0.68%/0.76%/0.84%/0.92%/1%)</span>防御力，至多无视敌人<span style=\"color:#2BAD00;\">(12.88%/14.9%/16.92%/18.94%/20.96%/22.98%/25%)</span>防御力，持续至<span style=\"color:#FFFFFF;\">[毒素]</span>耗尽后30秒。",
+        "<span style=\"color:#FFFFFF;\">[蚀骨]</span>额外附加自身<span style=\"color:#2BAD00;\">(227%/245%/263%/281%/299%/317%/335%)</span>攻击力的<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
+        "队伍中有1/2名<span style=\"color:#2EB6FF;\">电属性</span>角色时，<span style=\"color:#FFFFFF;\">[蚀骨]</span>造成的失衡值提升40%/60%；",
+        "获得<span style=\"color:#FFFFFF;\">[毒素]</span>时，每溢出1点<span style=\"color:#FFFFFF;\">[毒素]</span>，触发一次<span style=\"color:#FFFFFF;\">[蚀骨]</span>。",
+        "<h3>额外能力：毒素发酵</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>或与自身属性相同的角色时触发：",
+        "拥有<span style=\"color:#FFFFFF;\">[毒素]</span>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<span style=\"color:#FFFFFF;\">[毒素]</span>耗尽后30秒。"
+      ]
+    }
+  ]
 }

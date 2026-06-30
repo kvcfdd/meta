@@ -1103,22 +1103,24 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：盗火</h3>",
-      "若普罗米娅的初始异常掌控大于150点，每超过1点初始异常掌控会提升自身1.5点异常精通，提升0.35%全队造成的<span style=\"color:#FFFFFF;\">[异放]</span>伤害；",
-      "普罗米娅的不同攻击命中敌人时回复一定<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，队伍中角色触发<span style=\"color:#98EFF0;\">[冻结]</span>效果、<span style=\"color:#FFFFFF;\">[紊乱]</span>效果、敌人被触发<span style=\"color:#FFFFFF;\">[乱流]</span>效果、自身触发<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·匿影]</span>时，额外回复5/5/5/10点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，最多积累100点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>；",
-      "队友触发<span style=\"color:#FFFFFF;\">[异放]</span>效果命中敌人时，普罗米娅额外回复15点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>；",
-      "若<span style=\"color:#FFFFFF;\">[寒蚀值]</span>大于等于50点，则消耗50点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，转化为1点<span style=\"color:#FFFFFF;\">[霜刑]</span>，最多获得2点<span style=\"color:#FFFFFF;\">[霜刑]</span>；",
-      "进入战场时，普罗米娅获得2点<span style=\"color:#FFFFFF;\">[霜刑]</span>；",
-      "发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>的终结一击命中处于<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的敌人时，触发1次<span style=\"color:#FFFFFF;\">[异放]</span>效果，固定结算<span style=\"color:#2BAD00;\">(330%/385%/435%/485%/535%/585%/635%)</span>倍率的对应属性的属性异常伤害，招式发动时消耗1点<span style=\"color:#FFFFFF;\">[霜刑]</span>;",
-      "普罗米娅触发<span style=\"color:#FFFFFF;\">[异放]</span>效果命中敌人时额外回复100点喧响值，0.5秒内最多触发一次，发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>时获得<span style=\"color:#FFFFFF;\">[寒誓]</span>效果，拥有<span style=\"color:#FFFFFF;\">[寒誓]</span>效果时，发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>、<span style=\"color:#FFFFFF;\">[连携技：倒悬清算]</span>、<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>后点按或长按「特殊技」可消耗<span style=\"color:#FFFFFF;\">[寒誓]</span>效果直接衔接<span style=\"color:#FFFFFF;\">[特殊技：处刑式·重霜]</span>，<span style=\"color:#FFFFFF;\">[寒誓]</span>效果最多获得1层。",
-      "<h3>额外能力：饮冰</h3>",
-      "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
-      "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，普罗米娅的<span style=\"color:#98EFF0;\">冰异常积蓄效率</span>提升30%，持续30秒，重复触发时刷新持续时间；",
-      "队伍中任意角色对敌人施加<span style=\"color:#98EFF0;\">[霜寒]</span>效果时，该效果的持续时间提升3秒；",
-      "普罗米娅发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，敌人获得<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态，全队角色对<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态的敌人造成<span style=\"color:#FFFFFF;\">[异放]</span>效果时无视40%防御力，<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态持续30秒，重复触发时刷新持续时间。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：盗火</h3>",
+        "若普罗米娅的初始异常掌控大于150点，每超过1点初始异常掌控会提升自身1.5点异常精通，提升0.35%全队造成的<span style=\"color:#FFFFFF;\">[异放]</span>伤害；",
+        "普罗米娅的不同攻击命中敌人时回复一定<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，队伍中角色触发<span style=\"color:#98EFF0;\">[冻结]</span>效果、<span style=\"color:#FFFFFF;\">[紊乱]</span>效果、敌人被触发<span style=\"color:#FFFFFF;\">[乱流]</span>效果、自身触发<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·匿影]</span>时，额外回复5/5/5/10点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，最多积累100点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>；",
+        "队友触发<span style=\"color:#FFFFFF;\">[异放]</span>效果命中敌人时，普罗米娅额外回复15点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>；",
+        "若<span style=\"color:#FFFFFF;\">[寒蚀值]</span>大于等于50点，则消耗50点<span style=\"color:#FFFFFF;\">[寒蚀值]</span>，转化为1点<span style=\"color:#FFFFFF;\">[霜刑]</span>，最多获得2点<span style=\"color:#FFFFFF;\">[霜刑]</span>；",
+        "进入战场时，普罗米娅获得2点<span style=\"color:#FFFFFF;\">[霜刑]</span>；",
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>的终结一击命中处于<span style=\"color:#98EFF0;\">冰属性异常状态</span>、<span style=\"color:#FE437E;\">以太异常状态</span>、<span style=\"color:#2EB6FF;\">电属性异常状态</span>、<span style=\"color:#FF5521;\">火属性异常状态</span>、<span style=\"color:#F0D12B;\">物理属性异常状态</span>、<span style=\"color:#A6C5FD;\">风属性异常状态</span>的敌人时，触发1次<span style=\"color:#FFFFFF;\">[异放]</span>效果，固定结算<span style=\"color:#2BAD00;\">(330%/385%/435%/485%/535%/585%/635%)</span>倍率的对应属性的属性异常伤害，招式发动时消耗1点<span style=\"color:#FFFFFF;\">[霜刑]</span>;",
+        "普罗米娅触发<span style=\"color:#FFFFFF;\">[异放]</span>效果命中敌人时额外回复100点喧响值，0.5秒内最多触发一次，发动<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>时获得<span style=\"color:#FFFFFF;\">[寒誓]</span>效果，拥有<span style=\"color:#FFFFFF;\">[寒誓]</span>效果时，发动<span style=\"color:#FFFFFF;\">[强化特殊技：处刑式·绝裁]</span>、<span style=\"color:#FFFFFF;\">[连携技：倒悬清算]</span>、<span style=\"color:#FFFFFF;\">[终结技：彻骨磔罚]</span>后点按或长按「特殊技」可消耗<span style=\"color:#FFFFFF;\">[寒誓]</span>效果直接衔接<span style=\"color:#FFFFFF;\">[特殊技：处刑式·重霜]</span>，<span style=\"color:#FFFFFF;\">[寒誓]</span>效果最多获得1层。",
+        "<h3>额外能力：饮冰</h3>",
+        "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
+        "发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，普罗米娅的<span style=\"color:#98EFF0;\">冰异常积蓄效率</span>提升30%，持续30秒，重复触发时刷新持续时间；",
+        "队伍中任意角色对敌人施加<span style=\"color:#98EFF0;\">[霜寒]</span>效果时，该效果的持续时间提升3秒；",
+        "普罗米娅发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，敌人获得<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态，全队角色对<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态的敌人造成<span style=\"color:#FFFFFF;\">[异放]</span>效果时无视40%防御力，<span style=\"color:#FFFFFF;\">[有罪推定]</span>状态持续30秒，重复触发时刷新持续时间。"
+      ]
+    }
+  ]
 }

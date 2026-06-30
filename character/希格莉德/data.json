@@ -1010,23 +1010,25 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：天空骑士</h3>",
-      "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>与<span style=\"color:#FFFFFF;\">[闪避反击]</span>视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
-      "希格莉德使用任意<span style=\"color:#FFFFFF;\">[出枪式]</span>命中敌人时，若当前未处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，则进入<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并使本次命中的<span style=\"color:#FFFFFF;\">[出枪式]</span>进入<span style=\"color:#FFFFFF;\">[失活]</span>状态，同时获得1次<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动机会，最多储存1次；",
-      "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德发动任意未处于<span style=\"color:#FFFFFF;\">[失活]</span>状态的<span style=\"color:#FFFFFF;\">[出枪式]</span>，可刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得1次<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动机会，最多储存1次；<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态刷新后，<span style=\"color:#FFFFFF;\">[失活]</span>状态会转移至新发动的<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
-      "发动<span style=\"color:#FFFFFF;\">[敛枪式]</span>命中敌人时，可移除<span style=\"color:#FFFFFF;\">[失活]</span>状态，并使下一次<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数提升一段，最多提升至三段；发动第三段<span style=\"color:#FFFFFF;\">[敛枪式]</span>后，立即将<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数重置为一段，并结束<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态；",
-      "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>的持续时间随<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数提升而缩短：一/二/三段时，持续时间分别为<span style=\"color:#FFFFFF;\">8</span>/<span style=\"color:#FFFFFF;\">7</span>/<span style=\"color:#FFFFFF;\">6</span>秒；",
-      "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态结束时，<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数降低一段，最低降至一段；",
-      "激活或刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德的暴击率提升<span style=\"color:#2BAD00;\">(36%/42%/48%/54%/60%/66%/72%)</span>，持续<span style=\"color:#FFFFFF;\">8</span>秒；重复触发时可使持续时间提升<span style=\"color:#FFFFFF;\">8</span>秒，持续时间上限为<span style=\"color:#FFFFFF;\">40</span>秒；",
-      "命中处于失衡中的敌人时，对目标造成的失衡易伤倍率提升20%；",
-      "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>的能量消耗降低。",
-      "<h3>额外能力：天际联军</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
-      "触发时，自身造成的伤害提升45%；",
-      "攻击命中处于风浸染中的敌人时，自身造成的伤害提升<span style=\"color:#FFFFFF;\">15%</span>"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：天空骑士</h3>",
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>与<span style=\"color:#FFFFFF;\">[闪避反击]</span>视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
+        "希格莉德使用任意<span style=\"color:#FFFFFF;\">[出枪式]</span>命中敌人时，若当前未处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，则进入<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并使本次命中的<span style=\"color:#FFFFFF;\">[出枪式]</span>进入<span style=\"color:#FFFFFF;\">[失活]</span>状态，同时获得1次<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动机会，最多储存1次；",
+        "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德发动任意未处于<span style=\"color:#FFFFFF;\">[失活]</span>状态的<span style=\"color:#FFFFFF;\">[出枪式]</span>，可刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得1次<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动机会，最多储存1次；<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态刷新后，<span style=\"color:#FFFFFF;\">[失活]</span>状态会转移至新发动的<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
+        "发动<span style=\"color:#FFFFFF;\">[敛枪式]</span>命中敌人时，可移除<span style=\"color:#FFFFFF;\">[失活]</span>状态，并使下一次<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数提升一段，最多提升至三段；发动第三段<span style=\"color:#FFFFFF;\">[敛枪式]</span>后，立即将<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数重置为一段，并结束<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态；",
+        "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>的持续时间随<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数提升而缩短：一/二/三段时，持续时间分别为<span style=\"color:#FFFFFF;\">8</span>/<span style=\"color:#FFFFFF;\">7</span>/<span style=\"color:#FFFFFF;\">6</span>秒；",
+        "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态结束时，<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数降低一段，最低降至一段；",
+        "激活或刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德的暴击率提升<span style=\"color:#2BAD00;\">(36%/42%/48%/54%/60%/66%/72%)</span>，持续<span style=\"color:#FFFFFF;\">8</span>秒；重复触发时可使持续时间提升<span style=\"color:#FFFFFF;\">8</span>秒，持续时间上限为<span style=\"color:#FFFFFF;\">40</span>秒；",
+        "命中处于失衡中的敌人时，对目标造成的失衡易伤倍率提升20%；",
+        "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>的能量消耗降低。",
+        "<h3>额外能力：天际联军</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
+        "触发时，自身造成的伤害提升45%；",
+        "攻击命中处于风浸染中的敌人时，自身造成的伤害提升<span style=\"color:#FFFFFF;\">15%</span>"
+      ]
+    }
+  ]
 }

@@ -1194,18 +1194,20 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：奇巧缤纷</h3>",
-      "进入战场时，柚叶立刻获得3点<span style=\"color:#FFFFFF;\">[甜度点]</span>；",
-      "柚叶最多持有6点<span style=\"color:#FFFFFF;\">[甜度点]</span>；",
-      "柚叶的<span style=\"color:#FFFFFF;\">[强化特殊技：小心蛀牙]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：小心蛀牙，就是现在！]</span>和<span style=\"color:#FFFFFF;\">[终结技：不投降就捣乱]</span>攻击命中敌人时，为全队角色施加<span style=\"color:#FFFFFF;\">[狸之愿]</span>效果；",
-      "<span style=\"color:#FFFFFF;\">[狸之愿]</span>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<span style=\"color:#2BAD00;\">(600/700/800/900/1000/1100/1200)</span>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；",
-      "当柚叶的初始攻击力达到1500点时，为全队角色提供的攻击力增益效果达到最大值。",
-      "<h3>额外能力：人多乐趣大</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
-      "若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<span style=\"color:#FFFFFF;\">[狸之愿]</span>效果的角色的属性异常积蓄效率提升<span style=\"color:#2BAD00;\">0.2%</span>，最多提升<span style=\"color:#2BAD00;\">20%</span>，还会使其所有属性异常伤害和<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升<span style=\"color:#2BAD00;\">0.2%</span>，最多提升<span style=\"color:#2BAD00;\">20%</span>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：奇巧缤纷</h3>",
+        "进入战场时，柚叶立刻获得3点<span style=\"color:#FFFFFF;\">[甜度点]</span>；",
+        "柚叶最多持有6点<span style=\"color:#FFFFFF;\">[甜度点]</span>；",
+        "柚叶的<span style=\"color:#FFFFFF;\">[强化特殊技：小心蛀牙]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技：小心蛀牙，就是现在！]</span>和<span style=\"color:#FFFFFF;\">[终结技：不投降就捣乱]</span>攻击命中敌人时，为全队角色施加<span style=\"color:#FFFFFF;\">[狸之愿]</span>效果；",
+        "<span style=\"color:#FFFFFF;\">[狸之愿]</span>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<span style=\"color:#2BAD00;\">(600/700/800/900/1000/1100/1200)</span>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；",
+        "当柚叶的初始攻击力达到1500点时，为全队角色提供的攻击力增益效果达到最大值。",
+        "<h3>额外能力：人多乐趣大</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
+        "若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<span style=\"color:#FFFFFF;\">[狸之愿]</span>效果的角色的属性异常积蓄效率提升<span style=\"color:#2BAD00;\">0.2%</span>，最多提升<span style=\"color:#2BAD00;\">20%</span>，还会使其所有属性异常伤害和<span style=\"color:#FFFFFF;\">[紊乱]</span>伤害提升<span style=\"color:#2BAD00;\">0.2%</span>，最多提升<span style=\"color:#2BAD00;\">20%</span>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+      ]
+    }
+  ]
 }

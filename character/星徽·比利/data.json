@@ -1094,19 +1094,21 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：骑士决心</h3>",
-      "星徽·比利会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；发动招式造成的<span style=\"color:#F0D12B;\">物理伤害</span>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；",
-      "星徽·比利进入战场时即可回复60点闪能，在勘域模式中此效果180秒内最多触发一次;",
-      "生命值大于25%时，可以点按「特殊技」消耗生命值发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>，且接战状态下，每次发动该招式时，自身暴击伤害提升<span style=\"color:#2BAD00;\">(45%/53%/60%/68%/75%/83%/90%)</span>，持续45秒，重复触发刷新持续时间；生命值小于或等于25%时，受到的伤害减少50%；",
-      "星徽·比利攻击命中敌人时，会获得<span style=\"color:#FFFFFF;\">[决意]</span>，回复量根据招式变化，<span style=\"color:#FFFFFF;\">[决意]</span>上限为120点，处于接战状态下，会缓慢回复<span style=\"color:#FFFFFF;\">[决意]</span>；<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>命中时、发动<span style=\"color:#FFFFFF;\">[连携技：骑士漫步]</span>时或触发格挡时，额外回复<span style=\"color:#FFFFFF;\">[决意]</span>；任意方式触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，回复3点<span style=\"color:#FFFFFF;\">[决意]</span>，此效果0.5秒内最多触发一次；",
-      "当<span style=\"color:#FFFFFF;\">[决意]</span>大于等于100点时，长按「普通攻击」会消耗100点<span style=\"color:#FFFFFF;\">[决意]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>；",
-      "<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>命中敌人时，回复少量生命值；通过<span style=\"color:#FFFFFF;\">[极限闪避]</span>发动<span style=\"color:#FFFFFF;\">[闪避反击：决斗之王]</span>命中敌人时，回复生命值；发动<span style=\"color:#FFFFFF;\">[强化特殊技：抓地轮毂]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：摇曳步伐]</span>时，回复生命值。",
-      "<h3>额外能力：炽热星辉</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>或<span style=\"color:#FFFFFF;\">[防护]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
-      "<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>、<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>第四段、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>命中敌人时获得一层<span style=\"color:#FFFFFF;\">[星辉]</span>，同一招式至多获得一层，持续45秒，至多叠加2层，每层<span style=\"color:#FFFFFF;\">[星辉]</span>会使<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>造成的伤害提升20%。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：骑士决心</h3>",
+        "星徽·比利会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；发动招式造成的<span style=\"color:#F0D12B;\">物理伤害</span>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；",
+        "星徽·比利进入战场时即可回复60点闪能，在勘域模式中此效果180秒内最多触发一次;",
+        "生命值大于25%时，可以点按「特殊技」消耗生命值发动<span style=\"color:#FFFFFF;\">[特殊技：动力压制]</span>，且接战状态下，每次发动该招式时，自身暴击伤害提升<span style=\"color:#2BAD00;\">(45%/53%/60%/68%/75%/83%/90%)</span>，持续45秒，重复触发刷新持续时间；生命值小于或等于25%时，受到的伤害减少50%；",
+        "星徽·比利攻击命中敌人时，会获得<span style=\"color:#FFFFFF;\">[决意]</span>，回复量根据招式变化，<span style=\"color:#FFFFFF;\">[决意]</span>上限为120点，处于接战状态下，会缓慢回复<span style=\"color:#FFFFFF;\">[决意]</span>；<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>命中时、发动<span style=\"color:#FFFFFF;\">[连携技：骑士漫步]</span>时或触发格挡时，额外回复<span style=\"color:#FFFFFF;\">[决意]</span>；任意方式触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时，回复3点<span style=\"color:#FFFFFF;\">[决意]</span>，此效果0.5秒内最多触发一次；",
+        "当<span style=\"color:#FFFFFF;\">[决意]</span>大于等于100点时，长按「普通攻击」会消耗100点<span style=\"color:#FFFFFF;\">[决意]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>；",
+        "<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>命中敌人时，回复少量生命值；通过<span style=\"color:#FFFFFF;\">[极限闪避]</span>发动<span style=\"color:#FFFFFF;\">[闪避反击：决斗之王]</span>命中敌人时，回复生命值；发动<span style=\"color:#FFFFFF;\">[强化特殊技：抓地轮毂]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：摇曳步伐]</span>时，回复生命值。",
+        "<h3>额外能力：炽热星辉</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>或<span style=\"color:#FFFFFF;\">[防护]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
+        "<span style=\"color:#FFFFFF;\">[强化特殊技：孤轮特技]</span>、<span style=\"color:#FFFFFF;\">[普通攻击：骑士斗技]</span>第四段、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>命中敌人时获得一层<span style=\"color:#FFFFFF;\">[星辉]</span>，同一招式至多获得一层，持续45秒，至多叠加2层，每层<span style=\"color:#FFFFFF;\">[星辉]</span>会使<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：最高马力星光]</span>造成的伤害提升20%。"
+      ]
+    }
+  ]
 }

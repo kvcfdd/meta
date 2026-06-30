@@ -1054,17 +1054,19 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：虎虎生威</h3>",
-      "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<span style=\"color:#FFFFFF;\">[威风]</span>；",
-      "「虎威」命中敌人时，若拥有至少100点<span style=\"color:#FFFFFF;\">[威风]</span>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<span style=\"color:#FFFFFF;\">[连携技：虎釜震煞]</span>；发动时，全队角色获得<span style=\"color:#FFFFFF;\">[虎啸]</span>效果：暴击伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；",
-      "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下，角色的<span style=\"color:#FFFFFF;\">[连携技]</span>/<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升<span style=\"color:#2BAD00;\">(10%/20%/11.7%/23.3%/13.3%/26.7%/15%/30%/16.7%/33.3%/18.3%/36.7%/20%/40%)</span>；",
-      "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态持续30秒，重复触发时刷新持续时间，橘福福处于<span style=\"color:#FFFFFF;\">[虎啸]</span>效果中，冲击力提升<span style=\"color:#2BAD00;\">(25点/29.2点/33.3点/37.5点/41.7点/45.8点/50点)</span>。",
-      "<h3>额外能力：八面威风</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
-      "队伍中所有角色的喧响值上限提升1000点，<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，该角色获得300点喧响值。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：虎虎生威</h3>",
+        "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<span style=\"color:#FFFFFF;\">[威风]</span>；",
+        "「虎威」命中敌人时，若拥有至少100点<span style=\"color:#FFFFFF;\">[威风]</span>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<span style=\"color:#FFFFFF;\">[连携技：虎釜震煞]</span>；发动时，全队角色获得<span style=\"color:#FFFFFF;\">[虎啸]</span>效果：暴击伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；",
+        "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态下，角色的<span style=\"color:#FFFFFF;\">[连携技]</span>/<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升<span style=\"color:#2BAD00;\">(10%/20%/11.7%/23.3%/13.3%/26.7%/15%/30%/16.7%/33.3%/18.3%/36.7%/20%/40%)</span>；",
+        "<span style=\"color:#FFFFFF;\">[虎啸]</span>状态持续30秒，重复触发时刷新持续时间，橘福福处于<span style=\"color:#FFFFFF;\">[虎啸]</span>效果中，冲击力提升<span style=\"color:#2BAD00;\">(25点/29.2点/33.3点/37.5点/41.7点/45.8点/50点)</span>。",
+        "<h3>额外能力：八面威风</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
+        "队伍中所有角色的喧响值上限提升1000点，<span style=\"color:#FFFFFF;\">[强攻]</span>或<span style=\"color:#FFFFFF;\">[命破]</span>角色发动<span style=\"color:#FFFFFF;\">[终结技]</span>时，该角色获得300点喧响值。"
+      ]
+    }
+  ]
 }

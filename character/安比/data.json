@@ -849,14 +849,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：波动电压</h3>",
-      "安比在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第三段后发动<span style=\"color:#FFFFFF;\">[普通攻击：落雷]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">(32%/37.3%/42.6%/48%/53.3%/58.6%/64%)</span>。",
-      "<h3>额外能力：并联电路</h3>",
-      "队伍中存在与自身属性或阵营相同的角色时触发：",
-      "安比<span style=\"color:#FFFFFF;\">[闪避反击]</span>命中敌人时，额外回复7.2点能量，5秒内最多触发一次。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：波动电压</h3>",
+        "安比在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第三段后发动<span style=\"color:#FFFFFF;\">[普通攻击：落雷]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">(32%/37.3%/42.6%/48%/53.3%/58.6%/64%)</span>。",
+        "<h3>额外能力：并联电路</h3>",
+        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "安比<span style=\"color:#FFFFFF;\">[闪避反击]</span>命中敌人时，额外回复7.2点能量，5秒内最多触发一次。"
+      ]
+    }
+  ]
 }

@@ -1219,19 +1219,21 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：熔锋之势</h3>",
-      "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；",
-      "真斗发动招式造成的<span style=\"color:#FF5521;\">火属性伤害</span>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；",
-      "真斗发动<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>或<span style=\"color:#FFFFFF;\">[招架支援]</span>时，会累积<span style=\"color:#FFFFFF;\">[炽心]</span>，最多累积100点；当<span style=\"color:#FFFFFF;\">[炽心]</span>累积至75点时，真斗将进入<span style=\"color:#FFFFFF;\">[熔锋]</span>状态，<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗每秒消耗3.3点<span style=\"color:#FFFFFF;\">[炽心]</span>，<span style=\"color:#FFFFFF;\">[炽心]</span>耗尽时，退出<span style=\"color:#FFFFFF;\">[熔锋]</span>状态；",
-      "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的<span style=\"color:#FFFFFF;\">[普通攻击]</span>获得强化，并可以发动<span style=\"color:#FFFFFF;\">[强化特殊技：归烬·天坠]</span>；",
-      "真斗在<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<span style=\"color:#2BAD00;\">(25%/29.2%/33.3%/37.5%/41.7%/45.8%/50%)</span>，闪能回复效率提升100%；",
-      "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的暴击率提升10%，<span style=\"color:#FF5521;\">火属性伤害</span>提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>。",
-      "<h3>额外能力：复燃之心</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
-      "真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：熔锋之势</h3>",
+        "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；",
+        "真斗发动招式造成的<span style=\"color:#FF5521;\">火属性伤害</span>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；",
+        "真斗发动<span style=\"color:#FFFFFF;\">[特殊技：归烬·舍身]</span>或<span style=\"color:#FFFFFF;\">[招架支援]</span>时，会累积<span style=\"color:#FFFFFF;\">[炽心]</span>，最多累积100点；当<span style=\"color:#FFFFFF;\">[炽心]</span>累积至75点时，真斗将进入<span style=\"color:#FFFFFF;\">[熔锋]</span>状态，<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗每秒消耗3.3点<span style=\"color:#FFFFFF;\">[炽心]</span>，<span style=\"color:#FFFFFF;\">[炽心]</span>耗尽时，退出<span style=\"color:#FFFFFF;\">[熔锋]</span>状态；",
+        "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的<span style=\"color:#FFFFFF;\">[普通攻击]</span>获得强化，并可以发动<span style=\"color:#FFFFFF;\">[强化特殊技：归烬·天坠]</span>；",
+        "真斗在<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<span style=\"color:#2BAD00;\">(25%/29.2%/33.3%/37.5%/41.7%/45.8%/50%)</span>，闪能回复效率提升100%；",
+        "<span style=\"color:#FFFFFF;\">[熔锋]</span>状态下，真斗的暴击率提升10%，<span style=\"color:#FF5521;\">火属性伤害</span>提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>。",
+        "<h3>额外能力：复燃之心</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
+        "真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<span style=\"color:#FFFFFF;\">[普通攻击：炽风·胧切]</span>或<span style=\"color:#FFFFFF;\">[支援突击]</span>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+      ]
+    }
+  ]
 }

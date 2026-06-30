@@ -1360,14 +1360,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：洞察</h3>",
-      "简攻击命中敌人时，会使其陷入<span style=\"color:#FFFFFF;\">[啮咬]</span>状态，持续10秒；队伍中任意角色对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人触发<span style=\"color:#F0D12B;\">[强击]</span>并施加<span style=\"color:#F0D12B;\">[畏缩]</span>效果时，<span style=\"color:#F0D12B;\">[畏缩]</span>效果的持续时间提升5秒；对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人造成的<span style=\"color:#F0D12B;\">[强击]</span>伤害有概率触发暴击，基础暴击率为<span style=\"color:#2BAD00;\">(20%/25%/28%/31%/34%/37%/40%)</span>，暴击伤害为50%，简的每点异常精通会使该效果的暴击率额外提升<span style=\"color:#2BAD00;\">(0.1%/0.11%/0.12%/0.13%/0.14%/0.15%/0.16%)</span>。",
-      "<h3>额外能力：痛点</h3>",
-      "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
-      "简的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升20%，当敌人已经处于属性异常状态下时，简对其累积的<span style=\"color:#F0D12B;\">物理异常积蓄值</span>额外提升15%。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：洞察</h3>",
+        "简攻击命中敌人时，会使其陷入<span style=\"color:#FFFFFF;\">[啮咬]</span>状态，持续10秒；队伍中任意角色对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人触发<span style=\"color:#F0D12B;\">[强击]</span>并施加<span style=\"color:#F0D12B;\">[畏缩]</span>效果时，<span style=\"color:#F0D12B;\">[畏缩]</span>效果的持续时间提升5秒；对处于<span style=\"color:#FFFFFF;\">[啮咬]</span>状态下的敌人造成的<span style=\"color:#F0D12B;\">[强击]</span>伤害有概率触发暴击，基础暴击率为<span style=\"color:#2BAD00;\">(20%/25%/28%/31%/34%/37%/40%)</span>，暴击伤害为50%，简的每点异常精通会使该效果的暴击率额外提升<span style=\"color:#2BAD00;\">(0.1%/0.11%/0.12%/0.13%/0.14%/0.15%/0.16%)</span>。",
+        "<h3>额外能力：痛点</h3>",
+        "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身阵营相同的角色时触发：",
+        "简的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升20%，当敌人已经处于属性异常状态下时，简对其累积的<span style=\"color:#F0D12B;\">物理异常积蓄值</span>额外提升15%。"
+      ]
+    }
+  ]
 }

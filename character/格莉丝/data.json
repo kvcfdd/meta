@@ -904,14 +904,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：预驱动撞针</h3>",
-      "格莉丝<span style=\"color:#FFFFFF;\">[普通攻击]</span>或<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>命中敌人并造成<span style=\"color:#F0D12B;\">物理伤害</span>时，获得一层<span style=\"color:#FFFFFF;\">[电能]</span>（上限8层）；<span style=\"color:#FFFFFF;\">[电能]</span>层数到达上限后，发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，会消耗所有<span style=\"color:#FFFFFF;\">[电能]</span>，使招式累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升<span style=\"color:#2BAD00;\">(65%/75.8%/86.6%/97.5%/108.3%/119.1%/130%)</span>。",
-      "<h3>额外能力：技术支持班组</h3>",
-      "队伍中存在与自身属性或阵营相同的角色时触发：",
-      "格莉丝<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，目标下次被施加<span style=\"color:#2EB6FF;\">[感电]</span>效果时，受到的<span style=\"color:#2EB6FF;\">[感电]</span>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<span style=\"color:#2EB6FF;\">[感电]</span>状态结束时效果重置。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：预驱动撞针</h3>",
+        "格莉丝<span style=\"color:#FFFFFF;\">[普通攻击]</span>或<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>命中敌人并造成<span style=\"color:#F0D12B;\">物理伤害</span>时，获得一层<span style=\"color:#FFFFFF;\">[电能]</span>（上限8层）；<span style=\"color:#FFFFFF;\">[电能]</span>层数到达上限后，发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，会消耗所有<span style=\"color:#FFFFFF;\">[电能]</span>，使招式累积的<span style=\"color:#2EB6FF;\">电属性异常积蓄值</span>提升<span style=\"color:#2BAD00;\">(65%/75.8%/86.6%/97.5%/108.3%/119.1%/130%)</span>。",
+        "<h3>额外能力：技术支持班组</h3>",
+        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "格莉丝<span style=\"color:#FFFFFF;\">[强化特殊技]</span>命中敌人时，目标下次被施加<span style=\"color:#2EB6FF;\">[感电]</span>效果时，受到的<span style=\"color:#2EB6FF;\">[感电]</span>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<span style=\"color:#2EB6FF;\">[感电]</span>状态结束时效果重置。"
+      ]
+    }
+  ]
 }

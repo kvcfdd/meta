@@ -1133,14 +1133,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：电位差</h3>",
-      "零号·安比对拥有<span style=\"color:#FFFFFF;\">[银星]</span>标记的敌人造成的伤害提升<span style=\"color:#2BAD00;\">(12.5%/14.5%/16.5%/18.8%/20.8%/23%/25%)</span>；敌方单位被施加<span style=\"color:#FFFFFF;\">[银星]</span>标记后，受到的<span style=\"color:#FFFFFF;\">[追加攻击]</span>暴击伤害额外提升，提升效果等同于零号·安比暴击伤害的<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>。",
-      "<h3>额外能力：电极化</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
-      "零号·安比的暴击率提升10%；当前操作中的角色为零号·安比时，全队角色<span style=\"color:#FFFFFF;\">[追加攻击]</span>对拥有<span style=\"color:#FFFFFF;\">[银星]</span>标记的敌人造成的伤害提升25%。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：电位差</h3>",
+        "零号·安比对拥有<span style=\"color:#FFFFFF;\">[银星]</span>标记的敌人造成的伤害提升<span style=\"color:#2BAD00;\">(12.5%/14.5%/16.5%/18.8%/20.8%/23%/25%)</span>；敌方单位被施加<span style=\"color:#FFFFFF;\">[银星]</span>标记后，受到的<span style=\"color:#FFFFFF;\">[追加攻击]</span>暴击伤害额外提升，提升效果等同于零号·安比暴击伤害的<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>。",
+        "<h3>额外能力：电极化</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
+        "零号·安比的暴击率提升10%；当前操作中的角色为零号·安比时，全队角色<span style=\"color:#FFFFFF;\">[追加攻击]</span>对拥有<span style=\"color:#FFFFFF;\">[银星]</span>标记的敌人造成的伤害提升25%。"
+      ]
+    }
+  ]
 }

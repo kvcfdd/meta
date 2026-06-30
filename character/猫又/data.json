@@ -975,14 +975,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：猫步诡影</h3>",
-      "猫又<span style=\"color:#FFFFFF;\">[闪避反击]</span>或<span style=\"color:#FFFFFF;\">[快速支援]</span>命中敌人时，自身造成的伤害提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>，持续6秒。",
-      "<h3>额外能力：猫步秀</h3>",
-      "队伍中存在与自身属性或阵营相同的角色时触发：",
-      "队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">[强击]</span>效果后，猫又下一次发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的伤害提升35%，最多叠加2层。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：猫步诡影</h3>",
+        "猫又<span style=\"color:#FFFFFF;\">[闪避反击]</span>或<span style=\"color:#FFFFFF;\">[快速支援]</span>命中敌人时，自身造成的伤害提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>，持续6秒。",
+        "<h3>额外能力：猫步秀</h3>",
+        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">[强击]</span>效果后，猫又下一次发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>时，招式造成的伤害提升35%，最多叠加2层。"
+      ]
+    }
+  ]
 }

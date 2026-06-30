@@ -1052,16 +1052,18 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：寒炎</h3>",
-      "星见雅对敌人造成<span style=\"color:#98EFF0;\">烈霜伤害</span>时，将会为目标附着<span style=\"color:#FFFFFF;\">[冰焰]</span>，持续30秒；对附着<span style=\"color:#FFFFFF;\">[冰焰]</span>的敌人累积<span style=\"color:#98EFF0;\">烈霜异常积蓄值</span>时，会基于星见雅暴击率的100%提升<span style=\"color:#98EFF0;\">烈霜异常积蓄效率</span>，最多提升80%；星见雅累积<span style=\"color:#98EFF0;\">烈霜异常积蓄值</span>时，具有独立的属性异常积蓄槽，随之触发的<span style=\"color:#98EFF0;\">[冻结]</span>、<span style=\"color:#98EFF0;\">[碎冰]</span>和<span style=\"color:#98EFF0;\">[霜寒]</span>效果，可以与包括<span style=\"color:#98EFF0;\">冰属性异常效果</span>在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
-      "星见雅对附着<span style=\"color:#FFFFFF;\">[冰焰]</span>的敌人施加<span style=\"color:#98EFF0;\">[霜寒]</span>效果时，将会消除<span style=\"color:#FFFFFF;\">[冰焰]</span>并触发<span style=\"color:#FFFFFF;\">[霜灼·破]</span>，对目标造成星见雅<span style=\"color:#2BAD00;\">(750%/875%/1000%/1125%/1250%/1375%/1500%)</span>攻击力的<span style=\"color:#98EFF0;\">烈霜伤害</span>，同时使目标进入<span style=\"color:#FFFFFF;\">[霜灼]</span>状态；<span style=\"color:#FFFFFF;\">[霜灼]</span>状态下，所有单位对目标累积的属性异常积蓄值提升<span style=\"color:#2BAD00;\">(14%/15%/16%/17%/18%/19%/20%)</span>，但星见雅无法再次为其附着<span style=\"color:#FFFFFF;\">[冰焰]</span>；<span style=\"color:#FFFFFF;\">[霜灼]</span>状态将会随本次<span style=\"color:#98EFF0;\">[霜寒]</span>效果一起结束，状态持续期间，对敌人重新施加属性异常效果可以覆盖<span style=\"color:#98EFF0;\">[霜寒]</span>并消除<span style=\"color:#FFFFFF;\">[霜灼]</span>；",
-      "触发<span style=\"color:#FFFFFF;\">[霜灼·破]</span>时，星见雅获得1点<span style=\"color:#FFFFFF;\">[落霜]</span>，10秒内最多触发一次。",
-      "<h3>额外能力：同沐霜雪</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>角色或与自身阵营相同的角色或其他<span style=\"color:#FFFFFF;\">[异常]</span>角色时触发：",
-      "<span style=\"color:#FFFFFF;\">[普通攻击：霜月]</span>造成的伤害提升60%；队伍中任意角色触发<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，星见雅获得2点<span style=\"color:#FFFFFF;\">[落霜]</span>，且在下一次<span style=\"color:#FFFFFF;\">[霜月架势]</span>期间，<span style=\"color:#FFFFFF;\">[普通攻击：霜月]</span>将无视目标30%<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：寒炎</h3>",
+        "星见雅对敌人造成<span style=\"color:#98EFF0;\">烈霜伤害</span>时，将会为目标附着<span style=\"color:#FFFFFF;\">[冰焰]</span>，持续30秒；对附着<span style=\"color:#FFFFFF;\">[冰焰]</span>的敌人累积<span style=\"color:#98EFF0;\">烈霜异常积蓄值</span>时，会基于星见雅暴击率的100%提升<span style=\"color:#98EFF0;\">烈霜异常积蓄效率</span>，最多提升80%；星见雅累积<span style=\"color:#98EFF0;\">烈霜异常积蓄值</span>时，具有独立的属性异常积蓄槽，随之触发的<span style=\"color:#98EFF0;\">[冻结]</span>、<span style=\"color:#98EFF0;\">[碎冰]</span>和<span style=\"color:#98EFF0;\">[霜寒]</span>效果，可以与包括<span style=\"color:#98EFF0;\">冰属性异常效果</span>在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
+        "星见雅对附着<span style=\"color:#FFFFFF;\">[冰焰]</span>的敌人施加<span style=\"color:#98EFF0;\">[霜寒]</span>效果时，将会消除<span style=\"color:#FFFFFF;\">[冰焰]</span>并触发<span style=\"color:#FFFFFF;\">[霜灼·破]</span>，对目标造成星见雅<span style=\"color:#2BAD00;\">(750%/875%/1000%/1125%/1250%/1375%/1500%)</span>攻击力的<span style=\"color:#98EFF0;\">烈霜伤害</span>，同时使目标进入<span style=\"color:#FFFFFF;\">[霜灼]</span>状态；<span style=\"color:#FFFFFF;\">[霜灼]</span>状态下，所有单位对目标累积的属性异常积蓄值提升<span style=\"color:#2BAD00;\">(14%/15%/16%/17%/18%/19%/20%)</span>，但星见雅无法再次为其附着<span style=\"color:#FFFFFF;\">[冰焰]</span>；<span style=\"color:#FFFFFF;\">[霜灼]</span>状态将会随本次<span style=\"color:#98EFF0;\">[霜寒]</span>效果一起结束，状态持续期间，对敌人重新施加属性异常效果可以覆盖<span style=\"color:#98EFF0;\">[霜寒]</span>并消除<span style=\"color:#FFFFFF;\">[霜灼]</span>；",
+        "触发<span style=\"color:#FFFFFF;\">[霜灼·破]</span>时，星见雅获得1点<span style=\"color:#FFFFFF;\">[落霜]</span>，10秒内最多触发一次。",
+        "<h3>额外能力：同沐霜雪</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>角色或与自身阵营相同的角色或其他<span style=\"color:#FFFFFF;\">[异常]</span>角色时触发：",
+        "<span style=\"color:#FFFFFF;\">[普通攻击：霜月]</span>造成的伤害提升60%；队伍中任意角色触发<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，星见雅获得2点<span style=\"color:#FFFFFF;\">[落霜]</span>，且在下一次<span style=\"color:#FFFFFF;\">[霜月架势]</span>期间，<span style=\"color:#FFFFFF;\">[普通攻击：霜月]</span>将无视目标30%<span style=\"color:#98EFF0;\">冰属性伤害抗性</span>。"
+      ]
+    }
+  ]
 }

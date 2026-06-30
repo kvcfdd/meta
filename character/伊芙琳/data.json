@@ -1159,14 +1159,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：缠丝</h3>",
-      "进入<span style=\"color:#FFFFFF;\">[牵缠禁制]</span>时，伊芙琳的暴击率提升<span style=\"color:#2BAD00;\">(12.5%/14.6%/16.7%/18.8%/20.8%/23%/25%)</span>，退出<span style=\"color:#FFFFFF;\">[牵缠禁制]</span>后，伊芙琳仍可继续保有增益，持续10秒；在<span style=\"color:#FFFFFF;\">[牵缠禁制]</span>期间切换至其他角色时，伊芙琳将自动衔接<span style=\"color:#FFFFFF;\">[特殊技：束裂式·I型]</span>。",
-      "<h3>额外能力：潜袭支点</h3>",
-      "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>角色或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
-      "伊芙琳的<span style=\"color:#FFFFFF;\">[连携技]</span>和<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升30%；当伊芙琳的暴击率大于等于80%时，<span style=\"color:#FFFFFF;\">[连携技：月辉丝·绊]</span>、<span style=\"color:#FFFFFF;\">[终结技：月辉丝·弦音]</span>和<span style=\"color:#FFFFFF;\">[终结技：月辉丝·弦影]</span>的伤害倍率提升至原本的125%。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：缠丝</h3>",
+        "进入<span style=\"color:#FFFFFF;\">[牵缠禁制]</span>时，伊芙琳的暴击率提升<span style=\"color:#2BAD00;\">(12.5%/14.6%/16.7%/18.8%/20.8%/23%/25%)</span>，退出<span style=\"color:#FFFFFF;\">[牵缠禁制]</span>后，伊芙琳仍可继续保有增益，持续10秒；在<span style=\"color:#FFFFFF;\">[牵缠禁制]</span>期间切换至其他角色时，伊芙琳将自动衔接<span style=\"color:#FFFFFF;\">[特殊技：束裂式·I型]</span>。",
+        "<h3>额外能力：潜袭支点</h3>",
+        "队伍中存在<span style=\"color:#FFFFFF;\">[击破]</span>角色或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
+        "伊芙琳的<span style=\"color:#FFFFFF;\">[连携技]</span>和<span style=\"color:#FFFFFF;\">[终结技]</span>造成的伤害提升30%；当伊芙琳的暴击率大于等于80%时，<span style=\"color:#FFFFFF;\">[连携技：月辉丝·绊]</span>、<span style=\"color:#FFFFFF;\">[终结技：月辉丝·弦音]</span>和<span style=\"color:#FFFFFF;\">[终结技：月辉丝·弦影]</span>的伤害倍率提升至原本的125%。"
+      ]
+    }
+  ]
 }

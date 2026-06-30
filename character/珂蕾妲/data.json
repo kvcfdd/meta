@@ -1176,14 +1176,16 @@
       ]
     }
   },
-  "passive": {
-    "name": "核心被动 / 额外能力",
-    "desc": [
-      "<h3>核心被动：爆破锤</h3>",
-      "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>，或消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>。",
-      "<h3>额外能力：白祇管理学</h3>",
-      "队伍中存在与自身属性或阵营相同的角色或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
-      "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>引发爆炸命中敌人时，对目标施加减益效果；当目标陷入失衡状态后，<span style=\"color:#FFFFFF;\">[连携技]</span>对其造成的伤害提升35%，最多叠加2层，失衡状态结束时该效果重置。"
-    ]
-  }
+  "passive": [
+    {
+      "name": "核心被动 / 额外能力",
+      "desc": [
+        "<h3>核心被动：爆破锤</h3>",
+        "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>，或消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>。",
+        "<h3>额外能力：白祇管理学</h3>",
+        "队伍中存在与自身属性或阵营相同的角色或<span style=\"color:#FFFFFF;\">[命破]</span>角色时触发：",
+        "珂蕾妲发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>引发爆炸命中敌人时，对目标施加减益效果；当目标陷入失衡状态后，<span style=\"color:#FFFFFF;\">[连携技]</span>对其造成的伤害提升35%，最多叠加2层，失衡状态结束时该效果重置。"
+      ]
+    }
+  ]
 }
