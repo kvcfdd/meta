@@ -637,7 +637,7 @@
         "以<span style=\"color:#FFFFFF;\">[精准格挡]</span>或<span style=\"color:#FFFFFF;\">[防御反击]</span>的方式发动时，无法再次触发<span style=\"color:#FFFFFF;\">[精准格挡]</span>；",
         "招式发动期间拥有无敌效果。",
         "<h3>攻防转换</h3>",
-        "凯撒触发<span style=\"color:#FFFFFF;\">[精准格挡]</span>、<span style=\"color:#FFFFFF;\">[防御反击]</span>或<span style=\"color:#FFFFFF;\">[招架支援]</span>时，自身冲击力提升<span style=\"color:#2BAD00;\">{CAL:8+AvatarSkillLevel(1)*1,1,2}</span>%，持续3秒。"
+        "凯撒触发<span style=\"color:#FFFFFF;\">[精准格挡]</span>、<span style=\"color:#FFFFFF;\">[防御反击]</span>或<span style=\"color:#FFFFFF;\">[招架支援]</span>时，自身冲击力提升<span style=\"color:#2BAD00;\">20(8+Lv*1)</span>%，持续3秒。"
       ],
       "tables": [
         {
@@ -976,7 +976,7 @@
         "<h3>终结技：暴君猛击</h3>",
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
         "丢出手中的盾牌对前方敌人发动强力旋转攻击，随后发动下落打击，造成大量<span style=\"color:#F0D12B;\">物理伤害</span>；",
-        "命中持有护盾的敌人时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">{CAL:40+AvatarSkillLevel(3)*5,1,2}%</span>；",
+        "命中持有护盾的敌人时，招式造成的失衡值提升<span style=\"color:#2BAD00;\">100(40+Lv*5)%</span>；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [

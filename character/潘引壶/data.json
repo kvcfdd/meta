@@ -683,7 +683,7 @@
         "招式发动期间拥有无敌效果。",
         "<h3>终结技：满汉全席！</h3>",
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
-        "施展术法将气劲凝作炒饭掀出，对敌人造成大量<span style=\"color:#F0D12B;\">物理伤害</span>，为全队角色回复<span style=\"color:#2BAD00;\">{CAL:100+AvatarSkillLevel(3)*60,1,2}</span>点生命值，并为全队角色施加8秒持续回复生命值的效果，每秒回复<span style=\"color:#2BAD00;\">{CAL:0.8+AvatarSkillLevel(3)*0.05,1,2}</span>%生命值；",
+        "施展术法将气劲凝作炒饭掀出，对敌人造成大量<span style=\"color:#F0D12B;\">物理伤害</span>，为全队角色回复<span style=\"color:#2BAD00;\">820(100+Lv*60)</span>点生命值，并为全队角色施加8秒持续回复生命值的效果，每秒回复<span style=\"color:#2BAD00;\">1.4(0.8+Lv*0.05)</span>%生命值；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [

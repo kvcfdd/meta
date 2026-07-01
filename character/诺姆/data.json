@@ -482,7 +482,7 @@
         "主要攻击目标未处于失衡状态时，发射破甲弹头，造成<span style=\"color:#FF5521;\">火属性伤害</span>并累积较多<span style=\"color:#FFFFFF;\">失衡值</span>；",
         "主要攻击目标处于失衡状态时，发射高爆弹头，造成更高<span style=\"color:#FF5521;\">火属性伤害</span>；",
         "招式发动后，诺姆获得16%<span style=\"color:#FFFFFF;\"><Term:1000011></span>，并进入<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态，持续32秒，<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态期间，诺姆会放置两座<span style=\"color:#FFFFFF;\">[嗯呢炮塔]</span>加入战斗；",
-        "保持长按可以持续消耗能量并延长最多2秒射击时间，每通过长按消耗1点能量，诺姆额外获得0.4%<span style=\"color:#FFFFFF;\">[预热膛温]</span>，并使本轮<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态的持续时间额外增加0.8秒，最多增加{CAL:2*20*0.8,1,2}秒；",
+        "保持长按可以持续消耗能量并延长最多2秒射击时间，每通过长按消耗1点能量，诺姆额外获得0.4%<span style=\"color:#FFFFFF;\">[预热膛温]</span>，并使本轮<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态的持续时间额外增加0.8秒，最多增加32秒；",
         "招式发动期间拥有无敌效果。",
         "<h3>特殊技：打靶练习</h3>",
         "战斗中，<span style=\"color:#FFFFFF;\"><Term:1000010></span>会自动对敌人发动攻击， 造成<span style=\"color:#FF5521;\">火属性伤害</span>。",

@@ -709,7 +709,7 @@
         "能量足够时，长按「特殊技」发动：",
         "积蓄力量向前快速突刺，随后发动下落攻击，造成大量<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
         "突刺发动时，月城柳会切换当前架势，并进入<span style=\"color:#FFFFFF;\">[森罗万象]</span>状态，持续15秒，状态持续期间，从<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段或其他招式衔接后继<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，将直接从第三段<span style=\"color:#FFFFFF;\">[普通攻击]</span> 起手；",
-        "下落攻击命中处于属性异常状态下的敌人时，将会触发特殊的<span style=\"color:#FFFFFF;\">[紊乱]</span>效果<span style=\"color:#FFFFFF;\">[极性紊乱]</span>，对目标造成原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果15%的伤害，并额外附加月城柳<span style=\"color:#2BAD00;\">{CAL:5+AvatarSkillLevel(1)*2.25,100,2}%</span>异常精通的伤害，<span style=\"color:#FFFFFF;\">[极性紊乱]</span>不会清除目标所处的属性异常状态；",
+        "下落攻击命中处于属性异常状态下的敌人时，将会触发特殊的<span style=\"color:#FFFFFF;\">[紊乱]</span>效果<span style=\"color:#FFFFFF;\">[极性紊乱]</span>，对目标造成原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果15%的伤害，并额外附加月城柳<span style=\"color:#2BAD00;\">3200(500+Lv*225)%</span>异常精通的伤害，<span style=\"color:#FFFFFF;\">[极性紊乱]</span>不会清除目标所处的属性异常状态；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [
@@ -881,7 +881,7 @@
         "<h3>终结技：雷影天华</h3>",
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
         "激发自身能力，在极短时间内对前方大范围敌人发动强力斩击，并追加落雷攻击，造成大量<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
-        "落雷攻击命中处于属性异常状态下的敌人时，将会触发特殊的<span style=\"color:#FFFFFF;\">[紊乱]</span>效果<span style=\"color:#FFFFFF;\">[极性紊乱]</span>，对目标造成原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果15%的伤害，并额外附加月城柳<span style=\"color:#2BAD00;\">{CAL:5+AvatarSkillLevel(3)*2.25,100,2}%</span>异常精通的伤害，<span style=\"color:#FFFFFF;\">[极性紊乱]</span>不会清除目标所处的属性异常状态；",
+        "落雷攻击命中处于属性异常状态下的敌人时，将会触发特殊的<span style=\"color:#FFFFFF;\">[紊乱]</span>效果<span style=\"color:#FFFFFF;\">[极性紊乱]</span>，对目标造成原本<span style=\"color:#FFFFFF;\">[紊乱]</span>效果15%的伤害，并额外附加月城柳<span style=\"color:#2BAD00;\">3200(500+Lv*225)%</span>异常精通的伤害，<span style=\"color:#FFFFFF;\">[极性紊乱]</span>不会清除目标所处的属性异常状态；",
         "招式发动期间拥有无敌效果；",
         "招式发动后，可以直接衔接当前架势下第三段<span style=\"color:#FFFFFF;\">[普通攻击]</span>。"
       ],

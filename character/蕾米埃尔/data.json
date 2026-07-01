@@ -52,13 +52,13 @@
         "当角色身上储存有<span style=\"color:#FFFFFF;\">[异常弹]</span>时，长按「普通攻击」发动：",
         "向前方发动大范围强力攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "若命中目标，招式结束后可为角色回复大量<span style=\"color:#FFFFFF;\">[飞行能量]</span>；",
-        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">{CAL:4+AvatarSkillLevel(0)*12,1,2}%</span>；",
+        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">148(4+Lv*12)%</span>；",
         "发动后会清空身上储存的所有<span style=\"color:#FFFFFF;\">[异常弹]</span>。",
         "<h3>真·全弹发射</h3>",
         "当角色身上储存有<span style=\"color:#FFFFFF;\">[异常弹]</span>，且自身处于<span style=\"color:#FFFFFF;\">[升档]</span>状态时，长按「普通攻击」发动：",
         "向前方发动大范围强力攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "若命中目标，招式结束后可为角色回复大量<span style=\"color:#FFFFFF;\">[飞行能量]</span>；",
-        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">{CAL:6+AvatarSkillLevel(0)*22,1,2}%</span>；",
+        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">270(6+Lv*22)%</span>；",
         "发动后会清空身上储存的所有<span style=\"color:#FFFFFF;\">[异常弹]</span>。"
       ],
       "tables": [
@@ -641,7 +641,7 @@
         "在<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后进入<span style=\"color:#FFFFFF;\">[转换姿态]</span>，在<span style=\"color:#FFFFFF;\">[转换姿态]</span>下切换角色时，若角色<span style=\"color:#FFFFFF;\">[飞行能量]</span>达到最大值120点，则可进入<span style=\"color:#FFFFFF;\">[飞行姿态]</span>：",
         "<span style=\"color:#FFFFFF;\">[飞行姿态]</span>下角色会自主行动，协助作战，其中部分攻击还可为目标施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>，<span style=\"color:#FFFFFF;\">[飞行姿态]</span>下随时间消耗<span style=\"color:#FFFFFF;\">[飞行能量]</span>，当<span style=\"color:#FFFFFF;\">[飞行能量]</span>完全消耗时退出<span style=\"color:#FFFFFF;\">[飞行姿态]</span>，未退出<span style=\"color:#FFFFFF;\">[飞行姿态]</span>前，无法通过<span style=\"color:#FFFFFF;\">[连携技]</span>之外的方式换入；",
         "若角色在<span style=\"color:#FFFFFF;\">[飞行姿态]</span>下触发3次<span style=\"color:#FFA9DD;\">流明属性</span><span style=\"color:#FFFFFF;\">[异化]</span>反应，则角色激活<span style=\"color:#FFFFFF;\">[入场终结技]</span>，激活后解锁普通换入，并且角色下次普通换入时会自动发动<span style=\"color:#FFFFFF;\">[终结技：入场]</span>；",
-        "进入<span style=\"color:#FFFFFF;\">[飞行姿态]</span>时，角色会为全队角色施加造成的伤害提升{CAL:0+AvatarSkillLevel(1)*1.5,1,2}%效果，持续60秒，重复触发时刷新持续时间；",
+        "进入<span style=\"color:#FFFFFF;\">[飞行姿态]</span>时，角色会为全队角色施加造成的伤害提升18(0+Lv*1.5)%效果，持续60秒，重复触发时刷新持续时间；",
         "若角色<span style=\"color:#FFFFFF;\">[飞行能量]</span>达到最大值120点，且发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>攻击命中处于失衡状态的敌人时，在<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中切换角色也可进入<span style=\"color:#FFFFFF;\">[飞行姿态]</span>；",
         "若进入<span style=\"color:#FFFFFF;\">[转换姿态]</span>后未换人，则角色发动下落攻击回到地面。"
       ],
@@ -808,12 +808,12 @@
         "入场并发动大范围轰炸，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "发动时消耗40点<span style=\"color:#FFFFFF;\">[飞行能量]</span>，若发动时自身剩余<span style=\"color:#FFFFFF;\">[飞行能量]</span>小于90点，则本次入场技不再消耗<span style=\"color:#FFFFFF;\">[飞行能量]</span>，并且自身进入<span style=\"color:#FFFFFF;\">[升档]</span>状态，下次发动<span style=\"color:#FFFFFF;\">[全弹发射]</span>时会升级为<span style=\"color:#FFFFFF;\">[真·全弹发射]</span>；",
         "招式命中处于失衡状态的敌人时，敌人的失衡持续时间提升3秒，同一敌人在一次失衡状态下最多受到一次此效果；",
-        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">{CAL:6+AvatarSkillLevel(3)*22,1,2}%</span>；",
+        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">270(6+Lv*22)%</span>；",
         "招式发动期间拥有无敌效果。",
         "<h3>终结技：终结</h3>",
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
         "向前方进行多段攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
-        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">{CAL:6.6+AvatarSkillLevel(3)*24.2,1,2}%</span>；",
+        "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">297(6.6+Lv*24.2)%</span>；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [

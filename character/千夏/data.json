@@ -713,7 +713,7 @@
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
         "用锤子连续攻击后，打出泡泡并引发爆炸，对范围内敌人造成大量<span style=\"color:#F0D12B;\">物理伤害</span>；",
         "重击发动时，获得6个<span style=\"color:#FFFFFF;\">[磨爪器]</span>；",
-        "从高空下砸命中敌人时，将触发<span style=\"color:#FFFFFF;\">[快速支援]</span>并为全队角色回复<span style=\"color:#2BAD00;\">{CAL:-50+AvatarSkillLevel(3)*250,1,2}</span>点生命值；",
+        "从高空下砸命中敌人时，将触发<span style=\"color:#FFFFFF;\">[快速支援]</span>并为全队角色回复<span style=\"color:#2BAD00;\">2950(-50+Lv*250)</span>点生命值；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [

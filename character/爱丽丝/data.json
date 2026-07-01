@@ -46,7 +46,7 @@
         "<h3>普通攻击：星芒圆舞曲</h3>",
         "爱丽丝的<span style=\"color:#FFFFFF;\">[剑仪]</span>达到1格时，长按「普通攻击」发动：",
         "长按进入蓄力，消耗至多3格<span style=\"color:#FFFFFF;\">[剑仪]</span>，松开「普通攻击」或<span style=\"color:#FFFFFF;\">[剑仪]</span>不满1格时，爱丽丝将根据当前蓄力段数以目标敌人为中心发动多段斩击，造成大量<span style=\"color:#F0D12B;\">物理伤害</span>；",
-        "三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>的终结一击命中敌人时，触发特殊的<span style=\"color:#F0D12B;\">[强击]</span>效果<span style=\"color:#F0D12B;\">[极性强击]</span>，无视属性积蓄进度造成一次原本<span style=\"color:#F0D12B;\">[强击]</span>效果{CAL:0+100,1,2}%的伤害，并可以与包括物理异常效果在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
+        "三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>的终结一击命中敌人时，触发特殊的<span style=\"color:#F0D12B;\">[强击]</span>效果<span style=\"color:#F0D12B;\">[极性强击]</span>，无视属性积蓄进度造成一次原本<span style=\"color:#F0D12B;\">[强击]</span>效果100%的伤害，并可以与包括物理异常效果在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
         "命中敌人时，不累积<span style=\"color:#FFFFFF;\">[剑仪]</span>；",
         "招式发动期间拥有无敌效果。"
       ],
@@ -1120,9 +1120,9 @@
       "name": "核心被动 / 额外能力",
       "desc": [
         "<h3>核心被动：剑心双虹</h3>",
-        "队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">物理异常状态</span>后，在异常状态的持续期间，爱丽丝每0.95秒对其额外造成基于该物理异常伤害比例2.5%的伤害，并使<span style=\"color:#F0D12B;\">物理异常状态</span>下的敌人被触发<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，每有1秒<span style=\"color:#F0D12B;\">物理异常状态</span>剩余时间，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升18%，最多提升{CAL:18*10,1,2}%；",
+        "队伍中任意角色对敌人施加<span style=\"color:#F0D12B;\">物理异常状态</span>后，在异常状态的持续期间，爱丽丝每0.95秒对其额外造成基于该物理异常伤害比例2.5%的伤害，并使<span style=\"color:#F0D12B;\">物理异常状态</span>下的敌人被触发<span style=\"color:#FFFFFF;\">[紊乱]</span>效果时，每有1秒<span style=\"color:#F0D12B;\">物理异常状态</span>剩余时间，<span style=\"color:#FFFFFF;\">[紊乱]</span>效果的伤害倍率提升18%，最多提升180%；",
         "爱丽丝攻击命中敌人时，累积<span style=\"color:#FFFFFF;\">[剑仪]</span>，爱丽丝通过属性异常积蓄触发<span style=\"color:#F0D12B;\">[强击]</span>时，回复10点<span style=\"color:#FFFFFF;\">[剑仪]</span>，<span style=\"color:#FFFFFF;\">[剑仪]</span>的上限为300点，每100点为1格；",
-        "三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>的终结一击命中敌人时，触发特殊的<span style=\"color:#F0D12B;\">[强击]</span>效果<span style=\"color:#F0D12B;\">[极性强击]</span>，无视属性积蓄进度造成一次原本<span style=\"color:#F0D12B;\">[强击]</span>效果{CAL:0+100,1,2}%的伤害，并可以与包括物理异常效果在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
+        "三段蓄力的<span style=\"color:#FFFFFF;\">[普通攻击：星芒圆舞曲]</span>的终结一击命中敌人时，触发特殊的<span style=\"color:#F0D12B;\">[强击]</span>效果<span style=\"color:#F0D12B;\">[极性强击]</span>，无视属性积蓄进度造成一次原本<span style=\"color:#F0D12B;\">[强击]</span>效果100%的伤害，并可以与包括物理异常效果在内的其他属性异常效果互相结算<span style=\"color:#FFFFFF;\">[紊乱]</span>；",
         "爱丽丝触发<span style=\"color:#F0D12B;\">[强击]</span>时，<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升<span style=\"color:#2BAD00;\">(12.5%/14.6%/16.7%/18.8%/20.8%/22.9%/25%)</span>，持续30秒。",
         "<h3>额外能力：寻奇猎幽</h3>",
         "队伍中存在另一名<span style=\"color:#FFFFFF;\">[异常]</span>或<span style=\"color:#FFFFFF;\">[支援]</span>角色时触发：",
