@@ -4,7 +4,7 @@
     "name": "安比",
     "abbr": "安比",
     "star": 4,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "击破",
     "talentId": {
       "101101": "a",
@@ -19,7 +19,7 @@
     "name": "猫又",
     "abbr": "猫又",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "强攻",
     "talentId": {
       "102101": "a",
@@ -34,7 +34,7 @@
     "name": "妮可",
     "abbr": "妮可",
     "star": 4,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "支援",
     "talentId": {
       "103101": "a",
@@ -49,7 +49,7 @@
     "name": "「11号」",
     "abbr": "「11号」",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "强攻",
     "talentId": {
       "104101": "a",
@@ -64,7 +64,7 @@
     "name": "伊德海莉",
     "abbr": "伊德海莉",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "命破",
     "talentId": {
       "105101": "a",
@@ -79,7 +79,7 @@
     "name": "可琳",
     "abbr": "可琳",
     "star": 4,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "强攻",
     "talentId": {
       "106101": "a",
@@ -94,7 +94,7 @@
     "name": "凯撒",
     "abbr": "凯撒",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "防护",
     "talentId": {
       "107101": "a",
@@ -109,7 +109,7 @@
     "name": "比利",
     "abbr": "比利",
     "star": 4,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "强攻",
     "talentId": {
       "108101": "a",
@@ -124,7 +124,7 @@
     "name": "雅",
     "abbr": "雅",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "异常",
     "talentId": {
       "109101": "a",
@@ -139,7 +139,7 @@
     "name": "珂蕾妲",
     "abbr": "珂蕾妲",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "击破",
     "talentId": {
       "110101": "a",
@@ -154,7 +154,7 @@
     "name": "安东",
     "abbr": "安东",
     "star": 4,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "强攻",
     "talentId": {
       "111101": "a",
@@ -169,7 +169,7 @@
     "name": "本",
     "abbr": "本",
     "star": 4,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "防护",
     "talentId": {
       "112101": "a",
@@ -184,7 +184,7 @@
     "name": "苍角",
     "abbr": "苍角",
     "star": 4,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "支援",
     "talentId": {
       "113101": "a",
@@ -199,7 +199,7 @@
     "name": "莱卡恩",
     "abbr": "莱卡恩",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "击破",
     "talentId": {
       "114101": "a",
@@ -214,7 +214,7 @@
     "name": "露西",
     "abbr": "露西",
     "star": 4,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "支援",
     "talentId": {
       "115101": "a",
@@ -229,7 +229,7 @@
     "name": "莱特",
     "abbr": "莱特",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "击破",
     "talentId": {
       "116101": "a",
@@ -244,7 +244,7 @@
     "name": "柏妮思",
     "abbr": "柏妮思",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "异常",
     "talentId": {
       "117101": "a",
@@ -259,7 +259,7 @@
     "name": "格莉丝",
     "abbr": "格莉丝",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "异常",
     "talentId": {
       "118101": "a",
@@ -274,7 +274,7 @@
     "name": "艾莲",
     "abbr": "艾莲",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "强攻",
     "talentId": {
       "119101": "a",
@@ -289,7 +289,7 @@
     "name": "悠真",
     "abbr": "悠真",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "强攻",
     "talentId": {
       "120101": "a",
@@ -304,7 +304,7 @@
     "name": "丽娜",
     "abbr": "丽娜",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "支援",
     "talentId": {
       "121101": "a",
@@ -319,7 +319,7 @@
     "name": "柳",
     "abbr": "柳",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "异常",
     "talentId": {
       "122101": "a",
@@ -334,7 +334,7 @@
     "name": "朱鸢",
     "abbr": "朱鸢",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "强攻",
     "talentId": {
       "124101": "a",
@@ -349,7 +349,7 @@
     "name": "青衣",
     "abbr": "青衣",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "击破",
     "talentId": {
       "125101": "a",
@@ -364,7 +364,7 @@
     "name": "简",
     "abbr": "简",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "异常",
     "talentId": {
       "126101": "a",
@@ -379,7 +379,7 @@
     "name": "赛斯",
     "abbr": "赛斯",
     "star": 4,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "防护",
     "talentId": {
       "127101": "a",
@@ -394,7 +394,7 @@
     "name": "派派",
     "abbr": "派派",
     "star": 4,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "异常",
     "talentId": {
       "128101": "a",
@@ -409,7 +409,7 @@
     "name": "雨果",
     "abbr": "雨果",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "强攻",
     "talentId": {
       "129101": "a",
@@ -424,7 +424,7 @@
     "name": "奥菲丝&「鬼火」",
     "abbr": "奥菲丝&「鬼火」",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "强攻",
     "talentId": {
       "130101": "a",
@@ -439,7 +439,7 @@
     "name": "耀嘉音",
     "abbr": "耀嘉音",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "支援",
     "talentId": {
       "131101": "a",
@@ -454,7 +454,7 @@
     "name": "伊芙琳",
     "abbr": "伊芙琳",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "强攻",
     "talentId": {
       "132101": "a",
@@ -469,7 +469,7 @@
     "name": "薇薇安",
     "abbr": "薇薇安",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "异常",
     "talentId": {
       "133101": "a",
@@ -484,7 +484,7 @@
     "name": "照",
     "abbr": "照",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "防护",
     "talentId": {
       "134101": "a",
@@ -499,7 +499,7 @@
     "name": "波可娜",
     "abbr": "波可娜",
     "star": 4,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "击破",
     "talentId": {
       "135101": "a",
@@ -514,7 +514,7 @@
     "name": "「扳机」",
     "abbr": "「扳机」",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "击破",
     "talentId": {
       "136101": "a",
@@ -529,7 +529,7 @@
     "name": "仪玄",
     "abbr": "仪玄",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "命破",
     "talentId": {
       "137101": "a",
@@ -544,7 +544,7 @@
     "name": "零号·安比",
     "abbr": "零号·安比",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "强攻",
     "talentId": {
       "138101": "a",
@@ -559,7 +559,7 @@
     "name": "橘福福",
     "abbr": "橘福福",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "击破",
     "talentId": {
       "139101": "a",
@@ -574,7 +574,7 @@
     "name": "爱丽丝",
     "abbr": "爱丽丝",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "异常",
     "talentId": {
       "140101": "a",
@@ -589,7 +589,7 @@
     "name": "柚叶",
     "abbr": "柚叶",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "支援",
     "talentId": {
       "141101": "a",
@@ -604,7 +604,7 @@
     "name": "潘引壶",
     "abbr": "潘引壶",
     "star": 4,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "防护",
     "talentId": {
       "142101": "a",
@@ -619,7 +619,7 @@
     "name": "叶瞬光",
     "abbr": "叶瞬光",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "强攻",
     "talentId": {
       "143101": "a",
@@ -634,7 +634,7 @@
     "name": "真斗",
     "abbr": "真斗",
     "star": 4,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "命破",
     "talentId": {
       "144101": "a",
@@ -649,7 +649,7 @@
     "name": "卢西娅",
     "abbr": "卢西娅",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "支援",
     "talentId": {
       "145101": "a",
@@ -664,7 +664,7 @@
     "name": "「席德」",
     "abbr": "「席德」",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "强攻",
     "talentId": {
       "146101": "a",
@@ -679,7 +679,7 @@
     "name": "般岳",
     "abbr": "般岳",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "命破",
     "talentId": {
       "147101": "a",
@@ -694,7 +694,7 @@
     "name": "琉音",
     "abbr": "琉音",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "击破",
     "talentId": {
       "148101": "a",
@@ -709,7 +709,7 @@
     "name": "千夏",
     "abbr": "千夏",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "支援",
     "talentId": {
       "149101": "a",
@@ -724,7 +724,7 @@
     "name": "爱芮",
     "abbr": "爱芮",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "异常",
     "talentId": {
       "150101": "a",
@@ -739,7 +739,7 @@
     "name": "南宫羽",
     "abbr": "南宫羽",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "击破",
     "talentId": {
       "151101": "a",
@@ -754,7 +754,7 @@
     "name": "希希芙",
     "abbr": "希希芙",
     "star": 5,
-    "elem": "电",
+    "elem": "electro",
     "weapon": "强攻",
     "talentId": {
       "152101": "a",
@@ -769,7 +769,7 @@
     "name": "星徽·比利",
     "abbr": "星徽·比利",
     "star": 5,
-    "elem": "物理",
+    "elem": "geo",
     "weapon": "命破",
     "talentId": {
       "153101": "a",
@@ -784,7 +784,7 @@
     "name": "普罗米娅",
     "abbr": "普罗米娅",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "异常",
     "talentId": {
       "154101": "a",
@@ -799,7 +799,7 @@
     "name": "佩洛伊斯",
     "abbr": "佩洛伊斯",
     "star": 5,
-    "elem": "以太",
+    "elem": "havoc",
     "weapon": "强攻",
     "talentId": {
       "155101": "a",
@@ -814,7 +814,7 @@
     "name": "维琳娜",
     "abbr": "维琳娜",
     "star": 5,
-    "elem": "风",
+    "elem": "anemo",
     "weapon": "异常",
     "talentId": {
       "156101": "a",
@@ -829,7 +829,7 @@
     "name": "诺姆",
     "abbr": "诺姆",
     "star": 5,
-    "elem": "火",
+    "elem": "pyro",
     "weapon": "击破",
     "talentId": {
       "157101": "a",
@@ -859,7 +859,7 @@
     "name": "希格莉德",
     "abbr": "希格莉德",
     "star": 5,
-    "elem": "冰",
+    "elem": "cryo",
     "weapon": "强攻",
     "talentId": {
       "159101": "a",
