@@ -4,7 +4,7 @@
     "name": "安比",
     "abbr": "安比",
     "star": 4,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "击破",
     "talentId": {
       "101101": "a",
@@ -154,7 +154,7 @@
     "name": "安东",
     "abbr": "安东",
     "star": 4,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "强攻",
     "talentId": {
       "111101": "a",
@@ -259,7 +259,7 @@
     "name": "格莉丝",
     "abbr": "格莉丝",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "异常",
     "talentId": {
       "118101": "a",
@@ -289,7 +289,7 @@
     "name": "悠真",
     "abbr": "悠真",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "强攻",
     "talentId": {
       "120101": "a",
@@ -304,7 +304,7 @@
     "name": "丽娜",
     "abbr": "丽娜",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "支援",
     "talentId": {
       "121101": "a",
@@ -319,7 +319,7 @@
     "name": "柳",
     "abbr": "柳",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "异常",
     "talentId": {
       "122101": "a",
@@ -349,7 +349,7 @@
     "name": "青衣",
     "abbr": "青衣",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "击破",
     "talentId": {
       "125101": "a",
@@ -379,7 +379,7 @@
     "name": "赛斯",
     "abbr": "赛斯",
     "star": 4,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "防护",
     "talentId": {
       "127101": "a",
@@ -514,7 +514,7 @@
     "name": "「扳机」",
     "abbr": "「扳机」",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "击破",
     "talentId": {
       "136101": "a",
@@ -664,7 +664,7 @@
     "name": "「席德」",
     "abbr": "「席德」",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "强攻",
     "talentId": {
       "146101": "a",
@@ -754,7 +754,7 @@
     "name": "希希芙",
     "abbr": "希希芙",
     "star": 5,
-    "elem": "electro",
+    "elem": "hydro",
     "weapon": "强攻",
     "talentId": {
       "152101": "a",
@@ -844,7 +844,7 @@
     "name": "蕾米埃尔",
     "abbr": "蕾米埃尔",
     "star": 5,
-    "elem": "流明",
+    "elem": "electro",
     "weapon": "异常",
     "talentId": {
       "158101": "a",
