@@ -5,7 +5,7 @@
   "title": "AvatarSkin_Sigrid_Name_000",
   "star": 5,
   "elem": "cryo",
-  "allegiance": "罗斯凯利法·外务筹策局",
+  "allegiance": "罗斯凯利法",
   "weapon": "强攻",
   "birth": "-",
   "desc": "...",
@@ -42,14 +42,16 @@
         "<h3>普通攻击：凛冽枪尖</h3>",
         "点按「普通攻击」发动：",
         "向前方发动至多四段斩击，造成<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
-        "<h3>敛枪式</h3>",
-        "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并有<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动次数时，长按「普通攻击」发动：",
-        "按当前分支段数发动对应<span style=\"color:#FFFFFF;\">[敛枪式]</span>，造成<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
-        "<span style=\"color:#FFFFFF;\">[敛枪式]</span>共有三段，每次释放都可以使段数提升；",
-        "在普通攻击后衔接敛枪式可以保留普通攻击段数；",
-        "招式发动期间受到的伤害减少40%；",
-        "招式发动期间抗打断等级提升。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击：凛冽枪尖]</span>第四段视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
+        "<h3>普通攻击：敛枪式</h3>",
+        "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并有<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动次数时，长按「普通攻击」发动：",
+        "按当前分支段数发动对应<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>，造成<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
+        "<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>共有三段，每次释放都可以使段数提升，发动<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第三段后重置段数；",
+        "<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第一、二段蓄力架势期间受到敌方攻击时，希格莉德会用盾牌进行格挡，若格挡成功，抵挡此次攻击伤害，刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得一次<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动机会；格挡成功后点按「普通攻击」可发动对应段数的<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>；",
+        "衔接在<span style=\"color:#FFFFFF;\">[普通攻击：凛冽枪尖]</span>后的<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>可以保留<span style=\"color:#FFFFFF;\">[普通攻击：凛冽枪尖]</span>的段数；",
+        "招式发动期间受到的伤害减少60%；",
+        "招式发动期间抗打断等级提升;",
+        "<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第三段发动期间拥有无敌效果。"
       ],
       "tables": [
         {
@@ -241,22 +243,22 @@
           "unit": "敛枪式 第一段",
           "isSame": false,
           "values": [
-            "383%",
-            "417.9%",
-            "452.8%",
-            "487.7%",
-            "522.6%",
-            "557.5%",
-            "592.4%",
-            "627.3%",
-            "662.2%",
-            "697.1%",
-            "732%",
-            "766.9%",
-            "801.8%",
-            "836.7%",
-            "871.6%",
-            "906.5%"
+            "350.8%",
+            "382.7%",
+            "414.6%",
+            "446.5%",
+            "478.4%",
+            "510.3%",
+            "542.2%",
+            "574.1%",
+            "606%",
+            "637.9%",
+            "669.8%",
+            "701.7%",
+            "733.6%",
+            "765.5%",
+            "797.4%",
+            "829.3%"
           ]
         },
         {
@@ -264,22 +266,22 @@
           "unit": "敛枪式 第一段",
           "isSame": false,
           "values": [
-            "104.6%",
-            "109.4%",
-            "114.2%",
-            "119%",
-            "123.8%",
-            "128.6%",
-            "133.4%",
-            "138.2%",
-            "143%",
-            "147.8%",
-            "152.6%",
-            "157.4%",
-            "162.2%",
-            "167%",
-            "171.8%",
-            "176.6%"
+            "93.6%",
+            "97.9%",
+            "102.2%",
+            "106.5%",
+            "110.8%",
+            "115.1%",
+            "119.4%",
+            "123.7%",
+            "128%",
+            "132.3%",
+            "136.6%",
+            "140.9%",
+            "145.2%",
+            "149.5%",
+            "153.8%",
+            "158.1%"
           ]
         },
         {
@@ -287,22 +289,22 @@
           "unit": "敛枪式 第二段",
           "isSame": false,
           "values": [
-            "579%",
-            "631.7%",
-            "684.4%",
-            "737.1%",
-            "789.8%",
-            "842.5%",
-            "895.2%",
-            "947.9%",
-            "1000.6%",
-            "1053.3%",
-            "1106%",
-            "1158.7%",
-            "1211.4%",
-            "1264.1%",
-            "1316.8%",
-            "1369.5%"
+            "551.9%",
+            "602.1%",
+            "652.3%",
+            "702.5%",
+            "752.7%",
+            "802.9%",
+            "853.1%",
+            "903.3%",
+            "953.5%",
+            "1003.7%",
+            "1053.9%",
+            "1104.1%",
+            "1154.3%",
+            "1204.5%",
+            "1254.7%",
+            "1304.9%"
           ]
         },
         {
@@ -310,22 +312,22 @@
           "unit": "敛枪式 第二段",
           "isSame": false,
           "values": [
-            "159.6%",
-            "166.9%",
-            "174.2%",
-            "181.5%",
-            "188.8%",
-            "196.1%",
-            "203.4%",
-            "210.7%",
-            "218%",
-            "225.3%",
-            "232.6%",
-            "239.9%",
-            "247.2%",
-            "254.5%",
-            "261.8%",
-            "269.1%"
+            "155.9%",
+            "163%",
+            "170.1%",
+            "177.2%",
+            "184.3%",
+            "191.4%",
+            "198.5%",
+            "205.6%",
+            "212.7%",
+            "219.8%",
+            "226.9%",
+            "234%",
+            "241.1%",
+            "248.2%",
+            "255.3%",
+            "262.4%"
           ]
         },
         {
@@ -333,22 +335,22 @@
           "unit": "敛枪式 第三段",
           "isSame": false,
           "values": [
-            "849.6%",
-            "926.9%",
-            "1004.2%",
-            "1081.5%",
-            "1158.8%",
-            "1236.1%",
-            "1313.4%",
-            "1390.7%",
-            "1468%",
-            "1545.3%",
-            "1622.6%",
-            "1699.9%",
-            "1777.2%",
-            "1854.5%",
-            "1931.8%",
-            "2009.1%"
+            "710.6%",
+            "775.2%",
+            "839.8%",
+            "904.4%",
+            "969%",
+            "1033.6%",
+            "1098.2%",
+            "1162.8%",
+            "1227.4%",
+            "1292%",
+            "1356.6%",
+            "1421.2%",
+            "1485.8%",
+            "1550.4%",
+            "1615%",
+            "1679.6%"
           ]
         },
         {
@@ -356,22 +358,22 @@
           "unit": "敛枪式 第三段",
           "isSame": false,
           "values": [
-            "196.2%",
-            "205.2%",
-            "214.2%",
-            "223.2%",
-            "232.2%",
-            "241.2%",
-            "250.2%",
-            "259.2%",
-            "268.2%",
-            "277.2%",
-            "286.2%",
-            "295.2%",
-            "304.2%",
-            "313.2%",
-            "322.2%",
-            "331.2%"
+            "192.6%",
+            "201.4%",
+            "210.2%",
+            "219%",
+            "227.8%",
+            "236.6%",
+            "245.4%",
+            "254.2%",
+            "263%",
+            "271.8%",
+            "280.6%",
+            "289.4%",
+            "298.2%",
+            "307%",
+            "315.8%",
+            "324.6%"
           ]
         }
       ]
@@ -391,6 +393,7 @@
         "<h3>支援突击：冰饕</h3>",
         "发动<span style=\"color:#FFFFFF;\">[招架支援]</span>后，点按「普通攻击」发动：",
         "挥动长枪上挑后重击下砸，造成大量<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
+        "招式视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [
@@ -561,25 +564,27 @@
       "id": 159103,
       "name": "特殊技",
       "desc": [
-        "<h3>特殊技：乱琼</h3>",
+        "<h3>特殊技：冰花</h3>",
         "点按「特殊技」发动：",
         "向前方发动三段刺击，造成<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
         "招式发动期间抗打断等级提升。",
-        "<h3>强化特殊：碎玉技 第一段</h3>",
+        "<h3>强化特殊：乱琼</h3>",
         "能量足够且不处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，点按「特殊技」发动：",
-        "向前方发动强力连续刺击，造成大量<span style=\"color:#98EFF0;\">冰属性伤害</span>。",
+        "向前方发动强力连续刺击，造成大量<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
+        "招式连续刺击期间受到敌方攻击时，希格莉德会用盾牌进行格挡，若格挡成功，抵挡此次攻击伤害，刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得一次<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动机会；格挡成功后点按「普通攻击」可发动对应段数的<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>；",
         "招式视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
         "招式发动期间拥有无敌效果。",
-        "<h3>强化特殊：碎玉技 第二段</h3>",
+        "<h3>强化特殊：碎玉</h3>",
         "能量足够且处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，点按「特殊技」发动：",
-        "向前方发动强力的连续突进刺击，造成大量<span style=\"color:#98EFF0;\">冰属性伤害</span>。",
+        "向前方发动强力的连续突进刺击，造成大量<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
+        "招式连续突进刺击期间受到敌方攻击时，希格莉德会用盾牌进行格挡，若格挡成功，抵挡此次攻击伤害，刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得一次<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动机会；格挡成功后点按「普通攻击」可发动对应段数的<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>；",
         "招式视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [
         {
           "name": "伤害倍率",
-          "unit": "乱琼",
+          "unit": "冰花",
           "isSame": false,
           "values": [
             "53.7%",
@@ -602,7 +607,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "乱琼",
+          "unit": "冰花",
           "isSame": false,
           "values": [
             "27.5%",
@@ -625,7 +630,7 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "碎玉技 第一段",
+          "unit": "乱琼",
           "isSame": false,
           "values": [
             "438.8%",
@@ -648,7 +653,7 @@
         },
         {
           "name": "失衡倍率",
-          "unit": "碎玉技 第一段",
+          "unit": "乱琼",
           "isSame": false,
           "values": [
             "274.3%",
@@ -671,7 +676,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "碎玉技 第一段",
+          "unit": "乱琼",
           "isSame": true,
           "values": [
             "60"
@@ -679,30 +684,30 @@
         },
         {
           "name": "伤害倍率",
-          "unit": "碎玉技 第二段",
+          "unit": "碎玉",
           "isSame": false,
           "values": [
-            "697.8%",
-            "761.3%",
-            "824.8%",
-            "888.3%",
-            "951.8%",
-            "1015.3%",
-            "1078.8%",
-            "1142.3%",
-            "1205.8%",
-            "1269.3%",
-            "1332.8%",
-            "1396.3%",
-            "1459.8%",
-            "1523.3%",
-            "1586.8%",
-            "1650.3%"
+            "823.8%",
+            "898.7%",
+            "973.6%",
+            "1048.5%",
+            "1123.4%",
+            "1198.3%",
+            "1273.2%",
+            "1348.1%",
+            "1423%",
+            "1497.9%",
+            "1572.8%",
+            "1647.7%",
+            "1722.6%",
+            "1797.5%",
+            "1872.4%",
+            "1947.3%"
           ]
         },
         {
           "name": "失衡倍率",
-          "unit": "碎玉技 第二段",
+          "unit": "碎玉",
           "isSame": false,
           "values": [
             "362.6%",
@@ -725,7 +730,7 @@
         },
         {
           "name": "能量消耗",
-          "unit": "碎玉技 第二段",
+          "unit": "碎玉",
           "isSame": true,
           "values": [
             "50"
@@ -740,11 +745,12 @@
         "<h3>连携技：冰凌卷地</h3>",
         "触发<span style=\"color:#FFFFFF;\">[连携技]</span>时，选择对应角色发动：",
         "对前方敌人发动强力穿刺，造成大量<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
-        "获得1层<span style=\"color:#FFFFFF;\">[砥砺]</span>，每层<span style=\"color:#FFFFFF;\">[砥砺]</span>使后续敛枪式造成的伤害提升15%，最多叠加2层，第三段敛枪式结束后移除<span style=\"color:#FFFFFF;\">[破阵]</span>和<span style=\"color:#FFFFFF;\">[砥砺]</span>；",
-        "当本招式第一次命中处于失衡中的精英或首领级敌人时，会记录当前<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数并进入<span style=\"color:#FFFFFF;\">[破阵]</span>，该效果在其每次失衡期间最多触发一次；",
-        "<span style=\"color:#FFFFFF;\">[破阵]</span>下，<span style=\"color:#FFFFFF;\">[巡空枪势]</span>持续时间不会减少，长按「普通攻击」可连续释放敛枪式第一段至第三段；",
-        "发动<span style=\"color:#FFFFFF;\">[敛枪式]</span>第三段后结束<span style=\"color:#FFFFFF;\">[破阵]</span>，并将<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数恢复；",
+        "获得<span style=\"color:#FFFFFF;\">[砥砺]</span>，使后续<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>造成的伤害提升25%，持续50秒；",
+        "当本招式第一次命中处于失衡状态下的精英或首领级敌人时，会记录当前<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>段数并重置，进入<span style=\"color:#FFFFFF;\">[破阵]</span>状态，该效果在其每次失衡期间最多触发一次；",
+        "<span style=\"color:#FFFFFF;\">[破阵]</span>状态下，<span style=\"color:#FFFFFF;\">[巡空枪势]</span>持续时间不会减少，长按「普通攻击」可连续释放<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第一段至第三段；",
+        "发动<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第三段后结束<span style=\"color:#FFFFFF;\">[破阵]</span>状态，并将<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>段数恢复；",
         "招式视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
+        "<span style=\"color:#FFFFFF;\">[破阵]</span>状态期间<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>命中失衡状态下的敌人不会开启连携窗口；",
         "招式发动期间拥有无敌效果。",
         "<h3>终结技：霜天</h3>",
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
@@ -804,22 +810,22 @@
           "unit": "霜天",
           "isSame": false,
           "values": [
-            "2533.8%",
-            "2764.2%",
-            "2994.6%",
-            "3225%",
-            "3455.4%",
-            "3685.8%",
-            "3916.2%",
-            "4146.6%",
-            "4377%",
-            "4607.4%",
-            "4837.8%",
-            "5068.2%",
-            "5298.6%",
-            "5529%",
-            "5759.4%",
-            "5989.8%"
+            "2539.8%",
+            "2770.7%",
+            "3001.6%",
+            "3232.5%",
+            "3463.4%",
+            "3694.3%",
+            "3925.2%",
+            "4156.1%",
+            "4387%",
+            "4617.9%",
+            "4848.8%",
+            "5079.7%",
+            "5310.6%",
+            "5541.5%",
+            "5772.4%",
+            "6003.3%"
           ]
         },
         {
@@ -827,22 +833,22 @@
           "unit": "霜天",
           "isSame": false,
           "values": [
-            "262.2%",
-            "274.2%",
-            "286.2%",
-            "298.2%",
-            "310.2%",
-            "322.2%",
-            "334.2%",
-            "346.2%",
-            "358.2%",
-            "370.2%",
-            "382.2%",
-            "394.2%",
-            "406.2%",
-            "418.2%",
-            "430.2%",
-            "442.2%"
+            "265.8%",
+            "277.9%",
+            "290%",
+            "302.1%",
+            "314.2%",
+            "326.3%",
+            "338.4%",
+            "350.5%",
+            "362.6%",
+            "374.7%",
+            "386.8%",
+            "398.9%",
+            "411%",
+            "423.1%",
+            "435.2%",
+            "447.3%"
           ]
         }
       ]
@@ -861,7 +867,7 @@
         "<h3>闪避反击：回马枪</h3>",
         "触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>后，点按「普通攻击」发动：",
         "凝聚寒冰在枪头对前方进行强力反击，造成<span style=\"color:#98EFF0;\">冰属性伤害</span>；",
-        "在普通攻击期间，通过闪避触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>并发动闪避反击，可以保留普通攻击段数；",
+        "衔接在<span style=\"color:#FFFFFF;\">[普通攻击：凛冽枪尖]</span>后的<span style=\"color:#FFFFFF;\">[闪避反击：回马枪]</span>可以保留<span style=\"color:#FFFFFF;\">[普通攻击：凛冽枪尖]</span>的段数；",
         "招式视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
         "招式发动期间拥有无敌效果。"
       ],
@@ -965,7 +971,7 @@
     "1": {
       "name": "很久很久以前",
       "desc": [
-        "发动<span style=\"color:#FFFFFF;\">[敛枪式]</span>第三段后，进入<span style=\"color:#FFFFFF;\">[巡空枪势]</span>；自身获得<span style=\"color:#FFFFFF;\">25%</span>攻击力加成。",
+        "发动<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第三段时，进入或刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>，并获得一次发动<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>的机会；<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动机会溢出时，会使下一次<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>额外造成<span style=\"color:#FFFFFF;\">100%</span>攻击力的<span style=\"color:#98EFF0;\">冰属性伤害</span>；希格莉德自身攻击力提升<span style=\"color:#FFFFFF;\">22%</span>。",
         "<i>很久很久以前，挽昼大人捧起了天空岛的第一抔泥土…</i>",
         "<i>停停停，关于挽昼女士筑成罗斯凯利法第一座岛屿的故事，孩子们都已经听得耳朵起茧了。</i>",
         "<i>今天我们要讲的是关于挽昼女士身旁那位战士的故事，她身着月夜般皎洁的银白铠甲，就像童话故事中远古的骑士一样…</i>"
@@ -974,7 +980,7 @@
     "2": {
       "name": "传说的第一幕",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[出枪式]</span>和<span style=\"color:#FFFFFF;\">[敛枪式]</span>造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>无视目标<span style=\"color:#FFFFFF;\">24%</span>防御力；<span style=\"color:#FFFFFF;\">[巡空枪势]</span>效果的持续时间延长；",
+        "<span style=\"color:#FFFFFF;\">[出枪式]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>造成的<span style=\"color:#98EFF0;\">冰属性伤害</span>无视目标<span style=\"color:#FFFFFF;\">24%</span>防御力；<span style=\"color:#FFFFFF;\">[巡空枪势]</span>效果的持续时间延长2秒；",
         "<i>她是罗斯凯利法的第一名士兵、第一柄长枪，她坚守在反击空洞的第一道阵线、第一次冲锋。</i>",
         "<i>她是追随挽昼女士的第一支羽翼，也亲手筑起了罗斯凯利法的第一堵城墙。</i>",
         "<i>她是罗斯凯利法第一柄折断的刀兵，她的姓氏是德拉叙尔。</i>",
@@ -985,28 +991,36 @@
       "name": "奇迹守护者",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
-        "<i></i>"
+        "<i>罗斯凯利法是天空的奇迹，而守护奇迹之人的头衔，绝不独属于少数人。</i>",
+        "<i>但总要有人成为守护者们的领袖——这本是林德薇恩大人的职责，但生性天真烂漫的她，实在难以成为一名威风的将军。</i>",
+        "<i>还好她有一位英姿绝逸的副官，准确地说，是一位又一位。</i>"
       ]
     },
     "4": {
       "name": "英雄养成中",
       "desc": [
-        "每次刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>时，自身造成的伤害提升<span style=\"color:#FFFFFF;\">30%</span>，持续<span style=\"color:#FFFFFF;\">8</span>秒,重复触发时可使持续时间提升<span style=\"color:#FFFFFF;\">8</span>秒，持续时间上限为<span style=\"color:#FFFFFF;\">40</span>秒。",
-        "<i></i>"
+        "每次刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>时，自身造成的伤害提升<span style=\"color:#FFFFFF;\">20%</span>，持续<span style=\"color:#FFFFFF;\">8</span>秒，重复触发时可使持续时间延长<span style=\"color:#FFFFFF;\">8</span>秒，最多不超过<span style=\"color:#FFFFFF;\">40</span>秒。",
+        "<i>士兵和民众们总忍不住将新任的总务次官与上一任暗暗对比——这怪不得他们，毕竟在林德薇恩·挽昼大人的口中，每一位德拉叙尔的家主都是那样传奇的人物。</i>",
+        "<i>但也正因如此，大家总期待着年轻的德拉叙尔要更胜于上一位，如此才不负传奇守护者家族的声名。</i>",
+        "<i>于是林德薇恩也不断为希格莉德编织着新的、更具颠覆性的传说。</i>"
       ]
     },
     "5": {
       "name": "苍穹誓约",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
-        "<i></i>"
+        "<i>如今的挽昼女士仅凭虚狩的名望便能一呼百应，但任何声名卓著的领袖，背后都曾空无一人。</i>",
+        "<i>而要追随那位年轻的领袖踏足天空，建成不可能建成的奇迹之城，要么拥有莽汉般的勇气，要么具备痴人般的天真。</i>",
+        "<i>而当每一位德拉叙尔再次念诵那份征服天空的誓言，这两种品质都再一次煜煜生辉。</i>"
       ]
     },
     "6": {
       "name": "天空的骑士",
       "desc": [
-        "<span style=\"color:#FFFFFF;\">[敛枪式]</span>第一/二/三段命中敌人后，造成额外<span style=\"color:#FFFFFF;\">400%</span>/<span style=\"color:#FFFFFF;\">500%</span>/<span style=\"color:#FFFFFF;\">600%</span>伤害。",
-        "<i></i>"
+        "<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>第一/二/三段首次命中敌人时，额外造成<span style=\"color:#FFFFFF;\">150%</span>/<span style=\"color:#FFFFFF;\">150%</span>/<span style=\"color:#FFFFFF;\">200%</span>攻击力的<span style=\"color:#98EFF0;\">冰属性伤害</span>。",
+        "<i>在亘古的传说中，曾有湖中的骑士留名。</i>",
+        "<i>在遥远未来的歌谣中，也必将有凛冽的长枪划破时空的天际。</i>",
+        "<i>「直到这柄长枪折断，天空的奇迹也绝不会陷落。」</i>"
       ]
     }
   },
@@ -1015,19 +1029,17 @@
       "name": "核心被动 / 额外能力",
       "desc": [
         "<h3>核心被动：天空骑士</h3>",
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>与<span style=\"color:#FFFFFF;\">[闪避反击]</span>视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
-        "希格莉德使用任意<span style=\"color:#FFFFFF;\">[出枪式]</span>命中敌人时，若当前未处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，则进入<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并使本次命中的<span style=\"color:#FFFFFF;\">[出枪式]</span>进入<span style=\"color:#FFFFFF;\">[失活]</span>状态，同时获得1次<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动机会，最多储存1次；",
-        "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德发动任意未处于<span style=\"color:#FFFFFF;\">[失活]</span>状态的<span style=\"color:#FFFFFF;\">[出枪式]</span>，可刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得1次<span style=\"color:#FFFFFF;\">[敛枪式]</span>发动机会，最多储存1次；<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态刷新后，<span style=\"color:#FFFFFF;\">[失活]</span>状态会转移至新发动的<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
-        "发动<span style=\"color:#FFFFFF;\">[敛枪式]</span>命中敌人时，可移除<span style=\"color:#FFFFFF;\">[失活]</span>状态，并使下一次<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数提升一段，最多提升至三段；发动第三段<span style=\"color:#FFFFFF;\">[敛枪式]</span>后，立即将<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数重置为一段，并结束<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态；",
-        "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>的持续时间随<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数提升而缩短：一/二/三段时，持续时间分别为<span style=\"color:#FFFFFF;\">8</span>/<span style=\"color:#FFFFFF;\">7</span>/<span style=\"color:#FFFFFF;\">6</span>秒；",
-        "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态结束时，<span style=\"color:#FFFFFF;\">[敛枪式]</span>段数降低一段，最低降至一段；",
-        "激活或刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德的暴击率提升<span style=\"color:#2BAD00;\">(36%/42%/48%/54%/60%/66%/72%)</span>，持续<span style=\"color:#FFFFFF;\">8</span>秒；重复触发时可使持续时间提升<span style=\"color:#FFFFFF;\">8</span>秒，持续时间上限为<span style=\"color:#FFFFFF;\">40</span>秒；",
-        "命中处于失衡中的敌人时，对目标造成的失衡易伤倍率提升20%；",
-        "处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，<span style=\"color:#FFFFFF;\">[强化特殊技]</span>的能量消耗降低。",
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段、<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[支援突击]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>、<span style=\"color:#FFFFFF;\">[终结技]</span>与<span style=\"color:#FFFFFF;\">[闪避反击]</span>视为<span style=\"color:#FFFFFF;\">[出枪式]</span>；",
+        "战斗中希格莉德发动任意<span style=\"color:#FFFFFF;\">[出枪式]</span>时，若当前未处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，则进入<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，获得1次<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动机会，最多储存1次；",
+        "战斗中，处于<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态下，希格莉德发动任意<span style=\"color:#FFFFFF;\">[出枪式]</span>时，可刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态，并获得1次<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>发动机会，最多储存1次；",
+        "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>的持续时间随<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>段数提升而缩短：一/二/三段时，持续时间分别为<span style=\"color:#FFFFFF;\">8</span>/<span style=\"color:#FFFFFF;\">7</span>/<span style=\"color:#FFFFFF;\">6</span>秒；",
+        "<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态结束时，<span style=\"color:#FFFFFF;\">[普通攻击：敛枪式]</span>段数降低一段，最低降至一段；",
+        "激活或刷新<span style=\"color:#FFFFFF;\">[巡空枪势]</span>状态时，希格莉德的暴击率提升<span style=\"color:#2BAD00;\">(33%/39%/44%/50%/55%/61%/66%)</span>，并使自身攻击力提升<span style=\"color:#2BAD00;\">(150/180/210/240/270/300/330)</span>点，持续<span style=\"color:#FFFFFF;\">8</span>秒；重复触发时持续时间延长<span style=\"color:#FFFFFF;\">8</span>秒，最多不超过<span style=\"color:#FFFFFF;\">40</span>秒；",
+        "希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
         "<h3>额外能力：天际联军</h3>",
         "队伍中存在<span style=\"color:#FFFFFF;\">[支援]</span>或<span style=\"color:#FFFFFF;\">[击破]</span>角色时触发：",
-        "触发时，自身造成的伤害提升45%；",
-        "攻击命中处于风浸染中的敌人时，自身造成的伤害提升<span style=\"color:#FFFFFF;\">15%</span>"
+        "触发时，自身造成的伤害提升30%；",
+        "攻击命中浸染状态下的敌人时，自身造成的伤害提升<span style=\"color:#FFFFFF;\">15%</span>"
       ]
     }
   ]

@@ -48,9 +48,9 @@
         "召回杜苏拉和安娜塔莎，在身边回旋后进行范围攻击，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
         "招式发动期间抗打断等级提升。",
         "<h3>晨间清扫</h3>",
-        "当丽娜释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>后，持续13秒内，宝宝会每间隔2.5秒，攻击敌人1次，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>，并获得1点<span style=\"color:#FFFFFF;\">[惊吓]</span>，至多获得6点<span style=\"color:#FFFFFF;\">[惊吓]</span>；招式发动后重置宝宝离场倒计时。",
+        "当丽娜释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>后，持续13秒内，杜苏拉或安娜塔莎会每间隔2.5秒，攻击敌人1次，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>，并获得1点<span style=\"color:#FFFFFF;\">[惊吓]</span>，至多获得6点<span style=\"color:#FFFFFF;\">[惊吓]</span>；招式发动后重置杜苏拉和安娜塔莎离场倒计时。",
         "<h3>午夜清扫</h3>",
-        "当<span style=\"color:#FFFFFF;\">[惊吓]</span>达到6点时，宝宝下一次发动<span style=\"color:#FFFFFF;\">[晨间清扫]</span>会消耗全部<span style=\"color:#FFFFFF;\">[惊吓]</span>，改为发动<span style=\"color:#FFFFFF;\">[午夜清扫]</span>；招式发动后重置宝宝离场倒计时。"
+        "当<span style=\"color:#FFFFFF;\">[惊吓]</span>达到6点时，杜苏拉或安娜塔莎下一次发动<span style=\"color:#FFFFFF;\">[晨间清扫]</span>会消耗全部<span style=\"color:#FFFFFF;\">[惊吓]</span>，改为发动<span style=\"color:#FFFFFF;\">[午夜清扫]</span>；招式发动后重置杜苏拉和安娜塔莎离场倒计时。"
       ],
       "tables": [
         {
