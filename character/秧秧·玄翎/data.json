@@ -2,15 +2,15 @@
   "id": 1610,
   "name": "秧秧·玄翎",
   "abbr": "秧秧·玄翎",
-  "title": "",
+  "title": "苍翎响远音",
   "star": 5,
   "elem": "havoc",
-  "allegiance": "？？？",
+  "allegiance": "军策府",
   "weapon": "sword",
   "birth": "-",
-  "desc": "？？？",
-  "cncv": "？？？",
-  "jpcv": "？？？",
+  "desc": "明庭出身的音乐世家二小姐，温柔坚强、纯粹浪漫，仗剑行义。能与流息沟通的“祀声之人”。原今州夜归踏白，现暂代玄方城后玄骑使。清风骀荡，侠思飞扬，此身、此剑皆为守护。",
+  "cncv": "虫虫",
+  "jpcv": "石川由依",
   "baseAttr": {
     "hp": 11025,
     "atk": 425,
@@ -30,9 +30,9 @@
   "materials": {
     "normal": "叠翼偏振体",
     "boss": "孤焰酬义",
-    "specialty": "",
+    "specialty": "栖云翼",
     "weekly": "天衢琉璃之心",
-    "monster": ""
+    "monster": "全频机傀枢芯"
   },
   "talent": {
     "a": {
@@ -40,23 +40,23 @@
       "name": "常态攻击: 济善伐恶",
       "desc": [
         "<h3>普攻·苍剑式</h3>",
-        "连续短按或按住<span style=\"color:#ffd12f;\">普攻</span>，进行最多4段的连续攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。<span style=\"color:#ffd12f;\">普攻·苍剑式</span>造成伤害时，若<span style=\"color:#ffd12f;\">【流响】</span>未耗尽，共鸣效率提升20%。",
+        "连续短按或按住<span style=\"color:#ffd12f;\">普攻</span>，进行最多4段的连续攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。<span style=\"color:#ffd12f;\">普攻·苍剑式</span>造成伤害时，若<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>未耗尽，共鸣效率提升20%。",
         "<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第4段造成伤害时，会为目标附加1层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
         "<h3>普攻·羽剑式</h3>",
-        "连续短按或按住<span style=\"color:#ffd12f;\">普攻</span>，进行最多4段的连续攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。<span style=\"color:#ffd12f;\">普攻·羽剑式</span>造成伤害时，若<span style=\"color:#ffd12f;\">【流响】</span>未耗尽，共鸣效率提升20%。",
+        "连续短按或按住<span style=\"color:#ffd12f;\">普攻</span>，进行最多4段的连续攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。<span style=\"color:#ffd12f;\">普攻·羽剑式</span>造成伤害时，若<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>未耗尽，共鸣效率提升20%。",
         "<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第4段造成伤害时，会为目标附加1层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
         "<h3>空中攻击·苍剑式</h3>",
-        "消耗耐力进行空中下落攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "消耗耐力进行空中下落攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第2段。",
         "<h3>空中攻击·羽剑式</h3>",
-        "消耗耐力进行空中下落攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "消耗耐力进行空中下落攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第2段。",
         "<h3>闪避反击·苍剑式</h3>",
-        "成功闪避后一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "成功闪避后一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第3段。",
         "施放<span style=\"color:#ffd12f;\">闪避反击·苍剑式</span>时，视为<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第2段连段。",
         "<h3>闪避反击·羽剑式</h3>",
-        "成功闪避后一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "成功闪避后一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第3段。",
         "施放<span style=\"color:#ffd12f;\">闪避反击·羽剑式</span>时，视为<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第2段连段。"
       ],
@@ -198,6 +198,23 @@
           ]
         },
         {
+          "name": "空中攻击·苍剑式伤害",
+          "unit": "",
+          "isSame": false,
+          "values": [
+            "49.60%",
+            "53.67%",
+            "57.74%",
+            "63.43%",
+            "67.50%",
+            "72.18%",
+            "78.69%",
+            "85.19%",
+            "91.70%",
+            "98.61%"
+          ]
+        },
+        {
           "name": "空中攻击·羽剑式伤害",
           "unit": "",
           "isSame": false,
@@ -249,6 +266,14 @@
           ]
         },
         {
+          "name": "空中攻击·苍剑式耐力消耗",
+          "unit": "",
+          "isSame": true,
+          "values": [
+            "30"
+          ]
+        },
+        {
           "name": "空中攻击·羽剑式耐力消耗",
           "unit": "",
           "isSame": true,
@@ -266,12 +291,12 @@
         "处于<span style=\"color:#ffd12f;\">苍剑式</span>时，短按<span style=\"color:#ffd12f;\">共鸣技能</span>，会切换至<span style=\"color:#ffd12f;\">羽剑式</span>，并施放<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第1段，造成<span style=\"color:#e649a6;\">湮灭伤害</span>。",
         "处于<span style=\"color:#ffd12f;\">羽剑式</span>时，短按<span style=\"color:#ffd12f;\">共鸣技能</span>，会切换至<span style=\"color:#ffd12f;\">苍剑式</span>，并施放<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第1段，造成<span style=\"color:#e649a6;\">湮灭伤害</span>。",
         "<h3>剑式切换·苍</h3>",
-        "施放<span style=\"color:#ffd12f;\">普攻·羽剑式</span>后的一定时间内短按<span style=\"color:#ffd12f;\">共鸣技能</span>，施放<span style=\"color:#ffd12f;\">剑式切换·苍</span>攻击目标，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
-        "施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "施放<span style=\"color:#ffd12f;\">普攻·羽剑式</span>后的一定时间内短按<span style=\"color:#ffd12f;\">共鸣技能</span>，会切换至<span style=\"color:#ffd12f;\">苍剑式</span>，并施放<span style=\"color:#ffd12f;\">剑式切换·苍</span>攻击目标，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "施放该技能后，一定时间内将不会重置普攻连段。",
         "<h3>剑式切换·羽</h3>",
-        "施放<span style=\"color:#ffd12f;\">普攻·苍剑式</span>后的一定时间内短按<span style=\"color:#ffd12f;\">共鸣技能</span>，施放<span style=\"color:#ffd12f;\">剑式切换·羽</span>攻击目标，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
-        "施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "施放<span style=\"color:#ffd12f;\">普攻·苍剑式</span>后的一定时间内短按<span style=\"color:#ffd12f;\">共鸣技能</span>，会切换至<span style=\"color:#ffd12f;\">羽剑式</span>，并施放<span style=\"color:#ffd12f;\">剑式切换·羽</span>攻击目标，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "施放该技能后，一定时间内将不会重置普攻连段。"
       ],
       "tables": [
@@ -316,7 +341,7 @@
       "name": "共鸣解放: 裁羽寂万音",
       "desc": [
         "<h3>裁羽寂万音</h3>",
-        "消耗所有<span style=\"color:#ffd12f;\">【流响】</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并回复1点<span style=\"color:#ffd12f;\">【苍翎】</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "消耗所有<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并回复1点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
         "施放该技能时，获得<span style=\"color:#ffd12f;\">声声流转</span>状态，施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>或<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>时，召唤<span style=\"color:#ffd12f;\">玄翎之影</span>攻击目标，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
         "<span style=\"color:#ffd12f;\">声声流转</span>状态不可叠加，召唤<span style=\"color:#ffd12f;\">玄翎之影</span>后移除<span style=\"color:#ffd12f;\">声声流转</span>状态。"
       ],
@@ -385,7 +410,7 @@
       "id": 161006,
       "name": "变奏技能: 羽挟苍空",
       "desc": [
-        "造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并回复1点<span style=\"color:#ffd12f;\">【苍翎】</span>。",
+        "造成<span style=\"color:#e649a6;\">湮灭伤害</span>，并回复1点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>。",
         "<span style=\"color:#ffd12f;\">变奏技能·羽挟苍空</span>造成伤害时，会为目标附加1层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。"
       ],
       "tables": [
@@ -421,30 +446,30 @@
       "name": "共鸣回路: 万声浮道",
       "desc": [
         "<h3>共鸣技能·剑式流转·苍</h3>",
-        "秧秧·玄翎默认处于<span style=\"color:#ffd12f;\">苍剑式</span>，<span style=\"color:#ffd12f;\">【流响】</span>耗尽时，若处于<span style=\"color:#ffd12f;\">羽剑式</span>，<span style=\"color:#ffd12f;\">共鸣技能·羽拭苍锋</span>替换为<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>。",
-        "短按共鸣技能，施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，回复100点<span style=\"color:#ffd12f;\">【流响】</span>和1点<span style=\"color:#ffd12f;\">【苍翎】</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "秧秧·玄翎默认处于<span style=\"color:#ffd12f;\">苍剑式</span>，<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>耗尽时，若处于<span style=\"color:#ffd12f;\">羽剑式</span>，<span style=\"color:#ffd12f;\">共鸣技能·羽拭苍锋</span>替换为<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>。",
+        "短按共鸣技能，会切换至<span style=\"color:#ffd12f;\">苍剑式</span>，并施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，回复100点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>和1点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
         "<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>命中目标时，消耗目标1层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
         "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>后，一定时间内将不会重置连段。若施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>打断<span style=\"color:#ffd12f;\">普攻·羽剑式</span>连段，则会召唤<span style=\"color:#ffd12f;\">声之幻身</span>完成当前攻击，造成固定<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">普攻伤害</span>，该次攻击造成的伤害不受伤害加成影响，且无法对目标附加<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
-        "施放该技能一定时间内可以触发成功闪避效果，触发成功闪避效果时消耗50点<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "<h3>共鸣技能·剑式流转·羽</h3>",
-        "<span style=\"color:#ffd12f;\">【流响】</span>耗尽时，若处于<span style=\"color:#ffd12f;\">苍剑式</span>，<span style=\"color:#ffd12f;\">共鸣技能·羽拭苍锋</span>替换为<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>。",
-        "短按共鸣技能，施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>，会切换至<span style=\"color:#ffd12f;\">羽剑式</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，回复100点<span style=\"color:#ffd12f;\">【流响】</span>和1点<span style=\"color:#ffd12f;\">【苍翎】</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>耗尽时，若处于<span style=\"color:#ffd12f;\">苍剑式</span>，<span style=\"color:#ffd12f;\">共鸣技能·羽拭苍锋</span>替换为<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>。",
+        "短按共鸣技能，会切换至<span style=\"color:#ffd12f;\">羽剑式</span>，并施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，回复100点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>和1点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
         "<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>命中目标时，消耗目标1层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
         "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>后，一定时间内将不会重置连段。若施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>打断<span style=\"color:#ffd12f;\">普攻·苍剑式</span>连段，则会召唤<span style=\"color:#ffd12f;\">声之幻身</span>完成当前攻击，造成固定<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">普攻伤害</span>，该次攻击造成的伤害不受伤害加成影响，且无法对目标附加<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
-        "施放该技能一定时间内可以触发成功闪避效果，触发成功闪避效果时消耗50点<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "施放该技能一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "<h3>重击·苍剑式</h3>",
-        "<span style=\"color:#ffd12f;\">【苍翎】</span>回复至上限时，若处于<span style=\"color:#ffd12f;\">苍剑式</span>，长按普攻消耗所有<span style=\"color:#ffd12f;\">【苍翎】</span>，消耗耐力施放<span style=\"color:#ffd12f;\">重击·苍剑式</span>，生成巨大气旋攻击前方，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
-        "施放<span style=\"color:#ffd12f;\">重击·苍剑式</span>时，获得<span style=\"color:#ffd12f;\">绝息</span>，秧秧·玄翎为队伍中登场角色时，此次<span style=\"color:#ffd12f;\">重击·苍剑式</span>暴击伤害提升160%；<span style=\"color:#ffd12f;\">重击·苍剑式</span>结束时移除<span style=\"color:#ffd12f;\">绝息</span>，每25秒仅可获得1次<span style=\"color:#ffd12f;\">绝息</span>。",
+        "<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>回复至上限时，若处于<span style=\"color:#ffd12f;\">苍剑式</span>，长按普攻消耗所有<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>，消耗耐力施放<span style=\"color:#ffd12f;\">重击·苍剑式</span>，生成巨大气旋攻击前方，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·苍剑式</span>时，获得<span style=\"color:#ffd12f;\">【<u>绝息</u>】</span>，秧秧·玄翎为队伍中登场角色时，此次<span style=\"color:#ffd12f;\">重击·苍剑式</span>暴击伤害提升160%；<span style=\"color:#ffd12f;\">重击·苍剑式</span>结束时移除<span style=\"color:#ffd12f;\">【<u>绝息</u>】</span>，每25秒仅可获得1次<span style=\"color:#ffd12f;\">【<u>绝息</u>】</span>。",
         "<span style=\"color:#ffd12f;\">重击·苍剑式</span>会为命中的目标附加2层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
         "<h3>重击·羽剑式</h3>",
-        "<span style=\"color:#ffd12f;\">【苍翎】</span>回复至上限时，若处于<span style=\"color:#ffd12f;\">羽剑式</span>且不处于<span style=\"color:#ffd12f;\">普攻·湮象风华</span>连段，并且处于地面时，长按普攻消耗耐力施放<span style=\"color:#ffd12f;\">重击·羽剑式</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，命中目标后将自动施放<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>。",
-        "施放<span style=\"color:#ffd12f;\">重击·羽剑式</span>时，获得<span style=\"color:#ffd12f;\">流岚</span>，<span style=\"color:#ffd12f;\">流岚</span>持续15秒，秧秧·玄翎为队伍中登场角色时，此次<span style=\"color:#ffd12f;\">重击·羽剑式</span>、<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>、<span style=\"color:#ffd12f;\">普攻·湮象风华</span>、<span style=\"color:#ffd12f;\">闪避反击·湮象风华</span>暴击伤害提升160%；<span style=\"color:#ffd12f;\">普攻·湮象风华</span>第3段或<span style=\"color:#ffd12f;\">闪避反击·湮象风华</span>第3段结束时移除<span style=\"color:#ffd12f;\">流岚</span>，每25秒仅可获得1次<span style=\"color:#ffd12f;\">流岚</span>。",
+        "<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>回复至上限时，若处于<span style=\"color:#ffd12f;\">羽剑式</span>且不处于<span style=\"color:#ffd12f;\">普攻·湮象风华</span>连段，并且处于地面时，长按普攻消耗耐力施放<span style=\"color:#ffd12f;\">重击·羽剑式</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，命中目标后将自动施放<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·羽剑式</span>时，获得<span style=\"color:#ffd12f;\">【<u>流岚</u>】</span>，<span style=\"color:#ffd12f;\">【<u>流岚</u>】</span>持续15秒，秧秧·玄翎为队伍中登场角色时，此次<span style=\"color:#ffd12f;\">重击·羽剑式</span>、<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>、<span style=\"color:#ffd12f;\">普攻·湮象风华</span>、<span style=\"color:#ffd12f;\">闪避反击·湮象风华</span>暴击伤害提升160%；<span style=\"color:#ffd12f;\">普攻·湮象风华</span>第3段或<span style=\"color:#ffd12f;\">闪避反击·湮象风华</span>第3段结束时移除<span style=\"color:#ffd12f;\">【<u>流岚</u>】</span>，每25秒仅可获得1次<span style=\"color:#ffd12f;\">【<u>流岚</u>】</span>。",
         "<span style=\"color:#ffd12f;\">重击·羽剑式</span>会为命中的目标附加2层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
         "<h3>空中攻击·释羽风落</h3>",
-        "<span style=\"color:#ffd12f;\">【苍翎】</span>回复至上限时，若处于<span style=\"color:#ffd12f;\">羽剑式</span>并且处于空中时，<span style=\"color:#ffd12f;\">空中攻击·羽剑式</span>替换为<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>。",
-        "短按普攻或长按普攻消耗所有<span style=\"color:#ffd12f;\">【苍翎】</span>，消耗耐力并施放<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>。施放<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>时，进入<span style=\"color:#ffd12f;\">聆风祀声</span>，持续12秒。",
+        "<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>回复至上限时，若处于<span style=\"color:#ffd12f;\">羽剑式</span>并且处于空中时，<span style=\"color:#ffd12f;\">空中攻击·羽剑式</span>替换为<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>。",
+        "短按普攻或长按普攻消耗所有<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>，消耗耐力并施放<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>，造成<span style=\"color:#e649a6;\">湮灭伤害</span>。施放<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>时，进入<span style=\"color:#ffd12f;\">聆风祀声</span>，持续12秒。",
         "<h3>聆风祀声</h3>",
-        "处于<span style=\"color:#ffd12f;\">羽剑式</span>时，<span style=\"color:#ffd12f;\">普攻·羽剑式</span>替换为<span style=\"color:#ffd12f;\">普攻·湮象风华</span>，消耗耐力进行最多3段攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
+        "处于<span style=\"color:#ffd12f;\">羽剑式</span>时，<span style=\"color:#ffd12f;\">普攻·羽剑式</span>替换为<span style=\"color:#ffd12f;\">普攻·湮象风华</span>，进行最多3段的连续攻击，造成<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。",
         "<span style=\"color:#ffd12f;\">普攻·湮象风华</span>第2、3段可在低空施放，施放第3段后退出<span style=\"color:#ffd12f;\">普攻·湮象风华</span>，该连击段数不会被重置。",
         "<span style=\"color:#ffd12f;\">聆风祀声</span>期间，施放闪避反击，视为施放<span style=\"color:#ffd12f;\">普攻·湮象风华</span>连段。",
         "<h3>羽誓</h3>",
@@ -452,16 +477,16 @@
         "<h3>迭音</h3>",
         "秧秧·玄翎的<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第4段、<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第4段、<span style=\"color:#ffd12f;\">重击·苍剑式</span>、<span style=\"color:#ffd12f;\">重击·羽剑式</span>命中目标前，记录一定范围内的目标被附加的<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>最高层数，一定时间后复制到范围内的所有目标身上。",
         "<h3>【流响】获取规则</h3>",
-        "<span style=\"color:#ffd12f;\">【流响】</span>上限100点。",
-        "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>时回复100点<span style=\"color:#ffd12f;\">【流响】</span>。",
-        "施放共鸣解放<span style=\"color:#ffd12f;\">裁羽寂万音</span>消耗所有<span style=\"color:#ffd12f;\">【流响】</span>。",
-        "施放<span style=\"color:#ffd12f;\">常态攻击</span>造成伤害，并消耗<span style=\"color:#ffd12f;\">【流响】</span>。",
-        "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式切换·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式切换·羽</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【流响】</span>。",
+        "<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>上限100点。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>时回复100点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
+        "施放共鸣解放<span style=\"color:#ffd12f;\">裁羽寂万音</span>消耗所有<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
+        "施放<span style=\"color:#ffd12f;\">常态攻击</span>造成伤害，并消耗<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式切换·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式切换·羽</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>一定时间内可以触发成功闪避，触发成功闪避时消耗50点<span style=\"color:#ffd12f;\">【<u>流响</u>】</span>。",
         "<h3>【苍翎】获取规则</h3>",
-        "<span style=\"color:#ffd12f;\">【苍翎】</span>上限2点。",
-        "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>、<span style=\"color:#ffd12f;\">变奏技能·羽挟苍空</span>时回复1点<span style=\"color:#ffd12f;\">【苍翎】</span>。",
-        "施放<span style=\"color:#ffd12f;\">共鸣解放·裁羽寂万音</span>时回复1点<span style=\"color:#ffd12f;\">【苍翎】</span>。",
-        "施放<span style=\"color:#ffd12f;\">重击·苍剑式</span>、<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>消耗所有<span style=\"color:#ffd12f;\">【苍翎】</span>。"
+        "<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>上限2点。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>、<span style=\"color:#ffd12f;\">变奏技能·羽挟苍空</span>时回复1点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>。",
+        "施放<span style=\"color:#ffd12f;\">共鸣解放·裁羽寂万音</span>时回复1点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·苍剑式</span>、<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>消耗所有<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>。"
       ],
       "tables": [
         {
@@ -652,11 +677,19 @@
           ]
         },
         {
+          "name": "声之幻身伤害",
+          "unit": "",
+          "isSame": true,
+          "values": [
+            "523"
+          ]
+        },
+        {
           "name": "重击·苍剑式耐力消耗",
           "unit": "",
           "isSame": true,
           "values": [
-            "20"
+            "10"
           ]
         },
         {
@@ -664,7 +697,7 @@
           "unit": "",
           "isSame": true,
           "values": [
-            "20"
+            "10"
           ]
         },
         {
@@ -673,14 +706,6 @@
           "isSame": true,
           "values": [
             "20"
-          ]
-        },
-        {
-          "name": "声之幻身伤害",
-          "unit": "",
-          "isSame": true,
-          "values": [
-            "523"
           ]
         }
       ]
@@ -701,15 +726,15 @@
         "<span style=\"color:#ffd12f;\">重击·苍剑式</span>、<span style=\"color:#ffd12f;\">重击·羽剑式</span>、<span style=\"color:#ffd12f;\">空中攻击·释羽风落</span>、<span style=\"color:#ffd12f;\">普攻·湮象风华</span>、<span style=\"color:#ffd12f;\">闪避反击·湮象风华</span>造成的伤害提升100%。",
         "秧秧·玄翎每次脱离战斗状态或恢复意识后，处于非战斗状态达到4秒时，触发一次以下效果：",
         "·获得<span style=\"color:#ffd12f;\">贯珠</span>，上限1层，施放<span style=\"color:#ffd12f;\">普攻·苍剑式</span>、<span style=\"color:#ffd12f;\">普攻·羽剑式</span>时，召唤<span style=\"color:#ffd12f;\">玄翎之影·贯珠</span>攻击目标，造成秧秧·玄翎攻击337.98%的<span style=\"color:#e649a6;\">湮灭伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">重击伤害</span>。召唤<span style=\"color:#ffd12f;\">玄翎之影·贯珠</span>后移除<span style=\"color:#ffd12f;\">贯珠</span>。",
-        "·回复2点<span style=\"color:#ffd12f;\">【苍翎】</span>。",
-        "·重置<span style=\"color:#ffd12f;\">绝息</span>、<span style=\"color:#ffd12f;\">流岚</span>的获取冷却时间。"
+        "·回复2点<span style=\"color:#ffd12f;\">【<u>苍翎</u>】</span>。",
+        "·重置<span style=\"color:#ffd12f;\">【<u>绝息</u>】</span>、<span style=\"color:#ffd12f;\">【<u>流岚</u>】</span>的获取冷却时间。"
       ]
     },
     "3": {
       "name": "追念暨云陵",
       "desc": [
         "共鸣解放<span style=\"color:#ffd12f;\">裁羽寂万音</span>造成的伤害加深175%。",
-        "施放<span style=\"color:#ffd12f;\">变奏技能·羽挟苍空</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>后，使自身一定范围内的目标<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>层数上限提升3层，持续20秒，该效果无法叠加。",
+        "施放<span style=\"color:#ffd12f;\">变奏技能·羽挟苍空</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>时，使自身一定范围内的目标<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>层数上限增加3层，持续20秒，该效果无法叠加。",
         "<span style=\"color:#ffd12f;\">普攻·苍剑式</span>第4段、<span style=\"color:#ffd12f;\">普攻·羽剑式</span>第4段、<span style=\"color:#ffd12f;\">重击·苍剑式</span>、<span style=\"color:#ffd12f;\">重击·羽剑式</span>额外为目标附加1层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。"
       ]
     },
@@ -730,7 +755,7 @@
       "desc": [
         "秧秧·玄翎为目标附加<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>时，获得<span style=\"color:#ffd12f;\">万声皆流</span>，持续30秒。<span style=\"color:#ffd12f;\">万声皆流</span>持续期间，目标受到秧秧·玄翎的重击伤害提升40%。",
         "施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>、<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>时，获得<span style=\"color:#ffd12f;\">止如槁木</span>，持续30秒。<span style=\"color:#ffd12f;\">止如槁木</span>持续期间，若秧秧·玄翎为队伍中登场角色，则附近队伍中的角色为目标附加<span style=\"color:#ffd12f;\">【<u>霜渐效应</u>】</span>、<span style=\"color:#ffd12f;\">【<u>聚爆效应</u>】</span>、<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>、<span style=\"color:#ffd12f;\">【<u>风蚀效应</u>】</span>、<span style=\"color:#ffd12f;\">【<u>光噪效应</u>】</span>、<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>时，秧秧·玄翎召唤<span style=\"color:#ffd12f;\">玄翎之影·止如槁木</span>攻击目标，造成秧秧·玄翎攻击337.98%的<span style=\"color:#e649a6;\">湮灭伤害</span>。<span style=\"color:#ffd12f;\">玄翎之影·止如槁木</span>的伤害为<span style=\"color:#ffd12f;\">重击伤害</span>，且必定暴击。",
-        "<span style=\"color:#ffd12f;\">玄翎之影·止如槁木</span>召唤间隔1秒，召唤5次后移除<span style=\"color:#ffd12f;\">止如槁木</span>，<span style=\"color:#ffd12f;\">止如槁木</span>的获取冷却时间25秒。"
+        "<span style=\"color:#ffd12f;\">玄翎之影·止如槁木</span>召唤间隔1秒，召唤5次后移除<span style=\"color:#ffd12f;\">止如槁木</span>，<span style=\"color:#ffd12f;\">止如槁木</span>持续时间结束或被移除后，重置<span style=\"color:#ffd12f;\">玄翎之影·止如槁木</span>的召唤次数，<span style=\"color:#ffd12f;\">止如槁木</span>的获取冷却时间25秒。"
       ]
     }
   },
@@ -739,7 +764,8 @@
       "name": "延奏技能: 且随风引",
       "desc": [
         "攻击目标，造成秧秧·玄翎300%攻击的<span style=\"color:#e649a6;\">湮灭伤害</span>。",
-        "队伍中除秧秧·玄翎以外的角色，20秒内为目标附加<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>时，该角色湮灭伤害加深20%，持续20秒。"
+        "队伍中除秧秧·玄翎以外的角色，获得<span style=\"color:#ffd12f;\">移宫换羽</span>状态，持续20秒，<span style=\"color:#ffd12f;\">移宫换羽</span>持续期间为目标附加<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>后，该角色湮灭伤害加深20%。",
+        "施放该技能时，重置该技能效果。"
       ]
     },
     {
@@ -762,6 +788,7 @@
         "附近队伍中的角色对目标附加<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>时，秧秧·玄翎获得1层<span style=\"color:#ffd12f;\">风息相依</span>，<span style=\"color:#ffd12f;\">风息相依</span>获得间隔1秒，最多叠加6层。",
         "<span style=\"color:#ffd12f;\">风息相依</span>叠加至6层时，秧秧·玄翎移除全部<span style=\"color:#ffd12f;\">风息相依</span>，并获得<span style=\"color:#ffd12f;\">风我同频</span>。",
         "拥有<span style=\"color:#ffd12f;\">风我同频</span>时，秧秧·玄翎施放<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·苍</span>或<span style=\"color:#ffd12f;\">共鸣技能·剑式流转·羽</span>时，召唤<span style=\"color:#ffd12f;\">释羽·玄翎</span>，为目标附加6层<span style=\"color:#ffd12f;\">【<u>虚湮效应</u>】</span>。",
+        "拥有<span style=\"color:#ffd12f;\">风我同频</span>时，无法获得<span style=\"color:#ffd12f;\">风息相依</span>。",
         "召唤<span style=\"color:#ffd12f;\">释羽·玄翎</span>后，移除<span style=\"color:#ffd12f;\">风我同频</span>状态。"
       ]
     }
@@ -770,13 +797,179 @@
     {
       "name": "频谱检验报告",
       "desc": [
-        "未知"
+        "「频谱检验报告RA2710-G」",
+        "与以往报告相比，频谱检验图拟合程度极高，<u>拉贝尔曲线</u>亦无明显变化，呈稳定上升态，最终趋向稳定波动，检测结果判断为自然型共鸣者。",
+        "对象能与自然气流感应，可汇聚气流形成有能量的场域。除此之外，其能用共鸣力凝聚“苍翎”，可将接触到的频率中和还原，亦能消除施加于生物与非生物的共鸣能力及其造成的影响。",
+        "据对象所述，其在玄方城咎庭内接受了来自玄方地界过去的回音生物“玄翎雀”的频率，导致共鸣能力发生改变。然而，频谱检验结果指向对象共鸣源无明显变化，故判断对象共鸣源未发生二次突变。",
+        "<i>“与玄翎雀共鸣……虽然是很符合直觉的猜想，但数据并不支持这一点……你的频率，与其说变化，更像是被‘补全’了……举例来说，就像失忆的人回想起自己的过去一样，也许你原本就拥有这份能力，只是直到今天才发现——当然，这些也只是推测。”——截自与<u>华胥研究院</u>医师的谈话</i>"
       ]
     },
     {
       "name": "超频诊断报告",
       "desc": [
-        "未知"
+        "受试样本波形检测图总体呈椭圆形，偶见针尖状波动，上下峰值呈升高趋势，暂未见异常波形。",
+        "诊断结果：与以往报告比较，<u>超频</u>临界值有所下降，稳定性虽仍维持较高水平，但需注意潜在风险。",
+        "存在过往超频史，最高等级：中。",
+        "对象于<u>玄方地界</u>曾多次陷入感知过载状态，发梢与发尾不可逆羽毛化现象加重，需留心观察有无进一步扩散趋势。",
+        "建议按时进行定期检查，暂无需心理辅导。"
+      ]
+    },
+    {
+      "name": "失败的记录",
+      "desc": [
+        "那是她向母亲表明志向的三天之后。",
+        "那天傍晚，秧秧家的饭桌上多了一双筷子。",
+        "“听说，你家的娃娃想要从军？是哪一个？”饭后闲聊时，宾客饮下一杯茶，向她的父母问起。",
+        "“嗯……目中有神，心无杂质，是能吃苦的性子吧。”宾客端详着那尚未脱去稚气的脸庞，笑着说道，“看你应该有些基础，在哪里学的？道场？那里不是教真本事的地方，想要上阵杀敌，光会那些还不够。”",
+        "“来，让我看看你此前学了什么。”宾客起身，走到宅中院下，“可不能白蹭你母亲做的饭。”",
+        "“好。”得到父母的应许后，她取出平日练习用的木剑，走至宾客面前，摆出架势。",
+        "她不知道宾客是什么身份，只知道是父母的亲友。但聪明如秧秧，也知晓宾客为何会在这个时候前来赴宴，并提出要试试她的本事。",
+        "父母支持她的愿望，却也要让她看到，为了实现愿望，她还要经历多少考验。",
+        "她向自己的第一道考验发起冲锋，就像雏雀第一次振动翅膀，想要飞向天空。",
+        "……",
+        "“心性不错，可惜，资质平平，不像那些万里挑一的天才，武学之道，哪怕穷极一生，你也定走不到终点。”",
+        "瘫倒在地的那一瞬间，她仿佛回到了第一天前往道场的那一刻。",
+        "一无所知，茫然失措。",
+        "“我听你的母亲谈起过你的天赋，若是继承她的衣钵，想必不假时日，你便能青出于蓝吧。”宾客拾起她脱手的木剑，“即便如此，你还打算坚持下去么？”",
+        "她点点头，伸出手，攥住了递在她身前的剑柄。",
+        "……",
+        "那之后，每隔十数日，宾客便会来到秧秧家中做客，每次临走之前，她都会指点秧秧一二，时为剑术，时为兵法。她不允许秧秧称她为老师，表示自己只是一个来蹭饭的客人，对朋友家中的小孩有莫名的指导欲而已。",
+        "“请问……我什么时候才能知道，我已经准备好了？”",
+        "“嗯……这样好了。”",
+        "次日清晨，秧秧家里多出了一节木桩。那木桩通体黑灰，表面坚硬如铁，即便是真正的刀剑，也难以在上面留下痕迹。",
+        "宾客取过秧秧的木剑，随手一挥，一阵劲风过后，剑身已入木三寸。",
+        "宾客指着那道深深的剑痕，“什么时候你不用共鸣力也能做到一样的事，就算你准备好了。”",
+        "……",
+        "时光飞逝，两年过去。",
+        "少女的脸上已不见稚嫩，而那道木桩上，也留下了无数道深浅不一的剑痕。",
+        "她屏息凝气，端正架势。剑芒如风，带起一地落叶。",
+        "“……”",
+        "承载了她两年光阴中所有坚持的一剑，堪堪入木一分有余。",
+        "今天，是她与父母约定好，要离开家，前往今州的日子。",
+        "她没能做到在出发之前达成那位“老师”的要求，但她还是要出发了。",
+        "她向木桩深鞠一躬，将木剑留在了自家的院子里。",
+        "告别了父母与姐姐后，她行至明庭城外，在即将经过第一道关隘的时候，她远远地看到了一个身影。",
+        "“对不起，老师。我失败了。”",
+        "“如果我说，你也许练习一生也做不到呢？”",
+        "“那我可能……会难过一会儿吧。”",
+        "“但这阻止不了你，对吗。”",
+        "“嗯。”",
+        "“那就好。”“老师”拍了拍她的头，转身向城内走去，“知道这世上有自己不可能做到的事，然后——”",
+        "“一路向前吧。”"
+      ]
+    },
+    {
+      "name": "开始的记录",
+      "desc": [
+        "从<u>明庭</u>走到<u>今州</u>，花了她很久、很久的时间，久到恍若隔世，久到……这一路上的见闻与遭遇，足以将她自以为积累起的一切统统打碎。",
+        "她以为，曾经的她已经窥见过一次“真实”。她以为，自己清楚地知道，自己的剑该为谁所挥动。她能判断何为“对”，何为“错”，她明白何为“善”，何为“恶”——她的心中有一杆标尺，可随着她走过的地方越来越多，她却发现，自己无法用它去丈量世上的所有事物。",
+        "有人心怀善意却最终酿成了悲剧，有人恶贯满盈，却也以这份恶守护了数份幸福。这个世界太过复杂，复杂到她穷尽一生，或许也没法完全理解。",
+        "更何况，她也曾一度放弃了“理解”。",
+        "那是在越州，她受到一名母亲的委托，去帮忙寻找她被掳走的孩子。",
+        "掳走孩子的，是当地一支以恶神为信仰的集团，一群双手沾满罪恶，已不可用“人类”这个词去形容的疯子。",
+        "当她跟随当地的<u>军策府</u>冲进集团的据点时，她所看到的景象堪称地狱。",
+        "那一刻，所有想法从她的脑中蒸发，所有的美好，所有的善，都被她抛诸脑后。",
+        "……",
+        "等军策府的军人打扫完战场，拍了拍她的肩膀时，她才意识到一切已经结束。",
+        "她听见断断续续的滴答声，自她的剑尖没入地面。她解开自己的头发，发现母亲送她的发带上，已满是触目惊心的红色。",
+        "她记不清那段时间发生了什么，她夺走了他人的生命吗？哪怕这次没有，只要她还走在这条路上，就总会有。",
+        "她知道如若不愿面对这样的事实，她的剑就不具备真正的力量。",
+        "可那滋味仍不好受。",
+        "再度启程时的她，洗净了发带上的污迹，没能洗净眼中的阴霾。",
+        "即便受到了那位母亲由衷的感谢，即便守护了无辜之人的幸福，她却无法对他们回以一个真诚的微笑。",
+        "她揣着这样破碎的心境踏入今州，独自一人，站在能遥望到边庭的广场中央。她知道自己接下来该前往哪里，可双脚却像灌了铅一样，始终无法迈出那一步。",
+        "……",
+        "“唉~你怎么一个人站在这儿？是迷路了还是怎样？”",
+        "“我叫炽霞，是今巡——呃，‘实习’巡尉，有什么我能帮上忙的，尽管开口好啦！对了，你肚子饿了吗？我跟你说哦，来今州一定要尝尝攀花饭馆——”",
+        "直至有名自来熟的同龄女孩朝她搭话，直至她拉着自己，朝着她还未来得及熟悉的那一切奔去。"
+      ]
+    },
+    {
+      "name": "友谊的记录",
+      "desc": [
+        "“秧秧，这位是白芷，<u>华胥研究院</u>的研究员。在考核期间，调查<u>今州</u>附近新生成的<u>无音区</u>时，她会为你提供技术支援。”",
+        "……",
+        "“你好，我叫白芷——”",
+        "“——秧秧！今天中午吃什么？阿姨喊我们去尝尝她做的新菜呢，不过，上次一起去吃的潮饼也——”",
+        "“不好意思，调查下午就要开始，恐怕没有留给你们吃饭的时间了。”",
+        "“人是铁饭是钢，有什么事吃完饭再……话说，你是谁啊……？”",
+        "“……”",
+        "那一天，当青色与火红的眼眸第一次相对的时候，她们的心中或许不约而同地冒出了同一个想法——“自己不可能和眼前这个人相处融洽。”",
+        "“哈哈……”两道截然不同的温度立在她的两旁，可奇异的是，她却不曾感到窘迫与尴尬。",
+        "仿佛，她早就知道会有这么一场邂逅，仿佛，她们三人之间，注定会以这种方式结识彼此。",
+        "她想，即便气氛有些剑拔弩张，她们却仍好好地注视着对方。",
+        "“那么，就买些东西回来，在路上吃吧。”她轻轻拍拍掌，提出了折中的方案，“白芷，户外调查也是需要体力的，可不能饿着肚子去。”",
+        "“嗯……合理的意见。”",
+        "“那就去上周刚开的那家……不，秧秧，你决定吧。”",
+        "那是，蓝、白、红的三道身影第一次结伴走在今州的街道上。",
+        "……",
+        "“秧秧，这是华胥新制的特效药，你带给炽霞吧。吃了这个，过两天感冒就能好了。”",
+        "“可以是可以，不过白芷，你不亲自交给她吗？”",
+        "“嗯……”",
+        "……",
+        "“对了秧秧，阿姨炒了些菜，你带着吧。白芷今天不是要加班到很晚吗，这些给她当夜宵吧。”",
+        "“可以是可以……不过炽霞，你可以亲手送给她呀。”",
+        "“呃……”",
+        "……",
+        "就这样，时间一天天过去。没有刻骨铭心的记忆，也没有像戏剧那样夸张的事件。",
+        "她们只是在用无数个平淡如水的日常，直接或间接地，慢慢地了解彼此。",
+        "“白芷，关于接下来的调查……炽霞正好对那一片的地形很熟，所以我特地向<u>巡宁所</u>申请，让她过来帮我们一段时间。”",
+        "“咳咳……看在秧秧的份上啦。由我带路，省得大家东跑西跑的，任务效率也高嘛……”",
+        "“我知道了……”白芷阖上手里的资料，闭眼思索了片刻，“所以——”",
+        "“——今天中午吃什么？”"
+      ]
+    },
+    {
+      "name": "封存的记录",
+      "desc": [
+        "“嗒哒~秧秧，恭喜你成为<u>踏白</u>！这是我和白芷一起选的，喜欢吗？”",
+        "“踏白需要经常草行露宿，你的头发不好打理，这顶帽子也许能帮你防些风雨，还是很实用的。”",
+        "“这些都不重要不重要~重要的是——秧秧戴上一定会很好看，对吧？”",
+        "“谢谢……白芷，炽霞。”",
+        "她从朋友的手中接过这份礼物，将它戴在头顶上。",
+        "那一瞬间，她好似回到了许多年前。",
+        "……",
+        "“……怎么了，秧秧？”灯火斑斓的庙会上，姐姐注意到她停驻在一家店铺前，忘神地盯着货架上的某样东西，“啊，你是不是想要那顶帽子？嗯……不错呀，你看你看，上面还纹着小鸟呢。”",
+        "“但是，好贵……”她看一眼架上的价格，低头看向手里攥着的零钱，微微退后一步，“走吧姐姐，之前说好了，我们一起去买麦芽糖的……”",
+        "“嗯！果然很好看！”还没等她回过神来，那顶帽子就被戴在了她的头上。",
+        "“姐姐……！？不可以乱拿别人的东西——”她有点慌乱，却看到穗穗不知从哪掏出了一个钱袋，在她面前晃荡。",
+        "“哼哼~秧秧，你对姐姐的财力可是一无所知呀。”穗穗贼贼笑着，袋子里的钱币叮铃作响，“一顶帽子而已，对姐姐的小金库来说洒洒水啦。”",
+        "“但是，那是姐姐辛苦赚到的——”",
+        "“这有什么！”穗穗拉起她的手，带她向更热闹的地方跑去，“我可是你姐啊，我的就是你的，啊，你的当然也是我的咯~”",
+        "……",
+        "对她而言，从出生的那一刻起，“姐姐”一直是一个“理所应当”的存在。",
+        "理所应当地一起嬉笑打闹，理所应当地向彼此分享一切，理所应当地……出现在她每天的生活里。",
+        "直到她做出那个决定，她才意识到，她马上就要与所有她曾认为“理所应当”的事物告别了。",
+        "如果不迈出那一步，她就永远无法成为自己想要的“自己”，如果迈出了那一步，一切她所熟悉的、依赖的关系，就要变形成新的模样。",
+        "她将和姐姐有关的一切封存在了<u>明庭</u>的家里。也许有一天，等她要离开<u>今州</u>时，她也会将和如今的自己有关的一切，封存在这里吗？",
+        "她不知道，不过，她知道的是——",
+        "此时此刻，从脑袋上传来的温暖，与多年前别无二致。",
+        "她知道自己已不再是那个随姐姐在庙会中奔跑的小女孩。",
+        "她知道姐姐的来信，下月就到。"
+      ]
+    },
+    {
+      "name": "未寄出的记录",
+      "desc": [
+        "<i>那一天的相遇，是偶然吗？还是必然呢。</i>",
+        "<i>初醒时的你忘记了一切，可你那对金色的眼瞳告诉我，你所背负的，你所经历的，或许远远超出我能想象的范围。</i>",
+        "<i>你总是毫不犹豫地冲到所有人的前面，你总是想着，让自己身处风暴的中心。</i>",
+        "<i>那是你的选择吗？还是说，它已经变成了你的本能了呢？</i>",
+        "<i>你总是……比别人迈出更远的步伐，不论多少人曾与你并肩同行，你总会……走到大家都触及不到的地方。</i>",
+        "<i>但我想，这个世界上不存在注定孤独的灵魂。</i>",
+        "<i>也许，我只是为了我自己，才想要这么做。</i>",
+        "<i>我只是想去守护一个……嗯……不那么懂得守护自己的人。</i>",
+        "<i>虽然我们相处的时光，对于你的旅途而言，可能只是茫茫大海中的一朵浮浪。</i>",
+        "<i>可这份情感，这份冲动，无关资格与时间。</i>",
+        "<i>它只是我的……一个有些奢侈的愿望。</i>",
+        "<i>我希望，无论开心或悲伤，无论顺境或逆境，当你需要依靠，当你也需要向人倾诉的时候，我能站在你的身旁。</i>",
+        "<i>我希望……</i>",
+        "……",
+        "她的笔尖停下了。",
+        "她盯着那份写了一半的信，默读了一遍又一遍。",
+        "最终，她将那张信纸折叠，装进信封，将它藏在了抽屉下面。",
+        "她重新取出一张信纸，开始在上面书写。",
+        "<i>漂泊者，最近如何？一切都还顺利吗？</i>"
       ]
     }
   ]
