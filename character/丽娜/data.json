@@ -47,10 +47,10 @@
         "长按「普通攻击」或「特殊技」发动：",
         "召回杜苏拉和安娜塔莎，在身边回旋后进行范围攻击，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>；",
         "招式发动期间抗打断等级提升。",
-        "<h3>晨间清扫</h3>",
-        "当丽娜释放<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>后，持续13秒内，杜苏拉或安娜塔莎会每间隔2.5秒，攻击敌人1次，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>，并获得1点<span style=\"color:#FFFFFF;\">[惊吓]</span>，至多获得6点<span style=\"color:#FFFFFF;\">[惊吓]</span>；招式发动后重置杜苏拉和安娜塔莎离场倒计时。",
-        "<h3>午夜清扫</h3>",
-        "当<span style=\"color:#FFFFFF;\">[惊吓]</span>达到6点时，杜苏拉或安娜塔莎下一次发动<span style=\"color:#FFFFFF;\">[晨间清扫]</span>会消耗全部<span style=\"color:#FFFFFF;\">[惊吓]</span>，改为发动<span style=\"color:#FFFFFF;\">[午夜清扫]</span>；招式发动后重置杜苏拉和安娜塔莎离场倒计时。"
+        "<h3>普通攻击：晨间清扫</h3>",
+        "当丽娜发动<span style=\"color:#FFFFFF;\">[强化特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>后，进入<span style=\"color:#FFFFFF;\">[一尘不染]</span>状态，持续13秒，期间杜苏拉或安娜塔莎会每间隔2.5秒，攻击敌人1次，造成<span style=\"color:#F0D12B;\">物理伤害</span>和<span style=\"color:#2EB6FF;\">电属性伤害</span>，并获得1层<span style=\"color:#FFFFFF;\">[惊吓]</span>，至多获得6层<span style=\"color:#FFFFFF;\">[惊吓]</span>；招式发动后重置杜苏拉和安娜塔莎离场倒计时。",
+        "<h3>普通攻击：午夜清扫</h3>",
+        "当<span style=\"color:#FFFFFF;\"><Term:1000026></Term></span>达到6层时，杜苏拉或安娜塔莎下一次发动<span style=\"color:#FFFFFF;\">[普通攻击：晨间清扫]</span>会消耗全部<span style=\"color:#FFFFFF;\">[惊吓]</span>，改为发动<span style=\"color:#FFFFFF;\">[普通攻击：午夜清扫]</span>，造成<span style=\"color:#2EB6FF;\">电属性伤害</span>；招式发动后重置杜苏拉和安娜塔莎离场倒计时。"
       ],
       "tables": [
         {
