@@ -477,8 +477,8 @@
         "发动该招式后，点按「普通攻击」可衔接<span style=\"color:#FFFFFF;\">[普通攻击]</span>第五段；",
         "招式发动期间拥有无敌效果。",
         "<h3>强化特殊技：风切变·风暴眼</h3>",
-        "<Term:1000008></Term>大于等于90点时，长按「特殊技」或「普通攻击」发动：",
-        "维琳娜汇聚旋风，随后召唤出<Term:1000016></Term>，持续攻击敌人，并触发上一位角色的<span style=\"color:#FFFFFF;\">[快速支援]</span>；",
+        "<span style=\"color:#FFFFFF;\">[风华]</span>大于等于90点时，长按「特殊技」或「普通攻击」发动：",
+        "维琳娜汇聚旋风，随后召唤出<span style=\"color:#FFFFFF;\">[广域气旋]</span>，持续攻击敌人，并触发上一位角色的<span style=\"color:#FFFFFF;\">[快速支援]</span>；",
         "<span style=\"color:#FFFFFF;\">[广域气旋]</span>持续5秒，每0.5秒对周边敌人造成一次<span style=\"color:#A6C5FD;\">风属性伤害</span>。"
       ],
       "tables": [
@@ -1091,15 +1091,15 @@
       "desc": [
         "<h3>核心被动：风华盈袖</h3>",
         "维琳娜初始能量自动回复大于1.2时，超过部分每超过0.01，造成的伤害提升0.21%，最多提升35%，异常掌控提升0.5点，最多提升84点；",
-        "维琳娜进入战场时，获得45点<Term:1000008></Term>，在勘域模式中此效果180秒内最多触发一次，维琳娜发动<span style=\"color:#FFFFFF;\">[强化特殊技：风切变·扬清]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：风切变·三重绝息]</span>都会获得45点<span style=\"color:#FFFFFF;\">[风华]</span>，<span style=\"color:#FFFFFF;\">[风华]</span>上限为135点；",
-        "维琳娜触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会获得1点<Term:1000014></Term>并召唤<Term:1000015></Term>，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>，该效果每3秒最多触发一次，当维琳娜拥有2点<span style=\"color:#FFFFFF;\">[风蚀]</span>时，维琳娜下一次触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会消耗2点<span style=\"color:#FFFFFF;\">[风蚀]</span>使此时<span style=\"color:#FFFFFF;\">[乱流]</span>的伤害倍率提升<span style=\"color:#2BAD00;\">(90%/100%/110%/120%/130%/140%/150%)</span>，并且不再召唤<span style=\"color:#FFFFFF;\">[微域气旋]</span>转而召唤<Term:1000016></Term>，此时不会获得<span style=\"color:#FFFFFF;\">[风蚀]</span>；",
-        "当维琳娜召唤的<span style=\"color:#FFFFFF;\">[广域气旋]</span>首次命中处于<span style=\"color:#FFFFFF;\">[浸染]</span>状态下的敌人，会触发<Term:1000017></Term>效果，转化为相应属性的<span style=\"color:#FFFFFF;\">[广域气旋]</span>，并会造成相应属性的伤害，<span style=\"color:#FFFFFF;\">[广域气旋]</span>攻击命中敌人时，会使敌人的<span style=\"color:#A6C5FD;\">风属性异常积蓄抗性</span>降低7%，持续35秒，重复触发时刷新持续时间，若<span style=\"color:#FFFFFF;\">[赋彩]</span>后的<span style=\"color:#FFFFFF;\">[广域气旋]</span>攻击命中敌人，则敌人的<span style=\"color:#FFFFFF;\">相应属性异常积蓄抗性</span>也会降低7%，持续35秒，重复触发时刷新持续时间；",
+        "维琳娜进入战场时，获得45点<span style=\"color:#FFFFFF;\">[风华]</span>，在勘域模式中此效果180秒内最多触发一次，维琳娜发动<span style=\"color:#FFFFFF;\">[强化特殊技：风切变·扬清]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技：风切变·三重绝息]</span>都会获得45点<span style=\"color:#FFFFFF;\">[风华]</span>，<span style=\"color:#FFFFFF;\">[风华]</span>上限为135点；",
+        "维琳娜触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会获得1点<span style=\"color:#FFFFFF;\">[风蚀]</span>并召唤<span style=\"color:#FFFFFF;\">[微域气旋]</span>，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>，该效果每3秒最多触发一次，当维琳娜拥有2点<span style=\"color:#FFFFFF;\">[风蚀]</span>时，维琳娜下一次触发<span style=\"color:#FFFFFF;\">[乱流]</span>时，会消耗2点<span style=\"color:#FFFFFF;\">[风蚀]</span>使此时<span style=\"color:#FFFFFF;\">[乱流]</span>的伤害倍率提升<span style=\"color:#2BAD00;\">(90%/100%/110%/120%/130%/140%/150%)</span>，并且不再召唤<span style=\"color:#FFFFFF;\">[微域气旋]</span>转而召唤<span style=\"color:#FFFFFF;\">[广域气旋]</span>，此时不会获得<span style=\"color:#FFFFFF;\">[风蚀]</span>；",
+        "当维琳娜召唤的<span style=\"color:#FFFFFF;\">[广域气旋]</span>首次命中处于<span style=\"color:#FFFFFF;\">[浸染]</span>状态下的敌人，会触发<span style=\"color:#FFFFFF;\">[赋彩]</span>效果，转化为相应属性的<span style=\"color:#FFFFFF;\">[广域气旋]</span>，并会造成相应属性的伤害，<span style=\"color:#FFFFFF;\">[广域气旋]</span>攻击命中敌人时，会使敌人的<span style=\"color:#A6C5FD;\">风属性异常积蓄抗性</span>降低7%，持续35秒，重复触发时刷新持续时间，若<span style=\"color:#FFFFFF;\">[赋彩]</span>后的<span style=\"color:#FFFFFF;\">[广域气旋]</span>攻击命中敌人，则敌人的<span style=\"color:#FFFFFF;\">相应属性异常积蓄抗性</span>也会降低7%，持续35秒，重复触发时刷新持续时间；",
         "受到<span style=\"color:#FFFFFF;\">[广域气旋]</span>影响的敌人被击败时，会使该<span style=\"color:#FFFFFF;\">[广域气旋]</span>的持续时间延长5秒，该效果对同一<span style=\"color:#FFFFFF;\">[广域气旋]</span>仅能触发一次，同一时间只能存在一个<span style=\"color:#FFFFFF;\">[广域气旋]</span>；",
         "<span style=\"color:#FFFFFF;\">[微域气旋]</span>和<span style=\"color:#FFFFFF;\">[广域气旋]</span>会在消散时触发一次爆炸，该次爆炸命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，都会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，固定结算<span style=\"color:#2BAD00;\">(85%/95%/105%/115%/125%/135%/145%)</span>和<span style=\"color:#2BAD00;\">(135%/155%/175%/195%/215%/235%/255%)</span>倍率的<span style=\"color:#A6C5FD;\">风属性异常伤害</span>。",
         "<h3>额外能力：茶会礼仪</h3>",
         "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或与自身属性相同的角色时触发：",
         "维琳娜造成的<span style=\"color:#A6C5FD;\">[风化]</span>和<span style=\"color:#FFFFFF;\">[乱流]</span>伤害提升10%，<span style=\"color:#FFFFFF;\">[终结技]</span>重击命中处于<span style=\"color:#A6C5FD;\">风属性异常状态</span>下的敌人时，会对目标造成一次<span style=\"color:#FFFFFF;\">[异放]</span>伤害：额外结算一次属性异常伤害，固定结算<span style=\"color:#A6C5FD;\">680%</span>倍率的<span style=\"color:#A6C5FD;\">风属性异常伤害</span>；",
-        "<span style=\"color:#FFFFFF;\">[核心被动：风华盈袖]</span>中，<Term:1000016></Term>造成的<span style=\"color:#FFFFFF;\">属性异常积蓄抗性</span>降低效果额外提升7%，造成的失衡值提升30%，累积的属性异常积蓄值提升15%。"
+        "<span style=\"color:#FFFFFF;\">[核心被动：风华盈袖]</span>中，<span style=\"color:#FFFFFF;\">[广域气旋]</span>造成的<span style=\"color:#FFFFFF;\">属性异常积蓄抗性</span>降低效果额外提升7%，造成的失衡值提升30%，累积的属性异常积蓄值提升15%。"
       ]
     }
   ]

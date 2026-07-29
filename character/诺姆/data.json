@@ -481,13 +481,13 @@
         "驾驶炮塔连续射击并根据敌人状态发射不同类型的导弹：",
         "主要攻击目标未处于失衡状态时，发射破甲弹头，造成<span style=\"color:#FF5521;\">火属性伤害</span>并累积较多<span style=\"color:#FFFFFF;\">失衡值</span>；",
         "主要攻击目标处于失衡状态时，发射高爆弹头，造成更高<span style=\"color:#FF5521;\">火属性伤害</span>；",
-        "招式发动后，诺姆获得16%<span style=\"color:#FFFFFF;\"><Term:1000011></Term></span>，并进入<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态，持续32秒，<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态期间，诺姆会放置两座<span style=\"color:#FFFFFF;\">[嗯呢炮塔]</span>加入战斗；",
+        "招式发动后，诺姆获得16%<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[预热膛温]</span></span>，并进入<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态，持续32秒，<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态期间，诺姆会放置两座<span style=\"color:#FFFFFF;\">[嗯呢炮塔]</span>加入战斗；",
         "保持长按可以持续消耗能量并延长最多2秒射击时间，每通过长按消耗1点能量，诺姆额外获得0.4%<span style=\"color:#FFFFFF;\">[预热膛温]</span>，并使本轮<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>状态的持续时间额外增加0.8秒，最多增加32秒；",
         "招式发动期间拥有无敌效果。",
         "<h3>特殊技：打靶练习</h3>",
-        "战斗中，<span style=\"color:#FFFFFF;\"><Term:1000010></Term></span>会自动对敌人发动攻击， 造成<span style=\"color:#FF5521;\">火属性伤害</span>。",
+        "战斗中，<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[嗯呢炮塔]</span></span>会自动对敌人发动攻击， 造成<span style=\"color:#FF5521;\">火属性伤害</span>。",
         "<h3>强化特殊技：火力实验</h3>",
-        "队伍中任意角色使敌人进入失衡状态时，或是诺姆消耗<span style=\"color:#FFFFFF;\"><Term:1000011></Term></span>触发<span style=\"color:#FFFFFF;\">[连携技]</span>时，<span style=\"color:#FFFFFF;\"><Term:1000010></Term></span>会展开导弹舱，持续8秒，重复触发时刷新持续时间；",
+        "队伍中任意角色使敌人进入失衡状态时，或是诺姆消耗<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[预热膛温]</span></span>触发<span style=\"color:#FFFFFF;\">[连携技]</span>时，<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[嗯呢炮塔]</span></span>会展开导弹舱，持续8秒，重复触发时刷新持续时间；",
         "期间，<span style=\"color:#FFFFFF;\">[嗯呢炮塔]</span>的自动攻击间隔减少，自动攻击时根据敌人状态额外发射不同类型的导弹：",
         "主要攻击目标未处于失衡状态时，发射破甲弹头，造成<span style=\"color:#FF5521;\">火属性伤害</span>并累积较多<span style=\"color:#FFFFFF;\">失衡值</span>；",
         "主要攻击目标处于失衡状态时，发射高爆弹头，造成更高<span style=\"color:#FF5521;\">火属性伤害</span>；"
@@ -998,7 +998,7 @@
         "<h3>终结技：优势火力学说</h3>",
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
         "召唤战术火炮轰炸前方敌人，造成大量<span style=\"color:#FF5521;\">火属性伤害</span>；",
-        "招式发动时，立刻获得30%<span style=\"color:#FFFFFF;\"><Term:1000011></Term></span>；",
+        "招式发动时，立刻获得30%<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[预热膛温]</span></span>；",
         "招式发动期间拥有无敌效果。"
       ],
       "tables": [
@@ -1275,13 +1275,13 @@
         "初始暴击率超过50%时，每超过1%，暴击伤害提升<span style=\"color:#2BAD00;\">(0.86%/1%/1.14%/1.28%/1.42%/1.56%/1.7%)</span>，最多额外提升<span style=\"color:#2BAD00;\">(43%/50%/57%/64%/71%/78%/85%)</span>；",
         "初始暴击率超过50%时，每超过1%，[强化特殊技]、[特殊技]、[终结技]攻击命中敌人时，造成的失衡值提升<span style=\"color:#2BAD00;\">(0.44%/0.5%/0.56%/0.62%/0.68%/0.74%/0.8%)</span>，最多额外提升<span style=\"color:#2BAD00;\">(22%/25%/28%/31%/34%/37%/40%)</span>；",
         "诺姆会根据自身贯穿力额外提升攻击力，每1点贯穿力将提升1.25点攻击力，最多提升1200点攻击力；",
-        "进入战场时，诺姆立刻获得60%<span style=\"color:#FFFFFF;\"><Term:1000011></Term></span>，在勘域模式中此效果180秒内最多触发一次；",
+        "进入战场时，诺姆立刻获得60%<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[预热膛温]</span></span>，在勘域模式中此效果180秒内最多触发一次；",
         "<span style=\"color:#FFFFFF;\">[预热膛温]</span>大于等于80%后，下次发动的<span style=\"color:#FFFFFF;\">[普通攻击：帽子把戏]</span>将无视冷却时间限制触发<span style=\"color:#FFFFFF;\">[快速支援]</span>，并消耗80%<span style=\"color:#FFFFFF;\">[预热膛温]</span>将其替换为<span style=\"color:#FFFFFF;\">[连携技]</span>。",
         "<h3>额外能力：集群优势</h3>",
         "队伍中存在<span style=\"color:#FFFFFF;\">[强攻]</span>、<span style=\"color:#FFFFFF;\">[命破]</span>角色或与自身阵营相同的角色时触发：",
         "诺姆及其造物、战斗邦布攻击命中敌人时，对敌人施加1层<span style=\"color:#FFFFFF;\">[技术鸿沟]</span>，每层<span style=\"color:#FFFFFF;\">[技术鸿沟]</span>能够使目标的失衡易伤倍率提升3%，最多叠加10层，每0.5秒最多叠加1层；",
         "持有任意层数<span style=\"color:#FFFFFF;\">[技术鸿沟]</span>的敌人进入失衡状态后的失衡持续时间提升2秒，失衡持续时间提升效果与同类效果不可叠加，拥有<span style=\"color:#FFFFFF;\">[技术鸿沟]</span>效果的敌人失衡结束时<span style=\"color:#FFFFFF;\">[技术鸿沟]</span>效果结束；",
-        "<span style=\"color:#FFFFFF;\"><Term:1000012></Term></span>期间，诺姆的攻击力提升44点，该效果随角色等级提升，每级增加14点，最多提升870点；",
+        "<span style=\"color:#FFFFFF;\"><span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span></span>期间，诺姆的攻击力提升44点，该效果随角色等级提升，每级增加14点，最多提升870点；",
         "<span style=\"color:#FFFFFF;\">[嗯呢弹幕]</span>期间，全队代理人造成的伤害提升<span style=\"color:#FFFFFF;\">20%</span>。"
       ]
     }

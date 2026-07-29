@@ -1014,7 +1014,7 @@
         "<h3>核心被动：动力蓄能</h3>",
         "派派在<span style=\"color:#FFFFFF;\">[强化特殊技：引擎转]</span>或<span style=\"color:#FFFFFF;\">[终结技]</span>中发动旋转斩击命中敌人时，获得1层<span style=\"color:#FFFFFF;\">[动力]</span>，最多叠加20层，持续12秒，重复触发时刷新持续时间；每拥有一层<span style=\"color:#FFFFFF;\">[动力]</span>，派派的<span style=\"color:#F0D12B;\">物理异常积蓄效率</span>提升<span style=\"color:#2BAD00;\">(2%/2.3%/2.6%/3%/3.3%/3.6%/4%)</span>。",
         "<h3>额外能力：同步疾驰</h3>",
-        "队伍中存在与自身属性或阵营相同的角色时触发：",
+        "队伍中存在与自身属性或阵营相同的角色或其他<span style=\"color:#FFFFFF;\">[异常]</span>角色时触发：",
         "派派拥有20层或以上<span style=\"color:#FFFFFF;\">[动力]</span>时，全队角色造成的伤害提升18%。"
       ]
     }
