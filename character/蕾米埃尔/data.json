@@ -2,15 +2,15 @@
   "id": 1581,
   "name": "蕾米埃尔",
   "abbr": "蕾米埃尔",
-  "title": "AvatarSkin_RemielleOrigin_Name_000",
+  "title": "空羽呢喃",
   "star": 5,
   "elem": "electro",
   "allegiance": "达识结社",
   "weapon": "异常",
-  "birth": "-",
-  "desc": "...",
+  "birth": "3-14",
+  "desc": "蕾米埃尔·丹，初代虚狩之一，曾经的节杖军中校，秘密组织达识结社的成员。据记载，蕾米埃尔自幼便展现出极高的天赋，能够迅速掌握大多数领域的知识与技能。她年纪轻轻就被选拔加入节杖军，破格晋升为中校，继承了虚狩武器「塔乌弥尔」，并在与维克上校、法金汉佣兵团团长的协同作战中斥退黑墙、一战成名，顺利授勋虚狩。在史称「静默之日」的机要行动中，蕾米埃尔与维克上校因意外双双殉职，但既然她尚存于世，那便说明真相并非如此。蕾米埃尔来去无踪，却总能在出人意料的关键时刻出现，引导局势。与人交际时，蕾米埃尔始终带着甜美而游刃有余的微笑，处变不惊、甚至有些自来熟，很难让人起戒心。她擅长用稍带玩笑意味的言行迅速拉近关系，但又习惯保持一种恰到好处的距离感，令人难以捉摸。备注：蕾米埃尔喜欢用一些无伤大雅的玩笑捉弄他人，而在这方面，您显然享受着格外的「优待」。",
   "gender": "女",
-  "height": "...",
+  "height": "167",
   "baseAttr": {
     "hp": 7482.7069,
     "atk": 748.4626,
@@ -49,13 +49,13 @@
         "向前方进行范围斩击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "若命中目标，招式结束后可为自身回复<span style=\"color:#FFFFFF;\">[浮晖]</span>。",
         "<h3>普通攻击：垂虹</h3>",
-        "当蕾米身上储存有<Term:1000033></Term>时，长按「普通攻击」发动：",
+        "当蕾米埃尔身上储存有<Term:1000033></Term>时，长按「普通攻击」发动：",
         "向前方发动大范围强力攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "招式结束后可为自身回复大量<span style=\"color:#FFFFFF;\">[浮晖]</span>；",
         "若命中目标，招式结束后可触发<Term:1000034></Term>效果，倍率为<span style=\"color:#2BAD00;\">160(100+Lv*5)%</span>；",
         "发动后会清空身上储存的所有<span style=\"color:#FFFFFF;\">[虚曜]</span>。",
         "<h3>普通攻击：惊鸿</h3>",
-        "当蕾米身上储存有<span style=\"color:#FFFFFF;\">[虚曜]</span>，且自身处于<span style=\"color:#FFFFFF;\">[映曜]</span>状态时，长按「普通攻击」发动：",
+        "当蕾米埃尔身上储存有<span style=\"color:#FFFFFF;\">[虚曜]</span>，且自身处于<span style=\"color:#FFFFFF;\">[映曜]</span>状态时，长按「普通攻击」发动：",
         "向前方发动大范围强力攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "招式结束后可为自身回复大量<span style=\"color:#FFFFFF;\">[浮晖]</span>；",
         "若命中目标，招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果，倍率为<span style=\"color:#2BAD00;\">320(200+Lv*10)%</span>；",
@@ -760,18 +760,18 @@
         "点按「特殊技」发动：",
         "向前方发动远程攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>。",
         "<h3>强化特殊技：曙色颂</h3>",
+        "进入战场时，若自身不足60点能量则回复至60点，在勘域模式中此效果180秒内最多触发一次；",
         "能量足够时，点按「特殊技」发动：",
-        "进入战场时，若自身能量不足60则回复至60点，在勘域模式中此效果180秒内最多触发一次；",
         "向前方发动大范围攻击，造成<span style=\"color:#FFA9DD;\">流明属性伤害</span>；",
         "招式结束后为命中的敌人施加2个<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>；",
         "招式发动期间拥有无敌效果。",
         "<h3>特殊技：曙色颂·转辉</h3>",
-        "若蕾米<span style=\"color:#FFFFFF;\">[浮晖]</span>达到最大值120点，并处于接战状态中，在<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后长按「特殊技」可进入<span style=\"color:#FFFFFF;\">[转换姿态]</span>，在<span style=\"color:#FFFFFF;\">[转换姿态]</span>下切换角色时，会进入<span style=\"color:#FFFFFF;\">[相变时流]</span>状态：",
-        "<span style=\"color:#FFFFFF;\">[相变时流]</span>状态下蕾米会自主行动，协助作战，其中部分攻击还可为目标施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>，<span style=\"color:#FFFFFF;\">[相变时流]</span>状态下随时间消耗<span style=\"color:#FFFFFF;\">[浮晖]</span>，当<span style=\"color:#FFFFFF;\">[浮晖]</span>完全消耗时退出<span style=\"color:#FFFFFF;\">[相变时流]</span>状态，未退出<span style=\"color:#FFFFFF;\">[相变时流]</span>状态前，无法通过<span style=\"color:#FFFFFF;\">[连携技]</span>之外的方式换入；",
-        "若蕾米在<span style=\"color:#FFFFFF;\">[相变时流]</span>状态下触发3次<span style=\"color:#FFA9DD;\">流明属性</span><Term:1000031></Term>反应，或在<span style=\"color:#FFFFFF;\">[浮晖]</span>耗尽时自身储存的<Term:1000033></Term>数量大于等于1，则激活<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>，激活后解锁普通换入，并且蕾米下次普通换入时会自动发动<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>；",
-        "进入<span style=\"color:#FFFFFF;\">[相变时流]</span>状态时，蕾米会为全队角色施加造成的伤害提升<span style=\"color:#2BAD00;\">18(0+Lv*1.5)%</span>效果，持续60秒，重复触发时刷新持续时间；",
-        "若蕾米<span style=\"color:#FFFFFF;\">[浮晖]</span>达到最大值120点，并发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>攻击命中处于失衡状态的敌人时，在<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中切换角色也可进入<span style=\"color:#FFFFFF;\">[相变时流]</span>状态；",
-        "若进入<span style=\"color:#FFFFFF;\">[转换姿态]</span>后未切换角色，则蕾米发动下落攻击回到地面。"
+        "若蕾米埃尔处于接战状态中且<span style=\"color:#FFFFFF;\">[浮晖]</span>达到最大值120点时，在<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>后长按「特殊技」可进入<span style=\"color:#FFFFFF;\">[转换姿态]</span>，在<span style=\"color:#FFFFFF;\">[转换姿态]</span>下切换角色时，蕾米埃尔会进入<span style=\"color:#FFFFFF;\">[相变时流]</span>状态：",
+        "<span style=\"color:#FFFFFF;\">[相变时流]</span>状态下蕾米埃尔会自主行动，协助作战，其中部分攻击还可为目标施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>，期间<span style=\"color:#FFFFFF;\">[浮晖]</span>会随时间消耗，当<span style=\"color:#FFFFFF;\">[浮晖]</span>耗尽或离开接战状态时会退出<span style=\"color:#FFFFFF;\">[相变时流]</span>状态，未退出<span style=\"color:#FFFFFF;\">[相变时流]</span>状态前，蕾米埃尔无法通过<span style=\"color:#FFFFFF;\">[连携技]</span>之外的方式主动换入；",
+        "若蕾米埃尔在一次<span style=\"color:#FFFFFF;\">[相变时流]</span>状态下触发3次<Term:1000031></Term>反应后，或在<span style=\"color:#FFFFFF;\">[浮晖]</span>耗尽时自身储存的<Term:1000033></Term>数量大于等于1时，则激活<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>，解锁普通换入并使蕾米埃尔下次普通换入时自动发动<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>；",
+        "进入<span style=\"color:#FFFFFF;\">[相变时流]</span>状态时，蕾米埃尔会使全队角色造成的伤害提升<span style=\"color:#2BAD00;\">18(0+Lv*1.5)%</span>，持续60秒，重复触发时刷新持续时间；",
+        "若蕾米埃尔发动<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>攻击命中处于失衡状态的敌人，且<span style=\"color:#FFFFFF;\">[浮晖]</span>达到最大值120点时，在<span style=\"color:#FFFFFF;\">[特殊技]</span>或<span style=\"color:#FFFFFF;\">[强化特殊技]</span>中切换角色也可进入<span style=\"color:#FFFFFF;\">[相变时流]</span>状态；",
+        "若进入<span style=\"color:#FFFFFF;\">[转换姿态]</span>后未切换角色，则蕾米埃尔发动下落攻击回到地面。"
       ],
       "tables": [
         {
@@ -1195,43 +1195,75 @@
     "1": {
       "name": "青涩誓言",
       "desc": [
-        "进入战场时，蕾米获得最大数量的特殊<Term:1000033></Term>，在勘域模式中此效果180秒内最多触发一次；蕾米触发<Term:1000034></Term>效果时，无视目标50%的全属性伤害抗性；发动<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>时，获得200点喧响值，18秒内最多触发1次此效果；蕾米处于<Term:1000035></Term>状态下时，队伍中其他角色造成的属性异常伤害提升10%。",
-        "<i>...</i>"
+        "进入战场时，蕾米埃尔获得3个特殊<Term:1000033></Term>，在勘域模式中此效果180秒内最多触发一次；蕾米埃尔触发<Term:1000034></Term>效果造成伤害时，无视目标50%的全属性伤害抗性；发动<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>时，获得200点喧响值，18秒内最多触发1次此效果；蕾米埃尔处于<Term:1000035></Term>状态下时，队伍中其他角色造成的属性异常伤害提升10%。",
+        "<i>「我们能斩断罪恶，我们能劈开天空。我们能走出迷雾，我们能迈向真理…」</i>",
+        "<i>「这是我们的国度，它会永远屹立，它会成就奇迹。」</i>",
+        "<i>「…」</i>",
+        "<i>粉发少女终于按捺不住，她压低帽檐，向队列最前方的身影悄声抱怨：</i>",
+        "<i>「贝莉——这誓词也太长了，以后不会要经常念吧？」</i>",
+        "<i>「别急，以后会有更长的。」</i>",
+        "<i>那始终笔挺的身影也不禁无奈一笑。</i>"
       ]
     },
     "2": {
       "name": "倾落喧嚣",
       "desc": [
-        "蕾米的<span style=\"color:#FFA9DD;\">[异化系数]</span>提升20%；队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色对<span style=\"color:#FFFFFF;\">[幻色]</span>效果下的敌人造成属性异常伤害时，无视目标15%的防御力，<span style=\"color:#FFFFFF;\">[幻色]</span>效果消失后该效果会额外持续8秒；蕾米在<Term:1000035></Term>状态下自主发动支援技为敌人施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>的频率提升。",
-        "<i>...</i>"
+        "蕾米埃尔的<span style=\"color:#FFA9DD;\">[异化系数]</span>提升20%；队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色对<span style=\"color:#FFFFFF;\">[幻色]</span>效果下的敌人造成属性异常伤害时，无视目标15%的防御力，<span style=\"color:#FFFFFF;\">[幻色]</span>效果消失后该效果会额外持续8秒；蕾米埃尔在<Term:1000035></Term>状态下自主发动攻击为敌人施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>的频率提升。",
+        "<i>那是一场盛大的舞会。</i>",
+        "<i>城市为之倾倒，满月为之失色。</i>",
+        "<i>欢欣的万众汇聚于此，高喊着英雄的名姓，笑着唱着，仿佛此夜永无终结。</i>",
+        "<i>功勋卓绝者汇聚于此，注视着喧嚣的人群，一同许下谦卑的宏愿——他们说：奇迹的起点就此开始。</i>",
+        "<i>是的，艾利都将要开启它的旅程。</i>",
+        "<i>那是一场夺回世界的伟大冒险。</i>",
+        "<i>「舞会都快结束了，还没找到舞伴？唉，我就勉为其难陪你跳一曲吧。」</i>"
       ]
     },
     "3": {
       "name": "时间分岔的花园",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
-        "<i>...</i>"
+        "<i>女孩将名字写进逐日者的行列，因为她怀抱着比骄阳更炽烈的理想。</i>",
+        "<i>她相信伤痕将被弥合，相信代价将被终结，于是转身向秘密的花园走去。</i>",
+        "<i>她尚不知晓，花园深处，时间永远分岔，通向无数的未来。</i>",
+        "<i>有的通向荣光，有的通向希望…</i>",
+        "<i>有的通向太阳投下的阴影，通向无人铭记的长夜。</i>",
+        "<i>「我知道啦，可有些事总得有人来做，不是么？」</i>"
       ]
     },
     "4": {
       "name": "漫长的告别",
       "desc": [
-        "蕾米触发<Term:1000034></Term>效果时，伤害倍率额外提升12%；在蕾米进入战场获得最大数量的特殊<Term:1000033></Term>后，若将<span style=\"color:#FFFFFF;\">[虚曜]</span>全部消耗，则可再一次获得最大数量的特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>，可再次获得特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>的效果在生效1次后或蕾米进入<Term:1000035></Term>状态时消失。",
-        "<i>...</i>"
+        "蕾米埃尔触发<Term:1000034></Term>效果时，伤害倍率额外提升12%；在蕾米埃尔进入战场获得3个特殊<Term:1000033></Term>后，若将<span style=\"color:#FFFFFF;\">[虚曜]</span>全部消耗，则可再一次获得最大数量的特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>，可再次获得特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>的效果在生效1次后或蕾米埃尔进入<Term:1000035></Term>状态时消失。",
+        "<i>她自苍白荒秽中苏醒。</i>",
+        "<i>百年的梦太长。长到迷雾吞噬了旧时代的残骸，长到苍白覆盖了记忆里的余温。</i>",
+        "<i>百年的梦太短。短到双眼倒映着离别前的笑靥，短到指尖挽留着虚无里的蹁跹。</i>",
+        "<i>她忽然想起某个夏夜，想起并肩仰望的星空，于是她独自迈出舞步，一如既往。</i>",
+        "<i>回旋，定步，伸手，再落空。</i>",
+        "<i>致旧友，致旧时代，</i>",
+        "<i>就以一首挽歌，献上这迟来百年的、漫长的告别。</i>",
+        "<i>「嗨，要和我…共舞一曲吗？」</i>"
       ]
     },
     "5": {
       "name": "归客痛饮遗忘",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
-        "<i>...</i>"
+        "<i>暮色漫过世界的屋脊，万家灯火次第亮起，每一扇窗都盛着温暖的人间。</i>",
+        "<i>单薄的衣衫不足以遮风挡雨，曾被称作英雄的女孩正为凌乱的翅羽犯难。</i>",
+        "<i>她饮尽满溢遗忘的杯盏，炽热的记忆灼烧喉管，月光淌过她低垂的眼睑。</i>",
+        "<i>「要小心旧时代的幽灵来敲你家的窗户哦？」</i>"
       ]
     },
     "6": {
       "name": "千度振翅的孑羽",
       "desc": [
-        "蕾米发动<span style=\"color:#FFFFFF;\">[普通攻击：垂虹]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：惊鸿]</span>时，会触发2次<Term:1000034></Term>效果；若第四段<span style=\"color:#FFFFFF;\">[普通攻击]</span>命中目标，招式结束后蕾米可获得3个特殊<Term:1000033></Term>，通过此种方式获得的特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>可造成的伤害为进入战场时获得的特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>的25%。",
-        "<i>...</i>"
+        "蕾米埃尔发动<span style=\"color:#FFFFFF;\">[普通攻击：垂虹]</span>和<span style=\"color:#FFFFFF;\">[普通攻击：惊鸿]</span>时，会触发2次<Term:1000034></Term>效果；若第四段<span style=\"color:#FFFFFF;\">[普通攻击]</span>命中目标，招式结束后蕾米埃尔可获得3个特殊<Term:1000033></Term>，通过此种方式获得的特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>可造成的伤害为进入战场时获得的特殊<span style=\"color:#FFFFFF;\">[虚曜]</span>的25%。",
+        "<i>旅途的终点还是旅途，群星的尽头仍有群星。</i>",
+        "<i>所以，再一次——请再一次，振翅高飞吧。</i>",
+        "<i>静默的落羽将要再度触碰天空，</i>",
+        "<i>飞越漫长的伤痕，飞越破碎的昨日，</i>",
+        "<i>飞向那尚未书写的明天。</i>",
+        "<i>「我的故事就说到这里，接下来该轮到你了吧，亲爱的共犯？」</i>"
       ]
     }
   },
@@ -1239,16 +1271,16 @@
     {
       "name": "核心被动 / 额外能力",
       "desc": [
-        "<h3>核心被动：时序·万色滞行</h3>",
-        "蕾米的<span style=\"color:#FFA9DD;\">[异化系数]</span>为自身异常精通的0.02%，且当队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色数量为3时，<span style=\"color:#FFA9DD;\">[异化系数]</span>额外提升10%；",
-        "队友触发蕾米的<span style=\"color:#FFA9DD;\">流明属性</span><Term:1000031></Term>反应时，蕾米会根据此次属性异常效果在受到<span style=\"color:#FFA9DD;\">[异化]</span>加强后的<Term:1000023></Term>生成<span style=\"color:#FFFFFF;\">[虚曜]</span>，最多可储存最新生成的3个<span style=\"color:#FFFFFF;\">[虚曜]</span>；",
+        "<h3>核心被动：时序=万色滞行</h3>",
+        "蕾米埃尔的<span style=\"color:#FFA9DD;\">[异化系数]</span>为自身异常精通的0.02%，且当队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色数量为3时，<span style=\"color:#FFA9DD;\">[异化系数]</span>额外提升10%；",
+        "蕾米埃尔通过队友触发<Term:1000031></Term>反应时，会根据此次属性异常效果在受到<span style=\"color:#FFA9DD;\">[异化]</span>加强后的<Term:1000023></Term>生成<span style=\"color:#FFFFFF;\">[虚曜]</span>，最多可储存最新生成的3个<span style=\"color:#FFFFFF;\">[虚曜]</span>；",
         "若<span style=\"color:#FFFFFF;\">[支援技：花羽轮舞]</span>/<span style=\"color:#FFFFFF;\">[终结技：缭乱终幕]</span>/<span style=\"color:#FFFFFF;\">[普通攻击：垂虹]</span>/<span style=\"color:#FFFFFF;\">[普通攻击：惊鸿]</span>命中目标，在招式结束后可触发<span style=\"color:#FFFFFF;\">[耀变]</span>效果：",
         "基于已储存的所有<span style=\"color:#FFFFFF;\">[虚曜]</span>中的<span style=\"color:#FFFFFF;\">[异常效果强度]</span>，对敌人造成招式对应倍率的属性异常伤害，并根据自身异常精通的<span style=\"color:#2BAD00;\">(0.1%/0.12%/0.14%/0.15%/0.16%/0.18%/0.2%)</span>提升此伤害倍率；",
-        "蕾米在进入<Term:1000035></Term>状态时或发动<span style=\"color:#FFFFFF;\">[普通攻击：垂虹]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：惊鸿]</span>后，会清空身上储存的所有<span style=\"color:#FFFFFF;\">[虚曜]</span>。",
+        "蕾米埃尔在进入<Term:1000035></Term>状态时或发动<span style=\"color:#FFFFFF;\">[普通攻击：垂虹]</span>或<span style=\"color:#FFFFFF;\">[普通攻击：惊鸿]</span>后，会清空身上储存的所有<span style=\"color:#FFFFFF;\">[虚曜]</span>。",
         "<h3>额外能力：芳菲之邀</h3>",
         "队伍中存在其他<span style=\"color:#FFFFFF;\">[异常]</span>角色或同阵营角色时触发：",
-        "当队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色数量为1/2/3时，进入战场为全队角色提升蕾米初始攻击力6%/12%/40%的攻击力，提升上限不超过1600点，自身在<Term:1000035></Term>状态下造成的失衡值提升6%/12%/35%；",
-        "且角色为敌人施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时，同时为敌人附加<span style=\"color:#FFFFFF;\">[幻色]</span>效果：<span style=\"color:#FFFFFF;\">[幻色]</span>效果下敌人受到伤害时，异常积蓄效率提升15%，敌人身上无<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时，<span style=\"color:#FFFFFF;\">[幻色]</span>效果消失，<span style=\"color:#FFFFFF;\">[幻色]</span>效果消失后敌人受到伤害时的异常积蓄效率提升效果还可额外持续8秒。"
+        "当队伍中<span style=\"color:#FFFFFF;\">[异常]</span>角色数量为1/2/3时，进入战场时为全队角色提升等同于蕾米埃尔初始攻击力6%/12%/40%的攻击力，提升上限不超过1600点，蕾米埃尔在<Term:1000035></Term>状态下造成的失衡值提升6%/12%/35%；",
+        "蕾米埃尔为敌人施加<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时会同时附加<span style=\"color:#FFFFFF;\">[幻色]</span>效果：全队角色攻击<span style=\"color:#FFFFFF;\">[幻色]</span>效果下的敌人时，异常积蓄效率提升15%，敌人身上无<span style=\"color:#FFA9DD;\">[流明积蓄点]</span>时<span style=\"color:#FFFFFF;\">[幻色]</span>效果消失，<span style=\"color:#FFFFFF;\">[幻色]</span>效果消失后该异常积蓄效率提升效果会额外持续8秒。"
       ]
     }
   ]
