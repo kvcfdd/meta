@@ -289,7 +289,7 @@
         "若景燃处于<span style=\"color:#ffd12f;\">抱阳状态</span>，可施放<span style=\"color:#ffd12f;\">共鸣技能·阳焚身</span>，攻击目标，造成<span style=\"color:#f0744e;\">热熔伤害</span>。",
         "<span style=\"color:#ffd12f;\">共鸣技能·阳焚身</span>可在空中施放。",
         "<h3>破秽</h3>",
-        "施放<span style=\"color:#ffd12f;\">共鸣技能·阴蚀骨</span>和<span style=\"color:#ffd12f;\">共鸣技能·阳焚身</span>时，获得<span style=\"color:#ffd12f;\">破秽</span>，持续4秒，满足下述条件之一时，<span style=\"color:#ffd12f;\">破秽</span>提前结束。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·阴蚀骨</span>或<span style=\"color:#ffd12f;\">共鸣技能·阳焚身</span>时，获得<span style=\"color:#ffd12f;\">破秽</span>，持续4秒，满足下述条件之一时，<span style=\"color:#ffd12f;\">破秽</span>提前结束。",
         "·切换至其他角色。",
         "·切换至<span style=\"color:#ffd12f;\">负阴状态</span>或<span style=\"color:#ffd12f;\">抱阳状态</span>时。",
         "·施放<span style=\"color:#ffd12f;\">共鸣技能·黄泉渡</span>或<span style=\"color:#ffd12f;\">共鸣技能·往生送</span>时。",
@@ -403,7 +403,7 @@
         "<h3>行途</h3>",
         "<span style=\"color:#ffd12f;\">行途</span>上限为3层，施放<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>时，获得200点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】，并减少1层<span style=\"color:#ffd12f;\">行途</span>，持续15秒。",
         "<h3>荧惑</h3>",
-        "·<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>造成伤害时景燃召唤<span style=\"color:#ffd12f;\">魑魅魍魉</span>进行攻击，造成<span style=\"color:#f0744e;\">热熔伤害</span>，本次伤害为重击伤害。每次<span style=\"color:#ffd12f;\">重击·劫魄</span>和<span style=\"color:#ffd12f;\">重击·踏罡</span>仅可触发一次。",
+        "·<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>造成伤害时景燃召唤<span style=\"color:#ffd12f;\">魑魅魍魉</span>进行攻击，造成<span style=\"color:#f0744e;\">热熔伤害</span>，本次伤害为重击伤害。每次<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>仅可触发一次。",
         "·<span style=\"color:#ffd12f;\"><u>荧惑</u></span>状态结束时清空【<span style=\"color:#ffd12f;\"><u>命火</u></span>】。"
       ],
       "tables": [
@@ -515,7 +515,7 @@
       "name": "共鸣回路: 逆渡三途",
       "desc": [
         "<h3>炁机斡旋</h3>",
-        "景燃施放<span style=\"color:#ffd12f;\">重击·劫魄</span>和<span style=\"color:#ffd12f;\">重击·踏罡</span>可以在<span style=\"color:#ffd12f;\">负阴状态</span>和<span style=\"color:#ffd12f;\">抱阳状态</span>之间切换，景燃初始处于<span style=\"color:#ffd12f;\">抱阳状态</span>。",
+        "景燃施放<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>可以在<span style=\"color:#ffd12f;\">负阴状态</span>和<span style=\"color:#ffd12f;\">抱阳状态</span>之间切换，景燃初始处于<span style=\"color:#ffd12f;\">抱阳状态</span>。",
         "<h3>重击·劫魄</h3>",
         "若景燃拥有300点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】，且处于<span style=\"color:#ffd12f;\">负阴状态</span>，<span style=\"color:#ffd12f;\">长按普攻</span>消耗300点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】可施放<span style=\"color:#ffd12f;\">重击·劫魄</span>，造成<span style=\"color:#f0744e;\">热熔伤害</span>。",
         "施放<span style=\"color:#ffd12f;\">重击·劫魄</span>后切换至<span style=\"color:#ffd12f;\">抱阳状态</span>。",
@@ -529,7 +529,7 @@
         "【<span style=\"color:#ffd12f;\"><u>炁</u></span>】上限300点。",
         "·施放<span style=\"color:#ffd12f;\">普攻·摄召第3段</span>、<span style=\"color:#ffd12f;\">普攻·摄召第4段</span>、<span style=\"color:#ffd12f;\">普攻·灭煞第3段</span>或<span style=\"color:#ffd12f;\">普攻·灭煞第4段</span>时，获得50点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】。",
         "·施放<span style=\"color:#ffd12f;\">闪避反击·探幽</span>、<span style=\"color:#ffd12f;\">闪避反击·守明</span>、<span style=\"color:#ffd12f;\">共鸣技能·黄泉渡</span>、<span style=\"color:#ffd12f;\">共鸣技能·往生送</span>或<span style=\"color:#ffd12f;\">变奏技能·挑灯问冢</span>时，获得100点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】。",
-        "·施放<span style=\"color:#ffd12f;\">共鸣解放·万鬼同葬</span>或持有<span style=\"color:#ffd12f;\">行途</span>时施放<span style=\"color:#ffd12f;\">重击·劫魄</span>和<span style=\"color:#ffd12f;\">重击·踏罡</span>，获得200点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】。",
+        "·施放<span style=\"color:#ffd12f;\">共鸣解放·万鬼同葬</span>或持有<span style=\"color:#ffd12f;\">行途</span>时施放<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>，获得200点【<span style=\"color:#ffd12f;\"><u>炁</u></span>】。",
         "<h3>【命火】获取规则</h3>",
         "【<span style=\"color:#ffd12f;\"><u>命火</u></span>】上限100点。",
         "·施放<span style=\"color:#ffd12f;\">共鸣解放·万鬼同葬</span>时获得100点【<span style=\"color:#ffd12f;\"><u>命火</u></span>】。",
@@ -637,8 +637,8 @@
       "name": "乾道变化，各正性命",
       "desc": [
         "景燃施放<span style=\"color:#ffd12f;\">重击·劫魄</span>或<span style=\"color:#ffd12f;\">重击·踏罡</span>时，获得5点【<span style=\"color:#ffd12f;\"><u>鬼护</u></span>】。",
-        "景燃施放<span style=\"color:#ffd12f;\">共鸣解放·万鬼同葬</span>后，<span style=\"color:#ffd12f;\"><u>阳变阴合</u></span>替换为<span style=\"color:#ffd12f;\">阴阳相生</span>，持续15秒。",
-        "<h3>阴阳相生</h3>",
+        "景燃施放<span style=\"color:#ffd12f;\">共鸣解放·万鬼同葬</span>后，<span style=\"color:#ffd12f;\"><u>阳变阴合</u></span>替换为<span style=\"color:#ffd12f;\">阴阳交错</span>，持续15秒。",
+        "<h3>阴阳交错</h3>",
         "景燃基于生命上限获得额外攻击：景燃每1000点生命上限获得50点攻击，上限2500。"
       ]
     },
@@ -684,7 +684,7 @@
     {
       "name": "贴壁听尘",
       "desc": [
-        "施放<span style=\"color:#ffd12f;\">变奏技能·挑灯问冢</span>，<span style=\"color:#ffd12f;\">共鸣技能·阴蚀骨</span>和<span style=\"color:#ffd12f;\">共鸣技能·阳焚身</span>时可获得<span style=\"color:#ffd12f;\">画地</span>。",
+        "施放<span style=\"color:#ffd12f;\">变奏技能·挑灯问冢</span>，<span style=\"color:#ffd12f;\">共鸣技能·阴蚀骨</span>或<span style=\"color:#ffd12f;\">共鸣技能·阳焚身</span>时可获得<span style=\"color:#ffd12f;\">画地</span>。",
         "<h3>画地</h3>",
         "15秒内，若景燃为队伍中登场角色，造成伤害时获得生命上限1.6%+700的护盾，不可叠加，持续5秒，每0.5秒可生效一次。该护盾在切换至其他角色时不会继承。",
         "处于<span style=\"color:#ffd12f;\"><u>荧惑</u></span>状态时，若景燃为队伍中登场角色，造成伤害时额外获得生命上限0.8%+350的护盾，不可叠加，持续5秒，每0.5秒可生效一次。该护盾在切换至其他角色时不会继承。"
