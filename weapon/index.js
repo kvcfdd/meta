@@ -3,7 +3,7 @@ import lodash from "lodash"
 import { abbr, alias } from "./alias.js"
 
 // ZZZ weapons are organized by type, each type dir has its own data.json
-const types = ["击破", "命破", "异常", "强攻", "支援", "防护"]
+const types = ["击破", "命破", "异常", "强攻", "支援", "防护", "锋御"]
 let data = {}
 for (let type of types) {
   let typeData = Data.readJSON(`resources/meta-zzz/weapon/${type}/data.json`, "miao")

@@ -44,7 +44,18 @@
         "向前方进行至多四段的打击，造成<span style=\"color:#F0D12B;\">物理伤害</span>；",
         "当珂蕾妲拥有<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果时，能够在第二段攻击后发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>，消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果并造成大量<span style=\"color:#FF5521;\">火属性伤害</span>；",
         "当珂蕾妲与本同时出战，发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>时，会由双方配合发动协同攻击，进一步提升招式的威力；",
-        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段和强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>发动期间拥有无敌效果。"
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段和强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>发动期间拥有无敌效果。",
+        "<h3>普通攻击：砸扁，粉碎</h3>",
+        "点按「普通攻击」发动：",
+        "向前方进行至多四段的打击，造成<span style=\"color:#F0D12B;\">物理伤害</span>；",
+        "当珂蕾妲拥有<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果时，能够在第二段攻击后发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>，消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果并造成大量<span style=\"color:#FF5521;\">火属性伤害</span>；",
+        "强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>分为两段，发动第一段后点按或长按「普通攻击」可衔接第二段，且第一段强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>的追击效果增强；",
+        "<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果最多可拥有2层，发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>会消耗所有的<span style=\"color:#FFFFFF;\">[熔炉升温]</span>；",
+        "消耗<span style=\"color:#FFFFFF;\">[熔炉升温]</span>时，全队代理人造成的伤害提升35%，持续40秒，重复触发刷新时间，且每消耗一层<span style=\"color:#FFFFFF;\">[熔炉升温]</span>，第二段强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>造成的伤害提升10%，造成的失衡值提升20%；",
+        "第一段强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>发动期间切换代理人，珂蕾妲会在前台自动发动第二段强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>；",
+        "当珂蕾妲与本同时出战，发动强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>，且未在第一段强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>期间切换代理人时，会由双方配合发动协同攻击，进一步提升招式的威力；",
+        "<span style=\"color:#FFFFFF;\">[普通攻击]</span>第四段和强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>发动期间拥有无敌效果；",
+        "第二段强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>无敌效果持续时间增加。"
       ],
       "tables": [
         {
@@ -387,7 +398,11 @@
         "<h3>支援突击：锤钟</h3>",
         "发动<span style=\"color:#FFFFFF;\">[招架支援]</span>后，点按「普通攻击」发动：",
         "对前方敌人发动突进打击，造成<span style=\"color:#FF5521;\">火属性伤害</span>，并获得<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果；",
-        "招式发动期间拥有无敌效果。"
+        "招式发动期间拥有无敌效果。",
+        "<h3>支援突击：锤钟</h3>",
+        "发动<span style=\"color:#FFFFFF;\">[招架支援]</span>后，点按「普通攻击」发动：",
+        "对前方敌人发动突进打击，造成<span style=\"color:#FF5521;\">火属性伤害</span>，并获得<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果；",
+        "招式发动期间拥有无敌效果，长按「普通攻击」可衔接<span style=\"color:#FFFFFF;\">[冲刺攻击：给我颤抖]</span>。"
       ],
       "tables": [
         {
@@ -563,12 +578,25 @@
         "若衔接在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第二、第四段或强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后，则能够快速发动招式，直接引发爆炸；",
         "当珂蕾妲与本同时出战，并衔接在强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后快速发动招式时，会由双方配合发动协同攻击，进一步提升招式的威力；",
         "招式发动期间抗打断等级提升。",
+        "<h3>特殊技：爆破！铁锤时间</h3>",
+        "点按「特殊技」发动：",
+        "对前方进行打击并引发爆炸，造成<span style=\"color:#FF5521;\">火属性伤害</span>；",
+        "若衔接在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第二、第四段或强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后，则能够快速发动招式，直接引发爆炸；",
+        "第二段<span style=\"color:#FFFFFF;\">[普通攻击]</span>发动期间，长按「普通攻击」也可直接引发爆炸；",
+        "当珂蕾妲与本同时出战，并衔接在强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后快速发动招式时，会由双方配合发动协同攻击，进一步提升招式的威力；",
+        "招式发动期间抗打断等级提升。",
         "<h3>强化特殊技：沸腾熔炉</h3>",
         "能量足够时，点按「特殊技」发动：",
         "对前方进行打击并引发强力爆炸，造成大量<span style=\"color:#FF5521;\">火属性伤害</span>，并获得<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果；",
         "若衔接在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第二、第四段或强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后，则能够快速发动招式，直接引发爆炸；",
         "当珂蕾妲与本同时出战，并衔接在强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后快速发动招式时，会由双方配合发动协同攻击，进一步提升招式的威力；",
-        "招式发动期间拥有无敌效果。"
+        "招式发动期间拥有无敌效果。",
+        "<h3>强化特殊技：沸腾熔炉</h3>",
+        "能量足够时，点按「特殊技」发动：",
+        "对前方进行打击并引发强力爆炸，造成大量<span style=\"color:#FF5521;\">火属性伤害</span>，并获得<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果；",
+        "若衔接在<span style=\"color:#FFFFFF;\">[普通攻击]</span>第二、第四段或强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后，则能够快速发动招式，直接引发爆炸，通过该方式引发爆炸造成的失衡值提升10%；",
+        "当珂蕾妲与本同时出战，并衔接在强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>后快速发动招式时，会由双方配合发动协同攻击，进一步提升招式的威力；",
+        "招式发动期间拥有无敌效果，长按「普通攻击」可衔接<span style=\"color:#FFFFFF;\">[冲刺攻击：给我颤抖]</span>。"
       ],
       "tables": [
         {
@@ -869,7 +897,12 @@
         "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
         "在前方大范围区域发动强力爆炸，造成大量<span style=\"color:#FF5521;\">火属性伤害</span>，并获得<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果；",
         "当珂蕾妲与本同时出战时，会由双方配合发动协同攻击，进一步提升招式的威力；",
-        "招式发动期间拥有无敌效果。"
+        "招式发动期间拥有无敌效果。",
+        "<h3>终结技：锤进地心</h3>",
+        "喧响等级达到<span style=\"color:#FFFFFF;\">[极]</span>时，点按「连携技」发动：",
+        "在前方大范围区域发动强力爆炸，造成大量<span style=\"color:#FF5521;\">火属性伤害</span>，并获得<span style=\"color:#FFFFFF;\">[熔炉升温]</span>效果；",
+        "当珂蕾妲与本同时出战时，会由双方配合发动协同攻击，进一步提升招式的威力；",
+        "招式发动期间拥有无敌效果，长按「普通攻击」可衔接<span style=\"color:#FFFFFF;\">[冲刺攻击：给我颤抖]</span>。"
       ],
       "tables": [
         {
@@ -1023,10 +1056,18 @@
         "<h3>冲刺攻击：给我颤抖</h3>",
         "闪避时，点按「普通攻击」发动：",
         "向前方进行打击，造成<span style=\"color:#F0D12B;\">物理伤害</span>。",
+        "<h3>冲刺攻击：给我颤抖</h3>",
+        "闪避时，点按「普通攻击」发动：",
+        "向前方进行打击，造成<span style=\"color:#F0D12B;\">物理伤害</span>。",
+        "招式发动期间，若持有<span style=\"color:#FFFFFF;\">[熔炉升温]</span>，抗打断等级提升，长按「普通攻击」可衔接强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>。",
         "<h3>闪避反击：别小看我</h3>",
         "触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>后，点按「普通攻击」发动：",
         "向前方敌人发动打击并引发爆炸，造成<span style=\"color:#FF5521;\">火属性伤害</span>；",
-        "招式发动期间拥有无敌效果。"
+        "招式发动期间拥有无敌效果。",
+        "<h3>闪避反击：别小看我</h3>",
+        "触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>后，点按「普通攻击」发动：",
+        "向前方敌人发动打击并引发爆炸，造成<span style=\"color:#FF5521;\">火属性伤害</span>；",
+        "招式发动期间拥有无敌效果，若持有<span style=\"color:#FFFFFF;\">[熔炉升温]</span>，长按「普通攻击」可衔接强化<span style=\"color:#FFFFFF;\">[普通攻击]</span>。"
       ],
       "tables": [
         {
