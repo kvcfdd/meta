@@ -2,15 +2,15 @@
   "id": 1311,
   "name": "心",
   "abbr": "心",
-  "title": "",
+  "title": "万相分形",
   "star": 5,
   "elem": "electro",
-  "allegiance": "？？？",
+  "allegiance": "梦州边庭",
   "weapon": "rectifier",
   "birth": "-",
   "desc": "岁主「心」，梦州文明的引导者。情感丰沛，好尘世喜乐，于百工熙攘、万象流转之中，长守人间烟火不息。",
-  "cncv": "？？？",
-  "jpcv": "？？？",
+  "cncv": "菊花花",
+  "jpcv": "能登麻美子",
   "baseAttr": {
     "hp": 10300,
     "atk": 462.5,
@@ -45,19 +45,21 @@
         "处于<span style=\"color:#ffd12f;\">应世相</span>时，消耗耐力，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·应世相第2段</span>。",
         "<h3>空中攻击·应世相</h3>",
-        "处于<span style=\"color:#ffd12f;\">应世相</span>时，处于空中状态时，短按<span style=\"color:#ffd12f;\">普攻</span>后抬起<span style=\"color:#ffd12f;\">普攻</span>施放，消耗耐力进行空中下落攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "处于<span style=\"color:#ffd12f;\">应世相</span>时，处于空中状态时，短按<span style=\"color:#ffd12f;\">普攻</span>施放，消耗耐力进行空中下落攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·应世相第2段</span>。",
         "<h3>重击·应世相·闲中御</h3>",
         "处于<span style=\"color:#ffd12f;\">应世相</span>时，处于空中状态时，按住<span style=\"color:#ffd12f;\">普攻</span>将施放<span style=\"color:#ffd12f;\">重击·应世相·闲中御</span>，持续消耗耐力并对目标造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "切换至其他角色则提前结束。",
         "<h3>空中攻击·应世相·闲中御</h3>",
-        "施放<span style=\"color:#ffd12f;\">重击·应世相·闲中御</span>期间抬起<span style=\"color:#ffd12f;\">普攻</span>或技能结束后，将施放<span style=\"color:#ffd12f;\">空中攻击·应世相·闲中御</span>，消耗耐力进行空中下落攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·应世相·闲中御</span>期间松开<span style=\"color:#ffd12f;\">普攻</span>，将施放<span style=\"color:#ffd12f;\">空中攻击·应世相·闲中御</span>，消耗耐力进行空中下落攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放<span style=\"color:#ffd12f;\">空中攻击·应世相·闲中御</span>后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·应世相第2段</span>。",
         "<h3>闪避反击·应世相</h3>",
-        "处于<span style=\"color:#ffd12f;\">应世相</span>时，成功闪避后一定时间内<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "处于<span style=\"color:#ffd12f;\">应世相</span>时，成功闪避后一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·应世相第3段</span>。",
         "<h3>普攻·照世相</h3>",
         "处于<span style=\"color:#ffd12f;\">照世相</span>时且不处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态时，御使玄方机巧进行最多3段的连续攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放<span style=\"color:#ffd12f;\">普攻·照世相第1段</span>时，将在目标位置生成<span style=\"color:#ffd12f;\">活字心锁</span>。施放<span style=\"color:#ffd12f;\">普攻·照世相第2段</span>、<span style=\"color:#ffd12f;\">重击·照世相</span>、<span style=\"color:#ffd12f;\">闪避反击·照世相</span>、<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>期间将令<span style=\"color:#ffd12f;\">活字心锁</span>崩解，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "心在空中状态时，施放该技能将消耗耐力。",
         "<h3>重击·照世相</h3>",
         "处于<span style=\"color:#ffd12f;\">照世相</span>时，消耗耐力，御使玄方机巧造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·照世相第3段</span>。",
@@ -67,7 +69,7 @@
         "处于<span style=\"color:#ffd12f;\">照世相</span>时，心在空中状态时，<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>将替换为<span style=\"color:#ffd12f;\">空中攻击·照世相</span>。",
         "消耗耐力进行空中下落攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "<h3>闪避反击·照世相</h3>",
-        "处于<span style=\"color:#ffd12f;\">照世相</span>时，成功闪避后一定时间内<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "处于<span style=\"color:#ffd12f;\">照世相</span>时，成功闪避后一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，攻击目标造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·照世相第3段</span>。",
         "<h3>普攻·照世相·万阙连衡</h3>",
         "处于<span style=\"color:#ffd12f;\">照世相</span>时且处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态时，御使玄方机巧进行最多4段的连续攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
@@ -438,16 +440,24 @@
           "unit": "",
           "isSame": false,
           "values": [
-            "19.23%*3",
-            "20.81%*3",
-            "22.39%*3",
-            "24.60%*3",
-            "26.17%*3",
-            "27.99%*3",
-            "30.51%*3",
-            "33.03%*3",
-            "35.55%*3",
-            "38.23%*3"
+            "33.23%*3",
+            "35.96%*3",
+            "38.68%*3",
+            "42.50%*3",
+            "45.22%*3",
+            "48.36%*3",
+            "52.72%*3",
+            "57.08%*3",
+            "61.44%*3",
+            "66.07%*3"
+          ]
+        },
+        {
+          "name": "重击·应世相·闲中御耐力消耗",
+          "unit": "",
+          "isSame": true,
+          "values": [
+            "5"
           ]
         },
         {
@@ -483,6 +493,14 @@
           ]
         },
         {
+          "name": "普攻·照世相空中状态下耐力消耗",
+          "unit": "",
+          "isSame": true,
+          "values": [
+            "5"
+          ]
+        },
+        {
           "name": "重击·照世相耐力消耗",
           "unit": "",
           "isSame": true,
@@ -505,12 +523,15 @@
       "name": "共鸣技能: 踏月归心",
       "desc": [
         "<h3>共鸣技能·应世相</h3>",
-        "处于<span style=\"color:#ffd12f;\">应世相</span>时，若心在地面状态，短按<span style=\"color:#ffd12f;\">共鸣技能</span>，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "处于<span style=\"color:#ffd12f;\">应世相</span>时，短按<span style=\"color:#ffd12f;\">共鸣技能</span>，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "施放该技能后在一定时间内短按<span style=\"color:#ffd12f;\">普攻</span>，将会施放<span style=\"color:#ffd12f;\">普攻·应世相第4段</span>。",
+        "可在空中施放。",
         "施放该技能一定时间内，若心处于地面状态进行移动，则将化作<span style=\"color:#ffd12f;\">心狐</span>。",
         "·化作<span style=\"color:#ffd12f;\">心狐</span>时，若心处于非战斗状态下，获得<span style=\"color:#ffd12f;\">不惊尘</span>。拥有<span style=\"color:#ffd12f;\">不惊尘</span>时，心进入目标的警戒范围将不会进入战斗状态。心进入战斗、切换至其他角色时，或心进行场景、玩法、功能交互退出<span style=\"color:#ffd12f;\">心狐</span>形态时，将强制移除<span style=\"color:#ffd12f;\">不惊尘</span>。",
-        "·化作<span style=\"color:#ffd12f;\">心狐</span>期间，若心处于非战斗状态下，每秒回复生命上限2%的生命值。",
-        "·化作<span style=\"color:#ffd12f;\">心狐</span>期间，施放<span style=\"color:#ffd12f;\">闪避</span>或受到伤害时，心将退出<span style=\"color:#ffd12f;\">心狐</span>形态并短暂免疫伤害和受击。切换至其他角色或短按<span style=\"color:#ffd12f;\">共鸣技能</span>也会退出<span style=\"color:#ffd12f;\">心狐</span>形态。短按<span style=\"color:#ffd12f;\">普攻</span>则会退出<span style=\"color:#ffd12f;\">心狐</span>形态并施放<span style=\"color:#ffd12f;\">普攻·应世相第4段</span>。",
+        "·化作<span style=\"color:#ffd12f;\">心狐</span>期间，若心处于非战斗状态下，每3秒回复生命上限6%的生命值。",
+        "·化作<span style=\"color:#ffd12f;\">心狐</span>期间，心受到伤害时、处于地面状态下若未按下方向键进行<span style=\"color:#ffd12f;\">闪避</span>时、处于空中状态下进行<span style=\"color:#ffd12f;\">闪避</span>时将退出<span style=\"color:#ffd12f;\">心狐</span>形态。切换至其他角色或短按<span style=\"color:#ffd12f;\">共鸣技能</span>也会退出<span style=\"color:#ffd12f;\">心狐</span>形态。短按<span style=\"color:#ffd12f;\">普攻</span>则会退出<span style=\"color:#ffd12f;\">心狐</span>形态并施放<span style=\"color:#ffd12f;\">普攻·应世相第4段</span>。",
+        "·化作<span style=\"color:#ffd12f;\">心狐</span>期间，心处于冲刺状态期间会持续消耗体力。",
+        "·化作<span style=\"color:#ffd12f;\">心狐</span>期间，心无法施放<span style=\"color:#ffd12f;\">共鸣解放</span>。",
         "<h3>共鸣技能·照世相</h3>",
         "处于<span style=\"color:#ffd12f;\">照世相</span>时，若心在地面状态，短按<span style=\"color:#ffd12f;\">共鸣技能</span>，心将御使巨型玄方机巧，造成<span style=\"color:#b45bff;\">导电伤害</span>。"
       ],
@@ -537,16 +558,16 @@
           "unit": "",
           "isSame": false,
           "values": [
-            "2.80%*4 + 100.80%",
-            "3.03%*4 + 109.07%",
-            "3.26%*4 + 117.34%",
-            "3.59%*4 + 128.91%",
-            "3.82%*4 + 137.17%",
-            "4.08%*4 + 146.68%",
-            "4.45%*4 + 159.90%",
-            "4.81%*4 + 173.13%",
-            "5.18%*4 + 186.35%",
-            "5.57%*4 + 200.41%"
+            "5.60%*4 + 89.60%",
+            "6.06%*4 + 96.95%",
+            "6.52%*4 + 104.30%",
+            "7.17%*4 + 114.59%",
+            "7.63%*4 + 121.93%",
+            "8.15%*4 + 130.38%",
+            "8.89%*4 + 142.14%",
+            "9.62%*4 + 153.89%",
+            "10.36%*4 + 165.65%",
+            "11.14%*4 + 178.14%"
           ]
         },
         {
@@ -554,7 +575,7 @@
           "unit": "",
           "isSame": true,
           "values": [
-            "12"
+            "12秒"
           ]
         },
         {
@@ -562,7 +583,7 @@
           "unit": "",
           "isSame": true,
           "values": [
-            "20"
+            "20秒"
           ]
         }
       ]
@@ -572,29 +593,29 @@
       "name": "共鸣解放: 引枢作清辉",
       "desc": [
         "<h3>转相</h3>",
-        "施放<span style=\"color:#ffd12f;\">应世相·步红尘</span>后，解锁<span style=\"color:#ffd12f;\">转相</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·应世相·步红尘</span>后，解锁<span style=\"color:#ffd12f;\">转相</span>。",
         "施放<span style=\"color:#ffd12f;\">转相</span>，展开万相神宫，心将转为<span style=\"color:#ffd12f;\">照世相</span>，解锁全新的战斗能力，并进入<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态。",
         "可在低空中施放。",
         "处于<span style=\"color:#ffd12f;\">照世相</span>时，进行<span style=\"color:#ffd12f;\">任务对话</span>、使用<span style=\"color:#ffd12f;\">附带动作表现的场景交互</span>或<span style=\"color:#ffd12f;\">探索工具</span>时，会切换回<span style=\"color:#ffd12f;\">应世相</span>，并进行对应动作。",
         "处于<span style=\"color:#ffd12f;\">照世相</span>的心可在水面行走，在深水区时，会持续消耗体力；在步行模式下，处于<span style=\"color:#ffd12f;\">照世相</span>的心可由悬崖步入空中，并在空中缓慢行走，该状态下将持续消耗体力。处于<span style=\"color:#ffd12f;\">照世相</span>的心在空中状态时，无法回复体力。",
         "<h3>万阙垂天</h3>",
-        "施放<span style=\"color:#ffd12f;\">照世相·临寰宇</span>后，解锁<span style=\"color:#ffd12f;\">万阙垂天</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·照世相·临寰宇</span>时，解锁<span style=\"color:#ffd12f;\">万阙垂天</span>。",
         "施放<span style=\"color:#ffd12f;\">万阙垂天</span>，引导万相神宫坠落，对目标造成<span style=\"color:#b45bff;\">导电伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">共鸣技能伤害</span>。",
         "可在低空中施放。",
         "心将回到<span style=\"color:#ffd12f;\">应世相</span>，并退出<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态。",
         "<h3>敕令</h3>",
-        "施放<span style=\"color:#ffd12f;\">转相</span>时，心将同时获得21层<span style=\"color:#ffd12f;\">敕令</span>，上限21层，持续45秒，持续时间结束清除全部层数。",
+        "施放<span style=\"color:#ffd12f;\">转相</span>时，心将同时获得21层<span style=\"color:#ffd12f;\">敕令</span>，上限21层，持续45秒，持续时间结束移除全部层数。",
         "队伍中在场角色造成伤害后，心将在后续3秒内自动消耗<span style=\"color:#ffd12f;\">敕令</span>，该效果每秒至多获得1次，重复获得时刷新该效果持续时间：",
         "·消耗<span style=\"color:#ffd12f;\">敕令</span>时，从万相神宫召唤<span style=\"color:#ffd12f;\">飞阙</span>对目标进行一次协同攻击，造成<span style=\"color:#b45bff;\">导电伤害</span>。",
         "·每秒至多自动消耗1层<span style=\"color:#ffd12f;\">敕令</span>。",
         "·通过<span style=\"color:#ffd12f;\">飞阙</span>造成的伤害不会获得该效果。",
-        "·心失去意识时，清除全部<span style=\"color:#ffd12f;\">敕令</span>。",
+        "·心失去意识时，移除全部<span style=\"color:#ffd12f;\">敕令</span>。",
         "<h3>心相心生</h3>",
         "提升心自身抗打断能力，持续45秒。",
-        "进入<span style=\"color:#ffd12f;\">心相心生</span>状态时，重置心的<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>。",
+        "进入<span style=\"color:#ffd12f;\">心相心生</span>状态时，重置心的<span style=\"color:#ffd12f;\">照世相</span>。",
         "<span style=\"color:#ffd12f;\">心相心生</span>状态下，处于<span style=\"color:#ffd12f;\">照世相</span>时，若未解锁<span style=\"color:#ffd12f;\">万阙垂天</span>，短按<span style=\"color:#ffd12f;\">共鸣解放</span>，心将施放<span style=\"color:#ffd12f;\">借相·应世</span>；处于<span style=\"color:#ffd12f;\">应世相</span>时，短按<span style=\"color:#ffd12f;\">共鸣解放</span>，心将施放<span style=\"color:#ffd12f;\">借相·照世</span>。",
         "<h3>借相·应世</h3>",
-        "心临时转变回<span style=\"color:#ffd12f;\">应世相</span>。施放该技能时，若心处于地面状态，将施放<span style=\"color:#ffd12f;\">普攻·应世相第3段</span>；若心处于空中状态，将施放<span style=\"color:#ffd12f;\">空中攻击·应世相</span>。",
+        "心临时转变回<span style=\"color:#ffd12f;\">应世相</span>。施放该技能时，若心处于地面状态，将施放<span style=\"color:#ffd12f;\">普攻·应世相第2段</span>；若心处于空中状态，将施放<span style=\"color:#ffd12f;\">空中攻击·应世相</span>。",
         "<h3>借相·照世</h3>",
         "心重新转变为<span style=\"color:#ffd12f;\">照世相</span>。施放该技能时，若心处于地面状态，将施放<span style=\"color:#ffd12f;\">上挑攻击·照世相</span>；若心处于空中状态，将施放<span style=\"color:#ffd12f;\">空中攻击·照世相</span>。"
       ],
@@ -638,7 +659,15 @@
           "unit": "",
           "isSame": true,
           "values": [
-            "25"
+            "25秒"
+          ]
+        },
+        {
+          "name": "借相冷却时间",
+          "unit": "",
+          "isSame": true,
+          "values": [
+            "1.5秒"
           ]
         },
         {
@@ -684,7 +713,7 @@
       ],
       "tables": [
         {
-          "name": "变奏技能·应世相·电磁伤害",
+          "name": "共鸣模态·电磁下变奏技能·应世相伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -701,7 +730,7 @@
           ]
         },
         {
-          "name": "变奏技能·应世相·同奏伤害",
+          "name": "共鸣模态·同奏下变奏技能·应世相伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -735,7 +764,7 @@
           ]
         },
         {
-          "name": "变奏技能·照世相·电磁伤害",
+          "name": "共鸣模态·电磁下变奏技能·照世相伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -752,7 +781,7 @@
           ]
         },
         {
-          "name": "变奏技能·照世相·同奏伤害",
+          "name": "共鸣模态·同奏下变奏技能·照世相伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -826,60 +855,64 @@
         "<h3>诸相心生</h3>",
         "处于<span style=\"color:#ffd12f;\">应世相</span>时，心可获得和消耗<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>。",
         "处于<span style=\"color:#ffd12f;\">照世相</span>时，心可获得和消耗<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>。",
-        "<h3>应世相·步红尘</h3>",
-        "处于<span style=\"color:#ffd12f;\">应世相</span>时，心的<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>达到100点时，<span style=\"color:#ffd12f;\">重击·应世相</span>替换为<span style=\"color:#ffd12f;\">应世相·步红尘</span>。",
-        "按住<span style=\"color:#ffd12f;\">普攻</span>，消耗耐力施放，期间免疫伤害和受击，对目标造成<span style=\"color:#b45bff;\">导电伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">共鸣技能伤害</span>。",
-        "施放<span style=\"color:#ffd12f;\">应世相·步红尘</span>时，心将获得<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>。此次<span style=\"color:#ffd12f;\">应世相·步红尘</span>将消耗<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>替换为<span style=\"color:#ffd12f;\">应世相·镇红尘</span>，造成更高的伤害。每25秒仅可获得1次<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>。",
-        "施放<span style=\"color:#ffd12f;\">应世相·步红尘</span>期间，若不处于<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态，消耗100点<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>并解锁<span style=\"color:#ffd12f;\">共鸣解放·转相</span>。",
-        "<h3>照世相·临寰宇</h3>",
-        "处于<span style=\"color:#ffd12f;\">照世相</span>时，且心处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态期间，消耗全部<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>时，<span style=\"color:#ffd12f;\">重击·照世相</span>替换为<span style=\"color:#ffd12f;\">照世相·临寰宇</span>。",
+        "<h3>重击·应世相·步红尘</h3>",
+        "处于<span style=\"color:#ffd12f;\">应世相</span>时，心的<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>达到100点时，<span style=\"color:#ffd12f;\">重击·应世相</span>替换为<span style=\"color:#ffd12f;\">重击·应世相·步红尘</span>。",
+        "按住<span style=\"color:#ffd12f;\">普攻</span>，消耗耐力和100点<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>施放，期间免疫打断，对目标造成<span style=\"color:#b45bff;\">导电伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">共鸣技能伤害</span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·应世相·步红尘</span>时，心将获得<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>。此次<span style=\"color:#ffd12f;\">重击·应世相·步红尘</span>将消耗<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>替换为<span style=\"color:#ffd12f;\">重击·应世相·镇红尘</span>，造成更高的伤害。每24秒仅可获得1次<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·应世相·步红尘</span>或<span style=\"color:#ffd12f;\">重击·应世相·镇红尘</span>期间，若不处于<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态，解锁<span style=\"color:#ffd12f;\">共鸣解放·转相</span>。",
+        "<h3>重击·照世相·临寰宇</h3>",
+        "处于<span style=\"color:#ffd12f;\">照世相</span>时，且心处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态期间，<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>被消耗至0时，<span style=\"color:#ffd12f;\">重击·照世相</span>替换为<span style=\"color:#ffd12f;\">重击·照世相·临寰宇</span>。",
         "按住<span style=\"color:#ffd12f;\">普攻</span>，消耗耐力施放，对目标造成<span style=\"color:#b45bff;\">导电伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">共鸣技能伤害</span>。",
-        "施放<span style=\"color:#ffd12f;\">照世相·临寰宇</span>时，心将获得<span style=\"color:#ffd12f;\"><u>承天则</u></span>。此次<span style=\"color:#ffd12f;\">照世相·临寰宇</span>将消耗<span style=\"color:#ffd12f;\"><u>承天则</u></span>替换为<span style=\"color:#ffd12f;\">照世相·镇寰宇</span>，造成更高的伤害。每25秒仅可获得1次<span style=\"color:#ffd12f;\"><u>承天则</u></span>。",
-        "施放<span style=\"color:#ffd12f;\">照世相·临寰宇</span>后，退出<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态，解锁<span style=\"color:#ffd12f;\">共鸣解放·万阙垂天</span>。",
-        "<h3>照世相·万阙连衡</h3>",
-        "处于<span style=\"color:#ffd12f;\">照世相</span>时，心的<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>达到300点时，<span style=\"color:#ffd12f;\">共鸣技能</span>替换为<span style=\"color:#ffd12f;\">照世相·万阙连衡</span>。",
-        "若心在地面状态，短按<span style=\"color:#ffd12f;\">共鸣技能</span>，对周围的目标造成<span style=\"color:#b45bff;\">导电伤害</span>，此次伤害为<span style=\"color:#ffd12f;\">共鸣技能伤害</span>。",
-        "施放<span style=\"color:#ffd12f;\">照世相·万阙连衡</span>后，心将进入<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态。",
+        "施放<span style=\"color:#ffd12f;\">重击·照世相·临寰宇</span>时，心将获得<span style=\"color:#ffd12f;\"><u>承天则</u></span>。此次<span style=\"color:#ffd12f;\">重击·照世相·临寰宇</span>将消耗<span style=\"color:#ffd12f;\"><u>承天则</u></span>替换为<span style=\"color:#ffd12f;\">重击·照世相·镇寰宇</span>，造成更高的伤害。每24秒仅可获得1次<span style=\"color:#ffd12f;\"><u>承天则</u></span>。",
+        "施放<span style=\"color:#ffd12f;\">重击·照世相·临寰宇</span>或<span style=\"color:#ffd12f;\">重击·照世相·镇寰宇</span>时，退出<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态，解锁<span style=\"color:#ffd12f;\">共鸣解放·万阙垂天</span>。",
+        "可在空中施放。",
+        "<h3>共鸣技能·照世相·万阙连衡</h3>",
+        "处于<span style=\"color:#ffd12f;\">照世相</span>时，心的<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>达到300点时，若心在地面状态，<span style=\"color:#ffd12f;\">共鸣技能</span>替换为<span style=\"color:#ffd12f;\">共鸣技能·照世相·万阙连衡</span>。",
+        "短按<span style=\"color:#ffd12f;\">共鸣技能</span>，对周围的目标造成<span style=\"color:#b45bff;\">导电伤害</span>。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·照世相·万阙连衡</span>时，心将进入<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态。",
         "<h3>统御众机</h3>",
         "<span style=\"color:#ffd12f;\">统御众机</span>状态持续13秒。",
-        "该状态持续期间，<span style=\"color:#ffd12f;\">普攻·照世相</span>将进一步强化为<span style=\"color:#ffd12f;\">普攻·照世相·万阙连衡</span>，同时<span style=\"color:#ffd12f;\">闪避反击·照世相</span>替换为<span style=\"color:#ffd12f;\">闪避反击·照世相·万阙连衡</span>。",
-        "<span style=\"color:#ffd12f;\">普攻·照世相·万阙连衡</span>或<span style=\"color:#ffd12f;\">闪避反击·照世相·万阙连衡</span>命中目标时，若心为登场角色将消耗<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>。",
+        "该状态持续期间，<span style=\"color:#ffd12f;\">普攻·照世相</span>将替换为<span style=\"color:#ffd12f;\">普攻·照世相·万阙连衡</span>，同时<span style=\"color:#ffd12f;\">闪避反击·照世相</span>替换为<span style=\"color:#ffd12f;\">闪避反击·照世相·万阙连衡</span>。",
+        "<span style=\"color:#ffd12f;\">普攻·照世相·万阙连衡</span>或<span style=\"color:#ffd12f;\">闪避反击·照世相·万阙连衡</span>命中目标时，若心为队伍中登场角色将消耗<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>。",
+        "退出<span style=\"color:#ffd12f;\">统御众机</span>状态时，清除<span style=\"color:#ffd12f;\">【<u>照世心</u>】</span>。",
         "<h3>共鸣模态·同奏</h3>",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，获得以下效果：",
-        "·心可<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>。",
-        "·施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>时，心获得<span style=\"color:#ffd12f;\"><u>同奏</u></span>，持续5秒。",
+        "·心拥有<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>的能力，该效果联机状态下不会生效。",
+        "·心施放<span style=\"color:#ffd12f;\">变奏技能·应世相</span>或<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>时，使下一次施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>时，心获得<span style=\"color:#ffd12f;\"><u>同奏</u></span>，持续5秒。",
         "·心<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>时，获得<span style=\"color:#ffd12f;\">溯意</span>，并使本次施放的<span style=\"color:#ffd12f;\">变奏技能</span>替换为<span style=\"color:#ffd12f;\">变奏技能·诸相同奏</span>，造成更高的伤害。",
         "心施放<span style=\"color:#ffd12f;\">变奏技能</span>时，若未<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>且拥有<span style=\"color:#ffd12f;\">溯意</span>，则将消耗<span style=\"color:#ffd12f;\">溯意</span>，使本次施放的<span style=\"color:#ffd12f;\">变奏技能</span>替换为<span style=\"color:#ffd12f;\">变奏技能·诸相同奏</span>，造成更高的伤害。",
+        "·心切换模态时，移除自身获得的上述效果。",
         "·施放<span style=\"color:#ffd12f;\">变奏技能·照世相</span>或<span style=\"color:#ffd12f;\">变奏技能·照世相·诸相同奏</span>时，心将直接进入<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态。",
-        "·心切换模态时，移除<span style=\"color:#ffd12f;\"><u>溯意</u></span>、<span style=\"color:#ffd12f;\"><u>同奏</u></span>、<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>。",
         "<h3>共鸣模态·电磁</h3>",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时，获得以下效果：",
+        "·心进入战斗状态时，一定范围内的目标<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>每次触发时不再减少层数。",
         "·队伍中的角色为目标添加<span style=\"color:#ffd12f;\">【<u>电磁爆发</u>】</span>后，每添加1层<span style=\"color:#ffd12f;\">【<u>电磁爆发</u>】</span>使心获得1层<span style=\"color:#ffd12f;\">霆心域</span>，可叠加100层，并消耗目标全部的<span style=\"color:#ffd12f;\">【<u>电磁爆发</u>】</span>层数。心切换模态时移除<span style=\"color:#ffd12f;\">霆心域</span>。",
-        "·<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>命中目标后，若心拥有至少5层<span style=\"color:#ffd12f;\">霆心域</span>，则消耗5层<span style=\"color:#ffd12f;\">霆心域</span>，主动触发一次<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害，伤害倍率为200%*目标当前<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>的层数对应的<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害倍率。",
-        "施放<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>一定时间后，心将一次性消耗剩余全部层数的<span style=\"color:#ffd12f;\">霆心域</span>，主动触发一次<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害，伤害倍率为40%*本次消耗的<span style=\"color:#ffd12f;\">霆心域</span>层数*目标当前<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>的层数对应的<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害倍率。",
-        "施放<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>期间，切换至其他角色或提前结束技能则上述效果提前退出。",
-        "·施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>后，为附近一定范围内的目标附加5层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，并使<span style=\"color:#ffd12f;\">普攻·照世相·万阙连衡</span>、<span style=\"color:#ffd12f;\">闪避反击·照世相·万阙连衡</span>可为命中的目标附加<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，至多生效5次，施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>重置可生效次数，切换模态时移除可生效次数。",
-        "<span style=\"color:#ffd12f;\">照世相·万阙连衡</span>、<span style=\"color:#ffd12f;\">照世相·镇寰宇</span>为命中的目标附加5层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，<span style=\"color:#ffd12f;\">变奏技能·应世相</span>、<span style=\"color:#ffd12f;\">变奏技能·照世相</span>为命中的目标附加1层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>。",
+        "·<span style=\"color:#ffd12f;\">共鸣技能·踏月归心</span>最后一段攻击时，心将主动触发一次<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害，伤害倍率为35%*自身<span style=\"color:#ffd12f;\">霆心域</span>层数*目标当前<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>的层数对应的<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害倍率。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·踏月归心</span>期间，切换至其他角色或提前结束技能则上述效果提前退出。",
+        "施放<span style=\"color:#ffd12f;\">共鸣技能·踏月归心</span>一定时间后，消耗全部<span style=\"color:#ffd12f;\">霆心域</span>。",
+        "心拥有至少50层<span style=\"color:#ffd12f;\">霆心域</span>时，施放<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>期间停滞周围目标。",
+        "·施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>后，为附近一定范围内的目标附加5层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，并使<span style=\"color:#ffd12f;\">普攻·照世相·万阙连衡</span>、<span style=\"color:#ffd12f;\">闪避反击·照世相·万阙连衡</span>可为命中的目标附加<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，至多生效5次。施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>重置可生效次数，切换模态时移除可生效次数。",
+        "<span style=\"color:#ffd12f;\">共鸣技能·照世相·万阙连衡</span>、<span style=\"color:#ffd12f;\">重击·照世相·镇寰宇</span>为命中的目标附加5层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，<span style=\"color:#ffd12f;\">变奏技能·应世相</span>、<span style=\"color:#ffd12f;\">变奏技能·照世相</span>、<span style=\"color:#ffd12f;\">重击·应世相·镇红尘</span>为命中的目标附加1层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>。",
         "<h3>同奏</h3>",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，心拥有<span style=\"color:#ffd12f;\">同奏</span>时，若切换其他角色，登场角色将施放自身变奏技能，心则施放自身延奏技能，并移除其自身的<span style=\"color:#ffd12f;\">同奏</span>效果。心协奏能量达到最大值，并且拥有<span style=\"color:#ffd12f;\">同奏</span>效果时，只消耗<span style=\"color:#ffd12f;\">同奏</span>效果。",
         "<h3>响应同奏</h3>",
-        "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，队伍中的角色拥有<span style=\"color:#ffd12f;\"><u>同奏</u></span>时，若切换至心，队伍中的角色获得1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>，持续30秒。",
-        "心至多以此方式提供1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>，重复获得刷新持续时间。",
+        "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，队伍中的登场角色拥有<span style=\"color:#ffd12f;\"><u>同奏</u></span>时，若切换至心，心施放<span style=\"color:#ffd12f;\">变奏技能</span>时<span style=\"color:#ffd12f;\">响应同奏</span>，队伍中的角色获得1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>，持续30秒。",
+        "心至多以此方式提供1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>。",
         "<h3>同奏增益</h3>",
-        "每层<span style=\"color:#ffd12f;\">【同奏增益】</span>使队伍中可<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>的角色造成的最终伤害提升3%，可叠加2层。",
+        "仅可响应同奏的角色可以获得该效果。每层<span style=\"color:#ffd12f;\">【同奏增益】</span>使队伍中可<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>的角色造成的最终伤害提升3%，可叠加2层。",
         "<h3>【应世心】获取规则</h3>",
         "<span style=\"color:#ffd12f;\">【应世心】</span>上限100点。",
         "处于<span style=\"color:#ffd12f;\">应世相</span>时，<span style=\"color:#ffd12f;\">常态攻击·应世相</span>、<span style=\"color:#ffd12f;\">共鸣技能·应世相</span>、<span style=\"color:#ffd12f;\">变奏技能·应世相</span>、<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>命中目标时，若心为队伍中登场角色则获得<span style=\"color:#ffd12f;\">【应世心】</span>。",
         "施放<span style=\"color:#ffd12f;\">变奏技能·应世相</span>、<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>时，获得60点<span style=\"color:#ffd12f;\">【应世心】</span>。",
         "<h3>【照世心】获取规则</h3>",
         "<span style=\"color:#ffd12f;\">【照世心】</span>上限300点。",
-        "处于<span style=\"color:#ffd12f;\">照世相</span>时且不处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态时，<span style=\"color:#ffd12f;\">常态攻击·照世相</span>、<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>命中目标时，若心为队伍中登场角色则获得<span style=\"color:#ffd12f;\">【照世心】</span>。",
+        "处于<span style=\"color:#ffd12f;\">照世相</span>时且不处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态时，<span style=\"color:#ffd12f;\">常态攻击·照世相</span>、<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>、<span style=\"color:#ffd12f;\">变奏技能·照世相</span>命中目标时，若心为队伍中登场角色则获得<span style=\"color:#ffd12f;\">【照世心】</span>。",
         "·处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，施放<span style=\"color:#ffd12f;\">变奏技能·照世相</span>、<span style=\"color:#ffd12f;\">变奏技能·照世相·诸相同奏</span>时，将直接进入<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态，并获得300点<span style=\"color:#ffd12f;\">【照世心】</span>。",
-        "·处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时，施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>后，施放<span style=\"color:#ffd12f;\">普攻·照世相第2段</span>、<span style=\"color:#ffd12f;\">重击·照世相</span>、<span style=\"color:#ffd12f;\">闪避反击·照世相</span>、<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>期间令<span style=\"color:#ffd12f;\">普攻·照世相第1段</span>生成的<span style=\"color:#ffd12f;\">活字心锁</span>崩解时，若心为队伍中登场角色则获得150点<span style=\"color:#ffd12f;\">【照世心】</span>，可生效1次，施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>重置可生效次数，切换模态时移除可生效次数。"
+        "·处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时，施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>后，施放<span style=\"color:#ffd12f;\">普攻·照世相第2段</span>、<span style=\"color:#ffd12f;\">重击·照世相</span>、<span style=\"color:#ffd12f;\">闪避反击·照世相</span>、<span style=\"color:#ffd12f;\">共鸣技能·照世相</span>期间令<span style=\"color:#ffd12f;\">普攻·照世相第1段</span>生成的<span style=\"color:#ffd12f;\">活字心锁</span>崩解时，若心处于<span style=\"color:#ffd12f;\">照世相</span>且不处于<span style=\"color:#ffd12f;\"><u>统御众机</u></span>状态，且心为队伍中登场角色则额外获得150点<span style=\"color:#ffd12f;\">【照世心】</span>，可生效1次，施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>重置可生效次数，切换模态时移除可生效次数。"
       ],
       "tables": [
         {
-          "name": "应世相·步红尘伤害",
+          "name": "重击·应世相·步红尘伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -896,7 +929,7 @@
           ]
         },
         {
-          "name": "应世相·镇红尘伤害",
+          "name": "重击·应世相·镇红尘伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -913,7 +946,7 @@
           ]
         },
         {
-          "name": "照世相·临寰宇伤害",
+          "name": "重击·照世相·临寰宇伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -930,7 +963,7 @@
           ]
         },
         {
-          "name": "照世相·镇寰宇伤害",
+          "name": "重击·照世相·镇寰宇伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -947,7 +980,7 @@
           ]
         },
         {
-          "name": "照世相·万阙连衡伤害",
+          "name": "共鸣技能·照世相·万阙连衡伤害",
           "unit": "",
           "isSame": false,
           "values": [
@@ -964,23 +997,15 @@
           ]
         },
         {
-          "name": "照世相·万阙连衡冷却时间",
+          "name": "共鸣技能·照世相·万阙连衡冷却时间",
           "unit": "",
           "isSame": true,
           "values": [
-            "12"
+            "12秒"
           ]
         },
         {
-          "name": "应世相·步红尘耐力消耗",
-          "unit": "",
-          "isSame": true,
-          "values": [
-            "20"
-          ]
-        },
-        {
-          "name": "应世相·镇红尘耐力消耗",
+          "name": "重击·应世相·步红尘耐力消耗",
           "unit": "",
           "isSame": true,
           "values": [
@@ -988,7 +1013,7 @@
           ]
         },
         {
-          "name": "照世相·临寰宇耐力消耗",
+          "name": "重击·应世相·镇红尘耐力消耗",
           "unit": "",
           "isSame": true,
           "values": [
@@ -996,7 +1021,15 @@
           ]
         },
         {
-          "name": "照世相·镇寰宇耐力消耗",
+          "name": "重击·照世相·临寰宇耐力消耗",
+          "unit": "",
+          "isSame": true,
+          "values": [
+            "20"
+          ]
+        },
+        {
+          "name": "重击·照世相·镇寰宇耐力消耗",
           "unit": "",
           "isSame": true,
           "values": [
@@ -1010,20 +1043,20 @@
     "1": {
       "name": "授以舟楫渡潮生",
       "desc": [
-        "施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>时，心获得2层<span style=\"color:#ffd12f;\">敛华障</span>，可叠加2层，转变为<span style=\"color:#ffd12f;\">应世相</span>时清除全部层数。心受到敌方怪物攻击造成的伤害时，可消耗1层<span style=\"color:#ffd12f;\">敛华障</span>，使自身免疫打断且受到的伤害降低60%，持续1秒，该效果每1秒可触发1次。",
+        "施放<span style=\"color:#ffd12f;\">共鸣解放·转相</span>时，心获得2层<span style=\"color:#ffd12f;\">敛华障</span>，可叠加2层，转变为<span style=\"color:#ffd12f;\">应世相</span>时移除全部层数。心受到敌方怪物攻击造成的伤害时，可消耗1层<span style=\"color:#ffd12f;\">敛华障</span>，使自身免疫打断且受到的伤害降低60%，持续1秒，该效果每1秒可触发1次。",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时：",
         "<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>、<span style=\"color:#ffd12f;\">变奏技能·照世相·诸相同奏</span>的伤害倍率提升15%。且每有1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>，使<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>、<span style=\"color:#ffd12f;\">变奏技能·照世相·诸相同奏</span>的伤害倍率额外提升10%，至多叠加4层。",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时：",
-        "心进入战斗状态时，若<span style=\"color:#ffd12f;\"><u>霆心域</u></span>层数不足50层，则增加至50层，每4秒可触发一次。",
-        "<span style=\"color:#ffd12f;\">共鸣回路·共鸣技能·照世相</span>命中目标消耗5层<span style=\"color:#ffd12f;\"><u>霆心域</u></span>触发<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害的倍率系数提升至260%，一次性消耗全部剩余<span style=\"color:#ffd12f;\"><u>霆心域</u></span>触发<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害的倍率系数提升至52%。"
+        "心进入战斗状态时，若<span style=\"color:#ffd12f;\"><u>霆心域</u></span>层数不足50层，则增加至50层，每12秒可触发一次。",
+        "<span style=\"color:#ffd12f;\">共鸣技能·踏月归心</span>触发<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害提升至42%*自身<span style=\"color:#ffd12f;\">霆心域</span>层数*目标当前<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>的层数对应的<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>伤害倍率。"
       ]
     },
     "2": {
       "name": "一念初醒问此身",
       "desc": [
-        "<span style=\"color:#ffd12f;\">应世相·步红尘</span>和<span style=\"color:#ffd12f;\">应世相·镇红尘</span>的伤害倍率提升60%。",
-        "<span style=\"color:#ffd12f;\">照世相·临寰宇</span>和<span style=\"color:#ffd12f;\">照世相·镇寰宇</span>的伤害倍率提升60%。",
-        "心进入战斗状态时，重置心获得<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>和<span style=\"color:#ffd12f;\"><u>承天则</u></span>的冷却时间，若心处于<span style=\"color:#ffd12f;\">应世相</span>额外回复100点<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>，上述效果每4秒可触发一次。"
+        "<span style=\"color:#ffd12f;\">重击·应世相·步红尘</span>和<span style=\"color:#ffd12f;\">重击·应世相·镇红尘</span>的伤害倍率提升60%。",
+        "<span style=\"color:#ffd12f;\">重击·照世相·临寰宇</span>和<span style=\"color:#ffd12f;\">重击·照世相·镇寰宇</span>的伤害倍率提升60%。",
+        "心进入战斗状态时，重置心获得<span style=\"color:#ffd12f;\"><u>了尘愿</u></span>和<span style=\"color:#ffd12f;\"><u>承天则</u></span>的冷却时间，并额外回复100点<span style=\"color:#ffd12f;\">【<u>应世心</u>】</span>，上述效果每12秒可触发一次。"
       ]
     },
     "3": {
@@ -1066,7 +1099,7 @@
       "name": "延奏技能: 身作千灯",
       "desc": [
         "攻击目标，造成100%的<span style=\"color:#b45bff;\">导电伤害</span>。",
-        "心施放<span style=\"color:#ffd12f;\">共鸣解放·万阙垂天</span>后，将获得<span style=\"color:#ffd12f;\">照夜明</span>。心施放<span style=\"color:#ffd12f;\">延奏技能</span>时，将消耗<span style=\"color:#ffd12f;\">照夜明</span>并根据所处的<span style=\"color:#ffd12f;\">共鸣模态</span>触发不同的效果：",
+        "心进入战斗状态或施放<span style=\"color:#ffd12f;\">共鸣解放·万阙垂天</span>时，将获得<span style=\"color:#ffd12f;\">照夜明</span>。心施放<span style=\"color:#ffd12f;\">延奏技能</span>时，将消耗<span style=\"color:#ffd12f;\">照夜明</span>并根据所处的<span style=\"color:#ffd12f;\">共鸣模态</span>触发不同的效果：",
         "·处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，队伍中除心之外的角色获得<span style=\"color:#ffd12f;\"><u>同奏</u></span>时将获得<span style=\"color:#ffd12f;\">灯同辉</span>。心施放<span style=\"color:#ffd12f;\">延奏技能</span>后，拥有<span style=\"color:#ffd12f;\">灯同辉</span>的角色全伤害加深20%，持续30秒。",
         "·处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时，队伍中除心之外的角色导电伤害加深20%，持续20秒。",
         "心切换模态时，上述效果提前结束。"
@@ -1081,7 +1114,7 @@
     {
       "name": "循流引兴替",
       "desc": [
-        "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，心施放<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>或<span style=\"color:#ffd12f;\">变奏技能·照世相·诸相同奏</span>时，自身导电伤害加成提升40%，持续8秒，若切换至其他角色则该效果提前结束。",
+        "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，心施放<span style=\"color:#ffd12f;\">变奏技能·应世相·诸相同奏</span>或<span style=\"color:#ffd12f;\">变奏技能·照世相·诸相同奏</span>时，自身攻击提升50%，持续8秒，切换至其他角色或切换模态时该效果提前结束。",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时，队伍中的角色附加<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>后，心导电伤害加成提升25%，最多可叠加2层，该效果每名角色仅可触发1次。此外，若漂泊者·导电处于同一编队中，则漂泊者·导电施放<span style=\"color:#ffd12f;\">变奏技能·不啻惊雷</span>时，心和漂泊者·导电的导电伤害加成提升20%，持续30秒。",
         "角色编入队伍或切换模态时，重置该效果。"
       ]
@@ -1089,14 +1122,13 @@
     {
       "name": "信步拾清欢",
       "desc": [
-        "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，队伍中的角色<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>效果的层数上限增加1层。队伍中的角色<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>时，队伍中的角色获得1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>，持续30秒，该效果至多提供1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>。",
+        "处于<span style=\"color:#ffd12f;\">共鸣模态·同奏</span>时，队伍中的角色<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>效果的层数上限增加1层。队伍中的角色<span style=\"color:#ffd12f;\"><u>响应同奏</u></span>时，队伍中的角色获得1层<span style=\"color:#ffd12f;\">【<u>同奏增益</u>】</span>，持续30秒，该效果无法叠加。",
         "处于<span style=\"color:#ffd12f;\">共鸣模态·电磁</span>时，心不处于<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态期间，队伍中除心之外的角色附加<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>后，心将获得1层<span style=\"color:#ffd12f;\">霆霓</span>，可叠加10层。",
         "心处于<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态期间，一定范围内的目标<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>层数为0时，将对目标附加1层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>，且若心的<span style=\"color:#ffd12f;\">霆霓</span>层数达到上限，还将为目标附加<span style=\"color:#ffd12f;\">疾霆</span>：",
         "·为目标附加<span style=\"color:#ffd12f;\">疾霆</span>时，心将为目标附加<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>至其层数上限，至多可附加至16层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>。",
         "·<span style=\"color:#ffd12f;\">疾霆</span>持续期间，若目标<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>层数上限增加，则心将再次为目标附加<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>至其层数上限，至多可附加至16层<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>。",
-        "·<span style=\"color:#ffd12f;\">疾霆</span>持续期间，目标<span style=\"color:#ffd12f;\">【<u>电磁效应</u>】</span>每次自动进行结算时不再减少层数。",
-        "目标离开心附近一定范围时，清除目标<span style=\"color:#ffd12f;\">疾霆</span>。",
-        "退出<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态或切换模态时，清除上述效果。"
+        "目标离开心附近一定范围时，移除目标<span style=\"color:#ffd12f;\">疾霆</span>。",
+        "退出<span style=\"color:#ffd12f;\"><u>心相心生</u></span>状态或切换模态时，移除上述效果。"
       ]
     }
   ],
@@ -1104,13 +1136,155 @@
     {
       "name": "频谱检验报告",
       "desc": [
-        "未知"
+        "「<u>梦州</u><u>谛天鉴</u>·<u>岁主</u>通鉴」",
+        "……",
+        "据谛天鉴历次观测，岁主心月狐之权能可化一为众，衍形化象。令其掌中实体乃至自身意识、感知与信息循其本相分化延展。诸分形虽各自成形，仍与本源相系，互通所感，亦可复归于一。",
+        "……亦知心月狐尤精于机关构造，其掌握机枢衔合变化之理远超当今技艺，再由分形之能推演、复现乃至重构，梦州城诸般机巧之中，多可见其手笔……",
+        "然而，分形并非摹形照影之术。若离本源，自历世事，所观所感亦随之生变，长久以来，纵然同出一脉，亦▉▇▇▂……",
+        "<i>谛天鉴人员录注</i>",
+        "<i>现行诸项勘验无异，本录仍循旧制，以「梦州岁主心月狐」之名存档。其源流诸目，奉州监令，暂缓覆勘。</i>"
       ]
     },
     {
       "name": "超频诊断报告",
       "desc": [
-        "未知"
+        "「工作日志-H001」",
+        "受试样本拉贝尔波形时域表示恒定，未见异常波形。检测结果判断为正常阶段。",
+        "诊断结果：<u>超频</u>临界值超出常规值（已达到计数器上限，无法确认最高值），判断稳定性极高，无超频风险，但频率波动有极轻微的衰减，暂记为误差，待复勘验。",
+        "“……亦无过往超频史，暂无需心理辅……呃，这个也要写上吗？”",
+        "<i>“……等下，谁让你们拿拉贝尔检测法测<u>岁主</u>的？”</i>",
+        "<i>“那能怎么办？现在能用上的只有这个，你不是总是嚷嚷着想研究岁主吗？”</i>",
+        "<i>“对啊，而且至少测出来了吧！”</i>",
+        "<i>“话说……你们确定这是有效数据吗……”“什么意思？”</i>",
+        "<i>“其实……心大人看完测试报告笑着问了一句，‘这样是不是比较像你们平时见过的结果？’”</i>",
+        "<i>“……”</i>",
+        "<i>“……先别归档了。”</i>",
+        "补记：H001仅为一次临时观测，沿用现行共鸣者设备与模型，由于受试样本不在其使用范畴内，部分指标超出仪器量程，无法确认波形究竟源于岁主本征频率，还是其对检测结果的主动调整。有关岁主结构及权能回路的研究远非现行检测体系所能涵盖，相关研究需另启专卷……"
+      ]
+    },
+    {
+      "name": "逍遥巷间",
+      "desc": [
+        "传闻每逢朝月会，千灯浮河之时，<u>岁主</u>心月狐会选中最先漂至湖心轿的灯取走，然后在此夜化身心狐，前往那处人家。",
+        "当然，这样的传闻还有许多，有人说心月狐会派遣使者心狐巡游人间，见哪盏灯上的喜事写得有趣，便顺手取走，带回神宫慢慢赏玩；也有人言之凿凿，说岁主最爱捉弄痴男怨女，专挑写着姻缘心愿的灯下手，叫许愿之人一定要跨越比话本小说还曲折离奇的万难，才能情比金坚，修成正果。",
+        "后来有位说书先生还觉得心狐传说不够奇诡，又添油加醋，说曾有人胆大包天，一路追着心狐越过三条街巷，最后在屋脊上撞见一位红衣女子，抱着月灯笑得瘆人：“你瞧见了我的秘密，准备好付出代价了么？”",
+        "话本一出曾风靡一时，还衍生出了数种风格迥然的后续，至于真假，早已无人在意。",
+        "但故事总有个来处，正巧，就在说书摊的隔壁，据说那卖糖人的老铺主是故事的亲历者，而每逢有人问起，年迈的铺主总会笑着摆手，说故事传岔了。",
+        "那一年<u>玄方地界</u>突降大雨，河水暴涨。一个孩子与家人走散，抱着写给亡母的月灯躲在桥洞下哭。灯纸被雨打湿，怎么也点不着了。",
+        "忽而钻出一只雪白的小狐，叼起那盏湿透的灯便跑。",
+        "孩子不知从哪里来了勇气，一路追它穿过雨幕，追了大半条街，最后却看见那狐狸停在一处屋檐下，屋中站着急得红了眼的父亲，正四处求人寻子。",
+        "待父子相拥，再回过头时，小狐已经不见了。只有那盏本该被雨水毁掉的月灯，正完完整整地搁在石阶上。",
+        "那灯不知何时重新亮了起来。",
+        "“……原来是这样呀？”",
+        "坐在摊前的女子合掌感叹，她红衣黑发，明艳动人，乍一看去像是故事里从雾中走出的精怪，此刻正饶有兴致地撑着腮看过来。",
+        "“那‘心狐牵缘’的故事，是不是也是真的？”",
+        "铺主看着她笑眯眯的样子，无端觉得她并不是真想知道，只是因为问着有趣，便摇了摇头，笑着答道。",
+        "“嗨……传了这么多年，真假早都无从可考咯。”",
+        "围观的听客闻言点头附和，又议论起来。",
+        "“不过啊，自然还是怪谈轶事更有意思。若只是替一个迷路的孩子寻到了家，哪里值得翻来覆去讲上几百年？”",
+        "“这话我不同意，故事也看讲法好不好，难道非得又是妖怪又是情劫的，才算故事么？”",
+        "铺主任由他们争论，瞅了一眼一旁听得兴致盎然的红衣女子，又低头继续捏手中的糖人。",
+        "不久后摊前便放了一只新做的小狐狸，尾巴翘得很高，毛尖一点红色，嘴里还叼着一盏小小的月灯。隔壁的惊堂木恰在此时一响，说书先生清了清嗓，又把方才的故事续了下去。那些争得面红耳赤的听客们，没过多久便又随着故事里的跌宕一阵叹息、一阵叫好。",
+        "一回讲罢，仍有人意犹未尽地催着再来一段。",
+        "说书先生拱手作揖，目光一转，恰好落在那位始终坐在糖人摊前的红衣女子身上。",
+        "“这位客官听了许久，倒一直没说。奇闻怪谈、才子佳人、英雄旧事……您最喜欢哪一种？”",
+        "女子怔了一下，竟真的仔细想了好一会儿。",
+        "夜色四合，长街点起的灯火映在她眼中摇曳着金红的光彩，食肆里传来杯盏相碰的清响，不知谁家的孩子举着新买的糖人，从人群里一溜烟跑了过去。",
+        "“都喜欢。”她托着腮，望向仍旧喧闹的长街，“只要是这里的故事，我都喜欢。”",
+        "顿了顿，她又笑吟吟地补上一句。",
+        "“所以……要请先生继续讲下去哦。”",
+        "“……得嘞，那就请列位坐稳，接下来这出可了不得……”",
+        "惊堂木又是一响，听客纷纷静下来。",
+        "于是新的故事开了头。"
+      ]
+    },
+    {
+      "name": "何以为心",
+      "desc": [
+        "意识成形的一瞬，祂先感知到的是「失去」。",
+        "<u>梦州</u>边庭的阴影盘踞多年，如寄生的藤蔓缓慢侵入「<u>岁主</u>」的根基。待杀意真正显露，一切都已走向近乎无法挽回的地步。",
+        "时至今日，心仍不断地回忆着那一刻，心月狐或许早已察觉暗流，也或许只在纷繁推演中窥见百种晦暗的可能。可祂究竟看到了多远，又作出了怎样的判断，心再也无从知晓。",
+        "世人敬岁主如神明，因祂们为人类传授智识、晓示预言。可那终究只是漫长尺度之下的认知之差，祂们终会衰落、消逝，化作文明的鲸落，将后来者托向无人知晓的远方。心月狐深知文明如长河，其中自有浊清，岁主可以引导它的流向，却无法代替众生踏入其中。",
+        "心只能想，或许直到最后一刻，心月狐仍然在无数可能中作着自己的选择。",
+        "那一刻，权能、记忆与情感被仓促分离，空茫与恐惧交织间，叼着<u>文明之匣</u>奔跑的小狐狸似乎听见了一个温柔的声音。",
+        "“无需想着成为我，去成为你自己，做出选择，走向推演之外的未来。”",
+        "可是「自己」又是什么呢？",
+        "是岁主心月狐？是危急时刻用于完成使命的权宜之计？还是……只是「心」？",
+        "文明之匣向祂铺陈梦州千百年的兴衰，繁荣、衰败、和平、战争皆可推演，皆可追溯，可它们只像一卷过于漫长的典籍，祂接过了心月狐的记忆，却未曾亲历那些岁月的重量；与之一同留下的悲恸、恐惧与眷恋却已在意识深处翻涌，来得如此真实却又难以解释。",
+        "若是人们心中那个本该解答疑问，指引方向的岁主自身产生了迷茫，又该向谁来求解？若是岁主本应遵循推演与理性做出判断，心月狐又为何将如此丰沛，如此难以约束的情感尽数交付于祂？",
+        "一声清越的啼鸣落入耳畔，将祂从纷乱的思绪中唤回。",
+        "<u>玄翎雀</u>飞落祂的头顶，毫不客气地啄了两下，这是在责怪祂又在休眠中陷入了自我诘问的漩涡。",
+        "“……痛。”初醒的岁主小声嘟囔，狐耳心虚地耷拉下来。",
+        "……路还很长，玄方城尚有大片结构等待完成，仅一处<u>咎庭</u>的落成便要经过数以京计的运算，心撑起身体，将一时无从理清的悲恸、迷茫与眷恋再次存入心域之中。",
+        "祂抬起手，令万千阵列继续运转。"
+      ]
+    },
+    {
+      "name": "溪山未远",
+      "desc": [
+        "投身归字枢的稷廷众人再次睁开眼时，已经身处玄方城的中枢，<u>岁主</u>心的「万相神宫」。",
+        "耳畔云渊战场的余音未绝，眼前却已只剩一片寂静的空白。无边的频率彼此交错，信息以他们从未见过的形态铺展其中，那些曾经需要穷尽一生才能窥得一隅的理论此刻竟在脑中清晰可辨，仿佛舍去肉体之后，「天人」终于得以用另一种方式触及岁主眼中的世界。",
+        "而在周身的辉光退却之后，他们惊讶地发现自己仍然保持着生前的模样。",
+        "有人久久未动，另一些已经开始研究起自身存在的变化，他们纷纷在沉默中接过自身的命运，片刻之后，新的演算在这片空间中如星般亮起。成为天人不再能感知时间的流逝，也无需饮食休憩，偶尔从天字寰阵中短暂回归，所见的依旧只是无尽的数据。",
+        "而心始终深觉愧疚，化身小狐狸穿梭在神宫各处，或指引、或逗趣，某一刻祂经过一处空间，见几名天人正围着一处数据构造小声谈论，语气怀念。",
+        "那是几道青色的轮廓堆作山峦，一线流光蜿蜒其间权当作江河，璀璨星点落于山间，像是城镇。",
+        "小狐狸站在旁边望了一会儿，随即悄然离开。",
+        "不久之后，天人们再次来到这里时，眼前的空白已然消失不见。云起漫过远山，溪流绕石而下，林木葱郁，亭台掩映在竹林与花影之间，风穿檐而过，携来草木清香，一切竟与他们记忆中的家乡无比相似。",
+        "那位笑意盈盈的岁主正站在心钥井之前，一派端庄地摊开手，一边狐耳却止不住得意地抖了抖，看着一时愣在原地的众人欣然开口。",
+        "“怎么，成了「天人」，便不能再踏一次人间了么？”",
+        "“……别愣着呀，看看这景有哪里不喜欢？还有，要不要给它起个名字？我拟了许多都不太满意……”",
+        "后来，这片山水真的有了名字——「梦玄溪山」。心将其与玄方城的运转一一勾连，于是某处节点失序，林间便有枝叶枯黄垂落；活字运转出现滞涩，溪流也会随之变缓。一日，天人们途经溪畔瞥见一株树蔫了半边，便当即停步。",
+        "“戊辰区有几目数据错乱。”",
+        "几名天人顷刻消失在原地，片刻后从活字中返回，见枝头已经重新泛起绿意。",
+        "心在一旁看得有趣，托着下巴道：“以山川草木映照玄方万机，见一叶枯而知失序……嗯~依你们的说法，这便叫‘可视化运维’？”",
+        "彼时几位天人面面相觑，随即笑着摇头，已然习惯了这位岁主时不时冒出来的玩笑。",
+        "岁月就这样以另一种形式在此方流动，梦枢之外，玄方继续运转；溪山之内，人间从未远去。"
+      ]
+    },
+    {
+      "name": "留此城春",
+      "desc": [
+        "一瓣落花从枝头打着旋飘下，正好落在小狐狸的鼻尖。",
+        "到底还是没忍住打了个喷嚏，花瓣悠悠落地，小狐狸甩了甩脑袋，又抬头望向从墙后舒展开来的花枝。",
+        "<u>云渊之役</u>过去数年，这棵移栽来玄方城的树终于又开花了。",
+        "心在树下停了一会儿，才重新沿着街巷前行。曾经自<u>渊城</u>迁来的百姓已经渐渐在各处安顿，旧招牌重新挂在檐下，蒙尘的工具也被擦净，摆在新屋前的案上。临街有铺面陆续支起，炉火与炊烟晃悠悠地升空，<u>天工</u>们修整机傀的声音在长街间断续回响。自那清冷却心软的剑仙答应挂名镇玄司骑一职，<u>玄方地界</u>便也愈发安稳，人们开始谈论来年的生意，商量村中屋舍如何添置，为更远一些的日子作起打算，期盼起下一年的朝月会。",
+        "不远处有孩童追着<u>梁鸢</u>跑过庭院，笑声没入花木深处，小狐狸在檐下听了一阵，尾巴尖悄悄晃了晃。",
+        "<u>文明之匣</u>最初展现的玄方城其实并非眼前的模样，它原本只为收缴<u>残象</u>而建，图中尽是严密的机关秩序，从未写下如今的灯火与炊烟。",
+        "而心始终知道，这座违背了文明演化规律、透支未来的机关城本不应留存于世，其中远超当世的技术亦不应流传。人无法驾驭尚未真正理解的知识，一旦流散、误用或为人所窃，那么原本用于庇护文明的决策，便可能孕育无尽的祸患，<u>岁主</u>的禁制便是因此而存在。",
+        "可眼前的玄方城从稷廷参与建设开始便早已融入了这个时代的血肉，与如今生活其中的军民相互滋养，落地生根。",
+        "纵使脱胎于不属于当世的技术，可这座城终究也是他们的城，何况文明之匣在祂做出那个抉择后，也早已与玄方城紧密难分。",
+        "于是心第一次尝试越过岁主既定的权限边界，从细微之处开始拆解，寻找能容纳新规则的所在，与此同时祂仍需维持玄方城的运转，修复受损的文明之匣——其中尚寄托着一个祂始终未放下的可能。",
+        "就在第一轮覆写演算启动的同时，一双眼睛在神宫深处悄然睁开。",
+        "<i>检测到岁主权限偏差。</i>",
+        "<i>启动矫正协议。</i>",
+        "<i>标准岁主模型重构开始。</i>",
+        "心看到那张与「岁主」别无二致的面庞，便知这场漫长的角力才刚刚开始。"
+      ]
+    },
+    {
+      "name": "浮灯藏愿",
+      "desc": [
+        "心捧着一盏月灯，独自站在僻静的湖岸。不久之前，祂在这里邀御者放灯，{TA}问祂会在月灯上写些什么。",
+        "<u>岁主</u>本就是收受众愿、给予指引的存在，又何曾有向自己许愿的“神明”？那时的心便笑着回答，负责接受人们思绪的我，怎么会放灯呢？",
+        "说得很是潇洒。",
+        "可现在四下无人，祂却悄悄站回这里，提笔在灯面上停了许久……祂的愿望并不难写，因为这亦是祂的使命——愿文明昌盛，愿灯火长明，愿这片土地上的人们皆有所归，岁岁安宁。",
+        "但又似乎还有某种很简单，却也更加复杂的事物。",
+        "笔尖迟迟没有落下，狐耳却轻轻抖了抖，听到远处传来几声孩子的惊呼。",
+        "一盏月灯被水流推到岸石之间卡住，一个孩子伏在岸边，攥着一根树枝一次次试图将其拨回水中，一旁拽着他衣角的同伴急得眼里泛起泪光。",
+        "心轻轻叹息，收起灯曲指朝远处随意一弹，被困住的月灯便像是被无形的力量推动，轻轻一旋，挣开石隙重新汇入灯河。",
+        "孩子的哭腔变为欢笑，岁主便也跟着弯起唇角。一盏又一盏的月灯从祂眼前漂过，灯面上写着平安、团圆、功名、姻缘，也写着许多小而琐碎的心愿，心注视着它们随波而流，像是看着这片地界上无数或长或短的人生，各自携着明灭的光，热热闹闹地向前去。",
+        "祂在夜风中徐徐步回玄方的园林，水戏台上的《心狐追月》正演到热闹处，酒香与糕点的清甜被织入风中，同此起彼伏的笑语一齐向祂拥来。",
+        "不知何时，祂的目光越过熙攘的人群，看到祂的御者正站在灯火最盛之处，被人群簇拥。月色与灯影落在一向平静的面庞上，将那双不时笼罩着疏淡的金色眼眸染得无比温柔。",
+        "看……「心月狐」记忆中总是独行的身影如今已然走入人群，被这片人间的光点亮。注视着那个身影时，祂意识到心中关于「御者」的遥远概念，已不知不觉有了极为清晰的轮廓，而在这个明灯如昼的夜晚，属于岁主的“祂”，似乎也短暂地退远了一些。",
+        "……{PlayerName}。",
+        "“她”在心中轻轻念了一遍，那是御者为自己选择的名字，像是偶然，又如同命定般连接起过去与现在，是越过旧日的职责与无法尽数说清的过去，仅仅落在眼前这个人身上的名字。",
+        "——像是她初到玄方时，曾怀抱着尚未识清的心愿，为自己取名叫「心」那样。",
+        "对岁主来说，「御者」就是祂与{TA}的连接，而在此刻，她却有些想唤{TA}的名字了。",
+        "……是因为这样就好似她也一同真正走入了自己眷恋的灯火人间一样吗？这个想法令她忍不住垂眸微笑，再次抬头时，那一点未曾出口的心绪已随着方才未能放出的月灯，被悄悄藏进了心底。",
+        "这时，那人似有所觉，隔着往来的人潮与流动的灯影向她望过来。",
+        "……或许也并不复杂，此刻，心只是想去往那个人身边。",
+        "她便迎着那道含笑的目光弯起眼睛，穿过灯火人群朝{TA}走去，步履轻快，狐尾随步伐柔软轻晃。",
+        "“御者——！”"
       ]
     }
   ]
