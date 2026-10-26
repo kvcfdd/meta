@@ -2,15 +2,15 @@
   "id": 1631,
   "name": "赛维里安",
   "abbr": "赛维里安",
-  "title": "AvatarSkin_Severian_Name_000",
+  "title": "寒锋执罚",
   "star": 5,
   "elem": "anemo",
   "allegiance": "新艾利都治安局",
   "weapon": "强攻",
-  "birth": "-",
-  "desc": "...",
+  "birth": "12-31",
+  "desc": "赛维里安·洛威尔，现任新艾利都治安局高级秩序督察，属于新艾利都市政真正的实权派高层。\n在治安局内，他以作风强硬、独断专行著称，不少市政体系内的保守势力将其视为眼中钉，认为他漠视现行制度与规则，他却以无可争议的实绩一步步走到了高级秩序督察的位置。                                                                              在下属眼里，他则是一位绝对的铁腕领导者，而这种领袖权威的确立，不是凭借权术或狠勇，而是建立在他的无数次正确决策之上。                                                                                                                       一直以来，对赛维里安的批评之声不在少数，但赛维里安向来视之如无物。对他而言，重要的是自己的目的是否达成，其余的一切都不过是手段。",
   "gender": "男",
-  "height": "...",
+  "height": "196",
   "baseAttr": {
     "hp": 7826.1988,
     "atk": 858.5021,
@@ -43,7 +43,7 @@
         "点按「普通攻击」发动：",
         "向前方进行至多四段攻击，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>；",
         "第四段攻击命中敌人后，累积20点<span style=\"color:#FFFFFF;\">[流息]</span>；",
-        "第四段攻击发动瞬间具备闪避判定，如果成功闪避敌人攻击，本次普攻的伤害倍率和失衡倍率至与<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>一致，并额外累积15点<span style=\"color:#FFFFFF;\">[流息]</span>；",
+        "第四段攻击发动瞬间具备闪避判定，如果成功闪避敌人攻击，本次普攻的伤害倍率和失衡倍率提升至与<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>一致，并额外累积15点<span style=\"color:#FFFFFF;\">[流息]</span>；",
         "第四段攻击发动期间拥有无敌效果；",
         "赛维里安在<span style=\"color:#FFFFFF;\">[普通攻击]</span>期间发动<span style=\"color:#FFFFFF;\">[冲刺攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避反击]</span>和<span style=\"color:#FFFFFF;\">[闪避：写意]</span>时，不会打断<span style=\"color:#FFFFFF;\">[普通攻击]</span>的连击段数。",
         "<h3>普通攻击：烈旋</h3>",
@@ -400,7 +400,7 @@
         "依次对敌人发动斩击，爪击和炮击，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>；",
         "招式发动期间拥有无敌效果。",
         "<h3>登场技：清场时刻</h3>",
-        "当赛维里安存在<span style=\"color:#FFFFFF;\">[凭风]</span>效果且处于接战状态下点按「支援攻击」从后场切换至前场发动：",
+        "当赛维里安拥有<span style=\"color:#FFFFFF;\">[凭风]</span>效果且处于接战状态下点按「支援攻击」从后场切换至前场发动：",
         "对前方敌人发动大力斩击，造成<span style=\"color:#A6C5FD;\">风属性伤害</span>；",
         "招式发动时视为发动<span style=\"color:#FFFFFF;\">[快速支援]</span>；",
         "招式视为非重击；",
@@ -1016,52 +1016,70 @@
   },
   "cons": {
     "1": {
-      "name": "...",
+      "name": "双份浓缩",
       "desc": [
         "赛维里安释放<span style=\"color:#FFFFFF;\">[连携技]</span>累积的<span style=\"color:#FFFFFF;\">[流息]</span>值提升至50点；",
         "赛维里安通过<span style=\"color:#FFFFFF;\">[登场技：清场时刻]</span>入场时，会将招式替换为<span style=\"color:#FFFFFF;\">[连携技]</span>，该招式入场类型不会被改变，且视为非重击，此效果60秒最多生效一次；",
         "赛维里安每次释放<span style=\"color:#FFFFFF;\">[普通攻击：苍风影猎]</span>会获得1层<span style=\"color:#FFFFFF;\">[凭风]</span>效果；",
         "赛维里安的攻击命中目标时无视目标15%的风属性抗性。",
-        "<i>...</i>"
+        "<i>苦涩，大概是时刻保持清醒的必要代价。</i>",
+        "<i>从舌根透入心底的苦味，是一种足够刺激性的力量，让人得以直视那些潜藏于阴影中的角落。</i>",
+        "<i>不是什么愉快的事，但总有人需要去做。</i>",
+        "<i>「看起来很苦？我只是需要它的功效。」</i>"
       ]
     },
     "2": {
-      "name": "...",
+      "name": "理性的缰绳",
       "desc": [
         "赛维里安进入战场时回复150点<span style=\"color:#FFFFFF;\">[流息]</span>，在勘域模式中此效果180秒内最多触发一次；",
         "赛维里安触发<span style=\"color:#FFFFFF;\">[极限闪避]</span>时或释放<span style=\"color:#FFFFFF;\">[普通攻击：苍风影猎]</span>时，使自身穿透率提升20%，持续25秒。",
-        "<i>...</i>"
+        "<i>「我已经过了喜欢自我感动的时期，泛滥的情感只会产生妨碍。」</i>",
+        "<i>案件、伤亡、奖惩、升降、斗争…尘埃落定后再重复一轮。</i>",
+        "<i>每一步都需要严密的计算，有时候或许是算计，但都需要把多余的个人感情拴紧一点。</i>",
+        "<i>唯有变成铁石，才能在那堵顽固的高墙上，撞出些微裂缝。</i>"
       ]
     },
     "3": {
-      "name": "...",
+      "name": "最后一盏灯",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
-        "<i>...</i>"
+        "<i>无论多晚离开治安局，总能看到他的办公室仍亮着一盏灯。</i>",
+        "<i>当然有不满之声，他灯下的身影本身似乎就是一种压力。</i>",
+        "<i>但每当事情走入无计可施的黑暗时，所有人也都知道去哪里找最后一盏明灯。</i>",
+        "<i>「别有太多不切实际的猜想，我只是在按我的节奏做事。」</i>"
       ]
     },
     "4": {
-      "name": "...",
+      "name": "光与影的界限",
       "desc": [
-        "赛维里安进入战斗或换入前场时使自身攻击力提升10%，持续持续30秒，重复触发时刷新持续时间。",
+        "赛维里安进入战斗或换入前场时使自身攻击力提升10%，持续30秒，重复触发时刷新持续时间；",
         "赛维里安释放<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>或释放<span style=\"color:#FFFFFF;\">[普通攻击：苍风影猎]</span>时，提升自身10%喧响值获取效率，持续15秒。",
-        "<i>...</i>"
+        "<i>「目空一切，不顾体统。」</i>",
+        "<i>「听说只要能捞功绩，没有他干不出来的事，一门心思培植心腹…」</i>",
+        "<i>「嘘，他过来了。」</i>",
+        "<i>穿过寂静的走廊，窗外的阳光照亮了他一半的面容，银发熠熠生辉。</i>"
       ]
     },
     "5": {
-      "name": "...",
+      "name": "非零度的心",
       "desc": [
         "<span style=\"color:#FFFFFF;\">[普通攻击]</span>、<span style=\"color:#FFFFFF;\">[闪避]</span>、<span style=\"color:#FFFFFF;\">[支援技]</span>、<span style=\"color:#FFFFFF;\">[特殊技]</span>、<span style=\"color:#FFFFFF;\">[连携技]</span> 技能等级+2",
-        "<i>...</i>"
+        "<i>要如何表达关心呢？在竞选台上挥舞着讲稿，写一封又一封长信，记住各种不同的纪念日？</i>",
+        "<i>或者沉默着挡住风雨，站在身后却随时准备伸出援手…</i>",
+        "<i>又或者认真地希望着，让所有人活在一个更美好的世界。</i>",
+        "<i>「错过了两个家里的电话，要打回去吗…」</i>"
       ]
     },
     "6": {
-      "name": "...",
+      "name": "在一颗小星星下",
       "desc": [
         "赛维里安的<span style=\"color:#FFFFFF;\">[流息]</span>上限提升至180，进入战场时回复的流息提升至180点；",
         "<span style=\"color:#FFFFFF;\">[普通攻击：苍风影猎]</span>最后一击额外伤害倍率固定提升350%；",
         "<span style=\"color:#FFFFFF;\">[普通攻击：苍风影猎]</span>最后一击释放时获得<span style=\"color:#FFFFFF;\">[风起]</span>效果：每秒积累5点<span style=\"color:#FFFFFF;\">[流息]</span>，持续5秒，重复触发时刷新持续时间。",
-        "<i>...</i>"
+        "<i>鲜花与胜利是好的，但纪念碑就没那么好。</i>",
+        "<i>奖章与希望是好的，但告别式就没那么好。</i>",
+        "<i>名利喧嚷的白天没那么好，独处的夜晚则更糟，有些事没那么容易忘掉。</i>",
+        "<i>「继续前进吧，前进是唯一的答案。」</i>"
       ]
     }
   },
@@ -1070,13 +1088,13 @@
       "name": "核心被动 / 额外能力",
       "desc": [
         "<h3>核心被动：风回无终</h3>",
-        "赛维里安的暴击伤害提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>，造成的伤害提升<span style=\"color:#2BAD00;\">(10%/11.7%/13.3%/15%/16.7%/18.3%/20%)</span>，若队伍中存在其他风属性角色则伤害额外提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>；",
+        "赛维里安的暴击伤害提升<span style=\"color:#2BAD00;\">(30%/35%/40%/45%/50%/55%/60%)</span>，造成的伤害提升<span style=\"color:#2BAD00;\">(12.5%/14.6%/16.7%/18.8%/20.8%/22.9%/25%)</span>，若队伍中存在其他风属性角色则伤害额外提升<span style=\"color:#2BAD00;\">(15%/17.5%/20%/22.5%/25%/27.5%/30%)</span>；",
         "赛维里安在即将受到敌人攻击的瞬间发动<span style=\"color:#FFFFFF;\">[普通攻击：疾锋]</span>时，可以闪避本次攻击，若通过前三段普攻闪避了本次攻击则自动发动<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>，若是第四段普攻则提升本次普攻的伤害倍率和失衡倍率至与<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>一致；",
         "赛维里安进入战场时可获得两层<span style=\"color:#FFFFFF;\">[烁影]</span>，在勘域模式中此效果180秒内最多触发一次；",
-        "赛维里安存在<span style=\"color:#FFFFFF;\">[烁影]</span>且不具有无敌效果时，若受到敌人非控制技攻击且未能主动闪避或招架此次攻击，赛维里安会消耗一层<span style=\"color:#FFFFFF;\">[烁影]</span>自动闪避本次攻击并发动<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>；",
+        "赛维里安拥有<span style=\"color:#FFFFFF;\">[烁影]</span>且不具有无敌效果时，若受到敌人非控制技攻击且未能主动闪避或招架此次攻击，赛维里安会消耗一层<span style=\"color:#FFFFFF;\">[烁影]</span>自动闪避本次攻击并发动<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>；",
         "赛维里安通过发动<span style=\"color:#FFFFFF;\">[普通攻击：疾锋]</span>成功闪避敌人攻击，触发<span style=\"color:#FFFFFF;\">[烁影]</span>自动闪避敌人攻击和直接闪避敌人攻击都视为<span style=\"color:#FFFFFF;\">[极限闪避]</span>；",
         "<span style=\"color:#FFFFFF;\">[烁影]</span>最多获取两层，若满层时再获取<span style=\"color:#FFFFFF;\">[烁影]</span>，将获得一层<span style=\"color:#FFFFFF;\">[凭风]</span>效果且下次的<span style=\"color:#FFFFFF;\">[普通攻击：疾锋]</span>会被提升为<span style=\"color:#FFFFFF;\">[普通攻击：烈旋]</span>；",
-        "赛维里安每次极限闪避都能获得一层<span style=\"color:#FFFFFF;\">[凭风]</span>效果，当赛维里安存在<span style=\"color:#FFFFFF;\">[凭风]</span>效果时且处于接战状态下点按「支援攻击」从后场切换至前场发动发动<span style=\"color:#FFFFFF;\">[登场技]</span>；",
+        "赛维里安每次极限闪避都能获得一层<span style=\"color:#FFFFFF;\">[凭风]</span>效果，当赛维里安拥有<span style=\"color:#FFFFFF;\">[凭风]</span>效果且处于接战状态下点按「支援攻击」从后场切换至前场发动<span style=\"color:#FFFFFF;\">[登场技]</span>；",
         "赛维里安通过固定招式命中敌人或触发极限闪避时，会获得<span style=\"color:#FFFFFF;\">[流息]</span>，<span style=\"color:#FFFFFF;\">[流息]</span>上限为150点；",
         "当<span style=\"color:#FFFFFF;\">[流息]</span>达到100点时，长按「普通攻击」可以消耗100点<span style=\"color:#FFFFFF;\">[流息]</span>发动<span style=\"color:#FFFFFF;\">[普通攻击：苍风影猎]</span>。",
         "<h3>额外能力：最优编配</h3>",
